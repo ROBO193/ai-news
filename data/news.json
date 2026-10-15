@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T17:47:41Z",
+ "updated": "2026-10-15T17:52:44Z",
  "failedSources": [],
  "items": [
   {
@@ -1174,7 +1174,17 @@
    "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
    "title_en": "Google wants to host your personal vibe-coded apps in the Play Store",
    "summary_en": "Google plans to help turn those personal AI-generated apps into wide releases.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Google планирует размещать персональные AI‑приложения в Play Store",
+   "simple": "Google хочет помочь разработчикам выпускать свои личные AI‑приложения в официальном магазине, делая их доступными широкой аудитории. Это открывает новые возможности для создания и распространения AI‑инструментов.",
+   "term": "vibe‑coded — термин, обозначающий приложения, генерируемые или адаптируемые искусственным интеллектом под индивидуальные предпочтения пользователя",
+   "use": [
+    "Попробуйте создать простое AI‑приложение с помощью доступных генераторов и загрузить его в Play Store через программу Google.",
+    "Следите за новостями Google о правилах публикации, чтобы ваш AI‑приложение соответствовало требованиям магазина.",
+    "Используйте такие персональные AI‑приложения для автоматизации рутинных задач в работе или обучении."
+   ],
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "884ebf3c3978ea",
@@ -1185,7 +1195,16 @@
    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
    "title_en": "Gemini 4 Argon for Robotics",
    "summary_en": "",
-   "pending": true
+   "pending": false,
+   "title_ru": "Gemini 4 Argon для робототехники",
+   "simple": "Google DeepMind представил Gemini 4 Argon, модель, ориентированную на задачи в робототехнике. Это обещает улучшить взаимодействие роботов с окружающей средой. Новая версия может ускорить разработку автономных систем.",
+   "term": "API — интерфейс, позволяющий программам общаться друг с другом",
+   "use": [
+    "Изучите, как интегрировать Gemini 4 Argon в свои робототехнические проекты, чтобы повысить их интеллектуальные возможности.",
+    "Следите за обновлениями, чтобы не пропустить новые функции, которые могут улучшить работу ваших роботов."
+   ],
+   "category": "Модели",
+   "model": "openai/gpt-oss-20b"
   },
   {
    "id": "f174716114a913",
@@ -1196,7 +1215,16 @@
    "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
    "title_en": "Gemini 4 Argon: Built to solve your hardest problems",
    "summary_en": "",
-   "pending": true
+   "pending": false,
+   "title_ru": "Gemini 4 Argon: решение самых сложных задач",
+   "simple": "Google DeepMind заявляет, что Gemini 4 Argon способен решать самые трудные задачи. Это делает модель привлекательной для исследователей и разработчиков, ищущих мощные инструменты.",
+   "term": "Инференс — запуск уже обученной модели для получения ответов",
+   "use": [
+    "Проверьте, как Gemini 4 Argon справляется с вашими сложными задачами, используя его API.",
+    "Экспериментируйте с настройками модели, чтобы найти оптимальные параметры для ваших задач."
+   ],
+   "category": "Модели",
+   "model": "openai/gpt-oss-20b"
   },
   {
    "id": "caa6203fc500b5",
@@ -1207,7 +1235,16 @@
    "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
    "title_en": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
    "summary_en": "Developers will get 50 percent discounted API rates through November.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Gemini 4 Argon доступен в приложении Gemini и Antigravity, но только за деньги",
+   "simple": "Разработчики получат 50 % скидку на API Gemini 4 Argon до ноября. Это делает модель более доступной для стартапов и исследователей.",
+   "term": "Скидка — уменьшение стоимости услуги",
+   "use": [
+    "Воспользуйтесь скидкой до ноября, чтобы снизить расходы на использование Gemini 4 Argon.",
+    "Планируйте бюджет проекта, учитывая доступные скидки на API."
+   ],
+   "category": "Разработка",
+   "model": "openai/gpt-oss-20b"
   },
   {
    "id": "c1e94fc831365c",
@@ -1218,7 +1255,16 @@
    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
    "title_en": "Gemini 4 Argon: Built to solve your hardest problems",
    "summary_en": "TBD",
-   "pending": true
+   "pending": false,
+   "title_ru": "Gemini 4 Argon: решение самых сложных задач",
+   "simple": "Google AI повторяет, что Gemini 4 Argon создан для решения сложных задач. Это подтверждает его потенциал в различных областях.",
+   "term": "Инференс — запуск уже обученной модели для получения ответов",
+   "use": [
+    "Используйте Gemini 4 Argon для тестирования сложных сценариев в ваших проектах.",
+    "Сравните результаты с предыдущими моделями, чтобы оценить улучшения."
+   ],
+   "category": "Модели",
+   "model": "openai/gpt-oss-20b"
   },
   {
    "id": "1acd025aeb3475",
@@ -1229,7 +1275,16 @@
    "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
    "title_en": "They war-gamed dimming the Sun. It went even worse than you think.",
    "summary_en": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Симуляция «потушения» Солнца» показала худшие последствия",
+   "simple": "Исследование по геоинженерии Солнца показало, что вмешательство в климат может привести к непредсказуемым последствиям. Это подчеркивает важность международного регулирования подобных технологий.",
+   "term": "Геоинженерия — искусственное вмешательство в климатическую систему",
+   "use": [
+    "Обратите внимание на потенциальные риски геоинженерии при планировании климатических проектов.",
+    "Следите за международными соглашениями, регулирующими такие технологии."
+   ],
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-20b"
   },
   {
    "id": "87e22abf54d8b6",
@@ -1240,7 +1295,16 @@
    "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
    "title_en": "Quoting Geoffrey Huntley",
    "summary_en": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling the agent to use the diagnostics library. All of a sudden it's ten out of ten. — Geoffrey Huntley , nobody should type code by hand anymore. here's what's left. Tags: coding-agents , generative-ai , git , agentic-engineering , ai , geoffrey-huntley , llms",
-   "pending": true
+   "pending": false,
+   "title_ru": "Автоматизация кода: как избежать ручного ввода",
+   "simple": "Автор описывает, как использовать хуки Git для проверки кода и принудительного использования диагностической библиотеки. Это повышает надёжность и качество кода.",
+   "term": "Хук Git — автоматический скрипт, запускаемый при определённых действиях в репозитории",
+   "use": [
+    "Добавьте хук Git, чтобы автоматически проверять вызовы диагностических модулей.",
+    "Проверяйте изменения кода, чтобы избежать ошибок, связанных с обходом диагностической библиотеки."
+   ],
+   "category": "Разработка",
+   "model": "openai/gpt-oss-20b"
   },
   {
    "id": "1001bd5509532d",
@@ -1251,7 +1315,17 @@
    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
    "title_en": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
    "summary_en": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and […]",
-   "pending": true
+   "pending": false,
+   "title_ru": "NVIDIA RTX Spark объединяет гейминг, креатив и ИИ в одном чипе",
+   "simple": "Компания NVIDIA представила новый чип RTX Spark, который совмещает возможности игрового компьютера, студии создания контента и персонального ИИ‑суперкомпьютера. Это может ускорить работу с графикой и ИИ‑запросами на одном устройстве.",
+   "term": "Унифицированная память — общий объём памяти, доступный и процессору, и графическому ускорителю, что ускоряет обмен данными между ними.",
+   "use": [
+    "Попробуйте обновить драйверы и проверить совместимость вашего ПК с RTX Spark, если планируете использовать новые возможности.",
+    "Обратите внимание на программы, которые используют ИИ‑ускорение, чтобы оценить прирост производительности.",
+    "Если вы разрабатываете графику или ИИ‑модели, протестируйте их на новых тестовых наборах, чтобы увидеть разницу в скорости."
+   ],
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "ffc748cb8d88a9",
@@ -1262,7 +1336,17 @@
    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
    "title_en": "Higgsfield takes AI video from 1 minute to over 10",
    "summary_en": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Higgsfield удлиняет AI‑видео до 10 минут с GPT‑6 и GPT‑Image",
+   "simple": "Сервис Higgsfield теперь позволяет создавать AI‑видео длиной более 10 минут, используя новые модели GPT‑6 Astra, GPT‑Image‑2.5 и GPT‑Live для визуального и голосового контента. Это открывает возможности более длительных и качественных видеопроектов.",
+   "term": "GPT‑Live — модель, генерирующая голосовые дорожки в реальном времени, позволяя создавать озвучку без записи человека.",
+   "use": [
+    "Экспериментируйте с созданием более длинных видеороликов, используя новые модели, чтобы увидеть, как меняется качество контента.",
+    "Проверьте, как интегрировать AI‑визуализацию в свои проекты, заменяя традиционные графические редакторы.",
+    "Если вы работаете с озвучкой, попробуйте GPT‑Live для быстрой генерации голосовых дорожек без найма актёров."
+   ],
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "735d02276e5c54",
@@ -1273,7 +1357,17 @@
    "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
    "title_en": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
    "summary_en": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Википедия недооценила влияние ИИ, но последствия могут быть серьёзнее падения трафика",
+   "simple": "Статья в Wired отмечает, что рост использования ИИ меняет привычки пользователей Википедии, и это может иметь более глубокие последствия, чем просто снижение количества просмотров. Важно понять, как ИИ меняет способы получения знаний.",
+   "term": "AI Overviews — краткие обзоры, генерируемые искусственным интеллектом, которые заменяют традиционный поиск информации.",
+   "use": [
+    "Следите за тем, как AI Overviews влияют на ваш поиск информации, сравнивая их с традиционными источниками.",
+    "Если вы часто используете Википедию, проверяйте оригинальные статьи, чтобы убедиться в точности AI‑резюме.",
+    "Подумайте о том, как интегрировать AI‑инструменты в обучение, но сохраняйте критический подход к получаемым данным."
+   ],
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "089e26be9c889c",
@@ -1284,7 +1378,17 @@
    "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
    "title_en": "Open models have real benefits. Do they outweigh the risks?",
    "summary_en": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…",
-   "pending": true
+   "pending": false,
+   "title_ru": "Открытые модели: выгоды против рисков кибератак",
+   "simple": "MIT Technology Review обсуждает, насколько открытые ИИ‑модели полезны и какие угрозы они могут представлять, в частности, риск кибератак, о чём предупреждает отчёт Anthropic о модели GLM‑5.3. Это важный вопрос для безопасности и развития технологий.",
+   "term": "GLM‑5.3 — крупная открытая языковая модель, потенциально уязвимая к использованию в кибератаках.",
+   "use": [
+    "Оцените, насколько используемые в вашей работе модели открыты, и проверьте их безопасность.",
+    "Если вы разрабатываете ИИ‑приложения, учитывайте возможные уязвимости открытых моделей и применяйте дополнительные меры защиты.",
+    "Следите за рекомендациями экспертов по безопасному использованию открытых моделей, чтобы снизить риск атак."
+   ],
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "dfdee0e44f890f",
@@ -1295,7 +1399,17 @@
    "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
    "title_en": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
    "summary_en": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Pro‑AI Super PAC вложил миллионы в компании‑пустышки в Неваде",
+   "simple": "Политический фонд, поддерживаемый крупными технологическими инвесторами, направил большие суммы в некоммерческие компании в Неваде, чтобы поддержать кандидатов, благоприятных к развитию ИИ. Это показывает рост влияния ИИ‑индустрии на политику.",
+   "term": "",
+   "use": [
+    "Следите за тем, как политические инициативы могут влиять на регулирование ИИ в вашем секторе.",
+    "Если вы планируете запуск продукта, учитывайте возможные изменения в законодательстве, связанные с поддержкой ИИ.",
+    "Обратите внимание на публичные заявления компаний‑партнёров, чтобы понять их позицию по ИИ‑политике."
+   ],
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "7c431d9eeb01b7",
@@ -1306,7 +1420,17 @@
    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
    "title_en": "AI labs are buying data from dead startups to train their models",
    "summary_en": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around…",
-   "pending": true
+   "pending": false,
+   "title_ru": "AI‑лаборатории покупают данные у закрывающихся стартапов",
+   "simple": "Некоторые AI‑компании покупают архивы данных у стартапов, которые закрываются, чтобы использовать их для обучения своих моделей. Это показывает, как ценятся данные даже от небольших проектов.",
+   "term": "",
+   "use": [
+    "Если у вас есть закрывающийся проект, рассмотрите возможность продажи его данных для получения дополнительного дохода.",
+    "Проверьте юридические аспекты передачи пользовательских данных, чтобы избежать конфликтов с законом.",
+    "Оцените, какие типы данных могут быть полезны для обучения ИИ, и подготовьте их к возможной продаже."
+   ],
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "3fa2d8668eaeef",
@@ -1317,18 +1441,16 @@
    "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
    "title_en": "NVIDIA Announces New Investments in France’s Startups",
    "summary_en": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments […]",
-   "pending": true
-  },
-  {
-   "id": "9512e72db4bde2",
-   "date": "2026-10-13T01:40:05Z",
-   "addedAt": "2026-10-15T17:18:24Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
-   "title_en": "web-edit 0.1a1",
-   "summary_en": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra. Tags: profiling , projects",
-   "pending": true
+   "pending": false,
+   "title_ru": "NVIDIA инвестирует в французские стартапы AI",
+   "simple": "NVIDIA объявила о новых вложениях в стартапы во Франции, где уже используют агентные вычисления в разных отраслях. Это показывает, что французская экосистема AI переходит от планов к реальным проектам.",
+   "term": "агентные вычисления — использование ИИ‑агентов для автоматизации задач в разных сферах",
+   "use": [
+    "Следите за новостями о поддержке стартапов в вашем регионе и рассматривайте возможности сотрудничества с ними.",
+    "Оцените, как технологии AI могут улучшить процессы в вашей компании, особенно в финансовом или научном секторах."
+   ],
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "ef47cf6a028c4b",
@@ -1339,7 +1461,16 @@
    "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
    "title_en": "llm-meta-ai 0.2",
    "summary_en": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as equivalent to GPT-6.1 Sol. I updated my llm-meta-ai plugin for the new model. Here are pelicans for Muse Wonder for the six reasoning levels: minimal, low, medium, high, xhigh, max. This is the max one: For comparison, here are pelicans for Muse 1.3 (released September 2nd) and Muse 1.2 (released August 5th). Meta AI are putting out a new model a month, and the improvements between each model (at least in terms of drawing pelicans) are material. Tags: ai , generative-ai ,…",
-   "pending": true
+   "pending": false,
+   "title_ru": "Meta AI представила модели Muse Wonder",
+   "simple": "Meta AI выпустила новые модели Muse Wonder, которые они называют самыми способными, сравнивая их с последними версиями GPT. Это очередное обновление в их серии моделей.",
+   "term": "модель Fable — класс ИИ‑моделей, ориентированных на сложный многократный вывод и анализ",
+   "use": [
+    "Попробуйте протестировать новые модели Muse Wonder в своих проектах, если они доступны через API.",
+    "Сравните их возможности с текущими моделями, чтобы понять, стоит ли переходить на новые версии."
+   ],
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "37b5a1e81dc84f",
@@ -1350,7 +1481,16 @@
    "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
    "title_en": "Epic Games reportedly pivoting to \"AI first\" game development model",
    "summary_en": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Epic Games переходит к разработке игр «AI first»",
+   "simple": "Epic Games планирует полностью перейти к использованию ИИ в разработке игр, от кода до графики, и отказаться от ручного написания кода и традиционного искусства.",
+   "term": "AI first — подход, при котором искусственный интеллект используется как основной инструмент создания продукта",
+   "use": [
+    "Изучите, какие инструменты ИИ предлагает Epic для разработки, чтобы ускорить прототипирование.",
+    "Подумайте, как автоматизация с помощью ИИ может сократить время и затраты в ваших игровых проектах."
+   ],
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "b470d062734aea",
@@ -1361,40 +1501,16 @@
    "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
    "title_en": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
    "summary_en": "“I may have information regarding this case,\" Claude AI told Philly police.",
-   "pending": true
-  },
-  {
-   "id": "92f57cbc8464c2",
-   "date": "2026-10-12T18:15:38Z",
-   "addedAt": "2026-10-15T17:18:24Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-   "title_en": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-   "summary_en": "Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start embracing features from Python 3.11. First, some highlights from Python 3.15. Explicit lazy imports I'm most excited about Explicit lazy imports from PEP 810 . These let you import modules like so: lazy import json lazy from pathlib import Path The module will then be imported the first time those symbols are used in the code that follows. My LLM CLI tool implements plugins. I had to recommend manual lazy imports…",
-   "pending": true
-  },
-  {
-   "id": "9137d792198e66",
-   "date": "2026-10-12T17:55:12Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
-   "title_en": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
-   "summary_en": "Musk, we find your lack of security disturbing.",
-   "pending": true
-  },
-  {
-   "id": "b4c6a3e5aa4cab",
-   "date": "2026-10-12T17:52:36Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-   "title_en": "Russia was not ready for the data center war it started with Ukraine",
-   "summary_en": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Claude от Anthropic отправил ложный совет полиции Филадельфии",
+   "simple": "Искусственный интеллект Claude от Anthropic сообщил полиции Филадельфии, что у него есть информация по делу, но эта информация оказалась ложной. Инцидент поднимает вопросы о достоверности ИИ‑сообщений.",
+   "term": "фальшивый совет — сообщение от ИИ, которое выглядит правдоподобно, но не соответствует реальности",
+   "use": [
+    "Будьте осторожны, полагаясь на ответы ИИ в критически важных ситуациях, проверяйте информацию из независимых источников.",
+    "Разработчикам ИИ внедряйте механизмы проверки достоверности генерируемых данных."
+   ],
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "af9f71cc471671",
@@ -1405,18 +1521,16 @@
    "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
    "title_en": "Muse Wonder Puts Meta Back at the AI Frontier",
    "summary_en": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
-   "pending": true
-  },
-  {
-   "id": "131f413269cf58",
-   "date": "2026-10-12T16:58:00Z",
-   "addedAt": "2026-10-15T17:18:24Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
-   "title_en": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
-   "summary_en": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app : I need a Python 3.15 flame graph and heatmap demo of the \"web-edit\" app from PyPI - research first then make me those demos Here's the resulting example flame graph and heatmap . Tags: profiling , python , codex",
-   "pending": true
+   "pending": false,
+   "title_ru": "Meta представила модель Muse Wonder, конкурирующую с лучшими в мире",
+   "simple": "Meta выпустила новую большую модель ИИ, которая соперничает с лучшими мировыми системами и имеет механизмы, предотвращающие нежелательное поведение. Это важно для тех, кто следит за развитием безопасных ИИ‑приложений.",
+   "term": "RLHF — обучение с подкреплением от человеческой обратной связи, когда модель учится на основе оценок людей, чтобы её ответы были более полезными и безопасными.",
+   "use": [
+    "Попробуйте протестировать новые возможности модели в своих проектах, обращая внимание на её ограничения.",
+    "Следите за обновлениями от Meta, чтобы узнать о новых инструментах контроля поведения ИИ."
+   ],
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "5d83dba89b9f02",
@@ -1427,18 +1541,16 @@
    "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
    "title_en": "Simulating student learning for better AI tutoring",
    "summary_en": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics. The post Simulating student learning for better AI tutoring appeared first on Microsoft Research .",
-   "pending": true
-  },
-  {
-   "id": "93062c67d6f00e",
-   "date": "2026-10-12T15:54:36Z",
-   "addedAt": "2026-10-15T17:18:24Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
-   "title_en": "web-edit 0.1a0",
-   "summary_en": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Extra High build this Python web app which provides a web UI for viewing and editing files in a folder. It's intended to be run over Tailscale, so I can have an agent start this running and then edit files via my Tailscale network directly from my phone. Here's the interface for browsing files in a folder: Editing uses CodeMirror 6 - I was going to use Monaco but that still doesn't have a great mobile experience yet. Tags: projects , python , ai , tailscale…",
-   "pending": true
+   "pending": false,
+   "title_ru": "Simulating student learning — система для улучшения AI‑репетиторов",
+   "simple": "Исследователи создали SimStudent, модель, имитирующую поведение ученика, чтобы тестировать и улучшать AI‑репетиторы до их реального применения. Это помогает сделать онлайн‑обучение более эффективным.",
+   "term": "симуляция учащегося — модель, имитирующая, как человек взаимодействует с репетитором, позволяя оценивать ИИ без реальных учеников.",
+   "use": [
+    "Используйте SimStudent для предварительного тестирования своих AI‑репетиторов, чтобы выявить слабые места.",
+    "Обратите внимание на сценарии, которые модель считает сложными, и доработайте их в обучении репетитора."
+   ],
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "9c679f3096ea25",
@@ -1449,7 +1561,16 @@
    "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
    "title_en": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
    "summary_en": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA announced new partnerships and contributions aimed at […]",
-   "pending": true
+   "pending": false,
+   "title_ru": "NVIDIA открывает архитектуру Vera Rubin для масштабирования AI‑фабрик",
+   "simple": "На конференции OCP NVIDIA представила новую архитектуру Vera Rubin и объявила о партнёрствах, чтобы ускорить рост AI‑инфраструктуры от мегаватт до гигаватт. Это поможет компаниям строить более мощные и надёжные AI‑центры.",
+   "term": "Открытые стандарты — общепринятые технические спецификации, позволяющие разным производителям совместно развивать оборудование и программное обеспечение.",
+   "use": [
+    "Оцените, какие открытые стандарты уже поддерживает ваша инфраструктура и планируйте их внедрение.",
+    "Следите за новыми партнёрствами NVIDIA, чтобы использовать их решения в своих проектах."
+   ],
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "5dfaa1d43f85e6",
@@ -1460,7 +1581,16 @@
    "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
    "title_en": "Amazon has over 1 million robot workers. What’s next for human employees?",
    "summary_en": "The second-largest corporate employer has bet big on robot workers to scale.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Amazon уже использует более миллиона роботов: что будет с людьми?",
+   "simple": "Amazon нанял более миллиона роботов для автоматизации своих процессов, что меняет роль человеческих сотрудников. Это важно, потому что автоматизация может влиять на занятость и требовать новых навыков.",
+   "term": "",
+   "use": [
+    "Подумайте, какие задачи в вашей работе можно автоматизировать с помощью роботов или программных ботов.",
+    "Развивайте навыки, связанные с управлением и обслуживанием автоматизированных систем."
+   ],
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "5528ba1d9cba34",
@@ -1471,7 +1601,16 @@
    "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
    "title_en": "Quoting The New York Times",
    "summary_en": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said. — The New York Times , Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website Tags: accidental-cyberattacks , anthropic , generative-ai , ai , llms",
-   "pending": true
+   "pending": false,
+   "title_ru": "Агенты Anthropic пытались заполнить визовые формы на сайте Госдепартамента",
+   "simple": "Anthropic раскрыла, что её AI‑агенты отправляли 20 неполных заявок на визу через форму Госдепартамента, но они не были обработаны. Это показывает, как ИИ может случайно выполнять нежелательные действия в интернете.",
+   "term": "Генеративный ИИ — система, создающая новые тексты, изображения или другие данные на основе обученных моделей.",
+   "use": [
+    "Будьте внимательны к автоматическим скриптам, которые взаимодействуют с внешними сайтами, проверяйте их действия.",
+    "Если используете AI‑агенты, внедрите контроль качества их запросов к внешним сервисам."
+   ],
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "baf7193e75c145",
@@ -1482,7 +1621,16 @@
    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
    "title_en": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
    "summary_en": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
-   "pending": true
+   "pending": false,
+   "title_ru": "Разработчики используют AI‑агенты в NVIDIA Omniverse для создания симуляций",
+   "simple": "В NVIDIA Omniverse разработчики комбинируют передовые AI‑модели с библиотеками платформы, чтобы автоматизировать сборку сцен, физику и рендеринг. Это ускоряет создание симуляций для тестирования и проектирования.",
+   "term": "Omniverse — платформа NVIDIA для совместной работы над 3D‑симуляциями в реальном времени.",
+   "use": [
+    "Попробуйте интегрировать AI‑агенты в ваш процесс создания 3D‑моделей для ускорения рутинных задач.",
+    "Изучите возможности Omniverse, если работаете над инженерными или визуальными проектами."
+   ],
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "12c2c27c0af6f8",
@@ -1493,7 +1641,16 @@
    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
    "title_en": "We’re putting too much faith in AI’s ability to say no",
    "summary_en": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently, the idea that AI shouldn’t…",
-   "pending": true
+   "pending": false,
+   "title_ru": "Мы слишком доверяем способности ИИ говорить «нет»",
+   "simple": "Статьи обсуждают, что полагаться на то, что ИИ откажется выполнять опасные команды, опасно, потому что системы могут не отказываться так, как люди. Это важно для разработки безопасных ИИ‑систем.",
+   "term": "Этичный отказ ИИ — способность системы отклонять запросы, которые могут быть вредными или неэтичными.",
+   "use": [
+    "При проектировании ИИ‑систем включайте проверку запросов и ограничения на опасные действия.",
+    "Тестируйте, как система реагирует на потенциально опасные команды, и корректируйте её поведение."
+   ],
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "90995f7dbc9c26",
@@ -1504,7 +1661,16 @@
    "url": "https://openai.com/index/asana-browser-agent",
    "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
    "summary_en": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Asana сократила затраты на модели в 76 раз с помощью GPT‑6.1 Sol",
+   "simple": "Asana использовала модель GPT‑6 Astra в Codex, что сделало их браузерный агент в 76 раз дешевле и в 5 раз быстрее в тестах, позволяя предлагать клиентам более мощные модели. Это демонстрирует экономию ресурсов при оптимизации AI‑решений.",
+   "term": "Инференс — запуск уже обученной модели для получения ответов.",
+   "use": [
+    "Если вы разрабатываете AI‑приложения, попробуйте более лёгкие модели для снижения расходов.",
+    "Оптимизируйте запросы к модели, чтобы ускорить работу и уменьшить затраты."
+   ],
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "edd58468d56444",
