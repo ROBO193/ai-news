@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Нейросводка · Лента</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700&family=Golos+Text:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --bg:#EEF1F0; --surface:#FBFCFB; --ink:#141A1C; --muted:#5A6668; --line:#D3DADA;
+  --accent:#0B6B6A; --accent-soft:#D6EAE8; --marker:#F2C14E; --marker-soft:#FFF4D6; --warn:#9A5A00; --warn-soft:#FBEBD2;
+  --f-display:"Unbounded","Golos Text",system-ui,sans-serif;
+  --f-body:"Golos Text",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#0E1416; --surface:#151E21; --ink:#E4ECEB; --muted:#93A3A4; --line:#26343A;
+  --accent:#55C2BC; --accent-soft:#16302F; --marker:#F0B93A; --marker-soft:#2A2414; --warn:#E9A94A; --warn-soft:#2D2210; color-scheme:dark}}
+*{box-sizing:border-box}
+html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 64px}
+a{color:var(--accent)}
+a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{max-width:1080px;margin:0 auto}
+header.top{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px 24px;padding-block:32px 20px;border-bottom:2px solid var(--ink)}
+h1{font-family:var(--f-display);font-weight:700;font-size:clamp(28px,5vw,42px);line-height:1;letter-spacing:-.02em;margin:0}
+.brand p{margin:8px 0 0;color:var(--muted);max-width:50ch}
+.status{font-family:var(--f-mono);font-size:12.5px;color:var(--muted);text-align:right;display:grid;gap:2px;font-variant-numeric:tabular-nums}
+.status b{color:var(--ink);font-weight:500}
+.digest{display:inline-block;margin-top:6px;font-family:var(--f-body);font-size:14px;font-weight:600}
+.layout{display:grid;grid-template-columns:220px minmax(0,1fr);gap:40px;padding-top:28px}
+@media (max-width:820px){.layout{grid-template-columns:minmax(0,1fr);gap:20px}.status{text-align:left}}
+aside{position:sticky;top:16px;align-self:start;display:grid;gap:22px}
+@media (max-width:820px){aside{position:static}}
+.lbl{font-family:var(--f-mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);display:block;margin-bottom:8px}
+#q{width:100%;font:inherit;font-size:15px;padding:9px 12px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--ink)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:inherit;font-size:13.5px;padding:5px 11px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--ink);cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip .n{font-family:var(--f-mono);font-size:11px;opacity:.65;margin-left:4px}
+.legend{font-size:13px;color:var(--muted);line-height:1.45;display:grid;gap:8px}
+main{min-width:0;display:grid;gap:18px}
+.daysep{font-family:var(--f-mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);display:flex;align-items:center;gap:12px;margin-top:10px}
+.daysep::after{content:"";flex:1;height:1px;background:var(--line)}
+.item{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:18px clamp(16px,3vw,26px);display:grid;gap:10px;min-width:0}
+.meta{display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px;font-family:var(--f-mono);font-size:12px;color:var(--muted)}
+.cat{color:var(--accent);text-transform:uppercase;letter-spacing:.08em}
+.badge{font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:2px 7px;border-radius:3px;border:1px solid currentColor}
+.badge.company{color:var(--warn);background:var(--warn-soft)}
+.badge.media,.badge.research,.badge.expert{color:var(--accent);background:var(--accent-soft)}
+.item h2{font-family:var(--f-display);font-weight:500;font-size:clamp(17px,2.2vw,20px);line-height:1.3;margin:0;text-wrap:balance}
+.simple{margin:0;max-width:68ch}
+.term{background:var(--marker-soft);border:1px solid color-mix(in srgb,var(--marker) 45%,transparent);border-radius:6px;padding:8px 12px;font-size:14.5px;max-width:68ch}
+.term::before{content:"Термин";font-family:var(--f-mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;display:block;color:var(--muted)}
+.orig{font-size:13.5px;color:var(--muted);border-top:1px dashed var(--line);padding-top:8px;overflow-wrap:anywhere}
+.pending{font-size:13px;color:var(--warn);margin:0}
+.empty{border:1px dashed var(--line);border-radius:10px;padding:32px;color:var(--muted);text-align:center}
+.empty strong{display:block;color:var(--ink);font-family:var(--f-display);font-weight:500;font-size:18px;margin-bottom:6px}
+.more{font:inherit;font-weight:600;padding:10px 16px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer;justify-self:start}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <h1>Нейросводка</h1>
+      <p>Новости об ИИ из проверенных источников, пересказанные простым языком. Обновляется каждый час автоматически.</p>
+    </div>
+    <div class="status">
+      <div>Обновлено: <b id="st-updated">—</b></div>
+      <div>Новостей: <b id="st-count">0</b></div>    </div>
+  </header>
+  <div class="layout">
+    <aside>
+      <div><label class="lbl" for="q">Поиск</label><input id="q" type="search" placeholder="модель, компания, тема…" autocomplete="off"></div>
+      <div><span class="lbl">Направление</span><div class="chips" id="cats"></div></div>
+      <div><span class="lbl">Тип источника</span><div class="chips" id="types"></div></div>
+      <div class="legend">
+        <span class="lbl">Откуда новости</span>
+        <div>Только официальные блоги компаний и исследовательских лабораторий и крупные технологические издания. Список — в файле feeds.json.</div>
+        <div><b>Блог компании</b> — компания рассказывает о себе сама: цифры и «лучшие результаты» стоит воспринимать как её заявление.</div>
+        <div id="failed"></div>
+      </div>
+    </aside>
+    <main id="feed"><div class="empty"><strong>Загружаю ленту</strong>Если ничего не появляется, запустите обновление вручную (см. README).</div></main>
+  </div>
+</div>
+<script>
+(function(){
+  var TYPES={company:"Блог компании",media:"СМИ",research:"Исследования",expert:"Эксперт"};
+  var st={items:[],cat:"Все",type:"Все",q:"",shown:60};
+  var fDay=new Intl.DateTimeFormat("ru-RU",{day:"numeric",month:"long",weekday:"long"});
+  var fTime=new Intl.DateTimeFormat("ru-RU",{hour:"2-digit",minute:"2-digit"});
+  var fStamp=new Intl.DateTimeFormat("ru-RU",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});
+  function el(t,c,x){var n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=x;return n}
+  function chips(boxId,key,values,label){
+    var box=document.getElementById(boxId);box.textContent="";
+    var counts={};st.items.forEach(function(it){var v=it[key];counts[v]=(counts[v]||0)+1});
+    ["Все"].concat(values.filter(function(v){return counts[v]})).forEach(function(v){
+      var b=el("button","chip",label?label(v):v);b.type="button";
+      b.setAttribute("aria-pressed",String(st[key==="category"?"cat":"type"]===v));
+      b.appendChild(el("span","n",String(v==="Все"?st.items.length:counts[v])));
+      b.onclick=function(){st[key==="category"?"cat":"type"]=v;st.shown=60;render()};
+      box.appendChild(b);
+    });
+  }
+  function card(it){
+    var a=el("article","item"),m=el("div","meta"),d=new Date(it.date);
+    m.appendChild(el("time",null,fTime.format(d)));
+    m.appendChild(el("span",null,it.source));
+    m.appendChild(el("span","badge "+(it.sourceType||"media"),TYPES[it.sourceType]||"СМИ"));
+    if(it.category)m.appendChild(el("span","cat",it.category));
+    a.appendChild(m);
+    a.appendChild(el("h2",null,it.title_ru||it.title_en));
+    if(it.simple)a.appendChild(el("p","simple",it.simple));
+    else{if(it.summary_en)a.appendChild(el("p","simple",it.summary_en));a.appendChild(el("p","pending","Пересказ на русском появится при следующем обновлении."))}
+    if(it.term)a.appendChild(el("div","term",it.term));
+    var o=el("div","orig");o.appendChild(document.createTextNode("Оригинал: "));
+    var l=el("a",null,it.title_en+" — "+it.source);l.href=it.url;l.target="_blank";l.rel="noopener noreferrer";o.appendChild(l);
+    a.appendChild(o);return a;
+  }
+  function render(){
+    var cats=[];st.items.forEach(function(i){if(i.category&&cats.indexOf(i.category)<0)cats.push(i.category)});
+    chips("cats","category",cats);
+    chips("types","sourceType",Object.keys(TYPES),function(v){return v==="Все"?v:TYPES[v]});
+    var q=st.q.toLowerCase().trim();
+    var list=st.items.filter(function(it){
+      if(st.cat!=="Все"&&it.category!==st.cat)return false;
+      if(st.type!=="Все"&&it.sourceType!==st.type)return false;
+      if(q&&[it.title_ru,it.simple,it.term,it.title_en,it.source].join(" ").toLowerCase().indexOf(q)<0)return false;
+      return true;
+    });
+    var feed=document.getElementById("feed");feed.textContent="";
+    if(!list.length){var e=el("div","empty");e.appendChild(el("strong",null,"Ничего не найдено"));e.appendChild(document.createTextNode("Попробуйте другой запрос или фильтр."));feed.appendChild(e);return}
+    var last="";
+    list.slice(0,st.shown).forEach(function(it){
+      var k=new Date(it.date).toDateString();
+      if(k!==last){last=k;feed.appendChild(el("div","daysep",fDay.format(new Date(it.date))))}
+      feed.appendChild(card(it));
+    });
+    if(list.length>st.shown){var b=el("button","more","Показать ещё ("+(list.length-st.shown)+")");b.type="button";b.onclick=function(){st.shown+=60;render()};feed.appendChild(b)}
+  }
+  document.getElementById("q").addEventListener("input",function(e){st.q=e.target.value;st.shown=60;render()});
+  fetch("data/news.json?t="+Date.now(),{cache:"no-store"}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
+    st.items=(d.items||[]).sort(function(a,b){return b.date.localeCompare(a.date)});
+    document.getElementById("st-count").textContent=String(st.items.length);
+    if(d.updated)document.getElementById("st-updated").textContent=fStamp.format(new Date(d.updated));
+    if(d.failedSources&&d.failedSources.length)document.getElementById("failed").textContent="Сейчас недоступны: "+d.failedSources.join(", ")+".";
+    if(!st.items.length){var f=document.getElementById("feed");f.textContent="";var e=el("div","empty");e.appendChild(el("strong",null,"Лента пока пустая"));e.appendChild(document.createTextNode("Первое обновление появится в течение часа или после ручного запуска."));f.appendChild(e);return}
+    render();
+  }).catch(function(){var f=document.getElementById("feed");f.textContent="";var e=el("div","empty");e.appendChild(el("strong",null,"Не удалось загрузить ленту"));e.appendChild(document.createTextNode("Проверьте, что файл data/news.json есть в репозитории."));f.appendChild(e)});
+})();
+</script>
+</body>
+</html>
