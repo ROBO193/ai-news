@@ -57,7 +57,8 @@ SYSTEM_PROMPT = (
     "Правила: не добавляй фактов, цифр, имён и выводов, которых нет во входном тексте; "
     "если анонс короткий — пиши короче, но не додумывай. Пиши простым языком, как объясняешь умному "
     "другу без технического образования; избегай жаргона, а если без термина не обойтись — "
-    "объясни его в поле term. Ответ — только JSON."
+    "объясни его в поле term. В поле use дай практичные советы, которые логично вытекают из новости, "
+    "без выдуманных фактов и без финансовых обещаний. Ответ — только JSON."
 )
 
 USER_TEMPLATE = (
@@ -67,9 +68,15 @@ USER_TEMPLATE = (
     "\"simple\": \"2–3 простых предложения: что произошло и почему это может быть интересно\", "
     "\"term\": \"один сложный термин из новости и его объяснение в 1 предложении, например "
     "'Инференс — запуск уже обученной модели для получения ответов'. Пустая строка, если терминов нет\", "
+    "\"use\": [\"2–3 конкретных практических совета, как читатель может использовать эту новость: "
+    "что попробовать, на что обратить внимание, что учесть в работе, учёбе, бизнесе или инвестициях. "
+    "Каждый совет — одно-два коротких предложения, начинается с действия. Советы должны прямо следовать "
+    "из новости и не содержать новых фактов, цифр и обещаний. Если практической пользы нет — пустой массив\"], "
     "\"category\": одно из {cats}}}]}}. "
     "is_ai=false, если новость на самом деле не про искусственный интеллект."
 )
+
+BACKFILL_DAYS = 7  # для уже пересказанных новостей без советов дописываем их, если новость свежее недели
 
 
 def now_iso():
@@ -288,7 +295,11 @@ def summarize(items):
         print("[i] LLM_API_KEY не задан — пересказ пропущен, записи остаются на английском. "
               "Добавьте ключ: Settings → Secrets and variables → Actions → New repository secret", file=sys.stderr)
         return
-    queue = sorted([it for it in items if it.get("pending")], key=lambda x: x["date"], reverse=True)
+    fresh = datetime.fromtimestamp(time.time() - BACKFILL_DAYS * 86400, timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    pending = [it for it in items if it.get("pending")]
+    backfill = [it for it in items if not it.get("pending") and "use" not in it and it["date"] >= fresh]
+    # сначала новые записи без пересказа, потом добавляем советы к уже пересказанным
+    queue = sorted(pending, key=lambda x: x["date"], reverse=True) + sorted(backfill, key=lambda x: x["date"], reverse=True)
     for r in range(MAX_REQUESTS):
         batch = queue[r * BATCH:(r + 1) * BATCH]
         if not batch:
@@ -310,7 +321,9 @@ def summarize(items):
             simple = clean(res.get("simple"), 700)
             if not title_ru or not simple:
                 continue
-            it.update({"title_ru": title_ru, "simple": simple, "term": clean(res.get("term"), 300),
+            raw_use = res.get("use") if isinstance(res.get("use"), list) else []
+            use = [clean(str(u), 300) for u in raw_use if clean(str(u))][:3]
+            it.update({"title_ru": title_ru, "simple": simple, "term": clean(res.get("term"), 300), "use": use,
                        "category": res.get("category") if res.get("category") in CATEGORIES else "Применение",
                        "model": model, "pending": False})
         time.sleep(7)  # бережём поминутный лимит
