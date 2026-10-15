@@ -56,6 +56,10 @@ main{min-width:0;display:grid;gap:18px}
 .simple{margin:0;max-width:68ch}
 .term{background:var(--marker-soft);border:1px solid color-mix(in srgb,var(--marker) 45%,transparent);border-radius:6px;padding:8px 12px;font-size:14.5px;max-width:68ch}
 .term::before{content:"Термин";font-family:var(--f-mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;display:block;color:var(--muted)}
+.use{background:var(--accent-soft);border-radius:8px;padding:10px 14px 12px;max-width:68ch}
+.use h3{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;margin:0 0 6px;font-weight:500;color:var(--accent)}
+.use ul{margin:0;padding-left:18px;display:grid;gap:4px;font-size:15px}
+.use small{display:block;margin-top:6px;font-size:12px;color:var(--muted)}
 .orig{font-size:13.5px;color:var(--muted);border-top:1px dashed var(--line);padding-top:8px;overflow-wrap:anywhere}
 .pending{font-size:13px;color:var(--warn);margin:0}
 .empty{border:1px dashed var(--line);border-radius:10px;padding:32px;color:var(--muted);text-align:center}
@@ -119,6 +123,12 @@ main{min-width:0;display:grid;gap:18px}
     if(it.simple)a.appendChild(el("p","simple",it.simple));
     else{if(it.summary_en)a.appendChild(el("p","simple",it.summary_en));a.appendChild(el("p","pending","Пересказ на русском появится при следующем обновлении."))}
     if(it.term)a.appendChild(el("div","term",it.term));
+    if(it.use&&it.use.length){
+      var u=el("div","use");u.appendChild(el("h3",null,"Как использовать"));
+      var ul=el("ul");it.use.forEach(function(x){ul.appendChild(el("li",null,x))});u.appendChild(ul);
+      u.appendChild(el("small",null,"Советы составил ИИ на основе новости: это идеи, а не факты из источника."));
+      a.appendChild(u);
+    }
     var o=el("div","orig");o.appendChild(document.createTextNode("Оригинал: "));
     var l=el("a",null,it.title_en+" — "+it.source);l.href=it.url;l.target="_blank";l.rel="noopener noreferrer";o.appendChild(l);
     a.appendChild(o);return a;
@@ -131,7 +141,7 @@ main{min-width:0;display:grid;gap:18px}
     var list=st.items.filter(function(it){
       if(st.cat!=="Все"&&it.category!==st.cat)return false;
       if(st.type!=="Все"&&it.sourceType!==st.type)return false;
-      if(q&&[it.title_ru,it.simple,it.term,it.title_en,it.source].join(" ").toLowerCase().indexOf(q)<0)return false;
+      if(q&&[it.title_ru,it.simple,it.term,(it.use||[]).join(" "),it.title_en,it.source].join(" ").toLowerCase().indexOf(q)<0)return false;
       return true;
     });
     var feed=document.getElementById("feed");feed.textContent="";
