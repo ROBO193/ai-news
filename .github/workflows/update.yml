@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write   # чтобы сохранить data/news.json в репозиторий
-  models: read      # бесплатный доступ к GitHub Models
 
 concurrency:
   group: update-feed
@@ -26,7 +25,9 @@ jobs:
 
       - name: Собрать и пересказать новости
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_API_URL: ${{ vars.LLM_API_URL }}
+          LLM_MODELS: ${{ vars.LLM_MODELS }}
         run: python scripts/update.py
 
       - name: Сохранить изменения
@@ -38,5 +39,6 @@ jobs:
             echo "Новых новостей нет"
           else
             git commit -m "Обновление ленты $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase --quiet || true
             git push
           fi
