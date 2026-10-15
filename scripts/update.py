@@ -1,16 +1,19 @@
 """Собирает новости об ИИ из проверенных RSS-лент и пересказывает их по-русски.
 
-Пересказ делает бесплатная модель GitHub Models (через встроенный GITHUB_TOKEN
-в GitHub Actions). Лимиты Claude не используются.
+Пересказ делает бесплатная модель через любой OpenAI-совместимый API
+(по умолчанию Groq, бесплатный тариф без карты). Лимиты Claude не используются.
 
 Запуск: python scripts/update.py
 Переменные окружения:
-  GITHUB_TOKEN   — токен для GitHub Models (в Actions выдаётся автоматически)
-  MODELS         — список моделей через запятую, пробуются по очереди
+  LLM_API_KEY  — ключ API (в GitHub: Settings → Secrets → Actions → LLM_API_KEY)
+  LLM_API_URL  — адрес chat/completions (необязательно, по умолчанию Groq)
+  LLM_MODELS   — модели через запятую, пробуются по очереди (необязательно)
 """
 import calendar
 import email.utils
+import gzip
 import hashlib
+import zlib
 import html
 import json
 import os
@@ -26,16 +29,17 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FEEDS_PATH = os.path.join(ROOT, "feeds.json")
 DATA_PATH = os.path.join(ROOT, "data", "news.json")
 
-ENDPOINT = "https://models.github.ai/inference/chat/completions"
-MODELS = [m.strip() for m in os.environ.get("MODELS", "openai/gpt-4.1-mini,openai/gpt-4o-mini").split(",") if m.strip()]
-TOKEN = os.environ.get("GITHUB_TOKEN", "")
+ENDPOINT = os.environ.get("LLM_API_URL", "").strip() or "https://api.groq.com/openai/v1/chat/completions"
+MODELS = [m.strip() for m in (os.environ.get("LLM_MODELS", "").strip()
+          or "openai/gpt-oss-120b,openai/gpt-oss-20b").split(",") if m.strip()]
+TOKEN = os.environ.get("LLM_API_KEY", "").strip()
 
 MAX_AGE_DAYS = 7          # новые записи старше недели не берём
 KEEP_DAYS = 60            # сколько дней хранить ленту
 MAX_ITEMS = 600           # потолок размера ленты
 PER_FEED = 15             # сколько последних записей смотреть в каждой ленте
 BATCH = 6                 # записей в одном запросе к модели
-MAX_REQUESTS = 3          # запросов к модели за один запуск (бесплатный лимит ~150 в сутки)
+MAX_REQUESTS = 6          # запросов к модели за один запуск (Groq бесплатно: 30 в минуту, 1000 в сутки)
 
 CATEGORIES = ["Модели", "Агенты", "Исследования", "Безопасность", "Железо", "Open source",
               "Регулирование", "Рынки и экономика", "Разработка", "Применение"]
@@ -118,15 +122,33 @@ def child_link(node):
     return child_text(node, "guid", "id")
 
 
+def decompress(raw, encoding=""):
+    """Распаковывает ответ, если сервер прислал его сжатым (даже без запроса)."""
+    encoding = (encoding or "").lower()
+    if raw[:2] == b"\x1f\x8b" or "gzip" in encoding:
+        return gzip.decompress(raw)
+    if "deflate" in encoding:
+        try:
+            return zlib.decompress(raw)
+        except zlib.error:
+            return zlib.decompress(raw, -zlib.MAX_WBITS)
+    return raw
+
+
 def read_source(url):
     if not url.startswith("http"):
         with open(url, "rb") as f:
-            return f.read()
-    req = urllib.request.Request(url, headers={
-        "User-Agent": "Mozilla/5.0 (compatible; ai-news-feed/1.0)",
-        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return resp.read()
+            raw, enc = f.read(), ""
+    else:
+        req = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (compatible; ai-news-feed/1.0)",
+            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+            "Accept-Encoding": "gzip, deflate"})
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            raw, enc = resp.read(), resp.headers.get("Content-Encoding", "")
+    raw = decompress(raw, enc)
+    # убираем BOM и пробелы перед <?xml — из-за них парсер падает на первой строке
+    return raw.lstrip(b"\xef\xbb\xbf").lstrip()
 
 
 def parse_feed(url):
@@ -145,7 +167,7 @@ def parse_feed(url):
             except ET.ParseError:
                 continue
         if not nodes:
-            raise
+            raise ValueError(f"это не RSS/Atom; начало ответа: {raw[:80]!r}")
     entries = []
     for n in nodes:
         entries.append({
@@ -216,32 +238,55 @@ def call_model(batch):
             items=json.dumps(payload_items, ensure_ascii=False),
             cats=json.dumps(CATEGORIES, ensure_ascii=False))},
     ]
-    last_error = None
+    errors = []
     for model in MODELS:
-        body = {"model": model, "messages": messages, "temperature": 0.2,
-                "response_format": {"type": "json_object"}}
-        req = urllib.request.Request(
-            ENDPOINT, data=json.dumps(body).encode("utf-8"), method="POST",
-            headers={"Authorization": f"Bearer {TOKEN}", "Content-Type": "application/json",
-                     "Accept": "application/json"})
-        try:
-            with urllib.request.urlopen(req, timeout=90) as resp:
-                data = json.loads(resp.read().decode("utf-8"))
-            text = data["choices"][0]["message"]["content"]
-            match = re.search(r"\{.*\}", text, re.S)
-            return json.loads(match.group(0) if match else text).get("items", []), model
-        except urllib.error.HTTPError as exc:
-            last_error = f"{model}: HTTP {exc.code} {exc.read()[:200]!r}"
-            if exc.code == 429:  # дневной лимит исчерпан — дальше пробовать бессмысленно
+        base = {"model": model, "messages": messages, "temperature": 0.2}
+        # сначала с подсказкой «только JSON», если API её не понимает — без неё
+        variants = [dict(base, response_format={"type": "json_object"}), base]
+        if "gpt-oss" in model:
+            variants.insert(0, dict(base, response_format={"type": "json_object"}, reasoning_effort="low"))
+        for body in variants:
+            status, text = post_json(body)
+            if status == 200:
+                try:
+                    content = json.loads(text)["choices"][0]["message"]["content"] or ""
+                    content = re.sub(r"^```(?:json)?|```$", "", content.strip(), flags=re.M)
+                    match = re.search(r"\{.*\}", content, re.S)
+                    return json.loads(match.group(0) if match else content).get("items", []), model
+                except Exception as exc:
+                    errors.append(f"{model}: ответ не разобран ({exc}); начало: {text[:200]!r}")
+                    break
+            errors.append(f"{model}: HTTP {status} {text[:300]!r}")
+            if status in (401, 403):
+                raise RuntimeError("ключ API не подходит или не задан. " + errors[-1])
+            if status == 429:  # лимит исчерпан — пробуем следующую модель
                 break
-        except Exception as exc:
-            last_error = f"{model}: {exc}"
-    raise RuntimeError(last_error or "модель недоступна")
+            if status != 400:  # 400 — пробуем упрощённый запрос, остальное — следующую модель
+                break
+    raise RuntimeError(" | ".join(errors) or "модель недоступна")
+
+
+def post_json(body):
+    req = urllib.request.Request(
+        ENDPOINT, data=json.dumps(body).encode("utf-8"), method="POST",
+        headers={"Authorization": f"Bearer {TOKEN}", "Content-Type": "application/json",
+                 "Accept": "application/json", "Accept-Encoding": "gzip",
+                 "User-Agent": "ai-news-feed/1.0"})
+    try:
+        with urllib.request.urlopen(req, timeout=120) as resp:
+            raw = decompress(resp.read(), resp.headers.get("Content-Encoding", ""))
+            return resp.status, raw.decode("utf-8", "replace")
+    except urllib.error.HTTPError as exc:
+        raw = decompress(exc.read() or b"", exc.headers.get("Content-Encoding", "") if exc.headers else "")
+        return exc.code, raw.decode("utf-8", "replace")
+    except Exception as exc:
+        return 0, str(exc)
 
 
 def summarize(items):
     if not TOKEN:
-        print("[i] GITHUB_TOKEN не задан — пересказ пропущен, записи остаются на английском", file=sys.stderr)
+        print("[i] LLM_API_KEY не задан — пересказ пропущен, записи остаются на английском. "
+              "Добавьте ключ: Settings → Secrets and variables → Actions → New repository secret", file=sys.stderr)
         return
     queue = sorted([it for it in items if it.get("pending")], key=lambda x: x["date"], reverse=True)
     for r in range(MAX_REQUESTS):
