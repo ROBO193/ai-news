@@ -1,7 +1,127 @@
 {
- "updated": "2026-10-15T20:24:57Z",
+ "updated": "2026-10-15T23:42:55Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "924ca13842a368",
+   "date": "2026-10-15T22:43:23Z",
+   "addedAt": "2026-10-15T23:42:27Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+   "title_en": "ChatGPT can peek at your Chrome tabs now",
+   "summary_en": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video […]",
+   "pending": false,
+   "title_ru": "ChatGPT теперь может видеть открытые вкладки Chrome",
+   "simple": "Расширение ChatGPT для Chrome получило обновление, позволяющее ИИ видеть ваши открытые вкладки. Это работает, когда вы упоминаете Chrome в приложении ChatGPT.",
+   "term": "Расширение — небольшая программа, добавляющая функции в браузер.",
+   "use": [
+    "Проверьте настройки расширения, чтобы контролировать, какие вкладки видит ИИ.",
+    "Используйте возможность, чтобы быстро получать справку по открытым страницам через ChatGPT."
+   ],
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b78fa0f3af3a7b",
+   "date": "2026-10-15T22:35:55Z",
+   "addedAt": "2026-10-15T23:42:27Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+   "title_en": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+   "summary_en": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its […]",
+   "pending": false,
+   "title_ru": "Sega убирает ремастер Total War: Shogun 2 после проблем с ИИ‑апскейлом",
+   "simple": "Сетевая версия ремастера стратегии была снята с продажи из‑за багов и улучшения графики, выполненного ИИ, которое не понравилось игрокам. Компания реагирует на негативный отклик.",
+   "term": "Апскейл — увеличение разрешения изображения с помощью алгоритмов, часто ИИ.",
+   "use": [
+    "Следите за официальными обновлениями от Sega, если планируете купить игру позже.",
+    "Если вам важна стабильность, подождите, пока разработчики исправят баги."
+   ],
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "54d7a618ecd38b",
+   "date": "2026-10-15T21:32:54Z",
+   "addedAt": "2026-10-15T23:42:27Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+   "title_en": "Trump posts AI-edited photo to brag about White House restoration work",
+   "summary_en": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or […]",
+   "pending": false,
+   "title_ru": "Трамп разместил фото, отредактированное ИИ, о ремонте Белого дома",
+   "simple": "Бывший президент опубликовал снимок, где сравнивается старый и «отремонтированный» столб, но часть изображения была изменена с помощью ИИ. Детекторы ИИ отметили возможную подделку.",
+   "term": "Детектор ИИ — система, которая анализирует контент и определяет, был ли он создан искусственным интеллектом.",
+   "use": [
+    "Будьте скептичны к визуальному контенту в соцсетях, проверяйте источники.",
+    "Если вам важно подтверждение подлинности, используйте онлайн‑детекторы ИИ."
+   ],
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "97b696edc2ea3d",
+   "date": "2026-10-15T21:18:15Z",
+   "addedAt": "2026-10-15T23:42:28Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+   "title_en": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+   "summary_en": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+   "pending": false,
+   "title_ru": "Подкаст Uncanny Valley: Muse от Meta и тайные расходы AI‑PAC",
+   "simple": "В выпуске подкаста обсуждают неожиданную функцию Muse от Meta, крупные траты про‑AI политического комитета и то, как мужчины преувеличивают свои знания об ИИ. Это показывает, как быстро меняется ландшафт искусственного интеллекта.",
+   "term": "PAC — политический комитет действий, собирающий средства для поддержки определённых целей, в данном случае про‑AI.",
+   "use": [
+    "Послушайте эпизод, чтобы понять текущие тренды в AI‑индустрии.",
+    "Обратите внимание на новые функции Muse, если вы работаете с продуктами Meta."
+   ],
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9122daee4eec8e",
+   "date": "2026-10-15T21:00:28Z",
+   "addedAt": "2026-10-15T23:42:28Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+   "title_en": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+   "summary_en": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+   "pending": false,
+   "title_ru": "AI‑атаки оставляют след, а компании не платят за ущерб",
+   "simple": "Мощные модели ИИ продолжают вызывать проблемы, но пострадавшие организации редко добиваются компенсации, а вместо этого им советуют использовать те же инструменты ИИ для защиты. Это поднимает вопросы ответственности.",
+   "term": "Модель ИИ — программный алгоритм, обученный на больших данных для выполнения задач, например генерации текста.",
+   "use": [
+    "Оцените риски использования ИИ в своей работе и подготовьте план реагирования.",
+    "Изучите доступные инструменты ИИ для мониторинга и защиты от потенциальных атак."
+   ],
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a01e02239da0a3",
+   "date": "2026-10-15T20:34:01Z",
+   "addedAt": "2026-10-15T23:42:27Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+   "title_en": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Granite Switch 4.1: чат, решения и речь через один интерфейс",
+   "simple": "Компания представила новую платформу Granite Switch 4.1, которая объединяет чат, принятие решений и синтез речи в одном конечном пункте. Это упрощает интеграцию нескольких функций ИИ в приложениях.",
+   "term": "Endpoint — точка входа, через которую приложение взаимодействует с сервисами ИИ.",
+   "use": [
+    "Попробуйте подключить Granite Switch к вашему сервису, чтобы объединить чат и голосовые ответы в одном запросе.",
+    "Обратите внимание на совместимость вашего кода с новым API, чтобы использовать все три функции сразу."
+   ],
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "21e3505542d990",
    "date": "2026-10-15T20:04:53Z",
@@ -98,6 +218,26 @@
    "use": [
     "Следите за публикациями METR, чтобы узнать независимую оценку рисков Anthropic.",
     "Используйте полученные выводы для более информированного выбора ИИ‑технологий в проектах."
+   ],
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a72d1e4da6b0e1",
+   "date": "2026-10-15T19:00:00Z",
+   "addedAt": "2026-10-15T23:42:26Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "title_en": "Bringing GPT-Rosalind to academic research labs",
+   "summary_en": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+   "pending": false,
+   "title_ru": "GPT‑Rosalind для академических лабораторий",
+   "simple": "OpenAI запустила академический план, позволяющий исследовательским лабораториям бесплатно пользоваться моделью GPT‑Rosalind и сопутствующими инструментами. Это поможет ускорить исследования в биологии и медицине.",
+   "term": "",
+   "use": [
+    "Подайте заявку на участие в академическом плане, если ваша лаборатория занимается биологическими исследованиями.",
+    "Используйте GPT‑Rosalind для генерации гипотез и анализа данных, экономя время на рутинных задачах."
    ],
    "category": "Исследования",
    "model": "openai/gpt-oss-120b"
