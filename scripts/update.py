@@ -58,7 +58,21 @@ SYSTEM_PROMPT = (
     "если анонс короткий — пиши короче, но не додумывай. Пиши простым языком, как объясняешь умному "
     "другу без технического образования; избегай жаргона, а если без термина не обойтись — "
     "объясни его в поле term. В поле use дай практичные советы, которые логично вытекают из новости, "
-    "без выдуманных фактов и без финансовых обещаний. Ответ — только JSON."
+    "без выдуманных фактов и без финансовых обещаний. "
+    "Поле money заполняй честно и строго: только если из новости следует реальный законный способ, "
+    "которым обычный человек или небольшой бизнес может заработать уже сейчас — например, предложить "
+    "услугу, сделать продукт, освоить востребованный навык, взять заказы на фрилансе. Не предлагай "
+    "покупать акции, криптовалюту или другие инвестиции, не называй суммы дохода и не обещай результат. "
+    "Если способа нет или он нужен только крупным компаниям — money = null. Таких новостей большинство, "
+    "это нормально. Ответ — только JSON."
+)
+
+MONEY_TEMPLATE = (
+    "\"money\": null ИЛИ {{\"idea\": \"одна фраза: на чём именно можно заработать\", "
+    "\"how\": [\"3–4 конкретных шага по порядку, каждый начинается с действия\"], "
+    "\"who\": \"кому подходит: какие навыки нужны\", "
+    "\"effort\": одно из \"низкий\", \"средний\", \"высокий\", "
+    "\"risk\": \"главный риск или ограничение в одном предложении\"}}, "
 )
 
 USER_TEMPLATE = (
@@ -72,11 +86,31 @@ USER_TEMPLATE = (
     "что попробовать, на что обратить внимание, что учесть в работе, учёбе, бизнесе или инвестициях. "
     "Каждый совет — одно-два коротких предложения, начинается с действия. Советы должны прямо следовать "
     "из новости и не содержать новых фактов, цифр и обещаний. Если практической пользы нет — пустой массив\"], "
+    + MONEY_TEMPLATE +
     "\"category\": одно из {cats}}}]}}. "
     "is_ai=false, если новость на самом деле не про искусственный интеллект."
 )
 
-BACKFILL_DAYS = 7  # для уже пересказанных новостей без советов дописываем их, если новость свежее недели
+BACKFILL_DAYS = 7  # уже пересказанным новостям свежее недели дописываем недостающие поля (советы, заработок)
+EFFORTS = ("низкий", "средний", "высокий")
+MONEY_BAN = re.compile(r"(акци[яиюей]|криптовалют|биткоин|токен[аы]? для инвест|инвестируйте|купите доли|"
+                       r"гарантирован|\$\s?\d|\d+\s?(?:\$|долл|руб|₽|евро|€))", re.IGNORECASE)
+
+
+def parse_money(raw):
+    """Проверяет блок «для заработка». Возвращает словарь или None."""
+    if not isinstance(raw, dict):
+        return None
+    idea = clean(raw.get("idea"), 220)
+    how = [clean(str(s), 260) for s in (raw.get("how") if isinstance(raw.get("how"), list) else []) if clean(str(s))][:4]
+    if not idea or len(how) < 2:
+        return None
+    text = " ".join([idea, *how, clean(raw.get("who")), clean(raw.get("risk"))])
+    if MONEY_BAN.search(text):  # инвестиционные советы и обещанные суммы не пропускаем
+        return None
+    effort = raw.get("effort") if raw.get("effort") in EFFORTS else "средний"
+    return {"idea": idea, "how": how, "who": clean(raw.get("who"), 220), "effort": effort,
+            "risk": clean(raw.get("risk"), 260)}
 
 
 def now_iso():
@@ -297,7 +331,8 @@ def summarize(items):
         return
     fresh = datetime.fromtimestamp(time.time() - BACKFILL_DAYS * 86400, timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     pending = [it for it in items if it.get("pending")]
-    backfill = [it for it in items if not it.get("pending") and "use" not in it and it["date"] >= fresh]
+    backfill = [it for it in items if not it.get("pending") and ("use" not in it or "money" not in it)
+                and it["date"] >= fresh]
     # сначала новые записи без пересказа, потом добавляем советы к уже пересказанным
     queue = sorted(pending, key=lambda x: x["date"], reverse=True) + sorted(backfill, key=lambda x: x["date"], reverse=True)
     for r in range(MAX_REQUESTS):
@@ -324,6 +359,7 @@ def summarize(items):
             raw_use = res.get("use") if isinstance(res.get("use"), list) else []
             use = [clean(str(u), 300) for u in raw_use if clean(str(u))][:3]
             it.update({"title_ru": title_ru, "simple": simple, "term": clean(res.get("term"), 300), "use": use,
+                       "money": parse_money(res.get("money")),
                        "category": res.get("category") if res.get("category") in CATEGORIES else "Применение",
                        "model": model, "pending": False})
         time.sleep(7)  # бережём поминутный лимит
