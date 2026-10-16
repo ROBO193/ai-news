@@ -54,8 +54,23 @@ main{min-width:0;display:grid;gap:18px}
 .badge.media,.badge.research,.badge.expert{color:var(--accent);background:var(--accent-soft)}
 .item h2{font-family:var(--f-display);font-weight:500;font-size:clamp(17px,2.2vw,20px);line-height:1.3;margin:0;text-wrap:balance}
 .simple{margin:0;max-width:68ch}
-.term{background:var(--marker-soft);border:1px solid color-mix(in srgb,var(--marker) 45%,transparent);border-radius:6px;padding:8px 12px;font-size:14.5px;max-width:68ch}
+.term{background:var(--bg);border:1px dashed var(--line);border-radius:6px;padding:8px 12px;font-size:14.5px;max-width:68ch}
 .term::before{content:"Термин";font-family:var(--f-mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;display:block;color:var(--muted)}
+.tabs{display:flex;flex-wrap:wrap;gap:8px;padding-top:20px}
+.tab{font:inherit;font-weight:600;font-size:15px;padding:9px 16px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer;display:inline-flex;align-items:center;gap:8px;white-space:nowrap;line-height:1.3}
+.tab .n{font-family:var(--f-mono);font-size:12px;font-weight:400;opacity:.7}
+.tab[aria-selected="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.tab.tab-earn[aria-selected="true"]{background:var(--marker);color:#1d1606;border-color:var(--marker)}
+.intro{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 18px;font-size:14.5px;color:var(--muted);max-width:80ch}
+.intro b{color:var(--ink)}
+.badge.earn{color:var(--warn);background:var(--marker-soft);border-color:var(--marker)}
+.money{border:1px solid var(--marker);background:var(--marker-soft);border-radius:8px;padding:12px 16px 14px;max-width:68ch;display:grid;gap:8px}
+.money h3{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;margin:0;font-weight:500;color:var(--warn)}
+.money .idea{margin:0;font-weight:600;font-size:16px}
+.money ol{margin:0;padding-left:20px;display:grid;gap:4px;font-size:15px}
+.money .facts{display:grid;gap:4px;font-size:14px}
+.money .facts span{color:var(--muted)}
+.effort{font-family:var(--f-mono);font-size:11px;text-transform:uppercase;letter-spacing:.06em;padding:1px 7px;border-radius:3px;border:1px solid var(--line);margin-left:4px}
 .use{background:var(--accent-soft);border-radius:8px;padding:10px 14px 12px;max-width:68ch}
 .use h3{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;margin:0 0 6px;font-weight:500;color:var(--accent)}
 .use ul{margin:0;padding-left:18px;display:grid;gap:4px;font-size:15px}
@@ -78,6 +93,10 @@ main{min-width:0;display:grid;gap:18px}
       <div>Обновлено: <b id="st-updated">—</b></div>
       <div>Новостей: <b id="st-count">0</b></div>    </div>
   </header>
+  <div class="tabs" role="tablist" aria-label="Раздел">
+    <button class="tab" type="button" role="tab" id="tab-all" aria-selected="true">Все новости <span class="n" id="n-all">0</span></button>
+    <button class="tab tab-earn" type="button" role="tab" id="tab-money" aria-selected="false">Для заработка <span class="n" id="n-money">0</span></button>
+  </div>
   <div class="layout">
     <aside>
       <div><label class="lbl" for="q">Поиск</label><input id="q" type="search" placeholder="модель, компания, тема…" autocomplete="off"></div>
@@ -96,18 +115,21 @@ main{min-width:0;display:grid;gap:18px}
 <script>
 (function(){
   var TYPES={company:"Блог компании",media:"СМИ",research:"Исследования",expert:"Эксперт"};
-  var st={items:[],cat:"Все",type:"Все",q:"",shown:60};
+  var st={items:[],cat:"Все",type:"Все",q:"",shown:60,view:location.hash==="#money"?"money":"all"};
+  var EFFORT={"низкий":"усилий: мало","средний":"усилий: средне","высокий":"усилий: много"};
+  function hasMoney(it){return !!(it.money&&it.money.how&&it.money.how.length)}
+  function base(){return st.view==="money"?st.items.filter(hasMoney):st.items}
   var fDay=new Intl.DateTimeFormat("ru-RU",{day:"numeric",month:"long",weekday:"long"});
   var fTime=new Intl.DateTimeFormat("ru-RU",{hour:"2-digit",minute:"2-digit"});
   var fStamp=new Intl.DateTimeFormat("ru-RU",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});
   function el(t,c,x){var n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=x;return n}
   function chips(boxId,key,values,label){
     var box=document.getElementById(boxId);box.textContent="";
-    var counts={};st.items.forEach(function(it){var v=it[key];counts[v]=(counts[v]||0)+1});
+    var src=base(),counts={};src.forEach(function(it){var v=it[key];counts[v]=(counts[v]||0)+1});
     ["Все"].concat(values.filter(function(v){return counts[v]})).forEach(function(v){
       var b=el("button","chip",label?label(v):v);b.type="button";
       b.setAttribute("aria-pressed",String(st[key==="category"?"cat":"type"]===v));
-      b.appendChild(el("span","n",String(v==="Все"?st.items.length:counts[v])));
+      b.appendChild(el("span","n",String(v==="Все"?src.length:counts[v])));
       b.onclick=function(){st[key==="category"?"cat":"type"]=v;st.shown=60;render()};
       box.appendChild(b);
     });
@@ -118,12 +140,15 @@ main{min-width:0;display:grid;gap:18px}
     m.appendChild(el("span",null,it.source));
     m.appendChild(el("span","badge "+(it.sourceType||"media"),TYPES[it.sourceType]||"СМИ"));
     if(it.category)m.appendChild(el("span","cat",it.category));
+    if(hasMoney(it)&&st.view!=="money")m.appendChild(el("span","badge earn","Можно заработать"));
     a.appendChild(m);
     a.appendChild(el("h2",null,it.title_ru||it.title_en));
     if(it.simple)a.appendChild(el("p","simple",it.simple));
     else{if(it.summary_en)a.appendChild(el("p","simple",it.summary_en));a.appendChild(el("p","pending","Пересказ на русском появится при следующем обновлении."))}
+    if(hasMoney(it)&&st.view==="money")a.appendChild(moneyBlock(it.money));
     if(it.term)a.appendChild(el("div","term",it.term));
-    if(it.use&&it.use.length){
+    if(hasMoney(it)&&st.view!=="money")a.appendChild(moneyBlock(it.money));
+    if(st.view!=="money"&&it.use&&it.use.length){
       var u=el("div","use");u.appendChild(el("h3",null,"Как использовать"));
       var ul=el("ul");it.use.forEach(function(x){ul.appendChild(el("li",null,x))});u.appendChild(ul);
       u.appendChild(el("small",null,"Советы составил ИИ на основе новости: это идеи, а не факты из источника."));
@@ -133,19 +158,54 @@ main{min-width:0;display:grid;gap:18px}
     var l=el("a",null,it.title_en+" — "+it.source);l.href=it.url;l.target="_blank";l.rel="noopener noreferrer";o.appendChild(l);
     a.appendChild(o);return a;
   }
+  function moneyBlock(mo){
+    var b=el("div","money");
+    var h=el("h3",null,"Как заработать");
+    if(mo.effort)h.appendChild(el("span","effort",EFFORT[mo.effort]||mo.effort));
+    b.appendChild(h);
+    if(mo.idea)b.appendChild(el("p","idea",mo.idea));
+    var ol=el("ol");mo.how.forEach(function(x){ol.appendChild(el("li",null,x))});b.appendChild(ol);
+    var f=el("div","facts");
+    if(mo.who){var w=el("div");w.appendChild(el("span",null,"Кому подходит: "));w.appendChild(document.createTextNode(mo.who));f.appendChild(w)}
+    if(mo.risk){var r=el("div");r.appendChild(el("span",null,"Риск: "));r.appendChild(document.createTextNode(mo.risk));f.appendChild(r)}
+    if(f.childNodes.length)b.appendChild(f);
+    return b;
+  }
+  function setView(v){
+    st.view=v;st.cat="Все";st.type="Все";st.shown=60;
+    document.getElementById("tab-all").setAttribute("aria-selected",String(v==="all"));
+    document.getElementById("tab-money").setAttribute("aria-selected",String(v==="money"));
+    try{history.replaceState(null,"",v==="money"?"#money":location.pathname+location.search)}catch(e){}
+    render();
+  }
+  document.getElementById("tab-all").onclick=function(){setView("all")};
+  document.getElementById("tab-money").onclick=function(){setView("money")};
   function render(){
-    var cats=[];st.items.forEach(function(i){if(i.category&&cats.indexOf(i.category)<0)cats.push(i.category)});
+    document.getElementById("n-all").textContent=String(st.items.length);
+    document.getElementById("n-money").textContent=String(st.items.filter(hasMoney).length);
+    document.getElementById("tab-all").setAttribute("aria-selected",String(st.view==="all"));
+    document.getElementById("tab-money").setAttribute("aria-selected",String(st.view==="money"));
+    var cats=[];base().forEach(function(i){if(i.category&&cats.indexOf(i.category)<0)cats.push(i.category)});
     chips("cats","category",cats);
     chips("types","sourceType",Object.keys(TYPES),function(v){return v==="Все"?v:TYPES[v]});
     var q=st.q.toLowerCase().trim();
-    var list=st.items.filter(function(it){
+    var list=base().filter(function(it){
       if(st.cat!=="Все"&&it.category!==st.cat)return false;
       if(st.type!=="Все"&&it.sourceType!==st.type)return false;
-      if(q&&[it.title_ru,it.simple,it.term,(it.use||[]).join(" "),it.title_en,it.source].join(" ").toLowerCase().indexOf(q)<0)return false;
+      if(q&&[it.title_ru,it.simple,it.term,(it.use||[]).join(" "),it.money?[it.money.idea,(it.money.how||[]).join(" "),it.money.who].join(" "):"",it.title_en,it.source].join(" ").toLowerCase().indexOf(q)<0)return false;
       return true;
     });
     var feed=document.getElementById("feed");feed.textContent="";
-    if(!list.length){var e=el("div","empty");e.appendChild(el("strong",null,"Ничего не найдено"));e.appendChild(document.createTextNode("Попробуйте другой запрос или фильтр."));feed.appendChild(e);return}
+    if(st.view==="money"){
+      var intro=el("div","intro");
+      intro.appendChild(el("b",null,"Новости, на которых можно заработать. "));
+      intro.appendChild(document.createTextNode("Идеи и шаги составляет ИИ на основе новости: это направления для проверки, а не готовый бизнес-план и не финансовый совет. Доход не гарантирован. Советов купить акции или криптовалюту здесь нет намеренно."));
+      feed.appendChild(intro);
+    }
+    if(!list.length){var e=el("div","empty");
+      if(st.view==="money"&&!q&&st.cat==="Все"&&st.type==="Все"){e.appendChild(el("strong",null,"Пока пусто"));e.appendChild(document.createTextNode("Идеи для заработка появятся после ближайших обновлений: модель отбирает только новости с реальным способом заработать."))}
+      else{e.appendChild(el("strong",null,"Ничего не найдено"));e.appendChild(document.createTextNode("Попробуйте другой запрос или фильтр."))}
+      feed.appendChild(e);return}
     var last="";
     list.slice(0,st.shown).forEach(function(it){
       var k=new Date(it.date).toDateString();
