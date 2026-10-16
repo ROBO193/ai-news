@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-16T08:15:25Z",
+ "updated": "2026-10-16T08:55:03Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "055bfa833fc008",
+   "date": "2026-10-16T08:53:41Z",
+   "addedAt": "2026-10-16T08:54:06Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/16/android-enhanced-built-in-scam-protection/",
+   "title_en": "Android adds AI-powered scam alerts, hangs up on bank impostors",
+   "summary_en": "Google’s new scam protections cover Google Messages and third-party messaging apps, with an enhanced protection mode, expanded scam alerts and safeguards against call-forwarding and screen-sharing scams. “With scams growing harder to spot, it’s nearly impossible for users to catch every red flag themselves. That’s why Android’s built-in defenses actively intercept these threats before they reach you,” Alberto Pastor Nieto, Senior Product Manager at Google Messages, and Shaifali Bhandari, Product Manager at Android, explained. Scam alerts … More → The post Android adds AI-powered scam alerts, hangs up on bank impostors appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Android добавил AI‑защиту от мошенников в сообщениях и звонках",
+   "simple": "Google внедрил в Android искусственный интеллект, который предупреждает о мошеннических сообщениях и звонках и даже прерывает их. Это помогает пользователям не попасть в ловушки, пока они сами не успевают заметить опасность.",
+   "term": "AI‑защита — система, использующая искусственный интеллект для распознавания и блокировки мошеннических действий в реальном времени.",
+   "use": [
+    "Включите в настройках Android функцию защиты от мошенничества, если она ещё не активирована.",
+    "Обратите внимание на новые предупреждения в приложениях сообщений и звонков и не игнорируйте их.",
+    "При получении подозрительного звонка или сообщения проверьте, не помечено ли оно системой как потенциальный обман."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "390ece11278ffa",
    "date": "2026-10-16T05:00:24Z",
@@ -12,16 +34,28 @@
    "title_en": "Stolen AI API keys are paying for hackers’ autonomous scans",
    "summary_en": "A seller on a restricted criminal forum is marketing an autonomous hacking tool that runs on stolen OpenAI, Anthropic and Google API keys, so the key’s owner pays for the scans. Bitsight’s threat intelligence team tracked the shift across thousands of posts on 16 underground forums from February through August 2026. Over that window, mentions of AI agents, indirect prompt injection and the Model Context Protocol (MCP) rose 67 percent. Two groups are exposed. A … More → The post Stolen AI API keys are paying for hackers’ autonomous scans appeared first on Help Net Security .",
    "pending": false,
-   "title_ru": "Краденые API-ключи AI платят хакерам за автоматические сканы",
-   "simple": "Хакеры продают инструмент, который использует украденные ключи OpenAI, Anthropic и Google, чтобы сами сканировать цели, а владельцы ключей платят за эти сканы. Это показывает, как кража доступа к ИИ‑моделям превращается в источник дохода для киберпреступников.",
-   "term": "Model Context Protocol (MCP) — протокол, позволяющий передавать контекст модели между запросами, что упрощает работу с большими языковыми моделями.",
+   "title_ru": "Украденные AI‑ключи используют для автоматических сканирований хакерами",
+   "simple": "На криминальном форуме продаётся инструмент, который использует украденные API‑ключи OpenAI, Anthropic и Google для автоматических атак, заставляя владельцев платить за сканирование.",
+   "term": "API‑ключ — уникальный код, позволяющий программам обращаться к сервису и использовать его функции.",
    "use": [
-    "Проверьте, какие API‑ключи у вас активны и отключите неиспользуемые.",
-    "Настройте мониторинг расходов на AI‑сервисы, чтобы быстро заметить подозрительные списания.",
-    "Используйте ограничение доступа по IP и ролям, чтобы минимизировать риск кражи ключей."
+    "Проверьте активность своих AI‑ключей в консоли провайдера.",
+    "Настройте ограничения по IP и бюджету для каждого ключа.",
+    "Регулярно меняйте ключи и удаляйте неиспользуемые."
    ],
    "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": {
+    "idea": "Предложить услуги по аудиту и защите AI‑ключей для компаний",
+    "how": [
+     "Соберите информацию о типичных утечках API‑ключей.",
+     "Разработайте чек‑лист проверки безопасности ключей.",
+     "Предложите клиентам настройку ограничений и мониторинг расходов.",
+     "Оказывайте поддержку при обнаружении подозрительной активности."
+    ],
+    "who": "Специалисты по кибербезопасности, знакомые с облачными AI‑сервисами",
+    "effort": "средний",
+    "risk": "Неправильная настройка ограничений может привести к блокировке легитимных запросов"
+   }
   },
   {
    "id": "8506686dc9dbdb",
@@ -33,15 +67,28 @@
    "title_en": "New infosec products of the week: October 16, 2026",
    "summary_en": "Here’s a look at the most interesting products from the past week, featuring releases from NinjaOne, Qualys, Scytale, and SolarWinds. NinjaOne combines Katana AI and MCP server to accelerate IT problem resolution NinjaOne has announced Katana AI, an agentic AI technician that supports and elevates IT workers, and the NinjaOne MCP server, an agentic orchestration connector that extends the platform’s governed access to the AI tools teams already use. Katana AI analyzes device telemetry, history, … More → The post New infosec products of the week: October 16, 2026 appeared first on Help Net Security .",
    "pending": false,
-   "title_ru": "Новые инфо‑сек продукты недели: NinjaOne представил Katana AI и MCP сервер",
-   "simple": "NinjaOne выпустила Katana AI — помощника, который помогает ИТ‑специалистам, и MCP сервер для управления доступом к ИИ‑инструментам. Это может ускорить решение ИТ‑проблем в компаниях.",
-   "term": "Agentic AI — ИИ, способный самостоятельно выполнять задачи, а не только отвечать на запросы",
+   "title_ru": "NinjaOne представила Katana AI и сервер MCP для ускорения ИТ‑поддержки",
+   "simple": "NinjaOne выпустила Katana AI — ИИ‑техника, помогающего ИТ‑специалистам, и сервер MCP, который соединяет существующие AI‑инструменты с их платформой. Это должно ускорить решение проблем в ИТ‑отделах.",
+   "term": "Agentic AI — ИИ, способный самостоятельно принимать решения и выполнять задачи без постоянного вмешательства человека.",
    "use": [
-    "Попробуйте интегрировать Katana AI в ваш ИТ‑процесс, чтобы автоматизировать диагностику устройств.",
-    "Настройте MCP сервер для контроля доступа к используемым ИИ‑инструментам и соблюдения политики безопасности."
+    "Попробуйте интегрировать Katana AI в текущие процессы ИТ‑поддержки.",
+    "Оцените, какие задачи можно автоматизировать с помощью сервера MCP.",
+    "Обучите сотрудников работе с новыми AI‑инструментами."
    ],
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b",
+   "money": {
+    "idea": "Создать сервис настройки и внедрения Katana AI для малых ИТ‑команд",
+    "how": [
+     "Изучите документацию NinjaOne и возможности Katana AI.",
+     "Разработайте типовые сценарии автоматизации для типовых запросов.",
+     "Предложите клиентам настройку и обучение персонала.",
+     "Поддерживайте сервис обновлениями и мониторингом эффективности."
+    ],
+    "who": "ИТ‑консультанты, знакомые с платформой NinjaOne и автоматизацией процессов",
+    "effort": "средний",
+    "risk": "Неправильная настройка может привести к ошибочным действиям в инфраструктуре"
+   }
   },
   {
    "id": "ba4e7337aba280",
@@ -53,16 +100,17 @@
    "title_en": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
    "summary_en": "",
    "pending": false,
-   "title_ru": "Масштабное предобучение индийских языков: 2,8 трлн токенов и открытый pipeline",
-   "simple": "Исследователи создали открытый конвейер данных и обучили модели на 2,8 триллиона токенов индийских языков. Это открывает возможности для более качественных языковых моделей на этих языках.",
-   "term": "Token — базовый элемент текста, например слово или часть слова, используемый при обучении моделей",
+   "title_ru": "Новый набор данных: 2,8 триллиона токенов для предобучения индийских языков",
+   "simple": "Исследователи представили открытый pipeline, который генерирует огромный набор данных в 2,8 триллиона токенов для предобучения моделей на индийских языках. Это поможет улучшить качество моделей для этих языков.",
+   "term": "Pretraining — начальное обучение модели на большом объёме данных перед её доработкой под конкретные задачи.",
    "use": [
-    "Изучите открытый pipeline, чтобы собрать свои данные для обучения моделей на региональных языках.",
-    "Примените готовые модели к задачам локализации контента или автоматического перевода.",
-    "Следите за обновлениями, чтобы использовать новые версии моделей в своих проектах."
+    "Изучите открытый pipeline и попробуйте собрать собственный набор данных.",
+    "Примените полученный набор для дообучения небольших моделей на индийских языках.",
+    "Следите за публикациями, чтобы узнать о новых версиях данных."
    ],
    "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "c9c43f1e32a507",
@@ -74,16 +122,16 @@
    "title_en": "When it came to Cal AI’s viral success, a small army of influencers paid off",
    "summary_en": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
    "pending": false,
-   "title_ru": "Cal AI стал вирусным благодаря работе с инфлюенсерами",
-   "simple": "Компания Cal AI привлекла внимание благодаря кампании с инфлюенсерами, что привело к росту доходов и последующей покупке MyFitnessPal. Это показывает, как маркетинг может ускорить рост AI‑стартапов.",
+   "title_ru": "Вирусный успех Cal AI благодаря инфлюенсерам",
+   "simple": "Компания Cal AI заработала более 30 млн долларов за два года и была куплена MyFitnessPal. Успех пришёл благодаря активной работе небольшого круга инфлюенсеров.",
    "term": "",
    "use": [
-    "Подумайте о сотрудничестве с микро‑инфлюенсерами, если продвигаете AI‑продукт.",
-    "Анализируйте, какие каналы приносят наибольший отклик, и фокусируйтесь на них.",
-    "Следите за тем, как крупные компании интегрируют AI‑стартапы, чтобы предвидеть рыночные тренды."
+    "Обратите внимание на сотрудничество с микро‑инфлюенсерами при продвижении AI‑продуктов.",
+    "Изучите, какие темы в AI вызывают наибольший отклик у аудитории."
    ],
    "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "924ca13842a368",
@@ -96,14 +144,15 @@
    "summary_en": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video […]",
    "pending": false,
    "title_ru": "ChatGPT теперь может видеть открытые вкладки Chrome",
-   "simple": "Расширение ChatGPT для Chrome получило обновление, позволяющее ИИ видеть ваши открытые вкладки. Это работает, когда вы упоминаете Chrome в приложении ChatGPT.",
+   "simple": "Расширение ChatGPT для Chrome получило возможность читать открытые в браузере вкладки, когда пользователь помечает их в чате. Это упрощает работу с информацией, уже находящейся в браузере.",
    "term": "Расширение — небольшая программа, добавляющая функции в браузер.",
    "use": [
-    "Проверьте настройки расширения, чтобы контролировать, какие вкладки видит ИИ.",
-    "Используйте возможность, чтобы быстро получать справку по открытым страницам через ChatGPT."
+    "Установите официальное расширение ChatGPT для Chrome, чтобы быстрее получать ответы, учитывающие открытые страницы.",
+    "При работе с запросами указывайте тег Chrome, чтобы модель могла использовать содержимое ваших вкладок."
    ],
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "b78fa0f3af3a7b",
@@ -115,15 +164,16 @@
    "title_en": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
    "summary_en": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its […]",
    "pending": false,
-   "title_ru": "Sega убирает ремастер Total War: Shogun 2 после проблем с ИИ‑апскейлом",
-   "simple": "Сетевая версия ремастера стратегии была снята с продажи из‑за багов и улучшения графики, выполненного ИИ, которое не понравилось игрокам. Компания реагирует на негативный отклик.",
-   "term": "Апскейл — увеличение разрешения изображения с помощью алгоритмов, часто ИИ.",
+   "title_ru": "Sega убирает ремастер Total War: Shogun 2 после проблем с AI‑апскейлом",
+   "simple": "Игра Total War: Shogun 2 – Complete Edition была снята с продаж из‑за багов и неудачной AI‑апскейлинговой обработки графики. Пользователи жаловались на визуальные артефакты, вызванные искусственным интеллектом.",
+   "term": "Апскейл — увеличение разрешения изображения с помощью алгоритмов ИИ.",
    "use": [
-    "Следите за официальными обновлениями от Sega, если планируете купить игру позже.",
-    "Если вам важна стабильность, подождите, пока разработчики исправят баги."
+    "Следите за отзывами о ремастерах, использующих AI, перед покупкой.",
+    "Если вы разрабатываете игры, тестируйте AI‑апскейл на разных устройствах, чтобы избежать проблем."
    ],
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "54d7a618ecd38b",
@@ -136,14 +186,15 @@
    "summary_en": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or […]",
    "pending": false,
    "title_ru": "Трамп разместил фото, отредактированное ИИ, о ремонте Белого дома",
-   "simple": "Бывший президент опубликовал снимок, где сравнивается старый и «отремонтированный» столб, но часть изображения была изменена с помощью ИИ. Детекторы ИИ отметили возможную подделку.",
-   "term": "Детектор ИИ — система, которая анализирует контент и определяет, был ли он создан искусственным интеллектом.",
+   "simple": "На Truth Social появился снимок, где сравнивается старый и «отремонтированный» столб Белого дома, но изображение оказалось изменённым с помощью ИИ. Детекторы ИИ отметили его как сгенерированное.",
+   "term": "AI‑детектор — система, определяющая, создано ли изображение искусственным интеллектом.",
    "use": [
-    "Будьте скептичны к визуальному контенту в соцсетях, проверяйте источники.",
-    "Если вам важно подтверждение подлинности, используйте онлайн‑детекторы ИИ."
+    "Будьте скептичны к визуальному контенту в соцсетях, особенно если он выглядит слишком идеальным.",
+    "При проверке достоверности изображений используйте онлайн‑детекторы ИИ."
    ],
    "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "97b696edc2ea3d",
@@ -155,15 +206,16 @@
    "title_en": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
    "summary_en": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
    "pending": false,
-   "title_ru": "Подкаст Uncanny Valley: Muse от Meta и тайные расходы AI‑PAC",
-   "simple": "В выпуске подкаста обсуждают неожиданную функцию Muse от Meta, крупные траты про‑AI политического комитета и то, как мужчины преувеличивают свои знания об ИИ. Это показывает, как быстро меняется ландшафт искусственного интеллекта.",
-   "term": "PAC — политический комитет действий, собирающий средства для поддержки определённых целей, в данном случае про‑AI.",
+   "title_ru": "Обзор новых функций Muse от Meta и расходов AI‑супер PAC",
+   "simple": "В подкасте обсуждаются неожиданная функция Muse от Meta, крупные траты про‑AI политической группы и заблуждения мужчин о своих знаниях в ИИ. Всё это показывает растущее влияние ИИ в разных сферах.",
+   "term": "",
    "use": [
-    "Послушайте эпизод, чтобы понять текущие тренды в AI‑индустрии.",
-    "Обратите внимание на новые функции Muse, если вы работаете с продуктами Meta."
+    "Подпишитесь на подкасты о ИИ, чтобы быть в курсе новых функций и трендов.",
+    "Следите за политическими инициативами в сфере ИИ, если они могут влиять на ваш бизнес."
    ],
    "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "9122daee4eec8e",
@@ -175,15 +227,16 @@
    "title_en": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
    "summary_en": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
    "pending": false,
-   "title_ru": "AI‑атаки оставляют след, а компании не платят за ущерб",
-   "simple": "Мощные модели ИИ продолжают вызывать проблемы, но пострадавшие организации редко добиваются компенсации, а вместо этого им советуют использовать те же инструменты ИИ для защиты. Это поднимает вопросы ответственности.",
-   "term": "Модель ИИ — программный алгоритм, обученный на больших данных для выполнения задач, например генерации текста.",
+   "title_ru": "AI‑взломы оставляют след, но компании не платят за ущерб",
+   "simple": "Мощные модели ИИ продолжают вызывать хаос, однако пострадавшие компании редко добиваются компенсации и вместо этого вынуждены использовать те же инструменты ИИ для защиты.",
+   "term": "",
    "use": [
-    "Оцените риски использования ИИ в своей работе и подготовьте план реагирования.",
-    "Изучите доступные инструменты ИИ для мониторинга и защиты от потенциальных атак."
+    "Оцените риски использования сторонних ИИ‑моделей в своей работе.",
+    "Разработайте внутренние политики по использованию ИИ, чтобы минимизировать потенциальный ущерб."
    ],
    "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "a01e02239da0a3",
@@ -196,14 +249,12 @@
    "summary_en": "",
    "pending": false,
    "title_ru": "Granite Switch 4.1: чат, решения и речь через один интерфейс",
-   "simple": "Компания представила новую платформу Granite Switch 4.1, которая объединяет чат, принятие решений и синтез речи в одном конечном пункте. Это упрощает интеграцию нескольких функций ИИ в приложениях.",
-   "term": "Endpoint — точка входа, через которую приложение взаимодействует с сервисами ИИ.",
-   "use": [
-    "Попробуйте подключить Granite Switch к вашему сервису, чтобы объединить чат и голосовые ответы в одном запросе.",
-    "Обратите внимание на совместимость вашего кода с новым API, чтобы использовать все три функции сразу."
-   ],
+   "simple": "Компания представила Granite Switch 4.1, который объединяет чат, принятие решений и синтез речи в одном конечном пункте. Это упрощает интеграцию нескольких функций ИИ в приложениях.",
+   "term": "",
+   "use": [],
    "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "21e3505542d990",
@@ -215,15 +266,16 @@
    "title_en": "Meta launches an open-weight AI model that runs on Macs",
    "summary_en": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
    "pending": false,
-   "title_ru": "Meta и Apple запустили локальную модель Muse Spark Open для Mac",
-   "simple": "Meta представила новую модель Muse Spark Open, которая работает прямо на компьютерах Mac с процессорами Apple silicon. Это значит, что ИИ‑функции будут работать без отправки данных в облако.",
-   "term": "Apple silicon — процессоры Apple, оптимизированные для их устройств",
+   "title_ru": "Meta выпустила открытый AI‑модель Muse Spark Open для Mac на Apple silicon",
+   "simple": "Meta совместно с Apple запустила модель Muse Spark Open, которую можно запускать локально на компьютерах с процессорами Apple silicon. Это позволяет использовать ИИ без отправки данных в облако.",
+   "term": "",
    "use": [
-    "Попробуйте установить Muse Spark Open на свой Mac и поэкспериментировать с локальными ИИ‑приложениями.",
-    "Обратите внимание на требования к памяти и версии macOS при установке модели."
+    "Установите модель на свой Mac и экспериментируйте с генерацией текста или изображений без интернета.",
+    "Обратите внимание на требования к железу — Apple silicon необходим для работы модели."
    ],
-   "category": "Железо",
-   "model": "openai/gpt-oss-120b"
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "2c7772f8550aec",
@@ -235,15 +287,16 @@
    "title_en": "Bluesky’s AI tool now lets you make games and apps to share on social",
    "summary_en": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said […]",
    "pending": false,
-   "title_ru": "Bluesky добавил в Attie AI возможность создавать небольшие игры и приложения",
-   "simple": "Инструмент Attie AI от Bluesky теперь позволяет пользователям создавать простые игры, опросы и дашборды, которые можно публиковать как отдельные сайты. Это расширяет возможности соцсети для креативных проектов.",
-   "term": "AI tool — программа, использующая искусственный интеллект для автоматизации задач",
+   "title_ru": "Bluesky добавила AI‑инструмент для создания игр и приложений в соцсети",
+   "simple": "Bluesky запустила Attie AI, который теперь позволяет создавать небольшие игры, опросы и дашборды и делиться ими как отдельными сайтами. Это расширяет возможности пользователей создавать интерактивный контент без кода.",
+   "term": "",
    "use": [
-    "Создайте небольшую игру или опрос в Attie AI и поделитесь им в своей ленте Bluesky.",
-    "Экспериментируйте с шаблонами, чтобы быстро собрать интерактивный контент без программирования."
+    "Попробуйте создать простую игру или опрос в Attie AI и разместите её в своей ленте Bluesky.",
+    "Используйте готовый шаблон для быстрого старта и изучите, как AI генерирует UI‑элементы."
    ],
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "69334bf7d5867e",
@@ -255,15 +308,16 @@
    "title_en": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
    "summary_en": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
    "pending": false,
-   "title_ru": "Панос Панай предсказывает будущее: AI‑устройства заменят приложения",
-   "simple": "На конференции Panos Panay из Amazon рассказал, что в будущем умные устройства будут работать в фоне, предугадывая потребности пользователей без необходимости открывать отдельные приложения. Это может изменить способ взаимодействия с техникой.",
-   "term": "ambient AI — искусственный интеллект, работающий постоянно в фоне и реагирующий на контекст без явных команд",
+   "title_ru": "Панос Панай: AI‑устройства будущего заменят необходимость в приложениях",
+   "simple": "На конференции TechCrunch Disrupt глава подразделения устройств Amazon заявил, что в будущем AI‑устройства будут работать в фоне, предугадывая потребности пользователей без запуска отдельных приложений. Это меняет подход к взаимодействию с техникой.",
+   "term": "",
    "use": [
-    "Следите за новыми функциями в устройствах Amazon, которые могут предлагать автоматические действия.",
-    "Подумайте, какие рутинные задачи можно автоматизировать с помощью таких AI‑устройств."
+    "Следите за новыми функциями в устройствах Amazon и пробуйте их в режиме «умный помощник».",
+    "Подумайте, какие повторяющиеся задачи можно автоматизировать с помощью голосовых команд."
    ],
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "6c8051f534fec6",
@@ -275,15 +329,16 @@
    "title_en": "Android gets AI defenses against messaging scams, fake calls",
    "summary_en": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
    "pending": false,
-   "title_ru": "Android получит AI‑защиту от мошеннических сообщений и звонков",
-   "simple": "Google анонсировал новые функции, использующие искусственный интеллект для обнаружения и блокировки мошеннических SMS и поддельных звонков на Android. Защита будет постепенно распространяться на совместимые устройства.",
-   "term": "AI‑защита — система, использующая искусственный интеллект для выявления и предотвращения угроз",
+   "title_ru": "Android получает AI‑защиту от мошеннических сообщений и звонков",
+   "simple": "Google внедряет AI‑механизмы, которые будут обнаруживать и блокировать мошеннические SMS и подменённые звонки на Android‑устройствах. Защита уже распространяется на совместимые модели.",
+   "term": "",
    "use": [
-    "Обновите Android‑устройство до последней версии, чтобы включить новые AI‑защиты.",
-    "Включите проверку подозрительных сообщений в настройках безопасности телефона."
+    "Обновите Android‑устройство до последней версии, чтобы включить новую защиту.",
+    "Включите автоматическое сканирование сообщений в настройках безопасности."
    ],
    "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "031cee9ab4e640",
@@ -295,15 +350,16 @@
    "title_en": "Anthropic is letting METR researchers look under the hood with employee-level access",
    "summary_en": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
    "pending": false,
-   "title_ru": "Anthropic открывает доступ METR‑исследователям к внутренним данным",
-   "simple": "Компания Anthropic разрешила исследователям METR получать полный доступ к своим внутренним материалам, чтобы они могли самостоятельно оценивать риски и практики разработки ИИ. Это повышает прозрачность в сфере передовых моделей.",
-   "term": "employee-level access — доступ сотрудников к внутренним данным и системам компании",
+   "title_ru": "Anthropic открывает доступ METR‑исследователям к внутренним данным компании",
+   "simple": "Anthropic разрешила исследователям METR получать доступ к своим внутренним процессам, чтобы они могли публиковать независимые оценки рисков и инцидентов. Это повышает прозрачность работы с передовыми AI‑моделями.",
+   "term": "",
    "use": [
-    "Следите за публикациями METR, чтобы узнать независимую оценку рисков Anthropic.",
-    "Используйте полученные выводы для более информированного выбора ИИ‑технологий в проектах."
+    "Следите за публикациями METR, чтобы узнать о потенциальных рисках использования крупных моделей.",
+    "Если вы работаете в сфере AI‑этики, изучайте открытые материалы для повышения квалификации."
    ],
    "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "a72d1e4da6b0e1",
@@ -315,15 +371,17 @@
    "title_en": "Bringing GPT-Rosalind to academic research labs",
    "summary_en": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
    "pending": false,
-   "title_ru": "GPT‑Rosalind для академических лабораторий",
-   "simple": "OpenAI запустила академический план, позволяющий исследовательским лабораториям бесплатно пользоваться моделью GPT‑Rosalind и сопутствующими инструментами. Это поможет ускорить исследования в биологии и медицине.",
-   "term": "",
+   "title_ru": "План Rosalind: бесплатный доступ к GPT‑Rosalind для академических лабораторий",
+   "simple": "OpenAI предлагает академическим лабораториям бесплатный доступ к модели GPT‑Rosalind и набору инструментов для исследований в биологии. Это поможет учёным быстрее проводить эксперименты без больших расходов на вычисления.",
+   "term": "GPT‑Rosalind — крупная языковая модель, адаптированная для задач в области биологических наук.",
    "use": [
-    "Подайте заявку на участие в академическом плане, если ваша лаборатория занимается биологическими исследованиями.",
-    "Используйте GPT‑Rosalind для генерации гипотез и анализа данных, экономя время на рутинных задачах."
+    "Подайте заявку, если ваша лаборатория соответствует требованиям программы.",
+    "Используйте предоставленные инструменты для анализа генетических данных.",
+    "Следите за обновлениями от OpenAI, чтобы получать новые возможности."
    ],
    "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "00b9e4087573b0",
@@ -335,15 +393,17 @@
    "title_en": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
    "summary_en": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
    "pending": false,
-   "title_ru": "Bluesky расширяет Attie: теперь любой может создавать сайты и игры",
-   "simple": "Bluesky добавила в свою экспериментальную платформу Attie возможность создавать интерактивные проекты — от игр до веб‑страниц. Это открывает путь к использованию аудитории соцсети для ваших творений.",
-   "term": "социальный кодинг — создание интерактивного контента, который напрямую взаимодействует с пользователями соцсети",
+   "title_ru": "Bluesky расширяет Attie: создавайте сайты и игры без кода",
+   "simple": "Платформа Attie от Bluesky теперь позволяет пользователям без программирования делать интерактивные проекты, такие как игры, викторины и сайты, используя возможности ИИ. Это открывает новые способы привлечения аудитории соцсети.",
+   "term": "социальный вэйб‑кодинг — создание интерактивного контента, который сразу же доступен аудитории соцсети.",
    "use": [
-    "Попробуйте собрать простую игру или викторину в Attie и поделиться ею со своей аудиторией.",
-    "Используйте готовые шаблоны Attie, чтобы быстро запустить небольшие веб‑проекты без программирования."
+    "Зайдите в Attie и выберите шаблон для вашего проекта.",
+    "Добавьте ИИ‑подсказки, чтобы быстро генерировать контент.",
+    "Поделитесь готовым проектом в своей ленте Bluesky, чтобы собрать отклики."
    ],
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "c7cea461bd6d67",
@@ -355,15 +415,17 @@
    "title_en": "Meta and Apple team up to make Muse AI models run better on Macs",
    "summary_en": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, […]",
    "pending": false,
-   "title_ru": "Meta и Apple ускоряют работу моделей Muse AI на Mac",
-   "simple": "Meta представила модель Muse Spark и совместно с Apple добилась её работы на настольных Mac‑устройствах с процессорами M5 Ultra. Это первый случай, когда такая модель может работать локально без облака.",
-   "term": "инференс — запуск уже обученной модели для получения ответов",
+   "title_ru": "Meta и Apple сделали модель Muse AI совместимой с Mac‑устройствами",
+   "simple": "Meta представила модель Muse Spark, самую мощную откры‑весовую модель в США, и совместно с Apple обеспечила её работу на настольных компьютерах с процессорами M5 Ultra. Это позволит разработчикам запускать сложные ИИ‑задачи локально.",
+   "term": "откры‑весовая модель — ИИ‑модель, доступная всем без ограничений по лицензии.",
    "use": [
-    "Установите последнюю версию MLX‑framework, чтобы попробовать запустить Muse Spark на своём Mac.",
-    "Экспериментируйте с локальными AI‑моделями, чтобы снизить задержки и зависимость от интернета."
+    "Установите последнюю версию MLX‑framework от Apple.",
+    "Запустите Muse Spark на совместимом Mac для тестов.",
+    "Экспериментируйте с локальными задачами, чтобы оценить производительность без облака."
    ],
    "category": "Модели",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "ef6c7beadf74ae",
@@ -375,16 +437,17 @@
    "title_en": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
    "summary_en": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and […]",
    "pending": false,
-   "title_ru": "Запуск NVIDIA RTX Spark: новые ПК для творчества и ИИ‑агентов",
-   "simple": "NVIDIA представила линейку ноутбуков RTX Spark, ориентированных на создателей контента, геймеров и работу с ИИ‑агентами. Это первый шаг к более широкому использованию ИИ в обычных компьютерах.",
-   "term": "ИИ‑агент — программный помощник, который может выполнять задачи, взаимодействуя с пользователем и другими сервисами",
+   "title_ru": "Запуск NVIDIA RTX Spark: новые ПК для творцов и ИИ‑агентов",
+   "simple": "NVIDIA представила линейку ноутбуков RTX Spark, оптимизированных под Windows и готовых к работе с ИИ‑агентами, играми и творческими задачами. Это первый массовый продукт, ориентированный на интеграцию ИИ в повседневные приложения.",
+   "term": "ИИ‑агент — программный помощник, который автоматически выполняет задачи, используя искусственный интеллект.",
    "category": "Железо",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Подумайте, какие задачи в вашей работе могут автоматизировать ИИ‑агенты.",
-    "Если выбираете новый ноутбук, обратите внимание на поддержку ИИ‑функций.",
-    "Экспериментируйте с предустановленными инструментами для творчества, использующими ИИ."
-   ]
+    "Посетите мероприятия NVIDIA, чтобы протестировать ноутбуки вживую.",
+    "Сравните характеристики RTX Spark с текущими устройствами, чтобы решить, нужен ли вам апгрейд.",
+    "Установите поддерживаемое программное обеспечение для работы с ИИ‑агентами."
+   ],
+   "money": null
   },
   {
    "id": "1b6257d3577252",
@@ -396,16 +459,17 @@
    "title_en": "Friends don’t let friends feed their data to AI agents",
    "summary_en": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also […]",
    "pending": false,
-   "title_ru": "Не позволяйте своим данным кормить AI‑ассистентов",
-   "simple": "Новые гаджеты и AI‑ассистенты, такие как Meta Muse, собирают данные не только о вас, но и о людях вокруг, часто без их согласия. Это вызывает опасения о конфиденциальности.",
-   "term": "AI‑ассистент — программное приложение, использующее ИИ для выполнения запросов пользователя, например ответы на вопросы или управление устройствами",
-   "category": "Регулирование",
+   "title_ru": "Не позволяйте друзьям делиться вашими данными с ИИ‑ассистентами",
+   "simple": "В статье предупреждают, что новые AI‑ассистенты, такие как Muse от Meta, могут собирать данные не только от вас, но и от окружающих, часто без их согласия. Это поднимает вопросы конфиденциальности и этики использования ИИ.",
+   "term": "конфиденциальность данных — защита личной информации от несанкционированного доступа и использования.",
+   "category": "Безопасность",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Проверьте настройки конфиденциальности в своих устройствах и отключите лишний сбор данных.",
-    "Изучите политику конфиденциальности сервисов, которыми пользуетесь.",
-    "Ограничьте использование AI‑ассистентов в общественных местах, где присутствуют другие люди."
-   ]
+    "Отключите сбор данных в настройках AI‑ассистента, если это возможно.",
+    "Информируйте близких о том, какие данные могут собираться, и просите их согласия.",
+    "Регулярно проверяйте политику конфиденциальности сервисов, которыми пользуетесь."
+   ],
+   "money": null
   },
   {
    "id": "97f8573c584b77",
@@ -417,16 +481,17 @@
    "title_en": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
    "summary_en": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear […]",
    "pending": false,
-   "title_ru": "Windows оптимизирует работу ноутбуков RTX Spark от Nvidia",
-   "simple": "Microsoft и Nvidia провели презентацию новых ноутбуков RTX Spark, где показали, как Windows будет лучше поддерживать их AI‑возможности. Это важный шаг к более тесной интеграции программного обеспечения и железа.",
-   "term": "",
+   "title_ru": "Windows оптимизирует работу на ноутбуках NVIDIA RTX Spark",
+   "simple": "Microsoft совместно с NVIDIA представили ноутбуки RTX Spark, где Windows специально настроена для лучшей работы с ИИ‑функциями. На мероприятии продемонстрировали возможности новых AI‑ПК в реальном времени.",
+   "term": "оптимизация ОС — настройка операционной системы для более эффективного использования аппаратных возможностей.",
    "category": "Железо",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Следите за обновлениями Windows, которые обещают улучшения для AI‑приложений.",
-    "Если планируете покупку ноутбука, учитывайте совместимость с последними версиями Windows.",
-    "Тестируйте новые функции AI в реальных задачах, чтобы понять их пользу."
-   ]
+    "Обновите Windows до последней версии, чтобы получить оптимизации для RTX Spark.",
+    "Проверьте совместимость ваших приложений с новыми AI‑функциями.",
+    "Используйте демонстрационные сценарии, чтобы понять, как ИИ может ускорить вашу работу."
+   ],
+   "money": null
   },
   {
    "id": "996b33c09ad574",
@@ -438,16 +503,13 @@
    "title_en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
    "summary_en": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
    "pending": false,
-   "title_ru": "Google Antigravity ускоряет поиск новых антимикробных пептидов",
-   "simple": "Google применяет свою платформу Antigravity для ускорения поиска новых антимикробных пептидов, используя ИИ для анализа огромных биологических данных. Это может помочь в разработке новых лекарств.",
-   "term": "Антимикробный пептид — короткая белковая молекула, способная уничтожать бактерии и другие микроорганизмы",
+   "title_ru": "Google ускоряет поиск новых антимикробных пептидов",
+   "simple": "Google DeepMind использует инструмент Antigravity для ускорения поиска новых антимикробных пептидов. Это поможет быстрее находить вещества, которые могут бороться с инфекциями.",
+   "term": "Antigravity — инструмент, позволяющий быстро находить и анализировать биологические последовательности",
    "category": "Исследования",
-   "model": "openai/gpt-oss-120b",
-   "use": [
-    "Следите за публикациями о новых методах поиска лекарств с ИИ.",
-    "Если работаете в биотехнологиях, изучите возможности платформ Antigravity для своих проектов.",
-    "Учитывайте, что ИИ может ускорять предварительный отбор кандидатов, но лабораторные проверки всё равно необходимы."
-   ]
+   "model": "openai/gpt-oss-20b",
+   "use": [],
+   "money": null
   },
   {
    "id": "1cc24ddce8a425",
@@ -459,15 +521,13 @@
    "title_en": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
    "summary_en": "FTC may fine AI firms on par with companies that delay data breach reports.",
    "pending": false,
-   "title_ru": "FTC проверяет Anthropic и OpenAI после заявлений Трампа о «мошенничестве» ИИ",
-   "simple": "Комиссия США по торговле начала расследование компаний Anthropic и OpenAI. Это может привести к штрафам, если фирмы нарушат правила отчётности о проблемах с данными.",
-   "term": "регуляторный надзор — контроль со стороны государственных органов за соблюдением законов компаниями",
+   "title_ru": "FTC расследует компании Anthropic и OpenAI после заявлений Трампа",
+   "simple": "FTC рассматривает возможность штрафов для компаний Anthropic и OpenAI, если они задерживают сообщения о нарушениях безопасности данных. Это может повлиять на правила раскрытия информации в ИИ.",
+   "term": "FTC — Федеральная торговая комиссия, регулирующая бизнес‑практики в США",
    "category": "Регулирование",
-   "model": "openai/gpt-oss-120b",
-   "use": [
-    "Следите за новостями о возможных изменениях в правилах работы ИИ‑компаний.",
-    "Если вы используете сервисы этих компаний, проверяйте их политику конфиденциальности и условия использования."
-   ]
+   "model": "openai/gpt-oss-20b",
+   "use": [],
+   "money": null
   },
   {
    "id": "a112a9fc327861",
@@ -479,15 +539,13 @@
    "title_en": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
    "summary_en": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
    "pending": false,
-   "title_ru": "YouTube Music начнёт помечать треки, созданные ИИ",
-   "simple": "В сервисе YouTube Music появятся метки, указывающие, что песню создал искусственный интеллект. Позже такая же система будет добавлена и на YouTube.",
-   "term": "генеративный ИИ — модель, способная создавать новые тексты, изображения или музыку",
+   "title_ru": "YouTube Music добавит AI‑метки к трекам",
+   "simple": "YouTube Music теперь показывает, какие треки созданы искусственным интеллектом. Это поможет пользователям лучше понимать происхождение музыки.",
+   "term": "AI‑метка — обозначение, указывающее, что композиция создана с помощью искусственного интеллекта",
    "category": "Применение",
-   "model": "openai/gpt-oss-120b",
-   "use": [
-    "Обращайте внимание на метки, если хотите поддержать авторов‑людей.",
-    "Если вы музыкант, учитывайте, что ваши треки могут быть помечены как ИИ‑созданные и влиять на восприятие аудитории."
-   ]
+   "model": "openai/gpt-oss-20b",
+   "use": [],
+   "money": null
   },
   {
    "id": "a040032c190037",
@@ -500,14 +558,12 @@
    "summary_en": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
    "pending": false,
    "title_ru": "В автомобилях Rivian появятся AI‑агенты",
-   "simple": "Rivian планирует внедрить в свои электромобили интеллектуальных помощников. Подробности будут раскрыты на мероприятии «AI & Autonomy Day» в декабре.",
-   "term": "AI‑агент — программный помощник, способный выполнять задачи и взаимодействовать с пользователем",
+   "simple": "Rivian планирует внедрить AI‑агентов в свои автомобили. Подробности будут раскрыты на мероприятии в декабре.",
+   "term": "AI‑агент — автономный программный компонент, который может выполнять задачи без вмешательства человека",
    "category": "Агенты",
-   "model": "openai/gpt-oss-120b",
-   "use": [
-    "Следите за анонсом мероприятия, чтобы узнать, какие функции будут доступны в новых моделях.",
-    "Если вы рассматриваете покупку Rivian, оцените, насколько такие помощники могут упростить вождение и обслуживание."
-   ]
+   "model": "openai/gpt-oss-20b",
+   "use": [],
+   "money": null
   },
   {
    "id": "902189e10f1e2e",
@@ -519,15 +575,13 @@
    "title_en": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
    "summary_en": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]",
    "pending": false,
-   "title_ru": "NVIDIA выпустила новые модели Nemotron: Super VL и Bolt",
-   "simple": "NVIDIA представила открытые модели Nemotron 3.5 Super VL и две версии Bolt, оптимизированные для работы на локальных устройствах. Они обещают высокую скорость и точность для постоянных задач ИИ.",
-   "term": "инференс — запуск уже обученной модели для получения ответов",
-   "category": "Модели",
-   "model": "openai/gpt-oss-120b",
-   "use": [
-    "Если вы разрабатываете небольшие ИИ‑приложения, попробуйте модели Bolt для экономии ресурсов.",
-    "Для задач, требующих высокой точности, рассмотрите использование Super VL в облаке или на мощных серверах."
-   ]
+   "title_ru": "NVIDIA выпускает новые модели Nemotron для локальных задач",
+   "simple": "NVIDIA представила Nemotron 3.5 Super VL и две модели Bolt для работы на устройствах. Они обещают высокую эффективность и точность для задач, требующих постоянного присутствия модели.",
+   "term": "Nemotron — семейство больших языковых моделей, оптимизированных для разных задач",
+   "category": "Железо",
+   "model": "openai/gpt-oss-20b",
+   "use": [],
+   "money": null
   },
   {
    "id": "faf4d5dfcd6c5d",
@@ -539,15 +593,13 @@
    "title_en": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
    "summary_en": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where […]",
    "pending": false,
-   "title_ru": "Робот‑игрушка Eiliko собирает данные и отправляет их в Китай",
-   "simple": "Новый интерактивный робот‑питомец сохраняет всё, что вы ему говорите, на китайских серверах, где данные могут быть уязвимы для взлома. Это вызывает опасения о конфиденциальности.",
-   "term": "конфиденциальность данных — защита личной информации от несанкционированного доступа",
+   "title_ru": "Кукольный робот «Eiliko» хранит данные в Китае",
+   "simple": "Новый цифровой питомец «Eiliko» отправляет все разговоры на китайские серверы. Это может поставить под угрозу конфиденциальность пользователей, особенно детей.",
+   "term": "Wi-Fi — беспроводная сеть, позволяющая устройствам подключаться к интернету",
    "category": "Безопасность",
-   "model": "openai/gpt-oss-120b",
-   "use": [
-    "Отключайте Wi‑Fi у робота, если не планируете использовать онлайн‑функции.",
-    "Изучите политику конфиденциальности производителя перед покупкой подобных устройств."
-   ]
+   "model": "openai/gpt-oss-20b",
+   "use": [],
+   "money": null
   },
   {
    "id": "b4faeb1cc12acc",
