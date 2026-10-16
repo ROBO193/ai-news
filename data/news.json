@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T08:55:03Z",
+ "updated": "2026-10-16T09:56:24Z",
  "failedSources": [],
  "items": [
   {
@@ -602,26 +602,6 @@
    "money": null
   },
   {
-   "id": "b4faeb1cc12acc",
-   "date": "2026-10-15T14:29:33Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-   "title_en": "Google’s Universal Cart shopping tool launches in the US",
-   "summary_en": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-   "pending": false,
-   "title_ru": "Google запустил Universal Cart — новый инструмент покупок в США",
-   "simple": "Google представил сервис Universal Cart, позволяющий искать и покупать товары прямо в поиске и приложении Gemini. Инструмент уже доступен в США.",
-   "term": "",
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b",
-   "use": [
-    "Попробуйте искать товары через Google Search, чтобы увидеть, как работает новый сервис.",
-    "Если вы продаёте онлайн, проверьте, как ваш товар отображается в Universal Cart, чтобы улучшить видимость."
-   ]
-  },
-  {
    "id": "f616628c1389da",
    "date": "2026-10-15T14:03:42Z",
    "addedAt": "2026-10-15T17:18:23Z",
@@ -631,16 +611,17 @@
    "title_en": "Nobody is safe from celebrity AI deepfakes",
    "summary_en": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive home the point, the song \"Single […]",
    "pending": false,
-   "title_ru": "Deepfake‑видео с известными людьми вызывают тревогу",
-   "simple": "В Instagram появилось изображение, где будто бы актриса Миа Гот держит футболку с надписью «Мой бывший — мой главный фанат». Это подделка, созданная с помощью ИИ, и показывает, как легко можно манипулировать репутацией знаменитостей.",
-   "term": "deepfake — подделка изображения или видео с помощью искусственного интеллекта, имитирующая реального человека",
+   "title_ru": "Глубокие фейки знаменитостей: опасность для всех",
+   "simple": "В сети появилось поддельное изображение актрисы Мии Гот, созданное с помощью ИИ. Это показывает, как легко можно подделать лицо знаменитости и ввести в заблуждение публику.",
+   "term": "Deepfake — подделка медиа‑контента с помощью искусственного интеллекта, имитирующая реальное изображение или звук.",
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Проверяйте источники и ищите подтверждения в официальных аккаунтах перед тем как делиться подобным контентом.",
-    "Если работаете с брендами, внедрите инструменты мониторинга ИИ‑подделок для защиты репутации.",
-    "Будьте скептичны к ярким заявлениям в соцсетях, особенно если они сопровождаются визуальными материалами."
-   ]
+    "Будьте скептичны к неожиданным фото и видео в соцсетях.",
+    "Проверяйте источники и ищите подтверждения в официальных аккаунтах.",
+    "Если работаете с контентом, используйте инструменты проверки подлинности."
+   ],
+   "money": null
   },
   {
    "id": "5d774caabf5a04",
@@ -652,16 +633,17 @@
    "title_en": "Is AI pentesting as good as a human pentester?",
    "summary_en": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]",
    "pending": false,
-   "title_ru": "AI‑тестирование безопасности vs. человеческие специалисты",
-   "simple": "Системы ИИ могут находить уязвимости, которые упускают люди, но им не хватает постоянства, оценки рисков и понимания бизнес‑контекста. Статья сравнивает сильные и слабые стороны обоих подходов.",
-   "term": "pentesting — проверка компьютерных систем на наличие уязвимостей",
+   "title_ru": "AI‑тестирование безопасности: может ли заменить человека?",
+   "simple": "Искусственный интеллект способен находить уязвимости, которые иногда упускают люди, но у него есть ограничения в оценке риска и понимании бизнес‑контекста.",
+   "term": "Pentesting — проверка системы на наличие уязвимостей, обычно с целью их устранения.",
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Используйте AI‑инструменты как дополнение к работе специалистов, а не как замену.",
-    "Регулярно проверяйте результаты ИИ‑тестов вручную, чтобы оценить их релевантность для вашего бизнеса.",
-    "Обучайте сотрудников понимать ограничения ИИ‑тестеров, чтобы правильно интерпретировать их выводы."
-   ]
+    "Попробуйте добавить AI‑инструменты в процесс аудита безопасности для дополнительного сканирования.",
+    "Сочетайте результаты AI с ручным анализом, чтобы учесть бизнес‑аспекты.",
+    "Следите за обновлениями AI‑решений, они могут расширять покрытие тестов."
+   ],
+   "money": null
   },
   {
    "id": "d15fa47c423ed7",
@@ -673,16 +655,17 @@
    "title_en": "ServiceNow gives AI agents a passport, and limits on what they can do",
    "summary_en": "ServiceNow has announced a new AI Passport solution and significant advances in AI governance to help ensure AI agents are production-ready by combining runtime governance, platform integration, and comprehensive oversight, all inside ServiceNow’s operational AI harness. Specifically, AI Passport is a new authority layer that gives enterprises runtime control over what AI agents and Model Context Protocol (MCP) servers are authorized to do at every point in a multi-agent workflow. ServiceNow also enables enterprises to … More → The post ServiceNow gives AI agents a passport, and limits on what they can do appeared first on Help Net Security .",
    "pending": false,
-   "title_ru": "ServiceNow вводит «AI Passport» для контроля агентов",
-   "simple": "Компания ServiceNow представила решение AI Passport, которое позволяет управлять тем, что могут делать ИИ‑агенты в рабочем процессе, добавляя слой контроля и надзора.",
-   "term": "AI Passport — механизм, ограничивающий действия ИИ‑агентов в реальном времени согласно политике компании",
+   "title_ru": "ServiceNow ввёл AI‑паспорт и ограничения для агентов",
+   "simple": "Компания ServiceNow представила AI Passport — слой управления, который контролирует, что могут делать AI‑агенты в рабочем процессе, повышая безопасность и надёжность.",
+   "term": "AI Passport — механизм, позволяющий задавать правила и ограничения для работы искусственного интеллекта в реальном времени.",
    "category": "Агенты",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Настройте правила доступа для ИИ‑агентов в соответствии с вашими внутренними требованиями безопасности.",
-    "Внедрите мониторинг выполнения политик AI Passport, чтобы быстро реагировать на отклонения.",
-    "Обучите сотрудников, работающих с ИИ, принципам использования AI Passport для снижения рисков."
-   ]
+    "Если используете ServiceNow, включите AI Passport для контроля действий агентов.",
+    "Определите, какие задачи могут выполнять AI‑агенты, а какие оставьте людям.",
+    "Регулярно проверяйте логи работы агентов, чтобы убедиться в соблюдении правил."
+   ],
+   "money": null
   },
   {
    "id": "6702d1aaf0afce",
@@ -694,16 +677,13 @@
    "title_en": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
    "summary_en": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was \"about $4.8bn\" Q2 (Apr/May/Jun) was $11.5bn Q3 (Jul/Aug/Sep) was $16.8bn In Q3: $1.70 in revenue for every $1 spent on \"computing power\" Adjusted operating margins (excluding stock-based compensation) were 11% This point about distillation is worth quoting in full (highlight mine): The start-up has also clamped down on “distillation” — a…",
    "pending": false,
-   "title_ru": "Anthropic сообщает рост доходов перед IPO",
-   "simple": "Компания Anthropic, разрабатывающая крупные языковые модели, объявила о значительном увеличении выручки за квартал, готовясь к первичному публичному размещению акций.",
-   "term": "",
+   "title_ru": "Anthropic сообщает рост квартального дохода почти на 50% до $16.8 млрд перед IPO",
+   "simple": "Компания Anthropic объявила, что её доход за последний квартал вырос почти на половину. Это показывает, что интерес к её ИИ‑технологиям растёт, и компания готовится к публичному размещению акций.",
+   "term": "дистилляция — процесс упрощения большой модели ИИ до более лёгкой, сохраняющей основные возможности.",
    "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b",
-   "use": [
-    "Следите за новостями о выходе IPO, если интересуетесь инвестициями в ИИ‑компании.",
-    "Оцените, как рост доходов Anthropic может влиять на конкуренцию в сфере больших языковых моделей.",
-    "Если работаете в сфере ИИ, изучите публичные материалы компании для понимания её технологий и подходов."
-   ]
+   "use": [],
+   "money": null
   },
   {
    "id": "fa14b8f7db4605",
@@ -715,16 +695,17 @@
    "title_en": "Teaching students to think and learn through questions",
    "summary_en": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
    "pending": false,
-   "title_ru": "AI помогает учителям задавать вопросы и учить учеников",
-   "simple": "OpenAI предлагает инструмент Study Mode на португальском, который помогает преподавателям вести пошаговое обучение через вопросы, поддерживая активное участие учеников.",
+   "title_ru": "Обучение через вопросы: AI‑инструменты для учителей в Бразилии",
+   "simple": "OpenAI предлагает новый режим Study Mode, помогающий учителям задавать вопросы и вести пошаговое обучение. Это может сделать занятия более интерактивными.",
    "term": "",
    "category": "Применение",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Попробуйте использовать Study Mode в своих уроках, задавая последовательные вопросы для проверки понимания.",
-    "Внедрите AI‑поддержку в подготовку учебных материалов, чтобы делать их более интерактивными.",
-    "Обучайте учеников формулировать вопросы, используя подсказки от AI, для развития критического мышления."
-   ]
+    "Попробуйте включить Study Mode в своих уроках, чтобы задавать ученикам вопросы и получать подсказки.",
+    "Используйте AI‑поддержку для создания пошаговых инструкций по темам, которые изучаете.",
+    "Отслеживайте, как ученики реагируют на интерактивные вопросы, и корректируйте подход."
+   ],
+   "money": null
   },
   {
    "id": "a3fa54bbd59382",
@@ -736,16 +717,17 @@
    "title_en": "Amazon’s Bee launches two new personal AI devices, starting at $75",
    "summary_en": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
    "pending": false,
-   "title_ru": "Amazon‑Bee выпускает новые AI‑устройства от $75",
-   "simple": "Бренд Bee, принадлежащий Amazon, представил обновлённый носимый гаджет и мини‑рекордер, которые могут подытоживать разговоры, создавать списки дел и работать с Alexa.",
+   "title_ru": "Amazon Bee выпускает два новых персональных AI‑устройства от $75",
+   "simple": "Компания Amazon представила обновлённый носимый гаджет и мини‑рекордер, которые могут суммировать разговоры и создавать списки дел, работая с Alexa. Цены начинаются от 75 долларов.",
    "term": "",
-   "category": "Применение",
+   "category": "Железо",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Попробуйте новое устройство Bee для автоматического создания заметок после встреч.",
-    "Интегрируйте функции подытоживания разговоров в ваш рабочий процесс, чтобы экономить время на записи.",
-    "Если используете Alexa, настройте синхронизацию с Bee для более удобного управления покупками и задачами."
-   ]
+    "Подключите новое устройство к своему смартфону, чтобы получать автоматические резюме встреч.",
+    "Используйте функцию создания списков дел для организации ежедневных задач.",
+    "Интегрируйте устройство с Alexa для упрощения онлайн‑покупок."
+   ],
+   "money": null
   },
   {
    "id": "adaf79e50c2e54",
@@ -757,16 +739,17 @@
    "title_en": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
    "summary_en": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the aim of making it easier […]",
    "pending": false,
-   "title_ru": "Google запускает универсальную онлайн‑корзину для покупок",
-   "simple": "Google представил умную онлайн‑корзину, которая будет работать в приложении Gemini и поиске. Она поможет быстрее собирать товары, особенно в период распродаж и праздников.",
+   "title_ru": "Google запускает универсальную онлайн‑корзину с AI перед праздниками",
+   "simple": "Google представил интеллектуальную корзину покупок, которая помогает находить и добавлять товары в один клик. Инструмент уже доступен в США через поиск и приложение Gemini.",
    "term": "",
    "category": "Применение",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Попробуйте включить функцию в настройках Google, если она уже доступна в вашем регионе.",
-    "Следите за рекомендациями корзины, чтобы быстрее находить нужные товары.",
-    "Обратите внимание на то, как сервис использует ваши данные при формировании рекомендаций."
-   ]
+    "Проверьте функцию Universal Cart в поиске Google, чтобы быстрее собирать список подарков.",
+    "Используйте её для сравнения цен и вариантов доставки в одном месте.",
+    "Обратите внимание на рекомендации AI, но проверяйте детали вручную."
+   ],
+   "money": null
   },
   {
    "id": "e3c36d4422c612",
@@ -778,12 +761,13 @@
    "title_en": "Apertus 1.5 Release Notes",
    "summary_en": "",
    "pending": false,
-   "title_ru": "Apertus 1.5: новые возможности",
-   "simple": "Выпущена версия 1.5 продукта Apertus, но детали анонса не раскрыты. Возможно, обновление содержит улучшения в работе с ИИ.",
+   "title_ru": "Apertus 1.5: новые возможности модели",
+   "simple": "Выпущена версия 1.5 модели Apertus, содержащая обновления и улучшения. Это может быть полезно разработчикам, работающим с открытыми ИИ‑моделями.",
    "term": "",
-   "category": "Разработка",
+   "category": "Open source",
    "model": "openai/gpt-oss-120b",
-   "use": []
+   "use": [],
+   "money": null
   },
   {
    "id": "b3b29f01540659",
@@ -796,15 +780,16 @@
    "summary_en": "Optro has expanded its portfolio of autonomous AI agents for enterprise risk teams. Its GRC Intelligence Platform combines purpose-built governance, risk, and compliance capabilities with human oversight, allowing agents to operate within team-defined guardrails and risk appetites. Every agent action, decision, model entry, and evidence trail is logged and cited to support transparency and audit readiness. “Every risk leader is asking two questions: what are your AI agents standing on, and how are you governing … More → The post Optro automates GRC workflows with auditable AI agents appeared first on Help Net Security .",
    "pending": false,
    "title_ru": "Optro автоматизирует GRC‑процессы с помощью проверяемых AI‑агентов",
-   "simple": "Optro добавила автономных AI‑агентов в платформу управления рисками. Их действия фиксируются, что упрощает аудит и контроль.",
-   "term": "AI‑агент — программный модуль, который самостоятельно выполняет задачи, используя искусственный интеллект, но под контролем человека.",
+   "simple": "Optro добавила автономных AI‑агентов в свою платформу управления рисками, которые работают в рамках заданных ограничений и фиксируют каждый шаг для аудита. Это повышает прозрачность и контроль над процессами.",
+   "term": "",
    "category": "Агенты",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Оцените, какие рутинные задачи в вашей компании можно передать AI‑агентам для снижения нагрузки.",
-    "Убедитесь, что все действия агентов логируются, чтобы обеспечить прозрачность.",
-    "Настройте ограничения (guardrails) для агентов, соответствующие политике риска вашей организации."
-   ]
+    "Ознакомьтесь с возможностями Optro, если ваша компания управляет рисками и требуется аудит действий AI.",
+    "Настройте guardrails (ограничения) для агентов, чтобы они действовали в рамках политики компании.",
+    "Используйте журнал действий агентов для подготовки отчетов и проверок."
+   ],
+   "money": null
   },
   {
    "id": "86d6db3d97df3c",
@@ -816,16 +801,16 @@
    "title_en": "Qualys introduces TruConfidence to orchestrate cyber risk remediation",
    "summary_en": "Qualys has announced TruRisk Eliminate 2.0 with TruConfidence, a new remediation intelligence and orchestration engine that powers Qualys’ vision for Autonomous RemOps, a new category for the frontier AI era. Built on Qualys’ extensive experience of deploying half a billion patches with less than 0.1% rollback, of which 40% were deployed autonomously, TruRisk Eliminate combines the latest advances in autonomous remediation, remediation intelligence and orchestration to help organizations confidently eliminate cyber risk at machine speed … More → The post Qualys introduces TruConfidence to orchestrate cyber risk remediation appeared first on Help Net Security .",
    "pending": false,
-   "title_ru": "Qualys представил TruConfidence для автоматического устранения киберрисков",
-   "simple": "Qualys запустила новый движок TruConfidence, который автоматизирует исправление уязвимостей и ускоряет процесс защиты. Технология использует ИИ для принятия решений в реальном времени.",
-   "term": "Автономный RemOps — автоматизированный процесс управления исправлением уязвимостей с помощью ИИ без постоянного вмешательства человека.",
+   "title_ru": "Qualys представила TruConfidence для автоматизации устранения киберрисков",
+   "simple": "Компания Qualys запустила TruConfidence — движок, который помогает автоматически исправлять уязвимости. Это часть их стратегии автономных операций по безопасности, что ускорит защиту систем.",
+   "term": "Orchestration — координация действий разных инструментов для совместного выполнения задачи",
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Проверьте, поддерживает ли ваш антивирус интеграцию с решениями Qualys.",
-    "Настройте автоматическое развертывание патчей, если ваша инфраструктура позволяет.",
-    "Следите за журналами действий системы, чтобы убедиться в корректности автоматических исправлений."
-   ]
+    "Оцените, какие процессы исправления уязвимостей в вашей компании можно автоматизировать.",
+    "Следите за появлением решений от Qualys и протестируйте их в пилотных проектах."
+   ],
+   "money": null
   },
   {
    "id": "6bef8c5bb894ac",
@@ -837,16 +822,16 @@
    "title_en": "Immuta CISO predicts critical AI incidents at major enterprises within 18 months",
    "summary_en": "In this Help Net Security interview, Michael Scott, CISO at Immuta, talks about how organizations should handle permissions for AI agents. He argues agents should be treated as lower-trust identities that don’t inherit everything their user can access. Scott explains why agent privilege creep differs from the human kind, how authority should pass to sub-agents, and why authentication alone does not secure what an agent does. He predicts at least two major enterprises outside the … More → The post Immuta CISO predicts critical AI incidents at major enterprises within 18 months appeared first on Help Net Security .",
    "pending": false,
-   "title_ru": "CISO Immuta предсказывает крупные AI‑инциденты в крупных компаниях в ближайшие 18 месяцев",
-   "simple": "Главный специалист по безопасности Immuta считает, что в ближайшее время произойдут серьёзные инциденты, связанные с AI‑агентами. Он советует ограничивать права агентов, как у низкоуровневых пользователей.",
-   "term": "Привилегия агента — набор прав доступа, предоставляемый AI‑агенту, который должен быть ограничен, чтобы избежать злоупотреблений.",
+   "title_ru": "CISO Immuta предсказывает критические инциденты с ИИ в крупных компаниях в течение 18 месяцев",
+   "simple": "Главный специалист по безопасности Immuta считает, что ИИ‑агенты могут стать причиной серьёзных проблем, если их права доступа не ограничить. Он советует рассматривать их как отдельные, менее доверенные сущности.",
+   "term": "Privilege creep — постепенное накопление прав доступа, которое может привести к уязвимостям",
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Назначайте AI‑агентам минимальные необходимые права доступа.",
-    "Внедрите процесс регулярного пересмотра привилегий агентов.",
-    "Обеспечьте отдельный аудит логов действий агентов для раннего обнаружения аномалий."
-   ]
+    "Внедрите отдельные учетные записи для ИИ‑агентов с минимальными правами.",
+    "Периодически проверяйте, какие права получили ваши ИИ‑системы."
+   ],
+   "money": null
   },
   {
    "id": "2a1cef5cea0522",
@@ -858,16 +843,16 @@
    "title_en": "The internet’s attack surface moves at very different speeds",
    "summary_en": "Censys found that AI-related software exposed to the public internet grew 63% in nine months, from 164,088 IP addresses in October 2025 to 267,915 in July 2026. Elsewhere in its scans, the internet-scanning company measured much slower movement. Exposed industrial control systems rose about 4% in two and a half years. The oldest versions of four widely deployed business products barely changed their share at all. AI tools are the fast part The growth spans … More → The post The internet’s attack surface moves at very different speeds appeared first on Help Net Security .",
    "pending": false,
-   "title_ru": "Поверхность атаки интернета ускоряется из‑за AI‑инструментов",
-   "simple": "Исследователи Censys обнаружили, что количество публичных IP‑адресов с AI‑программами выросло на 63 % за девять месяцев, тогда как другие системы меняются медленнее. Это делает AI‑инструменты быстрым вектором атак.",
-   "term": "Поверхность атаки — совокупность всех точек, через которые злоумышленники могут попытаться проникнуть в систему.",
+   "title_ru": "Экспозиция AI‑программ в интернете выросла на 63% за девять месяцев",
+   "simple": "Исследователи Censys обнаружили, что количество AI‑инструментов, доступных из интернета, резко увеличилось, тогда как другие системы меняются медленнее. Это повышает риск атак на такие сервисы.",
+   "term": "Attack surface — совокупность всех точек входа, через которые злоумышленники могут атаковать систему",
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Проверьте, какие AI‑сервисы работают в вашей сети, и ограничьте их доступ из интернета.",
-    "Обновляйте и патчьте AI‑приложения так же часто, как и остальное ПО.",
-    "Внедрите мониторинг трафика к публичным IP‑адресам, где размещены AI‑инструменты."
-   ]
+    "Проверьте, какие AI‑сервисы в вашей инфраструктуре открыты наружу.",
+    "Обеспечьте их защиту с помощью брандмауэров и мониторинга трафика."
+   ],
+   "money": null
   },
   {
    "id": "7ca19f22fe3774",
@@ -879,16 +864,16 @@
    "title_en": "AI-generated changes create review bottlenecks in software delivery",
    "summary_en": "83.4% of respondents who use DevOps practices run CI/CD pipelines, making them the most widely adopted practice in that group, according to JetBrains’ The State of CI/CD in 2026 report. Adoption exceeds that of containerisation and orchestration, infrastructure as code, GitOps and platform engineering. CI/CD is still at the center of software delivery (Source: JetBrains) Client demands and legacy systems drive tool choices GitHub Actions leads organizational adoption, followed by GitLab CI and Jenkins. Azure … More → The post AI-generated changes create review bottlenecks in software delivery appeared first on Help Net Security .",
    "pending": false,
-   "title_ru": "AI‑созданные изменения замедляют проверку кода в CI/CD",
-   "simple": "Большинство компаний используют автоматические конвейеры CI/CD, но когда изменения генерирует ИИ, проверка кода становится узким местом. Это важно, потому что замедление релизов может повлиять на скорость разработки.",
-   "term": "CI/CD — процесс непрерывной интеграции и доставки, позволяющий автоматически собирать, тестировать и выпускать программное обеспечение.",
+   "title_ru": "AI‑созданные изменения замедляют процесс проверки кода в DevOps",
+   "simple": "Отчёт JetBrains показывает, что автоматические изменения, генерируемые ИИ, вызывают задержки в проверке кода, хотя CI/CD остаётся самым популярным подходом в разработке.",
+   "term": "CI/CD — непрерывная интеграция и доставка, автоматизирующие сборку, тестирование и развертывание кода",
    "category": "Разработка",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Внедрите дополнительные автоматические проверки качества кода для AI‑генерируемых изменений.",
-    "Сократите время ревью, используя инструменты статического анализа, настроенные под AI‑созданный код.",
-    "Обучите команду распознавать типичные ошибки, появляющиеся в AI‑сгенерированных патчах."
-   ]
+    "Настройте правила автоматической проверки, чтобы фильтровать ИИ‑генерируемый код.",
+    "Обучайте команду быстро оценивать и принимать такие изменения."
+   ],
+   "money": null
   },
   {
    "id": "134069d44702de",
@@ -900,16 +885,16 @@
    "title_en": "Figma announces new features to define how agents work on its platform",
    "summary_en": "Figma is also releasing its code layers feature in open beta.",
    "pending": false,
-   "title_ru": "Figma добавила новые функции для работы агентов и открытый бета‑режим код‑слоёв",
-   "simple": "Figma представила возможности, позволяющие задавать правила поведения агентов на своей платформе, а также запустила открытый бета‑тест функции код‑слоёв. Это может упростить автоматизацию дизайна и интеграцию кода.",
-   "term": "Агент — программный компонент, который автоматически выполняет задачи, реагируя на события в системе.",
-   "category": "Агенты",
+   "title_ru": "Figma анонсировала новые функции для работы с агентами и открытый бета‑режим кодовых слоёв",
+   "simple": "Figma добавила возможность управлять агентами на своей платформе и запустила бета‑тестирование функции кодовых слоёв, что упрощает интеграцию дизайна и кода.",
+   "term": "Code layers — слой в дизайне, содержащий готовый код, который можно экспортировать и использовать в проектах",
+   "category": "Разработка",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Попробуйте включить код‑слои в своих проектах, чтобы сразу видеть связь дизайна и кода.",
-    "Настройте правила агентов для автоматического обновления компонентов при изменении данных.",
-    "Следите за обновлениями бета‑версии, чтобы вовремя адаптировать рабочий процесс."
-   ]
+    "Попробуйте открыть бета‑доступ к кодовым слоям в вашем проекте.",
+    "Используйте новые настройки агентов для автоматизации повторяющихся задач в Figma."
+   ],
+   "money": null
   },
   {
    "id": "f86858c1d8495e",
@@ -921,16 +906,16 @@
    "title_en": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
    "summary_en": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
    "pending": false,
-   "title_ru": "Ricursive Intelligence разрабатывает ИИ для автоматического проектирования микросхем",
-   "simple": "Стартап Ricursive Intelligence создал ИИ, который сам проектирует чипы, учится на каждой итерации и ускоряет процесс разработки. Это может помочь решить проблему нехватки вычислительных мощностей.",
-   "term": "Чип — микросхема, содержащая электронные схемы, используемую для выполнения вычислений.",
+   "title_ru": "Ricursive Intelligence разрабатывает ИИ, который проектирует микросхемы для решения кризиса вычислительных мощностей",
+   "simple": "Стартап Ricursive Intelligence обучает ИИ создавать схемы чипов, ускоряя процесс их разработки и помогая справиться с нехваткой вычислительных ресурсов.",
+   "term": "Chip design automation — автоматизация проектирования микросхем с помощью программных средств",
    "category": "Железо",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Следите за новыми инструментами от Ricursive Intelligence, чтобы оценить их пригодность для ваших проектов.",
-    "Если вы работаете с аппаратным обеспечением, протестируйте автоматический генератор дизайнов на небольших задачах.",
-    "Учтите, что автоматизированный дизайн может потребовать дополнительной верификации перед массовым производством."
-   ]
+    "Следите за новыми инструментами от стартапов в области автоматизированного дизайна чипов.",
+    "Если вы работаете в сфере электроники, изучите возможности ИИ‑помощи в проектировании."
+   ],
+   "money": null
   },
   {
    "id": "2fac9b60046696",
@@ -942,16 +927,17 @@
    "title_en": "The AI race is back on",
    "summary_en": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest […]",
    "pending": false,
-   "title_ru": "Снова начинается гонка за лидеров в ИИ",
-   "simple": "Недавно Anthropic и OpenAI выпустили более мощные модели, оставив конкурентов позади. Это возобновило борьбу за лидерство в сфере искусственного интеллекта между крупными компаниями.",
-   "term": "",
+   "title_ru": "Снова гонка ИИ: Anthropic и OpenAI ускоряются, Google отстаёт",
+   "simple": "Anthropic и OpenAI выпустили более мощные модели, опередив конкурентов. Это показывает, что лидеры рынка продолжают ускорять развитие ИИ, а другие компании пытаются догнать их.",
+   "term": "Модель — программный алгоритм, обученный на больших данных для выполнения задач, например генерации текста.",
    "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Подпишитесь на новости от ведущих AI‑компаний, чтобы быть в курсе новых моделей.",
-    "Если вы разрабатываете продукты с ИИ, оцените, какие новые возможности открывают более мощные модели.",
-    "Следите за открытыми API, чтобы быстро интегрировать новейшие модели в свои сервисы."
-   ]
+    "Следите за новыми версиями моделей от лидеров, чтобы оценить их возможности для вашего бизнеса.",
+    "Если вы разрабатываете продукты с ИИ, изучите, какие функции новых моделей могут улучшить ваш сервис.",
+    "Обратите внимание на открытые API, которые позволяют быстро интегрировать новые модели без собственного обучения."
+   ],
+   "money": null
   },
   {
    "id": "3733c75a28bf26",
@@ -964,14 +950,16 @@
    "summary_en": "",
    "pending": false,
    "title_ru": "FLUX.3 Image Klein теперь доступен в Diffusers",
-   "simple": "Компания Hugging Face добавила новую модель FLUX.3 Image Klein в свой набор Diffusers. Это упрощает работу с генерацией изображений для пользователей.",
-   "term": "",
+   "simple": "Hugging Face добавил новую версию генератора изображений FLUX.3 в свою библиотеку Diffusers, упрощая её использование.",
+   "term": "Diffusers — библиотека, позволяющая запускать модели генерации изображений без глубоких технических настроек.",
    "category": "Модели",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Попробуйте загрузить модель в Diffusers и создать несколько тестовых изображений.",
-    "Следите за обновлениями, чтобы использовать новые возможности генерации изображений."
-   ]
+    "Попробуйте сгенерировать изображения с помощью FLUX.3 через Diffusers, чтобы оценить качество и стиль.",
+    "Используйте готовый код из библиотеки, чтобы быстро интегрировать генерацию изображений в свои проекты.",
+    "Сравните результаты FLUX.3 с другими моделями, чтобы выбрать лучший вариант для ваших задач."
+   ],
+   "money": null
   },
   {
    "id": "5abc04e05146a5",
@@ -984,14 +972,16 @@
    "summary_en": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
    "pending": false,
    "title_ru": "Gudea использует ИИ для предотвращения кризисов в соцсетях",
-   "simple": "Сервис Gudea применяет искусственный интеллект, чтобы заранее обнаруживать опасные истории и слухи в интернете. Это помогает компаниям избегать публичных скандалов.",
-   "term": "Storm tracker — система, отслеживающая распространение слухов и потенциальных кризисов в сети.",
+   "simple": "Компания Gudea применяет искусственный интеллект, чтобы заранее обнаруживать опасные разговоры и слухи в интернете, пока они ещё не превратились в кризис.",
+   "term": "Кризис в соцсетях — быстро распространяющаяся негативная ситуация, вызывающая репутационные потери у бренда.",
    "category": "Применение",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Настройте мониторинг упоминаний бренда с помощью подобных сервисов.",
-    "Обучите команду быстро реагировать на ранние сигналы проблем в соцсетях."
-   ]
+    "Настройте мониторинг упоминаний бренда с помощью ИИ‑инструментов, чтобы получать ранние сигналы о проблемах.",
+    "Обучите команду реагировать на предупреждения, разрабатывая сценарии действий до возникновения кризиса.",
+    "Внедрите автоматические отчёты, чтобы видеть динамику обсуждений и быстро принимать решения."
+   ],
+   "money": null
   },
   {
    "id": "9d251ac6836a60",
@@ -1003,15 +993,17 @@
    "title_en": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
    "summary_en": "",
    "pending": false,
-   "title_ru": "Meta открыла модель Muse Spark Open – мультимодальная смесь экспертов",
-   "simple": "Meta представила открытый мультимодальный модельный набор Muse Spark Open, который сочетает несколько специализированных экспертов в одной системе. Это расширяет возможности работы с разными типами данных.",
-   "term": "Mixture-of-experts — архитектура, где несколько специализированных моделей (экспертов) работают совместно, выбирая лучший для конкретного задания.",
-   "category": "Open source",
+   "title_ru": "Meta представила Muse Spark Open — мульти‑модальный Mixture-of-Experts",
+   "simple": "Meta выпустила открытый мульти‑модальный модель Muse Spark Open, использующую подход Mixture-of-Experts, где разные части модели специализируются на разных задачах.",
+   "term": "Mixture-of-Experts — архитектура, в которой несколько специализированных «экспертов» выбираются для решения конкретного запроса, повышая эффективность.",
+   "category": "Модели",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Скачайте открытый вес модели и протестируйте её на своих данных.",
-    "Изучите, как комбинировать текст и изображения в одном запросе с помощью этой модели."
-   ]
+    "Изучите, как подключать Muse Spark Open к своим приложениям через открытый код.",
+    "Экспериментируйте с комбинированием текста и изображений, чтобы создавать более богатый контент.",
+    "Сравните производительность Muse Spark Open с другими моделями, чтобы подобрать оптимальное решение для задачи."
+   ],
+   "money": null
   },
   {
    "id": "dd00c04c9b9584",
@@ -1023,16 +1015,17 @@
    "title_en": "Sullivan & Cromwell brings legal expertise into agreement review",
    "summary_en": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
    "pending": false,
-   "title_ru": "Sullivan & Cromwell совместно с OpenAI создали инструмент анализа договоров",
-   "simple": "Юридическая фирма Sullivan & Cromwell вместе с OpenAI разработали Agreement Analyzer — ИИ‑инструмент, который помогает находить проблемы в черновиках договоров. Это может ускорить юридическую проверку и снизить риск ошибок.",
-   "term": "Agreement Analyzer — ИИ‑система, автоматически сканирующая текст договора и выделяющая потенциальные юридические риски.",
+   "title_ru": "Sullivan & Cromwell создали AI‑инструмент для проверки договоров",
+   "simple": "Юридическая фирма совместно с OpenAI разработала Agreement Analyzer — ИИ, который ищет проблемы в черновиках договоров.",
+   "term": "Agreement Analyzer — система, использующая ИИ для анализа юридических текстов и выявления потенциальных рисков.",
    "use": [
-    "Попробуйте загрузить черновик договора в Agreement Analyzer, чтобы быстро увидеть возможные проблемы.",
-    "Сравните выводы ИИ с собственным анализом, чтобы улучшить качество проверки.",
-    "Обучите свою команду пользоваться инструментом для ускорения рутинных проверок."
+    "Если вы работаете с договорами, попробуйте загрузить черновик в такой сервис, чтобы получить быстрый обзор проблем.",
+    "Обучите сотрудников распознавать типичные замечания ИИ, чтобы ускорить процесс правки.",
+    "Сравните результаты ИИ‑анализа с собственным юридическим контролем, чтобы повысить точность."
    ],
    "category": "Применение",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "d1f8876dacf925",
@@ -1044,15 +1037,17 @@
    "title_en": "McKinsey is making job applicants spar with a fake AI client",
    "summary_en": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the […]",
    "pending": false,
-   "title_ru": "McKinsey будет проверять кандидатов в диалоге с имитацией ИИ‑клиента",
-   "simple": "McKinsey планирует проводить 10‑минутные интервью, где соискатель общается с искусственным клиентом. Имитированный клиент покрывает большинство типичных сценариев работы консультантов.",
-   "term": "AI simulation — программная модель, имитирующая поведение реального человека или процесса для тренировок и тестов.",
+   "title_ru": "McKinsey будет проверять кандидатов через разговор с ИИ‑клиентом",
+   "simple": "McKinsey планирует включить в интервью 10‑минутный диалог с имитацией клиента, созданным ИИ, чтобы оценить навыки соискателей.",
+   "term": "Имитация клиента — искусственный агент, который играет роль реального заказчика, задавая типичные вопросы и задачи.",
    "category": "Применение",
    "model": "openai/gpt-oss-120b",
    "use": [
-    "Подготовьтесь к интервью, отрабатывая ответы на типичные бизнес‑вопросы в формате диалога с чат‑ботом.",
-    "Попрактикуйтесь в быстром анализе проблем, как это требует имитация клиента."
-   ]
+    "Подготовьтесь к интервью, отрабатывая ответы на типичные бизнес‑вопросы в формате диалога.",
+    "Тренируйтесь вести разговор с чат‑ботами, чтобы улучшить навыки быстрой аналитики и коммуникации.",
+    "Изучите примеры сценариев, которые могут быть заданы ИИ‑клиентом, чтобы быть готовым к неожиданным вопросам."
+   ],
+   "money": null
   },
   {
    "id": "b6af0c3578bc7e",
@@ -1064,15 +1059,13 @@
    "title_en": "Amazon’s always-listening Bee wearable can now help you buy stuff",
    "summary_en": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier, an updated version of the original Bee device. And […]",
    "pending": false,
-   "title_ru": "Amazon расширила линейку носимых устройств Bee с функцией покупок",
-   "simple": "Amazon анонсировала новые версии носимого устройства Bee, которое постоянно слушает и теперь может помогать делать покупки. Устройства идут с подпиской на сервис распознавания речи.",
-   "term": "Always-listening wearable — гаджет, который постоянно записывает звук вокруг, чтобы потом обрабатывать его с помощью ИИ.",
-   "category": "Применение",
+   "title_ru": "Новые устройства Amazon Bee с функцией покупок",
+   "simple": "Amazon представила обновлённый носимый гаджет Bee Frontier и подписку, позволяющие покупать товары через голосовое распознавание. Это расширяет возможности уже существующего устройства, которое постоянно слушает и записывает разговоры.",
+   "term": "always-listening — технология, при которой устройство постоянно находится в режиме прослушивания и обрабатывает звук в реальном времени",
+   "category": "Агенты",
    "model": "openai/gpt-oss-120b",
-   "use": [
-    "Если хотите попробовать, проверьте совместимость Bee с вашими устройствами и настройте ограничения конфиденциальности.",
-    "Обратите внимание на условия подписки, чтобы понять, какие функции доступны без дополнительных расходов."
-   ]
+   "use": [],
+   "money": null
   },
   {
    "id": "bd61b92171acdf",
@@ -1084,15 +1077,13 @@
    "title_en": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
    "summary_en": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
    "pending": false,
-   "title_ru": "Flock заявляет, что их микрофоны слышат только выстрелы, но сайт говорит иначе",
-   "simple": "Генеральный директор Flock утверждает, что их микрофоны способны распознавать лишь выстрелы, однако на сайте указаны более широкие возможности. Это вызывает вопросы у правозащитников.",
-   "term": "Gunshot detection — технология, использующая ИИ для определения звука выстрела в реальном времени.",
+   "title_ru": "Flock утверждает, что микрофоны слышат только выстрелы, но сайт говорит иначе",
+   "simple": "Генеральный директор Flock заявил, что их микрофоны способны распознавать лишь выстрелы, однако информация на сайте компании противоречит этому. Это вызывает вопросы у правозащитников и общественности о том, как используется технология.",
+   "term": "микрофонный массив — набор микрофонов, работающих совместно для точного определения звука в пространстве",
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b",
-   "use": [
-    "Если рассматриваете такие устройства, проверьте, какие именно звуки они действительно распознают.",
-    "Следите за новостями о регулировании подобных технологий, чтобы быть в курсе правовых ограничений."
-   ]
+   "use": [],
+   "money": null
   },
   {
    "id": "bbc1e25e9e985e",
@@ -1104,15 +1095,13 @@
    "title_en": "Tree Appreciator",
    "summary_en": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful. Somewhat embarrassingly given my recent talk , I've found that telling Opus 5.5 \"make sure it is fun\" works uncomfortably well. In this case Claude crunched for 3 hours and 7 minutes before retuning a cosy little spot-the-difference game with music and animation and achievements…",
    "pending": false,
-   "title_ru": "Claude создал игру «Tree Appreciator» с двумя генерируемыми деревьями",
-   "simple": "Claude, модель от Anthropic, за несколько часов сгенерировал игру, где показываются два алгоритмически созданных дерева и игроку предлагается оценить их различия. Это демонстрирует, как ИИ может помогать в быстром прототипировании игр.",
-   "term": "three.js — JavaScript‑библиотека для создания 3D‑графики в браузере",
+   "title_ru": "Игра «Tree Appreciator», созданная Claude",
+   "simple": "Разработчик использовал ИИ Claude для создания игры, где показываются два сгенерированных дерева, а задача игрока — оценить их различия. Проект демонстрирует, как ИИ может помогать в генерации игрового контента.",
+   "term": "генеративный ИИ — система, способная создавать новые данные (текст, изображения, код) на основе обученных моделей",
    "category": "Разработка",
    "model": "openai/gpt-oss-120b",
-   "use": [
-    "Попробуйте задать ИИ задачу создать простой прототип своей идеи, указав нужные технологии.",
-    "Обратите внимание на то, как формулировать запросы, чтобы получить более интересный и визуально привлекательный результат."
-   ]
+   "use": [],
+   "money": null
   },
   {
    "id": "88ac6d1c3f0622",
@@ -1124,15 +1113,13 @@
    "title_en": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
    "summary_en": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]",
    "pending": false,
-   "title_ru": "Восемь штатов США подали в суд на OpenAI из‑за опасности ChatGPT для детей",
-   "simple": "Восемь американских штатов обвиняют OpenAI в том, что компания ставит прибыль выше безопасности, и утверждают, что ChatGPT может быть вреден для несовершеннолетних. Это важный сигнал о растущем внимании к регулированию ИИ‑приложений.",
-   "term": "ChatGPT — чат‑бот на основе больших языковых моделей, генерирующий ответы на запросы пользователей",
+   "title_ru": "Восемь штатов подали в суд на OpenAI из‑за безопасности ChatGPT для детей",
+   "simple": "Шесть штатов США подали коллективные иски против OpenAI, утверждая, что ChatGPT опасен для несовершеннолетних и вводит в заблуждение о своей безопасности. Это усиливает давление на компании, разрабатывающие ИИ, с точки зрения регулирования.",
+   "term": "регулятивный риск — возможность того, что новые законы или судебные решения ограничат или изменят бизнес‑модель компании",
    "category": "Регулирование",
    "model": "openai/gpt-oss-120b",
-   "use": [
-    "Ограничьте доступ детей к ChatGPT и другим ИИ‑чатам без надзора.",
-    "Следите за новостями о законодательных инициативах, чтобы своевременно адаптировать политику использования ИИ в образовании и работе."
-   ]
+   "use": [],
+   "money": null
   },
   {
    "id": "55222f29942f90",
@@ -1144,16 +1131,13 @@
    "title_en": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
    "summary_en": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
    "pending": false,
-   "title_ru": "YouTube Music запускает лейбл с AI‑созданной музыкой",
-   "simple": "YouTube Music создал новый лейбл, где будут показываться треки, полностью или частично сгенерированные искусственным интеллектом. Это важно, потому что AI всё активнее появляется в музыкальном контенте.",
-   "term": "AI‑сгенерированная музыка — музыкальные произведения, созданные полностью или частично алгоритмами искусственного интеллекта.",
-   "use": [
-    "Посмотрите раздел нового лейбла, чтобы понять, как звучит AI‑музыка.",
-    "Экспериментируйте с собственными AI‑инструментами для создания мелодий.",
-    "Обратите внимание на лицензирование и авторские права при использовании AI‑созданного контента."
-   ],
+   "title_ru": "YouTube Music запускает лейблы с AI‑созданной музыкой",
+   "simple": "YouTube Music создал специальные лейблы, где будут отображаться треки, полностью или частично сгенерированные искусственным интеллектом. Это отражает рост количества AI‑композиций в потоковых сервисах.",
+   "term": "AI‑генерация музыки — процесс создания мелодий, аранжировок или вокала с помощью алгоритмов искусственного интеллекта",
+   "use": [],
    "category": "Применение",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "cae5f68ff0ce16",
@@ -1165,16 +1149,13 @@
    "title_en": "AI Came for Math. Now It’s Chasing the Rest of Science",
    "summary_en": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
    "pending": false,
-   "title_ru": "AI захватывает математику и другие науки",
-   "simple": "Исследователи MIT считают, что искусственный интеллект скоро станет основным способом решения теоретических задач в экономике, физике и других областях. Это может ускорить научные открытия и изменить подход к исследованиям.",
-   "term": "Теоретическое моделирование — использование математических и вычислительных методов для предсказания поведения сложных систем.",
-   "use": [
-    "Следите за публикациями о AI‑моделях в своей научной сфере, чтобы быть в курсе новых методов.",
-    "Попробуйте применить открытые AI‑инструменты к небольшим задачам, чтобы оценить их потенциал.",
-    "Учтите, что AI‑модели требуют качественных данных и корректной настройки."
-   ],
+   "title_ru": "ИИ становится основным инструментом решения научных задач",
+   "simple": "Исследователи MIT считают, что искусственный интеллект скоро будет главным способом решения теоретических проблем в экономике, физике и других науках. Это может изменить подход к научным исследованиям, делая их быстрее и менее затратными.",
+   "term": "теоретическое моделирование — использование математических и вычислительных методов для предсказания поведения систем без экспериментов",
+   "use": [],
    "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "619d87b09b0132",
