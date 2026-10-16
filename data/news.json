@@ -1,7 +1,28 @@
 {
- "updated": "2026-10-16T04:41:53Z",
+ "updated": "2026-10-16T08:15:25Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "390ece11278ffa",
+   "date": "2026-10-16T05:00:24Z",
+   "addedAt": "2026-10-16T08:15:08Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/16/stolen-ai-api-keys-autonomous-scans/",
+   "title_en": "Stolen AI API keys are paying for hackers’ autonomous scans",
+   "summary_en": "A seller on a restricted criminal forum is marketing an autonomous hacking tool that runs on stolen OpenAI, Anthropic and Google API keys, so the key’s owner pays for the scans. Bitsight’s threat intelligence team tracked the shift across thousands of posts on 16 underground forums from February through August 2026. Over that window, mentions of AI agents, indirect prompt injection and the Model Context Protocol (MCP) rose 67 percent. Two groups are exposed. A … More → The post Stolen AI API keys are paying for hackers’ autonomous scans appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Краденые API-ключи AI платят хакерам за автоматические сканы",
+   "simple": "Хакеры продают инструмент, который использует украденные ключи OpenAI, Anthropic и Google, чтобы сами сканировать цели, а владельцы ключей платят за эти сканы. Это показывает, как кража доступа к ИИ‑моделям превращается в источник дохода для киберпреступников.",
+   "term": "Model Context Protocol (MCP) — протокол, позволяющий передавать контекст модели между запросами, что упрощает работу с большими языковыми моделями.",
+   "use": [
+    "Проверьте, какие API‑ключи у вас активны и отключите неиспользуемые.",
+    "Настройте мониторинг расходов на AI‑сервисы, чтобы быстро заметить подозрительные списания.",
+    "Используйте ограничение доступа по IP и ролям, чтобы минимизировать риск кражи ключей."
+   ],
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "8506686dc9dbdb",
    "date": "2026-10-16T04:00:27Z",
