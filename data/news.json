@@ -1,7 +1,69 @@
 {
- "updated": "2026-10-15T23:42:55Z",
+ "updated": "2026-10-16T04:41:53Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "8506686dc9dbdb",
+   "date": "2026-10-16T04:00:27Z",
+   "addedAt": "2026-10-16T04:41:34Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/16/new-infosec-products-of-the-week-october-16-2026/",
+   "title_en": "New infosec products of the week: October 16, 2026",
+   "summary_en": "Here’s a look at the most interesting products from the past week, featuring releases from NinjaOne, Qualys, Scytale, and SolarWinds. NinjaOne combines Katana AI and MCP server to accelerate IT problem resolution NinjaOne has announced Katana AI, an agentic AI technician that supports and elevates IT workers, and the NinjaOne MCP server, an agentic orchestration connector that extends the platform’s governed access to the AI tools teams already use. Katana AI analyzes device telemetry, history, … More → The post New infosec products of the week: October 16, 2026 appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Новые инфо‑сек продукты недели: NinjaOne представил Katana AI и MCP сервер",
+   "simple": "NinjaOne выпустила Katana AI — помощника, который помогает ИТ‑специалистам, и MCP сервер для управления доступом к ИИ‑инструментам. Это может ускорить решение ИТ‑проблем в компаниях.",
+   "term": "Agentic AI — ИИ, способный самостоятельно выполнять задачи, а не только отвечать на запросы",
+   "use": [
+    "Попробуйте интегрировать Katana AI в ваш ИТ‑процесс, чтобы автоматизировать диагностику устройств.",
+    "Настройте MCP сервер для контроля доступа к используемым ИИ‑инструментам и соблюдения политики безопасности."
+   ],
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ba4e7337aba280",
+   "date": "2026-10-16T01:44:47Z",
+   "addedAt": "2026-10-16T04:41:33Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+   "title_en": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Масштабное предобучение индийских языков: 2,8 трлн токенов и открытый pipeline",
+   "simple": "Исследователи создали открытый конвейер данных и обучили модели на 2,8 триллиона токенов индийских языков. Это открывает возможности для более качественных языковых моделей на этих языках.",
+   "term": "Token — базовый элемент текста, например слово или часть слова, используемый при обучении моделей",
+   "use": [
+    "Изучите открытый pipeline, чтобы собрать свои данные для обучения моделей на региональных языках.",
+    "Примените готовые модели к задачам локализации контента или автоматического перевода.",
+    "Следите за обновлениями, чтобы использовать новые версии моделей в своих проектах."
+   ],
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c9c43f1e32a507",
+   "date": "2026-10-15T23:44:56Z",
+   "addedAt": "2026-10-16T04:41:34Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+   "title_en": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+   "summary_en": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+   "pending": false,
+   "title_ru": "Cal AI стал вирусным благодаря работе с инфлюенсерами",
+   "simple": "Компания Cal AI привлекла внимание благодаря кампании с инфлюенсерами, что привело к росту доходов и последующей покупке MyFitnessPal. Это показывает, как маркетинг может ускорить рост AI‑стартапов.",
+   "term": "",
+   "use": [
+    "Подумайте о сотрудничестве с микро‑инфлюенсерами, если продвигаете AI‑продукт.",
+    "Анализируйте, какие каналы приносят наибольший отклик, и фокусируйтесь на них.",
+    "Следите за тем, как крупные компании интегрируют AI‑стартапы, чтобы предвидеть рыночные тренды."
+   ],
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "924ca13842a368",
    "date": "2026-10-15T22:43:23Z",
@@ -877,6 +939,27 @@
     "Скачайте открытый вес модели и протестируйте её на своих данных.",
     "Изучите, как комбинировать текст и изображения в одном запросе с помощью этой модели."
    ]
+  },
+  {
+   "id": "dd00c04c9b9584",
+   "date": "2026-10-15T00:00:00Z",
+   "addedAt": "2026-10-16T04:41:32Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/sullivan-cromwell",
+   "title_en": "Sullivan & Cromwell brings legal expertise into agreement review",
+   "summary_en": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+   "pending": false,
+   "title_ru": "Sullivan & Cromwell совместно с OpenAI создали инструмент анализа договоров",
+   "simple": "Юридическая фирма Sullivan & Cromwell вместе с OpenAI разработали Agreement Analyzer — ИИ‑инструмент, который помогает находить проблемы в черновиках договоров. Это может ускорить юридическую проверку и снизить риск ошибок.",
+   "term": "Agreement Analyzer — ИИ‑система, автоматически сканирующая текст договора и выделяющая потенциальные юридические риски.",
+   "use": [
+    "Попробуйте загрузить черновик договора в Agreement Analyzer, чтобы быстро увидеть возможные проблемы.",
+    "Сравните выводы ИИ с собственным анализом, чтобы улучшить качество проверки.",
+    "Обучите свою команду пользоваться инструментом для ускорения рутинных проверок."
+   ],
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "d1f8876dacf925",
