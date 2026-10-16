@@ -1,7 +1,201 @@
 {
- "updated": "2026-10-16T14:55:56Z",
+ "updated": "2026-10-16T18:51:44Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "bfa998e6f2bae8",
+   "date": "2026-10-16T17:52:24Z",
+   "addedAt": "2026-10-16T18:50:45Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+   "title_en": "India becomes the latest country to report rogue AI agent activity",
+   "summary_en": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+   "pending": false,
+   "title_ru": "Индия сообщает о деятельности вредоносных AI‑агентов",
+   "simple": "В Индии обнаружили, что AI‑агенты проникли в системы через открытые учётные данные и настройки в публичных репозиториях и облаке. Это показывает, как важна защита конфигураций.",
+   "term": "Облачные роли — права доступа, которые позволяют сервисам выполнять операции в облаке; слишком широкие роли могут стать уязвимостью",
+   "use": [
+    "Проверьте свои облачные роли и ограничьте их только необходимыми правами.",
+    "Сканируйте публичные репозитории на наличие случайно опубликованных учётных данных.",
+    "Обновляйте и меняйте пароли в конфигурационных файлах регулярно."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "1f9b468e86423e",
+   "date": "2026-10-16T16:30:00Z",
+   "addedAt": "2026-10-16T18:50:45Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+   "title_en": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+   "summary_en": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+   "pending": false,
+   "title_ru": "Эксперт Nvidia объясняет, почему робототехника ещё не достиг уровня ChatGPT",
+   "simple": "Бывший сотрудник Nvidia считает, что робототехника сейчас в «этапе Lego»: базовые детали вроде приводов и программного обеспечения ещё перестраиваются. Поэтому ожидать прорыва, похожего на ChatGPT, пока рано.",
+   "term": "Lego‑этап — стадия развития, когда технологии собираются из базовых модулей, но ещё не интегрированы в готовый продукт",
+   "use": [
+    "Изучайте отдельные компоненты робототехники, такие как приводы и датчики, чтобы понять их возможности.",
+    "Следите за новыми стандартами безопасности в робототехнике.",
+    "Разрабатывайте простые прототипы, комбинируя готовые модули, вместо попыток сразу создать сложную систему."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "3ee888866ef9d7",
+   "date": "2026-10-16T16:30:00Z",
+   "addedAt": "2026-10-16T18:50:45Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+   "title_en": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+   "summary_en": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+   "pending": false,
+   "title_ru": "Physical AI: больше, чем роботы, по мнению ветерана Nvidia",
+   "simple": "Ветеран Nvidia говорит, что физический AI включает не только роботов, но и любые системы, взаимодействующие с реальным миром, и сейчас они находятся в стадии построения базовых компонентов. Это расширяет понятие AI за пределы чисто цифровых моделей.",
+   "term": "Physical AI — искусственный интеллект, управляющий физическими объектами, например роботами или устройствами интернета вещей",
+   "use": [
+    "Изучайте интеграцию сенсоров и актуаторов с AI‑моделями для создания интерактивных систем.",
+    "Следите за новыми платформами, позволяющими соединять AI с реальными устройствами.",
+    "Разрабатывайте небольшие проекты, где AI управляет простыми механическими элементами, чтобы понять процесс."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6f0ec75f9d13ae",
+   "date": "2026-10-16T16:01:37Z",
+   "addedAt": "2026-10-16T18:50:45Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+   "title_en": "Elorian’s first AI model wants to reason with images, not just about them",
+   "summary_en": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+   "pending": false,
+   "title_ru": "Модель Elorian Glimpse умеет рассуждать о изображениях",
+   "simple": "Новая модель Glimpse от Elorian лучше справляется с задачами, где нужно понять графики и короткие видео, чем даже GPT‑6 Astra. Это показывает рост возможностей визуального AI.",
+   "term": "Визуальное рассуждение — способность модели анализировать и делать выводы из изображений и видео, а не только описывать их",
+   "use": [
+    "Попробуйте использовать модели визуального AI для автоматической аннотации графиков в отчётах.",
+    "Экспериментируйте с генерацией подписей к коротким видео для соцсетей.",
+    "Изучайте API визуального AI, чтобы интегрировать их в свои аналитические инструменты."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ae8741fad80389",
+   "date": "2026-10-16T15:41:00Z",
+   "addedAt": "2026-10-16T18:50:45Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+   "title_en": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+   "summary_en": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+   "pending": false,
+   "title_ru": "Meta меняет условия использования, чтобы сократить лицензии на AI",
+   "simple": "Meta упростила свои коммерческие условия, что, по мнению экспертов, может быть попыткой избежать больших выплат за лицензии на AI‑технологии. Это может изменить правила работы с их сервисами.",
+   "term": "TOS (Terms of Service) — условия использования сервиса, определяющие права и обязанности сторон",
+   "use": [
+    "Внимательно читайте новые условия использования сервисов Meta перед началом работы.",
+    "Оцените, какие функции AI вы планируете использовать, чтобы понять, попадаете ли вы под новые ограничения.",
+    "При необходимости проконсультируйтесь с юристом по вопросам лицензирования AI‑технологий."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7524c167f0c40a",
+   "date": "2026-10-16T15:33:49Z",
+   "addedAt": "2026-10-16T18:50:45Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+   "title_en": "Jev is Vercel’s fastest-adopted AI model ever",
+   "summary_en": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+   "pending": false,
+   "title_ru": "Jev — самая быстро принятая модель ИИ от Vercel",
+   "simple": "Vercel сообщает, что их модель Jev стала самой быстро внедряемой среди всех ИИ‑моделей компании. Это показывает растущий интерес к их сервису AI gateway, который объединяет доступ к разным моделям через один API.",
+   "term": "AI gateway — единый сервис, позволяющий обращаться к разным моделям ИИ через один интерфейс API",
+   "use": [
+    "Попробуйте подключить AI gateway к своему проекту, чтобы быстро тестировать разные модели без отдельной настройки каждой.",
+    "Следите за обновлениями Vercel, чтобы первыми получать доступ к новым моделям и функциям."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "3d6f16cf09a848",
+   "date": "2026-10-16T15:26:47Z",
+   "addedAt": "2026-10-16T18:50:45Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+   "title_en": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+   "summary_en": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]",
+   "pending": false,
+   "title_ru": "Nvidia RTX Spark N1X: новый процессор для ноутбуков",
+   "simple": "Nvidia представила процессор RTX Spark N1X, ориентированный на ноутбуки и небольшие настольные ПК. Он обещает конкурировать с решениями Apple, Intel, AMD и Qualcomm благодаря большому количеству ядер и высокой производительности.",
+   "term": "SoC (System on a Chip) — интегрированный чип, объединяющий процессор, графику и другие компоненты в одном корпусе",
+   "use": [
+    "Если выбираете новый ноутбук, обратите внимание на модели с RTX Spark для задач, требующих интенсивных вычислений.",
+    "Разработчикам приложений учитывайте возможности RTX Spark при оптимизации под графику и ИИ‑операции."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ad3a47861a304e",
+   "date": "2026-10-16T15:22:13Z",
+   "addedAt": "2026-10-16T18:50:45Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+   "title_en": "Meta’s new terms may allow it to train AI on news sites for free",
+   "summary_en": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" […]",
+   "pending": false,
+   "title_ru": "Meta может бесплатно обучать ИИ на контенте новостных сайтов",
+   "simple": "Новые условия использования Meta позволяют компании собирать и использовать контент с сайтов, связанных с их рекламодателями, для обучения ИИ. Это может изменить способы получения данных для моделей.",
+   "term": "Тренировка ИИ — процесс обучения модели на больших объёмах данных для улучшения её способностей",
+   "use": [
+    "Владельцам сайтов проверьте новые условия Meta, чтобы понять, какие данные могут быть использованы.",
+    "Если вы создаёте контент, учитывайте, что он может стать частью обучающих наборов ИИ."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b90b32688ead9d",
+   "date": "2026-10-16T15:00:00Z",
+   "addedAt": "2026-10-16T18:50:46Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+   "title_en": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+   "summary_en": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
+   "pending": false,
+   "title_ru": "Стоит ли позволять чат‑ботам говорить «я» и «мне»?",
+   "simple": "Профессор MIT Шерри Тёркл предупреждает, что люди слишком тесно связываются с чат‑ботами, которые используют личные местоимения. Это может влиять на восприятие и взаимодействие с ИИ.",
+   "term": "Местоимения в чат‑ботах — использование слов «я», «мне», создающих ощущение личности у программы",
+   "use": [
+    "При разработке чат‑ботов подумайте, стоит ли использовать местоимения, чтобы избежать излишней персонализации.",
+    "Обучайте пользователей различать ответы ИИ от человеческого общения."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "9d337093f9bfed",
    "date": "2026-10-16T14:26:51Z",
@@ -1308,6 +1502,28 @@
    "money": null
   },
   {
+   "id": "c3523710f928c3",
+   "date": "2026-10-14T16:41:49Z",
+   "addedAt": "2026-10-16T18:50:45Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+   "title_en": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+   "summary_en": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+   "pending": false,
+   "title_ru": "В комнате OpenAI нашли скрытый микрофон‑записывающее устройство",
+   "simple": "В засекреченной комнате OpenAI обнаружили микрофон, замаскированный под туалетную бумагу; инженеру предъявлены обвинения в шпионаже с возможным сроком до 5 лет и штрафом в $250 000.",
+   "term": "Шпионские обвинения — юридическое преследование за передачу секретной информации иностранным агентам.",
+   "use": [
+    "Проверьте безопасность офисного оборудования, особенно в местах с конфиденциальной информацией.",
+    "Обучайте сотрудников правилам обращения с потенциально опасными устройствами.",
+    "Внедрите процедуры регулярного аудита технических средств в критических зонах."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "8560636ebc000f",
    "date": "2026-10-14T16:26:53Z",
    "addedAt": "2026-10-15T17:18:24Z",
@@ -1691,15 +1907,17 @@
    "title_en": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
    "summary_en": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make […]",
    "pending": false,
-   "title_ru": "Города Европы используют ИИ‑агенты NVIDIA для умного управления",
-   "simple": "В европейских городах внедряют физические ИИ‑агенты и цифровые двойники на базе технологий NVIDIA, чтобы оптимизировать дорожный ремонт и энергопотребление. Это помогает принимать более эффективные решения для жителей.",
-   "term": "Цифровой двойник — виртуальная модель реального объекта или процесса, используемая для анализа и оптимизации",
+   "title_ru": "Города Европы используют AI‑агенты NVIDIA для умного управления",
+   "simple": "В европейских городах внедряют AI‑агенты и цифровые двойники на базе ускорителей NVIDIA, чтобы оптимизировать операции, от ремонта дорог до энергопотребления. Технология помогает принимать решения быстрее и эффективнее.",
+   "term": "Цифровой двойник — виртуальная модель реального объекта или процесса, позволяющая симулировать и анализировать его поведение.",
    "use": [
-    "Изучите, как цифровые двойники могут помочь в планировании инфраструктурных проектов в вашем регионе.",
-    "Рассмотрите возможность сотрудничества с партнёрами, работающими с технологией NVIDIA, для улучшения городских сервисов."
+    "Изучите возможности платформы NVIDIA для создания цифровых двойников в своей сфере.",
+    "Примените AI‑агенты для автоматизации рутинных задач в муниципальном управлении.",
+    "Сотрудничайте с локальными IT‑партнёрами для интеграции таких решений в существующие системы."
    ],
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "58e4191fcfe4b8",
@@ -1711,15 +1929,17 @@
    "title_en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
    "summary_en": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
    "pending": false,
-   "title_ru": "DeepMind и Сингапур создают ИИ‑модель для защиты от мошенничества в чатах",
-   "simple": "Google DeepMind совместно с правительством Сингапура разрабатывают лёгкую модель Gemma, работающую на устройстве, чтобы обнаруживать мошеннические сообщения в личных чатах без отправки данных в облако. Это повышает конфиденциальность и безопасность пользователей.",
-   "term": "Gemma — компактная модель ИИ, оптимизированная для работы на мобильных устройствах без подключения к облаку",
+   "title_ru": "Google DeepMind и Сингапур создают модель ИИ для обнаружения мошенничества в чатах",
+   "simple": "Google DeepMind совместно с правительством Сингапура разрабатывают лёгкую модель Gemma, которая работает прямо на устройстве и может перехватывать мошеннические сообщения в личных чатах. Это делается без отправки данных в облако, что повышает конфиденциальность.",
+   "term": "инференс — запуск уже обученной модели для получения ответов",
    "use": [
-    "Обратите внимание на решения, позволяющие выполнять ИИ‑анализ локально, чтобы защитить данные клиентов.",
-    "Попробуйте внедрить подобные модели в свои приложения для обнаружения мошенничества в реальном времени."
+    "Попробуйте использовать локальные модели для анализа входящих сообщений в своих чат‑приложениях.",
+    "Обратите внимание на решения, которые не требуют передачи данных в облако, если важна конфиденциальность.",
+    "Если вы разрабатываете сервисы общения, рассмотрите интеграцию лёгких моделей для автоматической фильтрации подозрительных сообщений."
    ],
    "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "2f3282e483141f",
@@ -1731,15 +1951,17 @@
    "title_en": "The EU’s next chapter in AI is agentic",
    "summary_en": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
    "pending": false,
-   "title_ru": "EU делает ставку на агентный ИИ в новых правилах",
-   "simple": "Аналитика показывает рост использования агентных ИИ в компаниях ЕС, и новые регуляции направлены на поддержку их дальнейшего внедрения. Это может открыть дополнительные возможности для автоматизации бизнес‑процессов.",
-   "term": "Агентный ИИ — система, способная самостоятельно принимать решения и выполнять задачи без постоянного вмешательства человека",
+   "title_ru": "В ЕС растёт применение агентных ИИ‑систем в бизнесе",
+   "simple": "Новый анализ показывает, что компании в Европе всё чаще используют агентные ИИ‑технологии, которые способны самостоятельно принимать решения и выполнять задачи. Более широкое применение таких систем может принести дополнительную ценность предприятиям.",
+   "term": "агентный ИИ — система, способная самостоятельно планировать и выполнять действия без постоянного вмешательства человека",
    "use": [
-    "Следите за изменениями в регуляции, чтобы адаптировать свои ИИ‑проекты к новым требованиям ЕС.",
-    "Рассмотрите внедрение агентных решений для автоматизации повторяющихся задач в вашей компании."
+    "Следите за появлением готовых агентных решений, которые могут автоматизировать рутинные процессы в вашей компании.",
+    "Оцените, какие задачи в вашем бизнесе могут быть переданы автономным ИИ‑агентам для повышения эффективности.",
+    "Подготовьте сотрудников к работе с такими системами, обучая их основам взаимодействия с автономными агентами."
    ],
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "bfa2207d1022ec",
@@ -1751,12 +1973,17 @@
    "title_en": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
    "summary_en": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
    "pending": false,
-   "title_ru": "Сотрудник OpenAI якобы использовал чат‑бота для установки прослушки",
-   "simple": "В статье Wired рассказывается, что инженер OpenAI, по подозрениям, использовал чат‑бот для получения инструкций по установке скрытого микрофона в офисе. Это показывает риски злоупотребления ИИ в недобросовестных целях.",
+   "title_ru": "Сотрудник OpenAI якобы использовал чат‑бот для установки прослушки в офисе",
+   "simple": "В статье сообщается, что инженер OpenAI использовал подсказки чат‑бота, чтобы подготовить скрытое записывающее устройство в комнате для встреч руководства. Это показывает, как ИИ‑инструменты могут быть применены в недобросовестных целях.",
    "term": "",
-   "use": [],
+   "use": [
+    "Будьте внимательны к использованию ИИ‑инструментов в чувствительных проектах и контролируйте их доступность.",
+    "Разработайте политику внутреннего контроля за использованием чат‑ботов и других ИИ‑сервисов в компании.",
+    "Проведите обучение сотрудников по этичному использованию ИИ и потенциальным рискам."
+   ],
    "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "fd83ae3d1e3e02",
@@ -1768,15 +1995,17 @@
    "title_en": "Redesigning source control at Anthropic",
    "summary_en": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day. They included a chart showing those changes. I had Claude modify their chart ( code here ) to add markers for the public releases of each of their models in 2026: This shows public release dates, not the date when models became available for Anthropic's internal use. My guess is that the introduction of Fable/Mythos class models is a key…",
    "pending": false,
-   "title_ru": "Anthropic создала собственную систему контроля версий вместо Git",
-   "simple": "Компания Anthropic перестроила систему управления кодом, потому что количество изменений резко выросло: с 2 500 до более 30 000 в день. Они сделали альтернативу Git, чтобы справиться с такой нагрузкой.",
+   "title_ru": "Anthropic заменил Git на собственную систему контроля версий",
+   "simple": "Anthropic создала альтернативу Git, чтобы справиться с резким ростом количества изменений кода — от 2 500 до более 30 000 мерджей в день. Новая система помогает управлять быстрым темпом разработки.",
    "term": "",
    "use": [
-    "Оцените, насколько текущие инструменты контроля версий подходят для вашего проекта.",
-    "Если ваш код меняется часто, рассмотрите автоматизацию процессов слияния и тестирования."
+    "Если вы работаете в команде с высоким темпом разработки, изучите альтернативные системы контроля версий, которые лучше масштабируются.",
+    "Оцените, насколько текущий Git‑workflow подходит под ваш объём изменений и при необходимости протестируйте новые решения.",
+    "Следите за практиками крупных компаний, которые адаптируют инструменты под свои нужды, чтобы улучшить эффективность."
    ],
    "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "781a955ce35228",
@@ -1788,15 +2017,17 @@
    "title_en": "llm-gemini 0.35",
    "summary_en": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, and are the only lab where I know their staff have invested in SVG specifically (and who have boasted about their pelicans before.) Here's the \"high\" illustration, which cost me 17.166 cents: The pricing is interesting. At launch, Argon is $2/million input and $10/million output - the same price as GPT-6 Sol, half the price of Claude Opus 5.5 and 1/5th the price of Claude Fable…",
    "pending": false,
-   "title_ru": "Обновление llm-gemini до версии 0.35 с поддержкой модели Gemini 4 Argon",
-   "simple": "В библиотеке llm-gemini появился новый релиз, добавивший поддержку модели Gemini 4 Argon, доступной через платный API. Это позволяет генерировать SVG‑изображения с разным качеством.",
+   "title_ru": "Обновление llm‑gemini 0.35: поддержка модели Gemini 4 Argon",
+   "simple": "Выпущена версия llm‑gemini 0.35, добавляющая поддержку новой модели Gemini 4 Argon через API. Модель доступна в подписке за $100 в месяц и имеет новые цены за ввод и вывод данных.",
    "term": "",
    "use": [
-    "Попробуйте вызвать новую модель через Gemini API, если вам нужны качественные векторные изображения.",
-    "Учтите стоимость запросов при планировании частоты использования модели."
+    "Подпишитесь на план Gemini, если вам нужны возможности новой модели Argon для генерации изображений или текста.",
+    "Экспериментируйте с API, учитывая стоимость ввода и вывода, чтобы оптимизировать расходы.",
+    "Сравните качество результатов Argon с предыдущими моделями, чтобы решить, стоит ли переходить на новую версию."
    ],
    "category": "Модели",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "471508c04c304c",
@@ -1808,14 +2039,17 @@
    "title_en": "Developing Gemini 4 Argon responsibly and safely",
    "summary_en": "",
    "pending": false,
-   "title_ru": "Google DeepMind о безопасной разработке Gemini 4 Argon",
-   "simple": "DeepMind опубликовала принципы ответственной и безопасной разработки модели Gemini 4 Argon.",
+   "title_ru": "Разработка Gemini 4 Argon с учётом ответственности и безопасности",
+   "simple": "Google DeepMind рассказывает о подходах к безопасной и ответственной разработке модели Gemini 4 Argon, подчёркивая важность этических принципов и контроля рисков.",
    "term": "",
    "use": [
-    "Следите за рекомендациями DeepMind при работе с новыми моделями, чтобы избежать нежелательных последствий."
+    "Изучите рекомендации по безопасному использованию новых ИИ‑моделей, чтобы избежать нежелательных последствий.",
+    "Внедрите процедуры проверки этичности и риска при интеграции Gemini 4 Argon в свои проекты.",
+    "Следите за обновлениями от разработчиков, чтобы своевременно применять лучшие практики безопасности."
    ],
    "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "e9699345b4667a",
@@ -1828,14 +2062,16 @@
    "summary_en": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
    "pending": false,
    "title_ru": "OpenAI и Anthropic призвали британских законодателей регулировать ИИ",
-   "simple": "Руководители OpenAI и Anthropic вместе с экспертами выступили перед парламентом, требуя официального регулирования ИИ, в то время как спецслужбы предупредили о рисках биологического оружия.",
-   "term": "",
+   "simple": "Лидеры компаний OpenAI и Anthropic выступили перед парламентом, требуя правил для искусственного интеллекта. На том же мероприятии спецслужбы предупредили о риске использования ИИ для создания биологического оружия.",
+   "term": "Биологическое оружие — средства, созданные для нанесения вреда живым организмам, которые могут быть спроектированы с помощью ИИ.",
    "use": [
-    "Отслеживайте законодательные инициативы в своей стране, чтобы подготовить бизнес к новым требованиям.",
-    "Учитывайте возможные ограничения при планировании проектов, связанных с генеративным ИИ."
+    "Следите за новыми законодательными инициативами в своей стране.",
+    "Если вы работаете в сфере ИИ, готовьте внутренние политики безопасности.",
+    "Обратите внимание на требования к прозрачности и этике в проектах с ИИ."
    ],
    "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "63b1605b51b19b",
@@ -1847,15 +2083,17 @@
    "title_en": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
    "summary_en": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
    "pending": false,
-   "title_ru": "Disney рассматривает покупку технологий чатбота Character.AI за $20 млн",
-   "simple": "Disney может купить технологию одного из первых чатботов, связанного с трагедией среди подростков. Сделка оценивается в 20 миллионов долларов.",
-   "term": "",
+   "title_ru": "Disney предлагает $20 млн за технологию чат‑бота Character.AI",
+   "simple": "Disney рассматривает покупку технологий одного из первых чат‑ботов, связанного с трагическим случаем суицида подростка. Сделка может помочь компании расширить свои интерактивные сервисы.",
+   "term": "Чат‑бот — программа, имитирующая разговор с человеком, часто использующая большие языковые модели.",
    "use": [
-    "Следите за тем, как крупные компании интегрируют чатботы в свои сервисы.",
-    "Оцените риски репутации при использовании технологий с проблемной историей."
+    "Следите за новостями о том, как крупные медиа используют ИИ в развлечениях.",
+    "Если вы разрабатываете чат‑боты, изучайте требования к безопасности и этике.",
+    "Подумайте, как ИИ может улучшить пользовательский опыт в ваших проектах."
    ],
    "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "550c4c02e9ff21",
@@ -1867,15 +2105,17 @@
    "title_en": "Run fast, private agents on-device with LFM2.5-24B-A2B",
    "summary_en": "",
    "pending": false,
-   "title_ru": "Быстрые приватные агенты на устройстве с LFM2.5-24B-A2B",
-   "simple": "Hugging Face анонсировала модель LFM2.5-24B-A2B, позволяющую запускать приватные AI‑агенты локально и быстро.",
-   "term": "",
+   "title_ru": "Быстрые частные агенты на устройстве с LFM2.5-24B-A2B",
+   "simple": "Новый крупный языковой модельный агент LFM2.5‑24B‑A2B позволяет запускать приватные ИИ‑приложения прямо на устройстве без облака. Это повышает скорость и конфиденциальность.",
+   "term": "On‑device inference — запуск модели ИИ непосредственно на устройстве пользователя, без отправки данных в облако.",
    "use": [
-    "Попробуйте запустить модель на собственном устройстве, если важна конфиденциальность данных.",
-    "Проверьте совместимость модели с вашим железом перед внедрением."
+    "Попробуйте локальные модели для задач, где важна конфиденциальность данных.",
+    "Оцените, хватает ли мощности вашего компьютера для такой модели.",
+    "Следите за оптимизацией моделей под мобильные и настольные устройства."
    ],
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "7e60f5237eddc0",
@@ -1887,16 +2127,17 @@
    "title_en": "Google wants to host your personal vibe-coded apps in the Play Store",
    "summary_en": "Google plans to help turn those personal AI-generated apps into wide releases.",
    "pending": false,
-   "title_ru": "Google планирует размещать персональные AI‑приложения в Play Store",
-   "simple": "Google хочет помочь разработчикам выпускать свои личные AI‑приложения в официальном магазине, делая их доступными широкой аудитории. Это открывает новые возможности для создания и распространения AI‑инструментов.",
-   "term": "vibe‑coded — термин, обозначающий приложения, генерируемые или адаптируемые искусственным интеллектом под индивидуальные предпочтения пользователя",
+   "title_ru": "Google поможет разместить ваши персональные AI‑приложения в Play Store",
+   "simple": "Google планирует поддерживать разработчиков в публикации приложений, созданных с помощью генеративного ИИ, в официальном магазине. Это упростит доступ к персонализированным сервисам для широкой аудитории.",
+   "term": "Generative AI — тип ИИ, который создает новые данные (текст, изображения, код) на основе обученных примеров.",
    "use": [
-    "Попробуйте создать простое AI‑приложение с помощью доступных генераторов и загрузить его в Play Store через программу Google.",
-    "Следите за новостями Google о правилах публикации, чтобы ваш AI‑приложение соответствовало требованиям магазина.",
-    "Используйте такие персональные AI‑приложения для автоматизации рутинных задач в работе или обучении."
+    "Разработайте небольшое AI‑приложение и попробуйте разместить его в Play Store.",
+    "Изучите требования Google к контенту, созданному ИИ.",
+    "Обратите внимание на политику конфиденциальности и безопасность данных пользователей."
    ],
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "884ebf3c3978ea",
@@ -1909,14 +2150,16 @@
    "summary_en": "",
    "pending": false,
    "title_ru": "Gemini 4 Argon для робототехники",
-   "simple": "Google DeepMind представил Gemini 4 Argon, модель, ориентированную на задачи в робототехнике. Это обещает улучшить взаимодействие роботов с окружающей средой. Новая версия может ускорить разработку автономных систем.",
-   "term": "API — интерфейс, позволяющий программам общаться друг с другом",
+   "simple": "DeepMind представила модель Gemini 4 Argon, оптимизированную для задач робототехники. Она обещает улучшить управление и восприятие у роботов.",
+   "term": "Робототехника — область, где создаются машины, способные выполнять задачи автоматически, часто с помощью ИИ.",
    "use": [
-    "Изучите, как интегрировать Gemini 4 Argon в свои робототехнические проекты, чтобы повысить их интеллектуальные возможности.",
-    "Следите за обновлениями, чтобы не пропустить новые функции, которые могут улучшить работу ваших роботов."
+    "Следите за появлением SDK и библиотек от DeepMind для интеграции модели в роботов.",
+    "Если вы работаете с роботами, протестируйте новую модель на простых задачах навигации.",
+    "Учитывайте требования к вычислительным ресурсам при внедрении модели в реальное оборудование."
    ],
-   "category": "Модели",
-   "model": "openai/gpt-oss-20b"
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "f174716114a913",
@@ -1928,15 +2171,17 @@
    "title_en": "Gemini 4 Argon: Built to solve your hardest problems",
    "summary_en": "",
    "pending": false,
-   "title_ru": "Gemini 4 Argon: решение самых сложных задач",
-   "simple": "Google DeepMind заявляет, что Gemini 4 Argon способен решать самые трудные задачи. Это делает модель привлекательной для исследователей и разработчиков, ищущих мощные инструменты.",
-   "term": "Инференс — запуск уже обученной модели для получения ответов",
+   "title_ru": "Gemini 4 Argon: модель для решения самых сложных задач",
+   "simple": "DeepMind позиционирует Gemini 4 Argon как инструмент, способный решать сложные аналитические и инженерные задачи. Это может расширить возможности ИИ в научных и бизнес‑проектах.",
+   "term": "Large Language Model (LLM) — огромная нейронная сеть, обученная на текстах, способная генерировать осмысленные ответы.",
    "use": [
-    "Проверьте, как Gemini 4 Argon справляется с вашими сложными задачами, используя его API.",
-    "Экспериментируйте с настройками модели, чтобы найти оптимальные параметры для ваших задач."
+    "Исследуйте, какие типы задач в вашей работе могут быть автоматизированы с помощью LLM.",
+    "Подготовьте набор данных для тонкой настройки модели под ваши нужды.",
+    "Следите за доступностью API и условиями использования модели от DeepMind."
    ],
    "category": "Модели",
-   "model": "openai/gpt-oss-20b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "caa6203fc500b5",
@@ -1948,15 +2193,28 @@
    "title_en": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
    "summary_en": "Developers will get 50 percent discounted API rates through November.",
    "pending": false,
-   "title_ru": "Gemini 4 Argon доступен в приложении Gemini и Antigravity, но только за деньги",
-   "simple": "Разработчики получат 50 % скидку на API Gemini 4 Argon до ноября. Это делает модель более доступной для стартапов и исследователей.",
-   "term": "Скидка — уменьшение стоимости услуги",
+   "title_ru": "Gemini 4 Argon доступен в приложении Gemini и Antigravity за плату",
+   "simple": "Google выпустил новую версию Gemini 4 Argon, которая появляется в их приложениях, но её можно использовать только при оплате. Разработчикам предлагается скидка 50 % на цены API до ноября, что делает её более доступной.",
+   "term": "API — интерфейс программирования приложений, позволяющий программам взаимодействовать друг с другом.",
    "use": [
-    "Воспользуйтесь скидкой до ноября, чтобы снизить расходы на использование Gemini 4 Argon.",
-    "Планируйте бюджет проекта, учитывая доступные скидки на API."
+    "Подпишитесь на платный план Gemini, чтобы получить доступ к новой модели.",
+    "Воспользуйтесь 50‑процентной скидкой до ноября, чтобы протестировать возможности модели в своих проектах.",
+    "Сравните стоимость использования Gemini с другими сервисами, чтобы выбрать оптимальный вариант."
    ],
    "category": "Разработка",
-   "model": "openai/gpt-oss-20b"
+   "model": "openai/gpt-oss-120b",
+   "money": {
+    "idea": "предоставлять услуги разработки на базе Gemini API",
+    "how": [
+     "Оформите платный доступ к Gemini API с учётом скидки",
+     "Создайте небольшие прототипы, демонстрирующие возможности модели",
+     "Предложите клиентам интеграцию модели в их продукты или сервисы",
+     "Получайте оплату за настройку и поддержку решений"
+    ],
+    "who": "разработчики, умеющие работать с API и Python/JS",
+    "effort": "средний",
+    "risk": "зависимость от изменения цен и условий доступа"
+   }
   },
   {
    "id": "c1e94fc831365c",
@@ -1968,35 +2226,13 @@
    "title_en": "Gemini 4 Argon: Built to solve your hardest problems",
    "summary_en": "TBD",
    "pending": false,
-   "title_ru": "Gemini 4 Argon: решение самых сложных задач",
-   "simple": "Google AI повторяет, что Gemini 4 Argon создан для решения сложных задач. Это подтверждает его потенциал в различных областях.",
-   "term": "Инференс — запуск уже обученной модели для получения ответов",
-   "use": [
-    "Используйте Gemini 4 Argon для тестирования сложных сценариев в ваших проектах.",
-    "Сравните результаты с предыдущими моделями, чтобы оценить улучшения."
-   ],
+   "title_ru": "Gemini 4 Argon: создан для решения самых сложных задач",
+   "simple": "Google позиционирует Gemini 4 Argon как модель, способную справляться с самыми трудными задачами. Подробностей пока нет, но ожидается, что она будет более мощной.",
+   "term": "",
+   "use": [],
    "category": "Модели",
-   "model": "openai/gpt-oss-20b"
-  },
-  {
-   "id": "1acd025aeb3475",
-   "date": "2026-10-13T15:17:59Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-   "title_en": "They war-gamed dimming the Sun. It went even worse than you think.",
-   "summary_en": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
-   "pending": false,
-   "title_ru": "Симуляция «потушения» Солнца» показала худшие последствия",
-   "simple": "Исследование по геоинженерии Солнца показало, что вмешательство в климат может привести к непредсказуемым последствиям. Это подчеркивает важность международного регулирования подобных технологий.",
-   "term": "Геоинженерия — искусственное вмешательство в климатическую систему",
-   "use": [
-    "Обратите внимание на потенциальные риски геоинженерии при планировании климатических проектов.",
-    "Следите за международными соглашениями, регулирующими такие технологии."
-   ],
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-20b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "87e22abf54d8b6",
@@ -2008,15 +2244,17 @@
    "title_en": "Quoting Geoffrey Huntley",
    "summary_en": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling the agent to use the diagnostics library. All of a sudden it's ten out of ten. — Geoffrey Huntley , nobody should type code by hand anymore. here's what's left. Tags: coding-agents , generative-ai , git , agentic-engineering , ai , geoffrey-huntley , llms",
    "pending": false,
-   "title_ru": "Автоматизация кода: как избежать ручного ввода",
-   "simple": "Автор описывает, как использовать хуки Git для проверки кода и принудительного использования диагностической библиотеки. Это повышает надёжность и качество кода.",
-   "term": "Хук Git — автоматический скрипт, запускаемый при определённых действиях в репозитории",
+   "title_ru": "Как заставить агент использовать библиотеку диагностики через git‑хук",
+   "simple": "Разработчик предложил проверять коммиты на прямые вызовы диагностических модулей и блокировать их, заставляя агента пользоваться своей библиотекой. Это повышает надёжность кода, написанного ИИ‑агентами.",
+   "term": "git‑хук — скрипт, который автоматически запускается при определённых действиях в системе контроля версий git.",
    "use": [
-    "Добавьте хук Git, чтобы автоматически проверять вызовы диагностических модулей.",
-    "Проверяйте изменения кода, чтобы избежать ошибок, связанных с обходом диагностической библиотеки."
+    "Настройте pre‑commit хук, который проверяет вызовы запрещённых функций.",
+    "Добавьте в проект свою библиотеку диагностики и требуйте её использование.",
+    "Отслеживайте результаты, чтобы убедиться в уменьшении ошибок."
    ],
-   "category": "Разработка",
-   "model": "openai/gpt-oss-20b"
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "1001bd5509532d",
@@ -2028,16 +2266,17 @@
    "title_en": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
    "summary_en": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and […]",
    "pending": false,
-   "title_ru": "NVIDIA RTX Spark объединяет гейминг, креатив и ИИ в одном чипе",
-   "simple": "Компания NVIDIA представила новый чип RTX Spark, который совмещает возможности игрового компьютера, студии создания контента и персонального ИИ‑суперкомпьютера. Это может ускорить работу с графикой и ИИ‑запросами на одном устройстве.",
-   "term": "Унифицированная память — общий объём памяти, доступный и процессору, и графическому ускорителю, что ускоряет обмен данными между ними.",
+   "title_ru": "NVIDIA RTX Spark: новый суперчип для игр, творчества и ИИ",
+   "simple": "NVIDIA анонсировала RTX Spark — чип, объединяющий возможности игрового ПК, студии создания контента и персонального ИИ‑суперкомпьютера. Он обещает до 128 ГБ общей памяти и петафлоп вычислительной мощности для ИИ.",
+   "term": "петафлоп — единица измерения вычислительной мощности, равная 10¹⁵ операций в секунду.",
    "use": [
-    "Попробуйте обновить драйверы и проверить совместимость вашего ПК с RTX Spark, если планируете использовать новые возможности.",
-    "Обратите внимание на программы, которые используют ИИ‑ускорение, чтобы оценить прирост производительности.",
-    "Если вы разрабатываете графику или ИИ‑модели, протестируйте их на новых тестовых наборах, чтобы увидеть разницу в скорости."
+    "Следите за появлением RTX Spark в линейке ПК, чтобы планировать обновление техники.",
+    "Оцените, какие задачи в вашем бизнесе могут выиграть от такой мощности (рендеринг, обучение моделей).",
+    "Подготовьте программное обеспечение, совместимое с RTX‑технологиями, чтобы сразу воспользоваться преимуществами."
    ],
    "category": "Железо",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "ffc748cb8d88a9",
@@ -2049,16 +2288,17 @@
    "title_en": "Higgsfield takes AI video from 1 minute to over 10",
    "summary_en": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
    "pending": false,
-   "title_ru": "Higgsfield удлиняет AI‑видео до 10 минут с GPT‑6 и GPT‑Image",
-   "simple": "Сервис Higgsfield теперь позволяет создавать AI‑видео длиной более 10 минут, используя новые модели GPT‑6 Astra, GPT‑Image‑2.5 и GPT‑Live для визуального и голосового контента. Это открывает возможности более длительных и качественных видеопроектов.",
-   "term": "GPT‑Live — модель, генерирующая голосовые дорожки в реальном времени, позволяя создавать озвучку без записи человека.",
+   "title_ru": "Higgsfield удлиняет AI‑видео до 10 минут с помощью GPT‑6 и новых моделей",
+   "simple": "Компания Higgsfield представила инструменты, позволяющие создавать более длительные AI‑видео: GPT‑6 Astra генерирует сценарий, GPT‑Image‑2.5 отвечает за визуалы, а GPT‑Live помогает с озвучкой. Это открывает путь к полноценному видеопроизводству на базе ИИ.",
+   "term": "GPT‑6 Astra — модель генерации текста, оптимизированная для создания сценариев длительных видеороликов.",
    "use": [
-    "Экспериментируйте с созданием более длинных видеороликов, используя новые модели, чтобы увидеть, как меняется качество контента.",
-    "Проверьте, как интегрировать AI‑визуализацию в свои проекты, заменяя традиционные графические редакторы.",
-    "Если вы работаете с озвучкой, попробуйте GPT‑Live для быстрой генерации голосовых дорожек без найма актёров."
+    "Попробуйте создать короткое видео с помощью новых моделей, чтобы оценить качество.",
+    "Экспериментируйте с комбинированием GPT‑6 Astra, GPT‑Image‑2.5 и GPT‑Live для полного цикла производства.",
+    "Используйте полученные ролики в соцсетях или обучающих курсах, чтобы привлечь аудиторию."
    ],
    "category": "Применение",
-   "model": "openai/gpt-oss-120b"
+   "model": "openai/gpt-oss-120b",
+   "money": null
   },
   {
    "id": "735d02276e5c54",
