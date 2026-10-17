@@ -1,7 +1,51 @@
 {
- "updated": "2026-10-17T20:43:46Z",
+ "updated": "2026-10-17T23:12:16Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "568162b981af24",
+   "date": "2026-10-17T21:31:32Z",
+   "addedAt": "2026-10-17T23:11:58Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+   "title_en": "Meta removes language that raised scraping and AI training concerns",
+   "summary_en": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+   "pending": false,
+   "title_ru": "Meta изменила условия, вызывавшие опасения по скрапингу и обучению ИИ",
+   "simple": "Meta обновила свои пользовательские условия, но представитель компании сказал, что это не меняет способ, которым они собирают данные с интернета. Это важно, потому что многие следят за тем, как компании используют публичный контент для обучения ИИ.",
+   "term": "скрапинг — автоматический сбор данных с веб‑страниц программами.",
+   "use": [
+    "Обратите внимание на условия использования сайтов, которые вы посещаете, особенно если планируете использовать их контент в проектах.",
+    "Если вы разрабатываете ИИ‑модели, проверяйте, разрешён ли скрапинг данных у их владельцев.",
+    "Следите за новостями о политике крупных платформ, чтобы своевременно адаптировать свои практики сбора данных."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c850cbc2864319",
+   "date": "2026-10-17T21:00:13Z",
+   "addedAt": "2026-10-17T23:11:57Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+   "title_en": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+   "summary_en": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with […]",
+   "pending": false,
+   "title_ru": "Новые ноутбуки RTX Spark с локальным ИИ и графикой Blackwell от NVIDIA",
+   "simple": "NVIDIA представила линейку ноутбуков RTX Spark, оснащённых новейшими графическими процессорами Blackwell и возможностью локального ИИ. Такие устройства обещают мощные возможности для создания контента, игр и работы с ИИ без подключения к облаку.",
+   "term": "локальный ИИ — запуск моделей искусственного интеллекта непосредственно на устройстве без обращения к удалённым серверам.",
+   "use": [
+    "Попробуйте использовать такие ноутбуки для ускорения рендеринга и генерации изображений в своих проектах.",
+    "Если вы обучаете модели, оцените, насколько их можно запускать прямо на ноутбуке, экономя время на передачу данных в облако.",
+    "Следите за совместимостью программного обеспечения с платформой NVIDIA AI, чтобы полностью раскрыть потенциал новых функций."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "b769f5e984a396",
    "date": "2026-10-17T20:21:19Z",
