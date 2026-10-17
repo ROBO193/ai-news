@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-17T14:16:17Z",
+ "updated": "2026-10-17T17:20:48Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "ac0eba5f39915c",
+   "date": "2026-10-17T15:04:36Z",
+   "addedAt": "2026-10-17T17:20:29Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+   "title_en": "Meta removes language that may have allowed it to scrape news sites",
+   "summary_en": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
+   "pending": false,
+   "title_ru": "Meta убирает пункт о скрейпинге новостей для обучения ИИ",
+   "simple": "Meta изменила условия использования, удалив фразу, позволяющую собирать контент с новостных сайтов для обучения своих моделей. Это реакция на критику, связанную с использованием чужих материалов.",
+   "term": "скрейпинг — автоматический сбор данных с веб‑страниц для дальнейшего анализа или обучения моделей",
+   "use": [
+    "Обратите внимание на новые условия использования сервисов Meta, если вы публикуете контент.",
+    "Если вы владелец сайта, проверьте, как ваши материалы могут использоваться другими компаниями.",
+    "При планировании собственного ИИ‑проекта учитывайте требования к легальному получению обучающих данных."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "4a0e4538d4e73b",
    "date": "2026-10-17T09:00:00Z",
