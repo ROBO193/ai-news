@@ -1,7 +1,28 @@
 {
- "updated": "2026-10-17T05:40:45Z",
+ "updated": "2026-10-17T10:55:37Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "4a0e4538d4e73b",
+   "date": "2026-10-17T09:00:00Z",
+   "addedAt": "2026-10-17T10:55:20Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+   "title_en": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+   "summary_en": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+   "pending": false,
+   "title_ru": "ИИ пока не готов расшифровывать сложные геномы",
+   "simple": "Учёные считают, что современные модели ИИ не имеют достаточных данных, чтобы правильно интерпретировать ДНК, которая гораздо динамичнее простых инструкций. Это значит, что пока ИИ не сможет полностью понять генетический код человека.",
+   "term": "",
+   "use": [
+    "Следите за новыми публикациями в области биоинформатики, чтобы понять, когда появятся более мощные модели.",
+    "Если вы работаете в биотехнологиях, планируйте обучение сотрудников методам традиционного анализа ДНК, пока ИИ не станет надёжным инструментом."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "e946af68fd7dbe",
    "date": "2026-10-16T22:06:37Z",
