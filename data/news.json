@@ -1,7 +1,49 @@
 {
- "updated": "2026-10-17T17:20:48Z",
+ "updated": "2026-10-17T20:43:46Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "b769f5e984a396",
+   "date": "2026-10-17T20:21:19Z",
+   "addedAt": "2026-10-17T20:43:29Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+   "title_en": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "summary_en": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+   "pending": false,
+   "title_ru": "В Anthropic стало меньше младших сотрудников, больше встреч",
+   "simple": "В компании Anthropic изменился состав команды: теперь меньше новичков и больше опытных специалистов. Они проводят больше времени в совещаниях, что меняет характер работы.",
+   "term": "",
+   "use": [
+    "Обратите внимание на то, как распределяется время в вашей команде — возможно, стоит увеличить количество встреч для лучшего планирования.",
+    "Если вы ищете работу в AI, учитывайте, что компании могут предпочитать более опытных специалистов."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "51c1c9a5e48bf7",
+   "date": "2026-10-17T18:48:08Z",
+   "addedAt": "2026-10-17T20:43:29Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "title_en": "Replit is no longer working with Anthropic, CEO says",
+   "summary_en": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+   "pending": false,
+   "title_ru": "Replit перестал сотрудничать с Anthropic, OpenAI заменит её",
+   "simple": "Replit объявил, что больше не будет использовать модели Anthropic; вместо них будет подключён OpenAI. Модель Claude всё ещё будет доступна пользователям платформы.",
+   "term": "",
+   "use": [
+    "Если вы разрабатываете проекты на Replit, проверьте, какие модели теперь доступны, и адаптируйте код под OpenAI.",
+    "Следите за обновлениями платформы, чтобы не потерять совместимость с вашими приложениями."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "ac0eba5f39915c",
    "date": "2026-10-17T15:04:36Z",
