@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T00:34:49Z",
+ "updated": "2026-10-17T05:40:45Z",
  "failedSources": [],
  "items": [
   {
@@ -576,6 +576,39 @@
    ],
    "money": null,
    "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "4a2f3ca18eb9ce",
+   "date": "2026-10-16T00:00:00Z",
+   "addedAt": "2026-10-17T05:40:24Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/benefit-street-partners",
+   "title_en": "Benefit Street Partners answers questions faster with Codex",
+   "summary_en": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+   "pending": false,
+   "title_ru": "Benefit Street Partners ускоряет ответы с помощью Codex",
+   "simple": "Компания использует Codex от OpenAI для автоматической проверки кода и ускорения работы с кредитными договорами. Это помогает быстрее сравнивать оценки займов и отвечать клиентам.",
+   "term": "Codex — модель от OpenAI, умеющая генерировать и проверять программный код.",
+   "use": [
+    "Внедрите автоматическую проверку кода в свои финансовые инструменты, используя готовые API.",
+    "Настройте шаблоны запросов к Codex для типовых задач анализа кредитных документов.",
+    "Обучите команду работать с результатами, полученными от модели, чтобы ускорить процесс принятия решений."
+   ],
+   "money": {
+    "idea": "Предоставлять услуги автоматизированного анализа кредитных договоров",
+    "how": [
+     "Изучить API Codex и получить доступ к нему",
+     "Разработать скрипты, которые принимают договор в текстовом виде и выводят ключевые параметры",
+     "Тестировать решение на реальных примерах и отладить ошибки",
+     "Предлагать сервис небольшим финансовым компаниям или фриланс‑консультантам"
+    ],
+    "who": "Навыки программирования, базовое понимание финансов и кредитных документов",
+    "effort": "средний",
+    "risk": "Зависимость от стабильности внешнего API и возможные ограничения по объёму запросов"
+   },
+   "category": "Разработка",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -2718,6 +2751,28 @@
    "category": "Модели",
    "model": "openai/gpt-oss-120b",
    "money": null
+  },
+  {
+   "id": "131f413269cf58",
+   "date": "2026-10-12T16:58:00Z",
+   "addedAt": "2026-10-17T05:40:27Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
+   "title_en": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
+   "summary_en": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app : I need a Python 3.15 flame graph and heatmap demo of the \"web-edit\" app from PyPI - research first then make me those demos Here's the resulting example flame graph and heatmap . Tags: profiling , python , codex",
+   "pending": false,
+   "title_ru": "Профилирование web‑edit в Python 3.15: flame‑графики и тепловые карты кода",
+   "simple": "Автор протестировал новый профайлер Python 3.15 на приложении web‑edit, используя GPT‑6 для генерации демонстраций. Получились flame‑графики и тепловые карты, показывающие, какие части кода самые «тёплые».",
+   "term": "flame graph — визуальное представление стека вызовов, где ширина полосы показывает, сколько времени занимает каждый вызов.",
+   "use": [
+    "Запустите профайлер Python 3.15 на своём проекте, чтобы увидеть узкие места в производительности.",
+    "Сравните полученные flame‑графики с тепловыми картами, чтобы понять, какие строки кода требуют оптимизации.",
+    "Используйте результаты профилирования для приоритизации рефакторинга и улучшения отклика приложения."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "5d83dba89b9f02",
