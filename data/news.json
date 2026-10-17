@@ -1,7 +1,28 @@
 {
- "updated": "2026-10-16T22:08:53Z",
+ "updated": "2026-10-17T00:34:49Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "e946af68fd7dbe",
+   "date": "2026-10-16T22:06:37Z",
+   "addedAt": "2026-10-17T00:34:31Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+   "title_en": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+   "summary_en": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. This catches most routine mistakes, and saves team attention for higher-level questions and scrutiny. — Addy Osmani, Morgan Westlee Lunt, and Qing Wang , How the Claude Code team does code review Tags:…",
+   "pending": false,
+   "title_ru": "Непрерывный AI‑ревью кода вместо финального контроля",
+   "simple": "Команды используют ИИ Claude, который проверяет изменения кода в процессе написания, а не только в конце. Это помогает ловить типичные ошибки автоматически и освобождает людей для более сложных задач.",
+   "term": "Claude — AI‑модель от Anthropic, способная анализировать и предлагать исправления в коде",
+   "use": [
+    "Попробуйте интегрировать в ваш процесс разработки инструменты автоматической проверки кода на базе ИИ.",
+    "Обучите команду распознавать, какие типы ошибок уже покрывает ИИ, а какие требуют человеческого внимания."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "d0f11237d1f361",
    "date": "2026-10-16T21:22:28Z",
@@ -78,6 +99,27 @@
    "use": [
     "Если интересуетесь технологией добычи, изучите, как ИИ может оптимизировать процессы.",
     "Следите за новостями о применении ИИ в промышленности, чтобы предвидеть новые возможности для карьерного роста."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "65442e708214c1",
+   "date": "2026-10-16T19:00:00Z",
+   "addedAt": "2026-10-17T00:34:29Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/itau-generative-ai",
+   "title_en": "How Itaú is building generative AI for its entire customer base",
+   "summary_en": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+   "pending": false,
+   "title_ru": "Itaú внедряет генеративный ИИ для клиентов и сотрудников",
+   "simple": "Бразильский банк Itaú запускает разговорный интерфейс ia.i и платформу управления ИИ IARA, чтобы использовать ИИ во всех сервисах. Это часть их стратегии «AI First» в строго регулируемом секторе.",
+   "term": "генеративный ИИ — система, создающая новые тексты, ответы или другие материалы на основе обученных данных",
+   "use": [
+    "Следите за появлением новых клиентских сервисов банка, основанных на ИИ, чтобы понять, какие задачи они автоматизируют.",
+    "Если вы работаете в финансовом секторе, изучите принципы управления ИИ, чтобы подготовить свои процессы к подобным внедрениям."
    ],
    "money": null,
    "category": "Применение",
@@ -763,6 +805,27 @@
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b",
    "money": null
+  },
+  {
+   "id": "08c79764230e6e",
+   "date": "2026-10-15T19:47:52Z",
+   "addedAt": "2026-10-17T00:34:31Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+   "title_en": "Chirp Pong",
+   "summary_en": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work! Build a two player competitive pong like game where two players use their phones close to each other and the game state is sent via audio noises which the web microphone API can interpret - but add graphical and gameplay twists to make it a lot more fun and intertwine than pong Claude Opus 5.5 Extra in Claude Code . Tags: game-design , ai , generative-ai , llms , claude-code",
+   "pending": false,
+   "title_ru": "Chirp Pong: игра, где состояние передаётся звуком через микрофон",
+   "simple": "Разработчик создал экспериментальную игру Pong, где два телефона обмениваются данными через звуковые сигналы, используя микрофон браузера. Идея подтверждена работой в статическом HTML.",
+   "term": "Web Audio API — браузерный интерфейс для доступа к микрофону и обработки аудио в реальном времени",
+   "use": [
+    "Попробуйте создать простое приложение, которое передаёт данные через звук, используя Web Audio API.",
+    "Экспериментируйте с другими играми или утилитами, где связь может быть реализована без сети, только звуком."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "031cee9ab4e640",
@@ -2676,6 +2739,28 @@
    "category": "Исследования",
    "model": "openai/gpt-oss-120b",
    "money": null
+  },
+  {
+   "id": "93062c67d6f00e",
+   "date": "2026-10-12T15:54:36Z",
+   "addedAt": "2026-10-17T00:34:31Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+   "title_en": "web-edit 0.1a0",
+   "summary_en": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Extra High build this Python web app which provides a web UI for viewing and editing files in a folder. It's intended to be run over Tailscale, so I can have an agent start this running and then edit files via my Tailscale network directly from my phone. Here's the interface for browsing files in a folder: Editing uses CodeMirror 6 - I was going to use Monaco but that still doesn't have a great mobile experience yet. Tags: projects , python , ai , tailscale…",
+   "pending": false,
+   "title_ru": "web‑edit 0.1a0: веб‑интерфейс для редактирования файлов через Tailscale",
+   "simple": "Создано небольшое веб‑приложение, позволяющее просматривать и менять файлы в папке через защищённую сеть Tailscale, управляемое с телефона. Для редактирования используется редактор CodeMirror 6.",
+   "term": "CodeMirror 6 — библиотека JavaScript, предоставляющая в браузере полноценный редактор кода с подсветкой и автодополнением.",
+   "use": [
+    "Запустите web‑edit на сервере, подключенном к Tailscale, чтобы безопасно редактировать файлы удалённо.",
+    "Используйте мобильный браузер, чтобы менять конфигурацию или скрипты без необходимости переносить файлы вручную.",
+    "Настройте права доступа в Tailscale, чтобы только уполномоченные устройства могли видеть и менять файлы."
+   ],
+   "money": null,
+   "category": "Open source",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "9c679f3096ea25",
