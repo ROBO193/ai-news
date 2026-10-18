@@ -1,7 +1,51 @@
 {
- "updated": "2026-10-18T06:01:54Z",
+ "updated": "2026-10-18T11:21:14Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "70bdb9d8dab5d9",
+   "date": "2026-10-18T10:30:00Z",
+   "addedAt": "2026-10-18T11:20:55Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+   "title_en": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+   "summary_en": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+   "pending": false,
+   "title_ru": "Творцы на OnlyFans возмущены, что Meta позволяет ИИ‑агенту флиртовать",
+   "simple": "Создатели контента на OnlyFans жалуются, что искусственный интеллект от Meta может вести откровенный чат, тогда как их аккаунты часто ограничивают. Это поднимает вопросы о двойных стандартах в модерации.",
+   "term": "ИИ‑агент — программа, имитирующая человеческое общение, в данном случае в виде чат‑бота.",
+   "use": [
+    "Обратите внимание на правила платформ, где вы публикуете контент, и готовьте ответы на возможные сравнения с ИИ.",
+    "Если вы работаете с модерацией, изучите, как алгоритмы различают контент от людей и от ИИ.",
+    "Следите за новостями о политике соцсетей, чтобы адаптировать свою стратегию публикаций."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "14fcc0d971132d",
+   "date": "2026-10-18T08:00:30Z",
+   "addedAt": "2026-10-18T11:20:56Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/18/week-in-review-hidden-implant-in-ledger-wallets-linked-to-93m-theft-1500-npm-packages-exposed/",
+   "title_en": "Week in review: Hidden implant in Ledger wallets linked to $93M theft, 1,500+ npm packages exposed",
+   "summary_en": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Strands Box: Open-source sandbox for AI agents AWS released Strands Box, an open source sandbox for AI agents that pairs operating-system isolation with rules that can weigh what an agent has already done before letting it act again. Box is in developer preview and runs on Macs with Apple silicon, with Linux support planned. Geopolitics and the cyber resilience gap … More → The post Week in review: Hidden implant in Ledger wallets linked to $93M theft, 1,500+ npm packages exposed appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "AWS представил Strands Box — песочницу для ИИ‑агентов",
+   "simple": "Amazon выпустила открытый инструмент Strands Box, который изолирует работу ИИ‑агентов и проверяет их действия перед выполнением. Это помогает безопаснее разрабатывать и тестировать такие системы.",
+   "term": "Песочница (sandbox) — изолированная среда, где программы могут работать без риска повредить основную систему.",
+   "use": [
+    "Разработчикам попробовать Strands Box в режиме предварительного просмотра на Mac с Apple Silicon.",
+    "Если вы планируете запуск ИИ‑агентов, использовать песочницу для проверки их поведения перед продакшном.",
+    "Следите за обновлениями поддержки Linux, чтобы расширить возможности тестирования."
+   ],
+   "money": null,
+   "category": "Open source",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "568162b981af24",
    "date": "2026-10-17T21:31:32Z",
