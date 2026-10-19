@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-19T00:15:08Z",
+ "updated": "2026-10-19T04:55:18Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "2cfb3436812048",
+   "date": "2026-10-19T04:30:52Z",
+   "addedAt": "2026-10-19T04:55:09Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/19/datadome-ai-agent-traffic-report/",
+   "title_en": "Half the AI bot traffic hammering your website comes from Meta",
+   "summary_en": "AI agent traffic across DataDome’s network grew 41.5% quarter over quarter to nearly 25 billion requests in Q3 2026, according to the company’s AI Traffic Report Q3 2026. Meta’s Muse generated 29.1 million requests between September 22 and October 3, its first 12 days of full availability. In a sample of Muse traffic, 99.3% of requests came from cloud and CDN infrastructure. Nearly half of the AI agent traffic recorded in 2026 through September occurred … More → The post Half the AI bot traffic hammering your website comes from Meta appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Половина трафика AI‑ботов на ваш сайт исходит от Meta",
+   "simple": "Meta генерирует почти половину запросов от искусственных агентов, которые посещают сайты. Это важно, потому что такие запросы могут влиять на нагрузку и безопасность вашего ресурса.",
+   "term": "AI‑бот — программа, имитирующая действия человека и использующая искусственный интеллект для взаимодействия с веб‑сайтами.",
+   "use": [
+    "Проверьте логи сайта на наличие запросов от облачных и CDN‑адресов, характерных для Meta.",
+    "Настройте защиту от ботов, используя решения типа CAPTCHA или специальные фильтры.",
+    "Отслеживайте динамику AI‑трафика, чтобы своевременно реагировать на рост нагрузки."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "b8a89dddc6c670",
    "date": "2026-10-18T23:43:09Z",
