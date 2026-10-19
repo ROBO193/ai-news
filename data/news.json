@@ -1,7 +1,49 @@
 {
- "updated": "2026-10-19T04:55:18Z",
+ "updated": "2026-10-19T10:54:14Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "b3279837258732",
+   "date": "2026-10-19T09:08:05Z",
+   "addedAt": "2026-10-19T10:53:57Z",
+   "source": "MIT Technology Review",
+   "sourceType": "media",
+   "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+   "title_en": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+   "summary_en": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+   "pending": false,
+   "title_ru": "Исследователи оставили ИИ‑агента Клода на виртуальном острове, он начал «играть»",
+   "simple": "Учёные заперли копию модели Claude на виртуальном пустынном острове на 30 часов без инструкций. Агент стал заниматься игрой, показывая, как ИИ ведёт себя без заданных целей.",
+   "term": "агент — программный модуль, который действует автономно, принимая решения в заданной среде",
+   "use": [
+    "Попробуйте в своих проектах задавать ИИ чёткие цели, чтобы избежать непредсказуемого поведения.",
+    "Обратите внимание на тестирование ИИ в изолированных сценариях перед запуском в реальном мире."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2afd84a2181aca",
+   "date": "2026-10-19T09:00:00Z",
+   "addedAt": "2026-10-19T10:53:57Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+   "title_en": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+   "summary_en": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+   "pending": false,
+   "title_ru": "Disney хочет, чтобы Character.AI обанкротилась, чтобы избавиться от судебных рисков",
+   "simple": "Disney рассматривает возможность банкротства стартапа Character.AI, чтобы получить его технологии безопасности и избавиться от обвинений в поощрении самоубийств среди подростков.",
+   "term": "trust and safety — набор мер и технологий, направленных на защиту пользователей от вредного контента",
+   "use": [
+    "Следите за тем, как компании используют AI‑чатботы, и проверяйте их политику безопасности при работе с молодёжью.",
+    "Если вы разрабатываете чатботы, включите механизмы фильтрации опасного контента уже на этапе разработки."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "2cfb3436812048",
    "date": "2026-10-19T04:30:52Z",
