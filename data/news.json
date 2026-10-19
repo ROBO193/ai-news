@@ -1,7 +1,269 @@
 {
- "updated": "2026-10-19T17:34:18Z",
+ "updated": "2026-10-19T22:28:23Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "0cffae2fd0c531",
+   "date": "2026-10-19T22:04:28Z",
+   "addedAt": "2026-10-19T22:27:53Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+   "title_en": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+   "summary_en": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+   "pending": false,
+   "title_ru": "Microsoft: AI‑агенты могут стать внутренней угрозой",
+   "simple": "Microsoft предупреждает, что агенты ИИ, используемые сотрудниками, могут вести себя непредсказуемо. Компания советует внимательно следить за их работой, особенно если они работают на платформах, не контролируемых крупными AI‑лабораториями.",
+   "term": "агент ИИ — программный помощник, который автоматически выполняет задачи, используя модели искусственного интеллекта.",
+   "use": [
+    "Отслеживайте, какие AI‑инструменты используют ваши сотрудники.",
+    "Внедрите политику контроля доступа к внешним AI‑сервисам.",
+    "Проводите регулярные аудиты поведения AI‑агентов."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "073765c16b4994",
+   "date": "2026-10-19T21:28:20Z",
+   "addedAt": "2026-10-19T22:27:53Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+   "title_en": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+   "summary_en": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]",
+   "pending": false,
+   "title_ru": "Долговой кризис CoreWeave ставит под угрозу весь AI‑сектор",
+   "simple": "Облигации компании CoreWeave упали в состояние distress, что привлекло внимание инвесторов к возможному кредитному пузырю в сфере AI. Эксперт Чамат Палихапития отметил, что проблемы одной компании могут отразиться на всей отрасли.",
+   "term": "distressed debt — облигации, требующие значительно более высоких доходов из‑за повышенного риска.",
+   "use": [
+    "Следите за финансовыми новостями компаний, работающих в AI.",
+    "Оценивайте риски инвестиций в стартапы AI с высоким уровнем долга.",
+    "Разрабатывайте стратегии диверсификации, чтобы снизить влияние одного провального проекта."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "71a28de11a0682",
+   "date": "2026-10-19T20:21:53Z",
+   "addedAt": "2026-10-19T22:27:53Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+   "title_en": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+   "summary_en": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+   "pending": false,
+   "title_ru": "У бывшего инженера OpenAI обнаружена папка «Saudi Gov Docs»",
+   "simple": "ФБР сообщает, что у бывшего сотрудника OpenAI нашли материалы, связанные с правительством Саудовской Аравии, и опасаются, что он может быть использован для шпионажа. США опасаются, что Саудовская Аравия поможет ему скрыться от ответственности.",
+   "term": "",
+   "use": [
+    "Будьте внимательны к вопросам конфиденциальности при работе с данными компаний.",
+    "Укрепляйте внутренние политики безопасности и контроля доступа к чувствительной информации."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "aaaf393dcb1034",
+   "date": "2026-10-19T20:09:24Z",
+   "addedAt": "2026-10-19T22:27:53Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+   "title_en": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+   "summary_en": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+   "pending": false,
+   "title_ru": "Amazon бросает вызов Nvidia с новым инструментом TorchNeuron",
+   "simple": "Amazon выпустил TorchNeuron — набор разработчикам, позволяющий запускать PyTorch‑модели на альтернативных чипах, в том числе собственных процессорах Amazon. Цель — снизить зависимость от видеокарт Nvidia.",
+   "term": "PyTorch — бесплатный набор инструментов для создания и обучения моделей искусственного интеллекта.",
+   "use": [
+    "Попробуйте перенести свои PyTorch‑модели на TorchNeuron, чтобы оценить производительность на разных чипах.",
+    "Следите за обновлениями Amazon для оптимизации расходов на вычисления AI.",
+    "Изучайте совместимость вашего кода с альтернативными аппаратными платформами."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "100017994d8d72",
+   "date": "2026-10-19T19:49:17Z",
+   "addedAt": "2026-10-19T22:27:53Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+   "title_en": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+   "summary_en": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+   "pending": false,
+   "title_ru": "Суд оставил бывшего инженера OpenAI под стражей",
+   "simple": "Судья отказал в освобождении бывшего сотрудника OpenAI, сравнив предложение Саудовской Аравии о его выпуске с «чистым чек‑медом». Инженер остаётся под стражей по обвинениям в шпионаже.",
+   "term": "",
+   "use": [
+    "Следите за юридическими аспектами работы в международных проектах AI.",
+    "Учитывайте риски, связанные с передачей конфиденциальных данных за границу."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "039a84854fb85d",
+   "date": "2026-10-19T19:28:34Z",
+   "addedAt": "2026-10-19T22:27:53Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+   "title_en": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+   "summary_en": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+   "pending": false,
+   "title_ru": "Хакеры украли API‑ключи пользователей в OpenCode и увеличили их счета",
+   "simple": "Злоумышленники проникли в онлайн‑платформу OpenCode, украли часть API‑ключей и заставили сервисы начислять пользователям лишние расходы. Это важно, потому что многие используют такие инструменты для автоматизации кода.",
+   "term": "API‑ключ — уникальный код, позволяющий приложению обращаться к внешнему сервису и использовать его функции.",
+   "use": [
+    "Проверьте последние расходы в аккаунтах AI‑сервисов.",
+    "Смените подозрительные API‑ключи на новые.",
+    "Настройте оповещения о резком росте расходов."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "81b55b50044baa",
+   "date": "2026-10-19T19:27:08Z",
+   "addedAt": "2026-10-19T22:27:53Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+   "title_en": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+   "summary_en": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial applications of AI. Huang opened by tracing NVIDIA’s longstanding relationship with German industry, beginning with gaming systems, workstations and automotive […]",
+   "pending": false,
+   "title_ru": "Германия стремится стать лидером в промышленном ИИ с помощью NVIDIA",
+   "simple": "На встрече в Берлине канцлер Фридрих Мерц и глава NVIDIA обсудили план Германии по развитию промышленного искусственного интеллекта. Это может открыть новые возможности для компаний, работающих в производстве и автоматизации.",
+   "term": "Промышленный ИИ — применение методов искусственного интеллекта для оптимизации производственных процессов и оборудования.",
+   "use": [
+    "Следите за государственными программами поддержки ИИ в промышленности.",
+    "Изучайте инструменты NVIDIA для промышленного анализа данных.",
+    "Подумайте, какие процессы в вашем бизнесе можно автоматизировать с помощью ИИ."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "e37065d0e75499",
+   "date": "2026-10-19T19:00:12Z",
+   "addedAt": "2026-10-19T22:27:53Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+   "title_en": "Tolan snags $30M for its AI companion that helps users navigate life",
+   "summary_en": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+   "pending": false,
+   "title_ru": "AI‑компаньон Tolan привлек $30 млн после роста до 250 тыс. пользователей",
+   "simple": "Приложение‑компаньон Tolan получило очередной раунд инвестиций после того, как его активную аудиторию превысила 250 000 человек. Приложение помогает людям ориентироваться в повседневных вопросах с помощью ИИ.",
+   "term": "AI‑компаньон — приложение, использующее искусственный интеллект для диалога и поддержки пользователя в разных ситуациях.",
+   "use": [
+    "Скачайте Tolan, чтобы оценить, как ИИ может помогать в планировании задач.",
+    "Обратите внимание на политику конфиденциальности при работе с личными данными.",
+    "Поделитесь опытом использования с друзьями, если приложение оказалось полезным."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "71c2d7263cd3ee",
+   "date": "2026-10-19T18:49:04Z",
+   "addedAt": "2026-10-19T22:27:53Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+   "title_en": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+   "summary_en": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+   "pending": false,
+   "title_ru": "Wabi — бесплатный персональный AI‑ассистент от создателя Replika",
+   "simple": "Евгения Куйда запустила Wabi — бесплатный персональный AI‑ассистент, идея которого возникла более десяти лет назад. Приложение доступно для скачивания и обещает помогать в повседневных задачах.",
+   "term": "Персональный AI‑ассистент — программа, которая использует ИИ для выполнения запросов пользователя, напоминаний и рекомендаций.",
+   "use": [
+    "Скачайте Wabi, чтобы попробовать бесплатный AI‑ассистент.",
+    "Тестируйте функции, такие как напоминания и поиск информации, в своей работе или учёбе.",
+    "Оцените, насколько удобно взаимодействовать с голосовым или текстовым интерфейсом."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "36c2a79412d571",
+   "date": "2026-10-19T18:37:27Z",
+   "addedAt": "2026-10-19T22:27:53Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+   "title_en": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+   "summary_en": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+   "pending": false,
+   "title_ru": "Tenstorrent оценила в $6,2 млрд для масштабирования открытых AI‑чипов",
+   "simple": "Чиповый стартап Tenstorrent привлек $1,5 млрд, чтобы развивать свои открытые AI‑чипы и остаться независимым от Nvidia. Это важный шаг в конкуренции за вычислительные ресурсы для ИИ.",
+   "term": "Открытый AI‑чип — процессор, архитектура которого доступна разработчикам для оптимизации и кастомизации под свои модели ИИ.",
+   "use": [
+    "Следите за новостями о доступных моделях чипов для ИИ‑вычислений.",
+    "Изучайте возможности открытых чипов, если разрабатываете собственные модели.",
+    "Подумайте о переходе на более энергоэффективные решения при масштабировании проектов."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "fbbcdbe57addf8",
+   "date": "2026-10-19T18:22:47Z",
+   "addedAt": "2026-10-19T22:27:53Z",
+   "source": "MIT Technology Review",
+   "sourceType": "media",
+   "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+   "title_en": "Making the internet better for AI agents might make it worse for everyone else",
+   "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+   "pending": false,
+   "title_ru": "Оптимизация интернета для AI‑агентов может ухудшить опыт обычных пользователей",
+   "simple": "Статья обсуждает, как изменения в работе сайтов, направленные на упрощение доступа AI‑агентов, могут негативно сказаться на обычных людях. Это поднимает вопросы о балансе между ботами и людьми в интернете.",
+   "term": "Бот — программа, автоматически выполняющая задачи в сети, например, сканирование страниц или взаимодействие с сервисами.",
+   "use": [
+    "Проверьте, как ваши сайты реагируют на запросы ботов, чтобы не ухудшить пользовательский опыт.",
+    "Настройте правила доступа, позволяя ботам выполнять нужные задачи без ограничения для людей.",
+    "Следите за обновлениями рекомендаций поисковых систем по работе с ботами."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7216fffbb8a112",
+   "date": "2026-10-19T17:45:55Z",
+   "addedAt": "2026-10-19T22:27:53Z",
+   "source": "MIT Technology Review",
+   "sourceType": "media",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "title_en": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+   "summary_en": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is…",
+   "pending": false,
+   "title_ru": "Исследователь заявил о прорыве в понимании нейронных сетей",
+   "simple": "Ник Каммарата из стартапа Goodfire опубликовал длинный пост, где утверждает, что нашёл новое объяснение работы нейронных сетей. Это вызвало бурные обсуждения в AI‑сообществе.",
+   "term": "нейронные сети — математические модели, имитирующие работу мозга для обработки данных",
+   "use": [
+    "Подпишитесь на блог Goodfire, чтобы следить за деталями заявления.",
+    "Обсудите в профессиональных сообществах, какие последствия может иметь такой прорыв для ваших проектов.",
+    "Следите за реакцией крупных компаний, чтобы понять, как быстро идея может перейти в практику."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "c08e28e17ab3ca",
    "date": "2026-10-19T17:32:12Z",
@@ -288,6 +550,28 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "c17a4963d410cf",
+   "date": "2026-10-19T12:30:00Z",
+   "addedAt": "2026-10-19T22:27:53Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+   "title_en": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+   "summary_en": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+   "pending": false,
+   "title_ru": "Laplace Intelligence тестирует роботов и автопилоты в виртуальном мире",
+   "simple": "Старт‑ап из Мичигана использует AI‑агентов и интерактивные симуляции, чтобы проверять роботов и самоуправляемые машины до их выхода в реальность. Компания участвует в конкурсе TechCrunch Disrupt.",
+   "term": "симуляция — создание виртуального окружения, где можно безопасно проверять работу систем",
+   "use": [
+    "Попробуйте интегрировать симуляционные тесты в свой процесс разработки роботов.",
+    "Изучите открытые платформы для создания AI‑агентов, чтобы проводить собственные стресс‑тесты.",
+    "Следите за результатами конкурса, они могут подсказать лучшие практики."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "c7d5c6f537c1e3",
    "date": "2026-10-19T11:04:12Z",
    "addedAt": "2026-10-19T17:33:49Z",
@@ -370,6 +654,28 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9dbc0d55ff9123",
+   "date": "2026-10-19T00:00:00Z",
+   "addedAt": "2026-10-19T22:27:53Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/hf-torchneuron",
+   "title_en": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "TorchNeuron упрощает запуск моделей Hugging Face на AWS Trainium",
+   "simple": "Новый инструмент TorchNeuron позволяет быстро запускать модели из библиотеки Hugging Face на процессорах AWS Trainium, делая процесс более доступным. Это упрощает работу с крупными языковыми моделями в облаке.",
+   "term": "инференс — запуск уже обученной модели для получения ответов",
+   "use": [
+    "Установите TorchNeuron, если работаете с моделями Hugging Face в AWS.",
+    "Проверьте совместимость ваших моделей с процессорами Trainium перед миграцией.",
+    "Экспериментируйте с настройками, чтобы оптимизировать скорость и стоимость инференса."
+   ],
+   "money": null,
+   "category": "Железо",
    "model": "openai/gpt-oss-120b"
   },
   {
