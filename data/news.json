@@ -1,7 +1,181 @@
 {
- "updated": "2026-10-20T18:32:41Z",
+ "updated": "2026-10-20T22:23:26Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "7f6bb9c0aa5027",
+   "date": "2026-10-20T22:11:34Z",
+   "addedAt": "2026-10-20T22:22:58Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+   "title_en": "Google’s more personalized Gemini AI is heading to your car",
+   "summary_en": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving […]",
+   "pending": false,
+   "title_ru": "Google добавит персональный Gemini в Android Auto",
+   "simple": "Google интегрирует Gemini AI в системы Android Auto, позволяя использовать данные из Gmail, Календаря, Карт и других сервисов прямо в машине. Это сделает голосовые запросы более персонализированными, например, проверка статуса рейса во время вождения.",
+   "term": "Personal Intelligence — функция ИИ, которая использует ваши личные данные из разных сервисов для более точных ответов.",
+   "use": [
+    "Настройте разрешения Gemini в аккаунте Google, чтобы он мог обращаться к нужным сервисам.",
+    "Проверьте, какие данные вы хотите делиться с ИИ в машине, и отключите лишнее в настройках.",
+    "Используйте голосовые запросы для планирования маршрутов и проверок, не отвлекаясь от дороги."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9ea810a533713a",
+   "date": "2026-10-20T21:25:22Z",
+   "addedAt": "2026-10-20T22:22:58Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+   "title_en": "Anthropic’s cloud partnerships are getting messy",
+   "summary_en": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+   "pending": false,
+   "title_ru": "Anthropic испытывает трудности с облачными провайдерами",
+   "simple": "Anthropic сталкивается с проблемой получения достаточных вычислительных ресурсов от облачных компаний, которые видят в ней конкурента. Это может замедлить развитие их моделей перед предстоящим IPO.",
+   "term": "",
+   "use": [
+    "Следите за новостями о доступности облачных ресурсов, если планируете использовать Anthropic API.",
+    "Рассмотрите альтернативные провайдеры для вычислений, если вам нужны большие мощности.",
+    "Оцените риски зависимости от одного поставщика облака при выборе сервисов ИИ."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "38bd10c8e49d1d",
+   "date": "2026-10-20T20:40:41Z",
+   "addedAt": "2026-10-20T22:22:58Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+   "title_en": "SpaceX’s AI business is beating expectations",
+   "summary_en": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+   "pending": false,
+   "title_ru": "AI‑бизнес SpaceX превзошёл ожидания",
+   "simple": "SpaceX сообщила о высокой прибыли в третьем квартале, причём основной доход пришёл от искусственного интеллекта. Это показывает растущий спрос на AI‑технологии в космической отрасли.",
+   "term": "",
+   "use": [
+    "Изучите, какие AI‑решения предлагает SpaceX, если вы работаете в смежных отраслях.",
+    "Подумайте о внедрении аналогичных AI‑инструментов в свои проекты для повышения эффективности.",
+    "Следите за новыми сервисами от SpaceX, которые могут стать доступными для внешних клиентов."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a323e283c5c71a",
+   "date": "2026-10-20T20:35:10Z",
+   "addedAt": "2026-10-20T22:22:58Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+   "title_en": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+   "summary_en": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+   "pending": false,
+   "title_ru": "OpenAI покупает Orchestra Bio для биотеха",
+   "simple": "OpenAI приобрела стартап Orchestra Bio, чтобы усилить работу над моделью Rosalind, предназначенной для исследований в области биологии и медицины. Это поможет учёным планировать эксперименты и анализировать результаты с помощью ИИ.",
+   "term": "Rosalind — модель ИИ, специализирующаяся на задачах биологических исследований, таких как планирование экспериментов.",
+   "use": [
+    "Подпишитесь на новости OpenAI, чтобы узнать о новых инструментах для биотехнологий.",
+    "Если вы учёный, попробуйте использовать Rosalind Workbench для планирования экспериментов.",
+    "Следите за открытыми API, которые могут стать доступны для внешних исследователей."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "165cb155314663",
+   "date": "2026-10-20T20:07:58Z",
+   "addedAt": "2026-10-20T22:22:58Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+   "title_en": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+   "summary_en": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
+   "pending": false,
+   "title_ru": "Meta убирает слово «train» из условий использования AI",
+   "simple": "Meta изменила правила использования своих сервисов, убрав требование «train» (обучать) ИИ на пользовательском контенте после критики. Однако они не добавили уважение к файлу robots.txt, который указывает, что можно сканировать.",
+   "term": "robots.txt — файл, в котором веб‑сайт указывает, какие части сайта могут быть проиндексированы поисковыми роботами.",
+   "use": [
+    "Проверьте настройки конфиденциальности в сервисах Meta, если не хотите, чтобы ваш контент использовался для обучения ИИ.",
+    "Обновите файл robots.txt на своём сайте, если хотите ограничить сканирование со стороны Meta.",
+    "Следите за изменениями политики Meta, чтобы своевременно адаптировать свои данные."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f74f11fae08fae",
+   "date": "2026-10-20T20:00:33Z",
+   "addedAt": "2026-10-20T22:22:58Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+   "title_en": "Gemini's Personal Intelligence is coming to cars",
+   "summary_en": "It's probably time to audit your Gemini settings.",
+   "pending": false,
+   "title_ru": "Gemini с персональной интеллектуальностью скоро в автомобилях",
+   "simple": "Gemini AI получит функцию Personal Intelligence в автосистемах, что позволит использовать личные данные для более точных ответов в машине. Пользователям рекомендуется проверить настройки доступа.",
+   "term": "",
+   "use": [
+    "Откройте настройки Gemini и проверьте, какие сервисы подключены к ИИ в автомобиле.",
+    "Ограничьте доступ к личным данным, если не хотите их использовать в автосистеме.",
+    "Тестируйте голосовые команды, чтобы убедиться, что ИИ правильно понимает ваши запросы в дороге."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "45cc8f58865901",
+   "date": "2026-10-20T18:38:24Z",
+   "addedAt": "2026-10-20T22:22:58Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+   "title_en": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+   "summary_en": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+   "pending": false,
+   "title_ru": "Google и Amazon упростили переход от Nvidia к другим GPU для PyTorch‑приложений",
+   "simple": "Google вместе с Amazon выпустили инструмент, позволяющий разработчикам, использующим библиотеку PyTorch, легко переносить свои модели с видеокарт Nvidia на другие платформы. Это может снизить зависимость от одного производителя оборудования.",
+   "term": "PyTorch — открытая библиотека для создания и обучения нейронных сетей.",
+   "use": [
+    "Если вы разрабатываете модели в PyTorch, попробуйте новый инструмент, чтобы проверить работу на альтернативных GPU.",
+    "Следите за совместимостью ваших проектов с разными аппаратными платформами, чтобы избежать задержек в поставках оборудования."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6f64ba14f44d2e",
+   "date": "2026-10-20T18:36:53Z",
+   "addedAt": "2026-10-20T22:22:58Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+   "title_en": "ChatGPT now lets you lock your chats",
+   "summary_en": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+   "pending": false,
+   "title_ru": "ChatGPT теперь позволяет блокировать отдельные чаты",
+   "simple": "OpenAI добавила возможность закрывать пароли отдельные диалоги, чтобы их нельзя было увидеть, когда вы показываете телефон другим людям. Это удобно для личных разговоров или сюрпризов.",
+   "term": "",
+   "use": [
+    "Включите блокировку чата, если обсуждаете конфиденциальные темы и хотите скрыть их от посторонних глаз.",
+    "Используйте эту функцию, когда показываете устройство друзьям, чтобы они не увидели ваш личный диалог."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "748b8e425db02d",
    "date": "2026-10-20T18:22:54Z",
@@ -84,6 +258,27 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2f7a561d0868a8",
+   "date": "2026-10-20T17:55:12Z",
+   "addedAt": "2026-10-20T22:22:58Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+   "title_en": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+   "summary_en": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+   "pending": false,
+   "title_ru": "Эрик Шмидт владеет около половины доли Anthropic, чем CEO Дарио Амодеи",
+   "simple": "По данным Bloomberg, бывший глава Google Эрик Шмидт владеет примерно 1 % акций AI‑лаборатории Anthropic, что примерно вдвое меньше, чем у её генерального директора. Это показывает интерес крупных технологических фигур к стартапам в сфере ИИ.",
+   "term": "",
+   "use": [
+    "Следите за новостями о крупных инвесторах в ИИ, чтобы понимать, какие направления получают поддержку.",
+    "Если вы изучаете карьерные возможности в AI, обратите внимание на компании, где участвуют известные инвесторы."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   },
   {
