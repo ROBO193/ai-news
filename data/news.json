@@ -1,7 +1,70 @@
 {
- "updated": "2026-10-19T22:28:23Z",
+ "updated": "2026-10-20T01:54:51Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "ed298111b59a08",
+   "date": "2026-10-20T01:27:03Z",
+   "addedAt": "2026-10-20T01:54:33Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+   "title_en": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+   "summary_en": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+   "pending": false,
+   "title_ru": "Мэр Нью-Йорка призывает жителей требовать регулирование ИИ",
+   "simple": "Мэр Заһран Мамдани сказал, что жители должны сопротивляться идее неизбежного захвата ИИ и требовать законов, защищающих людей. Это важно, потому что регулирование может ограничить риски технологий.",
+   "term": "",
+   "use": [
+    "Обратитесь к местным депутатам с предложениями по регулированию ИИ.",
+    "Следите за публичными обсуждениями и участвуйте в онлайн‑опросах о политике ИИ."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b0fb4c0567199f",
+   "date": "2026-10-19T23:39:38Z",
+   "addedAt": "2026-10-20T01:54:33Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+   "title_en": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+   "summary_en": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+   "pending": false,
+   "title_ru": "Nscale и Anthropic обсуждают сделку на 45 млрд долларов за вычислительные мощности",
+   "simple": "Компания Nscale и лаборатория Anthropic ведут переговоры о крупной сделке по покупке вычислительных ресурсов. Если она состоится, это будет очередным примером роста спроса на мощные серверы для ИИ.",
+   "term": "",
+   "use": [
+    "Следите за новостями о ценах на облачные вычисления, чтобы планировать бюджеты проектов с ИИ.",
+    "Если вы предоставляете услуги по аренде серверов, изучите требования к масштабируемости для ИИ‑нагрузок."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d45dacf783b254",
+   "date": "2026-10-19T22:49:27Z",
+   "addedAt": "2026-10-20T01:54:33Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+   "title_en": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+   "summary_en": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+   "pending": false,
+   "title_ru": "Встроенные оценщики ИИ — сложное решение, считает Hugging Face",
+   "simple": "Hugging Face предупреждает, что идея размещать независимых наблюдателей внутри компаний, разрабатывающих ИИ, не так проста. Это связано с тем, что такие оценщики могут сталкиваться с конфликтами интересов и техническими ограничениями.",
+   "term": "встроенный оценщик — независимый специалист, который проверяет работу ИИ изнутри компании",
+   "use": [
+    "При выборе партнёра по аудиту ИИ проверяйте их независимость и опыт.",
+    "Внедряйте внутренние проверки качества моделей, используя открытые методики оценки."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "0cffae2fd0c531",
    "date": "2026-10-19T22:04:28Z",
@@ -569,6 +632,27 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7a364f356aab49",
+   "date": "2026-10-19T12:00:00Z",
+   "addedAt": "2026-10-20T01:54:31Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/low-resource-programming-languages",
+   "title_en": "Advancing coding in low‑resource programming languages",
+   "summary_en": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+   "pending": false,
+   "title_ru": "OpenAI улучшает ChatGPT для редких языков программирования",
+   "simple": "OpenAI работает над тем, чтобы ChatGPT лучше понимал и генерировал код на малоиспользуемых языках, таких как COBOL, а также проводит новые тесты для миграции SQLite. Это расширит возможности ИИ‑помощников для старых систем.",
+   "term": "малоиспользуемый язык программирования — язык, который применяется в небольшом числе проектов, часто в старых системах",
+   "use": [
+    "Если вы поддерживаете старые системы, попробуйте использовать ChatGPT для автоматизации миграции кода.",
+    "Изучите возможности ИИ‑помощников в написании тестов для редких языков, чтобы ускорить разработку."
+   ],
+   "money": null,
+   "category": "Разработка",
    "model": "openai/gpt-oss-120b"
   },
   {
