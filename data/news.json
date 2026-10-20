@@ -1,7 +1,277 @@
 {
- "updated": "2026-10-20T13:39:44Z",
+ "updated": "2026-10-20T18:32:41Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "748b8e425db02d",
+   "date": "2026-10-20T18:22:54Z",
+   "addedAt": "2026-10-20T18:32:03Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+   "title_en": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+   "summary_en": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
+   "pending": false,
+   "title_ru": "Украинские дроны спасают раненых на поле боя",
+   "simple": "Украина использует новые дроны для эвакуации раненых солдат, что повышает шансы их спасения. Технология может изменить способы медицинской помощи в боевых условиях.",
+   "term": "",
+   "use": [
+    "Следите за новостями о применении дронов в медицине, чтобы понять, какие навыки могут понадобиться в будущем.",
+    "Если вы работаете в сфере логистики, изучите возможности автоматизации доставки в экстремальных условиях."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "4eb9f7080b1116",
+   "date": "2026-10-20T18:17:47Z",
+   "addedAt": "2026-10-20T18:32:02Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+   "title_en": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "NVIDIA создает генеративную симуляцию для хирургии",
+   "simple": "NVIDIA представила систему, генерирующую симуляции операций, чтобы обучать хирургов. Это помогает отрабатывать сложные процедуры без риска для пациентов.",
+   "term": "Генеративная симуляция — создание реалистичных виртуальных сценариев с помощью ИИ.",
+   "use": [
+    "Попробуйте использовать доступные симуляторы для практики навыков, если вы студент медицины.",
+    "Если вы преподаватель, включите такие симуляции в учебный план для более интерактивного обучения."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2bcaf37a740b17",
+   "date": "2026-10-20T18:11:03Z",
+   "addedAt": "2026-10-20T18:32:03Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+   "title_en": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+   "summary_en": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
+   "pending": false,
+   "title_ru": "GPT‑6.1 лучше переносит старый код",
+   "simple": "OpenAI заявила, что новая модель GPT‑6.1 значительно улучшила перенос кода на устаревшие языки программирования. Это упрощает поддержку старых систем.",
+   "term": "Миграция кода — перенос программ из одной среды в другую, часто с обновлением языка.",
+   "use": [
+    "Если вы разработчик, протестируйте новую модель для автоматизации обновления старых проектов.",
+    "Изучите возможности ИИ‑помощников в написании кода, чтобы ускорить рутинные задачи."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f52190a49967b6",
+   "date": "2026-10-20T18:07:34Z",
+   "addedAt": "2026-10-20T18:32:02Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+   "title_en": "Meta pauses Muse sharing after researchers find AI chats on the web",
+   "summary_en": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […]",
+   "pending": false,
+   "title_ru": "Meta приостановила функцию Muse после утечки ссылок",
+   "simple": "Meta отключила возможность делиться чатами Muse, потому что исследователи нашли публичные ссылки на эти разговоры. Это показывает риски конфиденциальности в AI‑ассистентах.",
+   "term": "Конфиденциальность — защита личных данных от несанкционированного доступа.",
+   "use": [
+    "Будьте осторожны при делении ссылок на AI‑чаты, проверяйте настройки приватности.",
+    "Если вы разрабатываете AI‑приложения, учитывайте безопасность данных пользователей."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "e6729fe7617ac5",
+   "date": "2026-10-20T17:41:58Z",
+   "addedAt": "2026-10-20T18:32:03Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+   "title_en": "French Government Calls Emergency Meetings With Platforms Over Protests",
+   "summary_en": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+   "pending": false,
+   "title_ru": "Франция требует от платформ ограничить протестный контент и AI‑изображения",
+   "simple": "Французское правительство потребовало от TikTok и других площадок убрать видеозаписи протестов и изображения, изменённые ИИ, чтобы предотвратить распространение дезинформации.",
+   "term": "AI‑изображения — картинки, созданные или изменённые с помощью искусственного интеллекта.",
+   "use": [
+    "Если вы создаёте контент, проверяйте, не нарушает ли он новые требования по AI‑модификации.",
+    "Следите за локальными регуляциями, чтобы ваш онлайн‑бизнес соответствовал требованиям к контенту."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f25d567c798eab",
+   "date": "2026-10-20T17:40:20Z",
+   "addedAt": "2026-10-20T18:32:03Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+   "title_en": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+   "summary_en": "Meta argues nobody “decided” to pirate books to train AI.",
+   "pending": false,
+   "title_ru": "Meta обвиняет сотрудников, скачавших торренты, вместо руководства",
+   "simple": "Meta заявила, что сотрудники, а не руководители, скачивали книги через торренты для обучения ИИ. Это может показать, как компании пытаются сместить ответственность за нарушения.",
+   "term": "",
+   "use": [
+    "Обратите внимание на политику компании по использованию контента для обучения ИИ.",
+    "Следите за тем, как в вашей организации оформляются права на данные, используемые в проектах ИИ."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "8891282d78b30c",
+   "date": "2026-10-20T17:12:48Z",
+   "addedAt": "2026-10-20T18:32:03Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+   "title_en": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+   "summary_en": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+   "pending": false,
+   "title_ru": "AI‑помощник Muse от Meta собрал 10 млн загрузок в США за 40 дней",
+   "simple": "Приложение Muse, виртуальный собеседник от Meta, быстро набрало популярность, превысив 10 миллионов скачиваний. Оно удерживает пользователей лучше, чем конкуренты, что говорит о спросе на персональных ИИ‑ассистентов.",
+   "term": "",
+   "use": [
+    "Скачайте Muse, чтобы попробовать общение с ИИ‑ассистентом и оценить его возможности.",
+    "Если вы разрабатываете похожие сервисы, изучите, какие функции удерживают пользователей в Muse."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ca293d8533a348",
+   "date": "2026-10-20T16:09:19Z",
+   "addedAt": "2026-10-20T18:32:02Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/allenai/fairstress",
+   "title_en": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "FairStress: более глубокая оценка справедливости решений больших языковых моделей",
+   "simple": "Исследователи представили метод FairStress, который проверяет, насколько справедливо работают крупные языковые модели при принятии решений. Это важно, чтобы избежать предвзятости в автоматических системах.",
+   "term": "LLM — крупная языковая модель, обученная на огромных объёмах текста и способная генерировать ответы.",
+   "use": [
+    "При работе с LLM учитывайте необходимость тестировать их на справедливость с помощью подобных методик.",
+    "Если вы разрабатываете модели, включайте проверку на предвзятость в процесс разработки."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "5130abca4141f2",
+   "date": "2026-10-20T16:00:00Z",
+   "addedAt": "2026-10-20T18:32:03Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+   "title_en": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+   "summary_en": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+   "pending": false,
+   "title_ru": "Стартап создал ИИ‑переводчик электрических сигналов растений",
+   "simple": "Компания Electric Plant разработала ИИ‑модель, которая переводит электрические импульсы в стеблях растений в понятные сообщения. Это открывает возможность «слушать» растения через их собственные сигналы.",
+   "term": "Электрофизиология — изучение электрических процессов в живых организмах, в том числе в растениях.",
+   "use": [
+    "Следите за новыми инструментами, позволяющими измерять электрические сигналы растений, если интересуетесь агротехникой.",
+    "Если вы работаете в сфере сельского хозяйства, попробуйте интегрировать такие датчики для мониторинга состояния растений."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "e85a4c5da2af52",
+   "date": "2026-10-20T15:53:21Z",
+   "addedAt": "2026-10-20T18:32:02Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+   "title_en": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+   "summary_en": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and […]",
+   "pending": false,
+   "title_ru": "Spotify удалил 50 млн треков, созданных ИИ, из рекомендаций",
+   "simple": "Spotify сообщил, что за год убрал более 50 миллионов песен, признанных искусственно сгенерированным или спамом, и улучшил алгоритмы рекомендаций в пользу человеческих исполнителей.",
+   "term": "AI‑генерация музыки — создание музыкальных композиций с помощью искусственного интеллекта.",
+   "use": [
+    "Если вы музыкант, убедитесь, что ваш контент имеет человеческую подпись, чтобы избежать автоматического удаления.",
+    "Следите за обновлениями рекомендаций Spotify, если используете платформу для продвижения музыки."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "913203c4de7400",
+   "date": "2026-10-20T15:20:25Z",
+   "addedAt": "2026-10-20T18:32:03Z",
+   "source": "MIT Technology Review",
+   "sourceType": "media",
+   "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+   "title_en": "The new economics of enterprise AI",
+   "summary_en": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it?” to “how efficiently are we using it?”…",
+   "pending": false,
+   "title_ru": "Новая экономика корпоративного ИИ: от редкой технологии к инфраструктуре",
+   "simple": "Статья сравнивает развитие ИИ в компаниях с внедрением электричества: сначала его используют в отдельных проектах, а потом он становится базой для всех процессов, и важен вопрос эффективности использования.",
+   "term": "Инфраструктура ИИ — набор технологий и процессов, которые делают искусственный интеллект доступным и постоянным в компании.",
+   "use": [
+    "Оцените, какие бизнес‑процессы в вашей компании могут выиграть от постоянного применения ИИ.",
+    "Разработайте план по измерению эффективности ИИ‑решений, чтобы понять их реальную ценность."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "94e7f4f5c0e52b",
+   "date": "2026-10-20T15:19:48Z",
+   "addedAt": "2026-10-20T18:32:02Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+   "title_en": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "ALTK-Evolve: новая модель памяти лидирует в тесте обслуживания клиентов",
+   "simple": "Исследователи представили модель ALTK-Evolve, которая использует обученную память и обходит другие решения в тесте τ²-bench по задачам обслуживания клиентов. Это показывает, что без больших «фронтирных» моделей можно достичь высоких результатов.",
+   "term": "τ²-bench — набор тестов, измеряющих эффективность моделей в обслуживании клиентов",
+   "use": [],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7ee5ffca62bfde",
+   "date": "2026-10-20T15:07:43Z",
+   "addedAt": "2026-10-20T18:32:03Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+   "title_en": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+   "summary_en": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+   "pending": false,
+   "title_ru": "AI‑агент вызвал хаос в группе из 7500 интернет‑исследователей",
+   "simple": "В закрытый список рассылки из 7500 экспертов по интернету был добавлен искусственный агент, после чего участники начали массово отвечать всем. Ситуация раскрыла устаревшие представления специалистов о конфиденциальности в онлайн‑сообществах.",
+   "term": "listserv — электронный список рассылки, где сообщения автоматически пересылаются всем подписчикам",
+   "use": [
+    "Обратите внимание на настройки приватности при работе в больших группах.",
+    "Изучайте, как автоматические ответы могут влиять на коммуникацию в профессиональных сообществах."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "afb6cd59faf067",
    "date": "2026-10-20T13:26:09Z",
@@ -285,6 +555,38 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "b3fcb2e42d3211",
+   "date": "2026-10-20T10:00:00Z",
+   "addedAt": "2026-10-20T18:32:01Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/ted-taylor-restaurant",
+   "title_en": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+   "summary_en": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+   "pending": false,
+   "title_ru": "Франчайзи ускорил финансовые расчёты с помощью ChatGPT Work",
+   "simple": "Владелец франшиз Schlotzsky’s и Cinnabon сократил время пересчёта цен меню почти в сто раз, используя рабочий процесс в ChatGPT Work, что может освободить до 100 000 $ денежного потока.",
+   "term": "",
+   "use": [
+    "Попробуйте внедрить ChatGPT Work для автоматизации рутинных финансовых задач в вашем бизнесе.",
+    "Настройте шаблоны запросов, чтобы быстро пересчитывать цены и планировать бюджеты."
+   ],
+   "money": {
+    "idea": "автоматизация финансовых процессов для малого бизнеса",
+    "how": [
+     "Определите повторяющиеся задачи, требующие расчётов.",
+     "Создайте в ChatGPT Work шаблоны запросов для этих задач.",
+     "Обучите персонал пользоваться шаблонами.",
+     "Отслеживайте экономию времени и ресурсов."
+    ],
+    "who": "владельцы небольших компаний, бухгалтеры, менеджеры с базовыми навыками работы с чат‑ботами",
+    "effort": "средний",
+    "risk": "недостаточная точность автоматических расчётов без проверки"
+   },
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "45c01eea51f235",
    "date": "2026-10-20T09:55:04Z",
    "addedAt": "2026-10-20T13:39:07Z",
@@ -414,6 +716,48 @@
    "use": [],
    "money": null,
    "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "dbaa902542534b",
+   "date": "2026-10-20T00:00:00Z",
+   "addedAt": "2026-10-20T18:32:01Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+   "title_en": "OpenAI acquires Orchestra Bio",
+   "summary_en": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+   "pending": false,
+   "title_ru": "OpenAI покупает Orchestra Bio для ускорения разработки лекарств",
+   "simple": "OpenAI объявила о покупке компании Orchestra Bio, чтобы внедрить ИИ в процессы исследований и разработки в биофармации, помогая ускорить создание новых препаратов.",
+   "term": "",
+   "use": [
+    "Следите за появлением новых инструментов ИИ для биотехнологий и рассматривайте их в своей работе.",
+    "Если вы работаете в R&D, изучайте возможности интеграции ИИ в анализ данных."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "84cd8d44e9825e",
+   "date": "2026-10-20T00:00:00Z",
+   "addedAt": "2026-10-20T18:32:02Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/hf-torchtpu",
+   "title_en": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Hugging Face добавил поддержку TPU от TorchTPU",
+   "simple": "Hugging Face объявила о нативной поддержке TPU (Tensor Processing Units) через библиотеку TorchTPU, что упростит запуск моделей на специализированных ускорителях.",
+   "term": "TPU — специализированный процессор от Google для ускорения вычислений нейронных сетей",
+   "use": [
+    "Если вы обучаете большие модели, попробуйте использовать TorchTPU для ускорения обучения.",
+    "Изучите требования к настройке среды для работы с TPU."
+   ],
+   "money": null,
+   "category": "Железо",
    "model": "openai/gpt-oss-120b"
   },
   {
