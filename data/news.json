@@ -1,7 +1,46 @@
 {
- "updated": "2026-10-20T01:54:51Z",
+ "updated": "2026-10-20T07:43:16Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "d88fd01a730558",
+   "date": "2026-10-20T05:00:00Z",
+   "addedAt": "2026-10-20T07:43:05Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+   "title_en": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+   "summary_en": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some […]",
+   "pending": false,
+   "title_ru": "Барселонский суперкомпьютерный центр помогает стартапам развивать ИИ",
+   "simple": "Запущена полная программа AI Factory Accelerator, которая дает стартапам доступ к мощным вычислениям, поддержке и обучению. Это поможет компаниям быстрее внедрять ИИ в разных отраслях.",
+   "term": "AI Factory Accelerator — программа, предоставляющая стартапам вычислительные ресурсы и обучение для разработки ИИ‑решений.",
+   "use": [],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f6a3249087bd98",
+   "date": "2026-10-20T03:45:03Z",
+   "addedAt": "2026-10-20T07:43:06Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/20/cloudflare-ai-clairic-extraction-model/",
+   "title_en": "Cloudflare bets you’re overpaying an LLM to read your invoices",
+   "summary_en": "Cloudflare released a preview of Clairic, an extraction model that pulls typed values out of messy text and images in one pass without generating tokens. In Cloudflare’s test on a damaged-product support claim, a pipeline built around Clairic finished in 19.3 seconds, against 61.7 seconds for a version that used an LLM at every step, and cost 49% less. Clairic goes after a job developers routinely hand to large language models: read this invoice and … More → The post Cloudflare bets you’re overpaying an LLM to read your invoices appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Cloudflare представил быстрый и дешевый инструмент для чтения счетов",
+   "simple": "Cloudflare показал модель Clairic, которая за один проход извлекает данные из текста и изображений без генерации токенов. Тест показал, что она работает почти в три раза быстрее и почти вдвое дешевле, чем обычные LLM.",
+   "term": "LLM — крупная языковая модель, способная генерировать текст и выполнять задачи обработки естественного языка.",
+   "use": [
+    "Попробуйте использовать модели, похожие на Clairic, для автоматизации извлечения данных из документов в своей работе.",
+    "Сократите расходы, заменив многошаговые цепочки LLM на единую модель извлечения информации."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "ed298111b59a08",
    "date": "2026-10-20T01:27:03Z",
