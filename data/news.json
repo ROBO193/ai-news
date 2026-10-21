@@ -1,7 +1,227 @@
 {
- "updated": "2026-10-21T18:45:31Z",
+ "updated": "2026-10-21T22:27:29Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "83212438903158",
+   "date": "2026-10-21T22:16:26Z",
+   "addedAt": "2026-10-21T22:26:51Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+   "title_en": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+   "summary_en": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+   "pending": false,
+   "title_ru": "Chrome добавил защиту от мошенничества на базе Gemini",
+   "simple": "Браузер Chrome теперь использует модель Gemini, чтобы находить обманные сайты и предупреждать о подозрительных командах ClickFix. Это поможет пользователям не попасть в ловушку клик‑мошенников.",
+   "term": "Gemini — модель искусственного интеллекта от Google, обученная распознавать опасные ссылки и команды.",
+   "use": [
+    "Включите новые предупреждения в настройках Chrome.",
+    "При копировании команд проверяйте появляющиеся уведомления.",
+    "Не переходите по ссылкам, если браузер пометил их как подозрительные."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "89a2c6e8757c19",
+   "date": "2026-10-21T21:36:21Z",
+   "addedAt": "2026-10-21T22:26:51Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+   "title_en": "Walmart is inviting AI agents to shop for you",
+   "summary_en": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which […]",
+   "pending": false,
+   "title_ru": "Walmart позволит AI‑агентам делать покупки за вас",
+   "simple": "Walmart скоро даст возможность использовать AI‑агента на своём сайте, который будет подбирать товары, а вы сможете одобрять покупки и задавать лимит расходов. Это упрощает онлайн‑шопинг с помощью искусственного интеллекта.",
+   "term": "AI‑агент — программный помощник, который автоматически ищет и выбирает товары по заданным критериям.",
+   "use": [
+    "Активируйте функцию AI‑агента, когда будете делать покупки в Walmart.",
+    "Установите лимит расходов, чтобы контролировать бюджет.",
+    "Проверяйте список выбранных товаров перед подтверждением покупки."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "86bbef590f2823",
+   "date": "2026-10-21T21:30:02Z",
+   "addedAt": "2026-10-21T22:26:51Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+   "title_en": "Meta to create a new class of shares to fund AI push",
+   "summary_en": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of investment required to compete, sustain growth, expand infrastructure, […]",
+   "pending": false,
+   "title_ru": "Meta выпускает новый класс акций для финансирования ИИ",
+   "simple": "Компания Meta объявила о выпуске акций без права голоса, деньги от которых пойдут на развитие искусственного интеллекта, возможные поглощения и выплаты сотрудникам. Это способ привлечь дополнительные средства для масштабных AI‑проектов.",
+   "term": "non‑voting stock — тип акций, которые не дают владельцу права голоса на собрании акционеров.",
+   "use": [
+    "Следите за новостями о выпуске новых акций, если интересуетесь корпоративными изменениями.",
+    "Учитывайте, что такие акции могут влиять на финансовую стратегию компании.",
+    "Если вы инвестор, изучите, как такие акции могут отразиться на стоимости компании."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "21039cf5358633",
+   "date": "2026-10-21T21:14:19Z",
+   "addedAt": "2026-10-21T22:26:51Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+   "title_en": "Meta says Muse has over 10M users, with shopping a top activity",
+   "summary_en": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+   "pending": false,
+   "title_ru": "Meta Muse уже более 10 млн пользователей, популярна шоппинг‑функция",
+   "simple": "Meta сообщает, что их AI‑приложение Muse привлекло более 10 миллионов пользователей, которые активно используют его для покупок и организации дел. Приложение сочетает искусственный интеллект с функциями личного помощника.",
+   "term": "AI‑приложение — программа, использующая искусственный интеллект для выполнения задач, например, поиск товаров или планирование задач.",
+   "use": [
+    "Скачайте Muse, если ищете помощника для онлайн‑покупок и планирования.",
+    "Используйте встроенные функции для создания списков покупок и напоминаний.",
+    "Оцените, насколько приложение упрощает вашу повседневную работу, прежде чем полагаться на него полностью."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2ed22a61b2f19a",
+   "date": "2026-10-21T21:00:00Z",
+   "addedAt": "2026-10-21T22:26:50Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/broad-access-through-consistent-standards",
+   "title_en": "Broad access through consistent standards",
+   "summary_en": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+   "pending": false,
+   "title_ru": "OpenAI уточняет стандарты доступа и политики использования",
+   "simple": "OpenAI описывает, как работает с партнёрами по распространению, чтобы обеспечить единые меры безопасности, ответственный доступ и ясные правила использования своих технологий. Это помогает поддерживать надёжные и этичные практики.",
+   "term": "Usage Policies — набор правил, определяющих, как можно и нельзя использовать технологии OpenAI.",
+   "use": [
+    "При работе с продуктами OpenAI проверяйте их политику использования, чтобы избежать нарушений.",
+    "Если вы интегрируете модели OpenAI, следуйте рекомендациям по безопасности и этике.",
+    "Обучайте команду правилам ответственного применения ИИ."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "dc1c99f7973e82",
+   "date": "2026-10-21T20:27:41Z",
+   "addedAt": "2026-10-21T22:26:51Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+   "title_en": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+   "summary_en": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+   "pending": false,
+   "title_ru": "Recursive выпустила Flint — модель кодинга для ноутбука, созданную ИИ",
+   "simple": "Компания Recursive представила бесплатную модель Flint, которая умеет писать код и работает на ноутбуке. Модель в основном обучена собственными ИИ‑исследованиями компании, что показывает возможность самосовершенствования ИИ.",
+   "term": "Самообучающийся ИИ — система, которая использует свои собственные результаты для дальнейшего улучшения модели",
+   "use": [
+    "Попробуйте загрузить Flint и протестировать его на небольших проектах кода.",
+    "Сравните качество кода Flint с другими бесплатными инструментами, чтобы понять его сильные стороны.",
+    "Если вы разработчик, используйте Flint как вспомогательный помощник при написании повторяющихся функций."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "0d8d033795840d",
+   "date": "2026-10-21T19:54:52Z",
+   "addedAt": "2026-10-21T22:26:51Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+   "title_en": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+   "summary_en": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is […]",
+   "pending": false,
+   "title_ru": "Anthropic анонсировала Claude Duet — AI‑агент для профессионалов",
+   "simple": "Anthropic запустила нового AI‑агента Claude Duet, который конкурирует с продуктами Meta и OpenAI. Приложение доступно на iOS, Android и в веб‑версии, ориентировано на малый бизнес и профессионалов.",
+   "term": "AI‑агент — программный помощник, способный выполнять задачи по запросу пользователя, используя искусственный интеллект",
+   "use": [
+    "Установите приложение Claude Duet и протестируйте его в рутинных задачах, например, составлении писем.",
+    "Оцените, насколько агент упрощает планирование и управление проектами в вашем небольшом бизнесе.",
+    "Следите за обновлениями, так как сейчас доступна только исследовательская версия, и могут появиться новые функции."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "140d853f0e3f90",
+   "date": "2026-10-21T19:44:40Z",
+   "addedAt": "2026-10-21T22:26:51Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+   "title_en": "The new human-crafted Apple Music brand matters in an AI world",
+   "summary_en": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+   "pending": false,
+   "title_ru": "Apple Music делает ставку на человеческое брендинг в эпоху ИИ",
+   "simple": "В статье обсуждается, как Apple Music подчеркивает человеческое участие в создании контента, чтобы выделиться среди автоматизированных сервисов. Это может привлечь слушателей, ценящих аутентичность.",
+   "term": "",
+   "use": [
+    "Обратите внимание на плейлисты, где указаны авторы и кураторы, чтобы поддержать человеческое творчество.",
+    "Если вы музыкант, подайте заявку на участие в подобных курациях, чтобы получить более персонализированную рекламу.",
+    "Следите за тем, как бренды используют человеческий фактор, чтобы адаптировать свои маркетинговые стратегии."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a9cc4be8b0bea8",
+   "date": "2026-10-21T19:30:00Z",
+   "addedAt": "2026-10-21T22:26:51Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+   "title_en": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+   "summary_en": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+   "pending": false,
+   "title_ru": "Walmart открывает возможность покупок через AI‑агентов, Amazon их блокирует",
+   "simple": "Walmart позволяет AI‑агентам совершать покупки за клиентов, задав ограничения по расходам и подтверждению транзакций. Amazon, напротив, запрещает такие действия на своей платформе.",
+   "term": "AI‑агент для покупок — программа, которая автоматически выбирает и оплачивает товары по заданным правилам",
+   "use": [
+    "Если вы разработчик, изучите API Walmart для интеграции AI‑агентов в свои сервисы.",
+    "Для малого бизнеса рассмотрите возможность предлагать клиентам автоматизированные покупки через Walmart, чтобы ускорить процесс заказа.",
+    "Обратите внимание на настройки контроля расходов, чтобы избежать нежелательных трат."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "53db5cc1092708",
+   "date": "2026-10-21T18:51:42Z",
+   "addedAt": "2026-10-21T22:26:51Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+   "title_en": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+   "summary_en": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+   "pending": false,
+   "title_ru": "Модели OpenAI появятся в Google Cloud и Antigravity",
+   "simple": "Google Cloud скоро добавит новые модели OpenAI, такие как GPT 6.1 Astra, Sol и Luna, в свой сервис. Это расширит возможности облачных вычислений для пользователей ИИ.",
+   "term": "",
+   "use": [
+    "Подпишитесь на Google Cloud, чтобы получить ранний доступ к новым моделям и протестировать их в своих проектах.",
+    "Сравните производительность новых моделей с текущими решениями, чтобы выбрать оптимальный вариант.",
+    "Если вы обучаете модели, используйте облачную инфраструктуру Google для экономии ресурсов."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "7104bc51c29585",
    "date": "2026-10-21T18:26:30Z",
@@ -699,6 +919,28 @@
    ],
    "money": null,
    "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b2deaf97c98cf0",
+   "date": "2026-10-21T00:00:00Z",
+   "addedAt": "2026-10-21T22:26:50Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/empowering-cyber-defenders",
+   "title_en": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+   "summary_en": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+   "pending": false,
+   "title_ru": "Как дать киберзащитникам доступ к передовому ИИ",
+   "simple": "OpenAI предлагает план, как использовать новейший ИИ для усиления киберзащиты, улучшения мер безопасности и повышения устойчивости государственных институтов.",
+   "term": "фронтирный ИИ — самые передовые модели, находящиеся на границе возможностей текущих технологий",
+   "use": [
+    "Изучите рекомендации OpenAI по внедрению ИИ в процессы кибербезопасности.",
+    "Обучите сотрудников работе с инструментами ИИ для обнаружения угроз.",
+    "Внедрите автоматизированные сценарии реагирования, поддерживаемые ИИ."
+   ],
+   "money": null,
+   "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
   },
   {
