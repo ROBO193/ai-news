@@ -1,7 +1,245 @@
 {
- "updated": "2026-10-21T07:48:03Z",
- "failedSources": [],
+ "updated": "2026-10-21T13:55:49Z",
+ "failedSources": [
+  "Ars Technica"
+ ],
  "items": [
+  {
+   "id": "38715d90bd30f0",
+   "date": "2026-10-21T12:51:24Z",
+   "addedAt": "2026-10-21T13:55:19Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+   "title_en": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "NVIDIA Kumo Forecast объединяет предобученные представления временных рядов с поиском исторических шаблонов",
+   "simple": "NVIDIA представила Kumo Forecast — метод, который использует уже обученные модели для анализа временных рядов и ищет похожие паттерны в прошлом. Это помогает делать более точные прогнозы и понимать, почему модель приняла то или иное решение.",
+   "term": "Инференс — запуск уже обученной модели для получения предсказаний",
+   "use": [
+    "Попробуйте использовать готовые предобученные модели для своих данных о продажах или трафике.",
+    "Обратите внимание на возможность визуализировать найденные исторические паттерны для лучшего объяснения результатов."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "04cfd76c8ff18b",
+   "date": "2026-10-21T12:35:00Z",
+   "addedAt": "2026-10-21T13:55:20Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+   "title_en": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+   "summary_en": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+   "pending": false,
+   "title_ru": "Ошибка в ссылках Meta Muse раскрывает личные разговоры пользователей",
+   "simple": "Исследователи нашли уязвимость в функции Share Links сервиса Muse от Meta, из‑за которой можно было получить доступ к личным диалогам. Компания приостановила работу функции, чтобы исправить проблему.",
+   "term": "Share Links — механизм, позволяющий делиться результатами общения с ИИ через ссылку",
+   "use": [
+    "Не делитесь ссылками на разговоры с ИИ, если в них есть конфиденциальные данные.",
+    "Следите за обновлениями безопасности сервисов, которыми пользуетесь, и отключайте подозрительные функции."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "61f4d0141ff303",
+   "date": "2026-10-21T12:00:00Z",
+   "addedAt": "2026-10-21T13:55:17Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "title_en": "OpenAI models are coming to Google Cloud",
+   "summary_en": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+   "pending": false,
+   "title_ru": "Модели OpenAI появятся в Google Cloud",
+   "simple": "OpenAI и Google Cloud совместно разместят передовые модели и инструменты Codex в каталоге Gemini Model Garden, доступные через Marketplace. Это упростит использование мощных ИИ‑моделей в облаке.",
+   "term": "Marketplace — онлайн‑платформа, где можно быстро подключать готовые сервисы и модели",
+   "use": [
+    "Подключите модели OpenAI через Google Cloud Marketplace для автоматизации задач в вашем проекте.",
+    "Изучите примеры использования Codex, чтобы ускорить написание кода и тестирование."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "0b1d731f907edd",
+   "date": "2026-10-21T10:50:37Z",
+   "addedAt": "2026-10-21T13:55:19Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+   "title_en": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+   "summary_en": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: […]",
+   "pending": false,
+   "title_ru": "NVIDIA Spark: локальный ИИ для персональных агентов в Европе",
+   "simple": "На конференции GTC Berlin NVIDIA представила линейку локального AI‑оборудования RTX Spark, DGX Spark и DGX Station, позволяющих запускать персональных агентов на ПК и серверах. Это дает разработчикам возможность работать с ИИ без постоянного подключения к облаку.",
+   "term": "Локальный ИИ — искусственный интеллект, работающий полностью на пользовательском устройстве без передачи данных в облако",
+   "use": [
+    "Попробуйте установить RTX Spark на свой Windows‑ПК, чтобы запускать персонального помощника без интернета.",
+    "Разрабатывайте прототипы агентов на DGX Spark, если нужны более мощные вычисления на месте."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7dbdc8f6d3c5a0",
+   "date": "2026-10-21T10:45:17Z",
+   "addedAt": "2026-10-21T13:55:19Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+   "title_en": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+   "summary_en": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs, Google Cloud Virgo Network and Google Cloud’s fourth-generation advanced liquid-cooling technology for demanding […]",
+   "pending": false,
+   "title_ru": "NVIDIA Vera Rubin: новые облачные инстансы для обучения и инференса",
+   "simple": "NVIDIA и Google Cloud объявили о доступности инстансов Vera Rubin, объединяющих мощные GPU, сетевые ускорители и жидкостное охлаждение. Они предназначены для обучения, инференса и масштабного обучения с подкреплением в облаке.",
+   "term": "Обучение с подкреплением — метод, где модель учится через взаимодействие с окружением и получение наград",
+   "use": [
+    "Используйте новые инстансы Vera Rubin для ускорения обучения сложных моделей в облаке.",
+    "Учтите требования к охлаждению и сетевой пропускной способности при планировании больших экспериментов."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f47072a36f450d",
+   "date": "2026-10-21T10:30:41Z",
+   "addedAt": "2026-10-21T13:55:19Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+   "title_en": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+   "summary_en": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for […]",
+   "pending": false,
+   "title_ru": "NVIDIA расширяет облачную инфраструктуру в Европе для безопасных AI‑агентов",
+   "simple": "NVIDIA и её партнёры открывают новые вычислительные мощности в Европе, предлагая открытые модели, которые можно кастомизировать и запускать безопасно. Это ускорит развитие локальных AI‑приложений и сервисов.",
+   "term": "Sovereign Cloud — облачная инфраструктура, расположенная в стране и под её юридическим контролем, обеспечивающая соответствие локальным требованиям",
+   "use": [
+    "Подключитесь к ближайшему региональному дата‑центру NVIDIA, чтобы снизить задержки при работе с AI‑моделями.",
+    "Выбирайте открытые модели, если планируете их дорабатывать под свои задачи."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9a2f77b65b0e8c",
+   "date": "2026-10-21T10:30:00Z",
+   "addedAt": "2026-10-21T13:55:20Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+   "title_en": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+   "summary_en": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+   "pending": false,
+   "title_ru": "OpenAI инвестирует в стартап с мозговыми имплантами для обнаружения рака",
+   "simple": "OpenAI вложила деньги в компанию, разрабатывающую импланты, которые считывают сигналы мозга и помогают выявлять рак. Это часть тенденции использования нейроданных в ИИ.",
+   "term": "Имплант — устройство, вживляемое в мозг для измерения его активности.",
+   "use": [
+    "Следите за новостями в области нейротехнологий, чтобы понять, как они могут влиять на медицину.",
+    "Если вы работаете в медицине, изучите возможности сотрудничества с ИИ‑проектами.",
+    "Обратите внимание на этические вопросы использования мозговых данных."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "be11c18d48ff62",
+   "date": "2026-10-21T10:00:07Z",
+   "addedAt": "2026-10-21T13:55:19Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+   "title_en": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+   "summary_en": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages and industries The portfolio includes the new NVIDIA Nemotron 3.5 Super VL and Nemotron 3.5 Bolt models; new NVIDIA Nemotron Retriever models for embedding, reranking […]",
+   "pending": false,
+   "title_ru": "NVIDIA расширяет открытые модели для локального языка и отраслей в Европе",
+   "simple": "NVIDIA представила новые открытые модели, включая языковые и биологические, чтобы разработчики могли создавать приложения на местных языках и для разных отраслей. Это поможет европейским компаниям быстрее внедрять ИИ.",
+   "term": "Открытая модель — ИИ‑модель, доступная для свободного использования и доработки.",
+   "use": [
+    "Попробуйте интегрировать новые модели NVIDIA в свои прототипы, чтобы оценить их возможности.",
+    "Изучите документацию по локализации моделей под ваш язык.",
+    "Сотрудничайте с исследовательскими группами, которые уже тестируют эти модели."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d842c2b0b42f6a",
+   "date": "2026-10-21T09:30:38Z",
+   "addedAt": "2026-10-21T13:55:20Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/21/grafana-labs-knowledge-graph/",
+   "title_en": "Grafana Labs connects observability and incident response with Knowledge Graph",
+   "summary_en": "Grafana Labs has announced a Knowledge Graph in every Grafana Cloud stack, alongside new Digital Experience Monitoring capabilities and updates to Grafana Cloud Incident Response Management (IRM). The releases connect infrastructure and application dependencies with user experience and incident response, giving people and agents shared context to investigate problems and take action. As agentic systems become more architecturally complex and teams use agents to investigate and respond to problems, those agents need context that connects … More → The post Grafana Labs connects observability and incident response with Knowledge Graph appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Grafana Labs добавила Knowledge Graph в облако для наблюдаемости и реагирования",
+   "simple": "Grafana внедрила граф знаний в каждый облачный стек, связывая зависимости инфраструктуры, пользовательский опыт и реагирование на инциденты. Это дает более полную картину для автоматических систем и операторов.",
+   "term": "Граф знаний — структура, связывающая данные и их контекст для упрощения поиска и анализа.",
+   "use": [
+    "Настройте Grafana Cloud с новым Knowledge Graph, чтобы видеть взаимосвязи между сервисами.",
+    "Используйте полученные связи для создания более точных алертов.",
+    "Обучите команду работать с контекстом графа для ускорения расследований."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d8fecd9b69c96f",
+   "date": "2026-10-21T09:30:16Z",
+   "addedAt": "2026-10-21T13:55:19Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+   "title_en": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+   "summary_en": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events. Today, it hosts a different kind of spectacle. GTC Berlin runs three days, with more than 100 sessions on agentic AI, robotics, […]",
+   "pending": false,
+   "title_ru": "Прямой эфир с ключевой речью Jensen Huang на GTC Berlin 2026",
+   "simple": "На конференции GTC в Берлине CEO NVIDIA Дженсен Хуанг рассказал о новых проектах в области агентного ИИ и робототехники. Это важный сигнал о будущих направлениях компании.",
+   "term": "Агентный ИИ — система, способная самостоятельно принимать решения и выполнять задачи в окружении.",
+   "use": [
+    "Следите за анонсами новых продуктов NVIDIA, чтобы планировать их внедрение.",
+    "Если вы разрабатываете роботов, изучите представленные решения для интеграции.",
+    "Участвуйте в вебинарах и воркшопах после конференции для практических навыков."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "74deef037c6e18",
+   "date": "2026-10-21T09:07:30Z",
+   "addedAt": "2026-10-21T13:55:20Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/21/threatlocker-zero-trust-ai-control-ztaic/",
+   "title_en": "ThreatLocker adds external controls for AI agent access and execution",
+   "summary_en": "ThreatLocker has announced the launch of Zero Trust AI Control (ZTAIC), giving organizations a tool to deploy agentic AI without surrendering control of their environments. ZTAIC enables security teams to give AI agents exactly what they need to perform their jobs while keeping everything else out of reach, even as agents invoke other applications and processes to take action. AI guardrails aspire to define how an agent should behave, but AI continues to find ways … More → The post ThreatLocker adds external controls for AI agent access and execution appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "ThreatLocker запустила Zero Trust AI Control для ограничения доступа ИИ‑агентов",
+   "simple": "Компания ThreatLocker представила инструмент Zero Trust AI Control, позволяющий ограничивать действия ИИ‑агентов, давая им только необходимые права. Это повышает безопасность при использовании агентных систем.",
+   "term": "Zero Trust — подход к безопасности, где каждый запрос проверяется независимо от его источника.",
+   "use": [
+    "Внедрите Zero Trust AI Control в свою инфраструктуру, чтобы ограничить права ИИ‑агентов.",
+    "Определите минимальный набор прав, необходимых для работы каждого агента.",
+    "Регулярно проверяйте журналы доступа ИИ‑агентов для выявления аномалий."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "9b0f191dd46843",
    "date": "2026-10-21T06:00:35Z",
@@ -833,6 +1071,39 @@
    ],
    "money": null,
    "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6aab4d7a6d6a46",
+   "date": "2026-10-20T10:30:11Z",
+   "addedAt": "2026-10-21T13:55:19Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
+   "title_en": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
+   "summary_en": "Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure. Their momentum reflects rapid advancements in agentic computing. Agents do more than generate answers: they retrieve information, run software tools, execute code and evaluate results. Each step depends on fast CPU processing. Vera accelerates that […]",
+   "pending": false,
+   "title_ru": "Европейские лидеры выбирают процессоры NVIDIA Vera для инфраструктуры",
+   "simple": "Компания NVIDIA предлагает процессоры Vera, ускоряющие работу агентов, которые не только отвечают, но и выполняют код и используют инструменты. Это важно для построения быстрых AI‑систем.",
+   "term": "Агент — программный модуль, который самостоятельно ищет информацию, запускает инструменты и принимает решения на основе полученных данных.",
+   "use": [
+    "Оцените, какие задачи в вашем бизнесе могут автоматизировать такие агенты.",
+    "Подумайте о переходе на серверы с процессорами Vera для ускорения AI‑операций.",
+    "Следите за новыми версиями программного обеспечения, поддерживающего эти процессоры."
+   ],
+   "money": {
+    "idea": "Предоставление услуг по настройке и оптимизации AI‑агентов на базе NVIDIA Vera",
+    "how": [
+     "Изучите документацию NVIDIA Vera и возможности ускорения AI‑вычислений.",
+     "Освойте инструменты разработки агентов, такие как LangChain или AutoGPT.",
+     "Создайте прототипы агентов для типовых бизнес‑задач (обслуживание клиентов, анализ данных).",
+     "Предложите клиентам настройку и поддержку этих решений."
+    ],
+    "who": "Разработчики, инженеры по данным, специалисты по AI‑инфраструктуре",
+    "effort": "средний",
+    "risk": "Зависимость от специфического оборудования NVIDIA"
+   },
+   "category": "Железо",
    "model": "openai/gpt-oss-120b"
   },
   {
