@@ -1,7 +1,70 @@
 {
- "updated": "2026-10-21T01:41:39Z",
+ "updated": "2026-10-21T07:48:03Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "9b0f191dd46843",
+   "date": "2026-10-21T06:00:35Z",
+   "addedAt": "2026-10-21T07:47:45Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/21/ecg-heart-data-privacy-preserving-ai/",
+   "title_en": "Privacy-preserving AI can protect your heart data, the bill is the problem",
+   "summary_en": "A heart monitor used to be a box beside a hospital bed. Electrodes fed a cable, the cable fed a screen, and a nurse watched the screen. The threat model fit on a sticky note. Cardiac care doesn’t work like that anymore. A patch or smartwatch records the electrocardiogram (ECG). A phone or gateway relays it. A cloud service stores and analyzes it, and a cardiologist reviews it from somewhere else entirely. Increasingly, those recordings … More → The post Privacy-preserving AI can protect your heart data, the bill is the problem appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Конфиденциальный ИИ защищает данные сердца, но закон мешает",
+   "simple": "ИИ может обрабатывать данные ЭКГ, собранные с патчей и смарт‑часов, не раскрывая их наружу. Проблемы возникают из‑за текущих нормативных требований.",
+   "term": "Конфиденциальный ИИ — технологии, позволяющие обучать и использовать модели, не раскрывая исходные данные.",
+   "use": [
+    "Обратите внимание на решения, которые шифруют данные перед отправкой в облако.",
+    "Проверьте, соответствует ли ваш процесс обработки медицинских данных местным регуляциям."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "5084f12c7b18ab",
+   "date": "2026-10-21T04:30:13Z",
+   "addedAt": "2026-10-21T07:47:45Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/21/bringing-ai-into-the-soc-video/",
+   "title_en": "Bringing AI into the SOC means watching for shadow AI and loose permissions",
+   "summary_en": "In this Help Net Security video, Vince Stoffer, Field CTO at Corelight, talks about how AI is changing work in the SOC and how attackers are using the same tools. He explains how LLMs help with vulnerability analysis and detection engineering, including writing SIEM rules and small programs that analyze packets or Zeek metadata. Those using agentic triage report faster work and fewer false positives, and junior analysts can dig deeper into network data. Stoffer … More → The post Bringing AI into the SOC means watching for shadow AI and loose permissions appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "ИИ в SOC: следите за теневым ИИ и правами доступа",
+   "simple": "ИИ помогает аналитикам безопасности писать правила и скрипты, ускоряя расследования. Но использование таких инструментов без контроля создаёт риски «теневого» ИИ и лишних прав доступа.",
+   "term": "Теневой ИИ — использование ИИ‑инструментов без официального одобрения и контроля организации.",
+   "use": [
+    "Внедрите политику одобрения всех ИИ‑инструментов в SOC.",
+    "Регулярно проверяйте права доступа к ИИ‑моделям и их окружению."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "15a98de385dd61",
+   "date": "2026-10-21T03:42:06Z",
+   "addedAt": "2026-10-21T07:47:45Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/21/torchtpu-pytorch-on-tpus/",
+   "title_en": "Google open-sourced TorchTPU, so PyTorch on TPUs just got a lot easier",
+   "summary_en": "Google released TorchTPU as open source, giving PyTorch developers a native way to run models on the company’s Tensor Processing Units. Google also announced TPU support in the vLLM and SGLang serving engines, the TorchTitan training framework, Ray, and Hugging Face’s libraries. Teams that write their models in PyTorch and run them on GPUs by default have the most to gain. Google says those workloads now move to TPUs, its custom AI chips, with minimal … More → The post Google open-sourced TorchTPU, so PyTorch on TPUs just got a lot easier appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Google открыла исходный код TorchTPU: PyTorch теперь проще работать на TPU",
+   "simple": "Google выпустила библиотеку TorchTPU, позволяющую запускать модели PyTorch на своих ускорителях TPU без сложных настроек. Это упрощает переход от GPU к более эффективным чипам.",
+   "term": "TPU — специализированный процессор от Google для ускорения задач искусственного интеллекта.",
+   "use": [
+    "Попробуйте перенести существующие PyTorch‑модели в TorchTPU для ускорения обучения.",
+    "Изучите примеры интеграции TorchTPU в популярные фреймворки, такие как Hugging Face."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "d4e57614c374e2",
    "date": "2026-10-20T23:01:23Z",
@@ -174,6 +237,27 @@
    ],
    "money": null,
    "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "3b5ce86c8c402c",
+   "date": "2026-10-20T19:34:19Z",
+   "addedAt": "2026-10-21T07:47:45Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+   "title_en": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+   "summary_en": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more fun\". It also supports multiplayer between nearby devices using audio to synchronize game state! Here's what I've built so far, and some of the things I learned along the way. Battle Drones How I built this v1: the initial prototype v2: full sprites v3: varied terrain v4: the fun update v5: Battle Drones goes 3D v8: Archipelago v10: Goliath, and agent battles Agent battles v11: Random Maps v12:…",
+   "pending": false,
+   "title_ru": "Battle Drones: RTS‑игра с мультиплеером через звук",
+   "simple": "Разработчик создал стратегию в реальном времени, где несколько устройств синхронизируются аудио‑сигналами. Для генерации контента использовался ИИ Claude, что сделало игру более интересной.",
+   "term": "RTS — жанр игр в реальном времени, где игроки управляют юнитами и ресурсами одновременно.",
+   "use": [
+    "Экспериментируйте с генерацией игрового контента через доступные ИИ‑модели, такие как Claude.",
+    "Попробуйте реализовать аудио‑синхронизацию для простых локальных мультиплеерных проектов."
+   ],
+   "money": null,
+   "category": "Разработка",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -384,6 +468,28 @@
    ],
    "money": null,
    "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6422ce081b343d",
+   "date": "2026-10-20T16:20:06Z",
+   "addedAt": "2026-10-21T07:47:44Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+   "title_en": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+   "summary_en": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+   "pending": false,
+   "title_ru": "Физический ИИ в эпохе LEGO",
+   "simple": "Эксперт из Nvidia сравнил развитие физического ИИ с игрой LEGO — сейчас он только собирает базовые блоки. Это значит, что роботы пока способны лишь на простые задачи, но потенциал растёт.",
+   "term": "Физический ИИ — искусственный интеллект, управляющий реальными объектами, например роботами, а не только виртуальными системами.",
+   "use": [
+    "Следите за новыми прототипами роботов в новостях, чтобы понять, какие задачи они уже решают.",
+    "Изучайте базовые принципы робототехники, чтобы быть готовыми к появлению более сложных систем.",
+    "Подумайте, какие простые процессы в вашем бизнесе можно автоматизировать с помощью уже доступных роботов."
+   ],
+   "money": null,
+   "category": "Железо",
    "model": "openai/gpt-oss-120b"
   },
   {
