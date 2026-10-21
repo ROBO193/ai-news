@@ -1,7 +1,49 @@
 {
- "updated": "2026-10-20T22:23:26Z",
+ "updated": "2026-10-21T01:41:39Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "d4e57614c374e2",
+   "date": "2026-10-20T23:01:23Z",
+   "addedAt": "2026-10-21T01:41:21Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+   "title_en": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+   "summary_en": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+   "pending": false,
+   "title_ru": "Проект закона об ИИ: блокировать модель, если её могут убить более 50 человек",
+   "simple": "Предлагается закон, который запрещает федеральным агентствам останавливать выпуск ИИ‑модели без согласования судьи, даже если модель потенциально может привести к гибели более 50 человек. Это поднимает вопросы о контроле над опасными ИИ‑технологиями.",
+   "term": "AI safety — меры по предотвращению опасного поведения искусственного интеллекта.",
+   "use": [
+    "Следите за новостями о регулировании ИИ, чтобы понимать, какие ограничения могут появиться для ваших проектов.",
+    "Если вы разрабатываете ИИ‑приложения, учитывайте возможные юридические требования к безопасности."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "fda7124672794d",
+   "date": "2026-10-20T22:24:02Z",
+   "addedAt": "2026-10-21T01:41:21Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+   "title_en": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+   "summary_en": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+   "pending": false,
+   "title_ru": "CEO Hugging Face критикует документальный фильм Netflix об OpenAI",
+   "simple": "Сооснователь Hugging Face заявил, что документальный фильм Netflix «AI Gone Rogue» преувеличивает угрозы и не соответствует действительности. Это важно для тех, кто формирует мнение о ИИ на основе медиа.",
+   "term": "OpenAI — компания, разрабатывающая крупные модели искусственного интеллекта, такие как ChatGPT.",
+   "use": [
+    "Не принимайте медийные сюжеты об ИИ за факт без проверки источников.",
+    "Если вы обсуждаете ИИ в работе или обучении, уточняйте, какие данные и эксперты задействованы."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "7f6bb9c0aa5027",
    "date": "2026-10-20T22:11:34Z",
@@ -815,6 +857,27 @@
    "use": [],
    "money": null,
    "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a84b6a7bee5c68",
+   "date": "2026-10-20T07:00:00Z",
+   "addedAt": "2026-10-21T01:41:18Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/terminal-x",
+   "title_en": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+   "summary_en": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+   "pending": false,
+   "title_ru": "Terminal X сравнил решения старших инвесторов с GPT‑6.1 с точностью 88,6%",
+   "simple": "Система Terminal X использует модель GPT‑6.1 для оценки инвестиционных решений, выявляя на 25% больше отклонений от стратегии фонда, чем традиционный подход. Это показывает рост применения ИИ в финансовом анализе.",
+   "term": "Eval Agent — система, автоматически оценивающая результаты модели по набору критериев.",
+   "use": [
+    "Если вы работаете в финансовом анализе, изучите возможности автоматической оценки решений с помощью ИИ.",
+    "Следите за новыми инструментами, которые используют большие модели для проверки соответствия инвестиционным стратегиям."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   },
   {
