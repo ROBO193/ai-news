@@ -1,7 +1,70 @@
 {
- "updated": "2026-10-21T22:27:29Z",
+ "updated": "2026-10-22T01:37:07Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "25443172439e4a",
+   "date": "2026-10-21T22:51:22Z",
+   "addedAt": "2026-10-22T01:36:40Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+   "title_en": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+   "summary_en": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+   "pending": false,
+   "title_ru": "Blackstone: опасения по долгам на AI‑проекты завышены",
+   "simple": "Глава AI в Blackstone заявил, что компания не боится рыночных тревог по долгам, связанным с инвестициями в искусственный интеллект.",
+   "term": "",
+   "use": [
+    "Следите за новостями о финансировании AI, чтобы понять, какие проекты получают поддержку.",
+    "Не спешите отказываться от инвестиций в AI только из‑за слухов о долгах."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7a1215e9d39716",
+   "date": "2026-10-21T22:39:50Z",
+   "addedAt": "2026-10-22T01:36:40Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+   "title_en": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+   "summary_en": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+   "pending": false,
+   "title_ru": "Зукерберг останется в Калифорнии, чтобы поддержать AI‑стратегию Meta",
+   "simple": "Meta подписала новое соглашение с CEO, которое мотивирует Марка Цукерберга оставаться в штате, чтобы не тормозить развитие искусственного интеллекта компании.",
+   "term": "",
+   "use": [
+    "Если вы работаете в сфере AI, учитывайте, что крупные компании могут удерживать топ‑менеджеров для стабильности проектов.",
+    "Отслеживайте изменения в корпоративных соглашениях, они могут влиять на направление разработки AI‑продуктов."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "eaa3fbf8004295",
+   "date": "2026-10-21T22:33:44Z",
+   "addedAt": "2026-10-22T01:36:39Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+   "title_en": "Data centers could erase decades of air quality gains",
+   "summary_en": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas […]",
+   "pending": false,
+   "title_ru": "Новые дата‑центры могут ухудшить качество воздуха в Техасе",
+   "simple": "Рост количества дата‑центров, обслуживающих генеративный ИИ, может привести к росту загрязнения воздуха до уровней 2000‑х годов.",
+   "term": "генеративный ИИ — тип искусственного интеллекта, создающий новые тексты, изображения или звук.",
+   "use": [
+    "При планировании IT‑инфраструктуры учитывайте экологические требования и возможные ограничения по энергии.",
+    "Если вы занимаетесь разработкой AI‑моделей, ищите провайдеров с зелёной энергетикой."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "83212438903158",
    "date": "2026-10-21T22:16:26Z",
@@ -244,6 +307,27 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "66d6885dea0a4d",
+   "date": "2026-10-21T17:59:12Z",
+   "addedAt": "2026-10-22T01:36:40Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+   "title_en": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+   "summary_en": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+   "pending": false,
+   "title_ru": "PHP‑уязвимости: AI и Google нашли старые дыры, вызвав панику",
+   "simple": "Исследователи из OpenAI и Google обнаружили в PHP серьёзные уязвимости, которые могли бы быть использованы злоумышленниками, но были предотвращены с помощью ИИ.",
+   "term": "",
+   "use": [
+    "Обновляйте версии PHP и следите за патчами, чтобы защитить свои веб‑проекты.",
+    "Если вы разработчик, изучите, как ИИ помогает находить уязвимости, и применяйте такие инструменты в работе."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "354f89a6c7dbf1",
    "date": "2026-10-21T17:35:36Z",
    "addedAt": "2026-10-21T18:44:43Z",
@@ -262,6 +346,28 @@
    ],
    "money": null,
    "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "49c4538f4284d6",
+   "date": "2026-10-21T17:18:27Z",
+   "addedAt": "2026-10-22T01:36:40Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+   "title_en": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+   "summary_en": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+   "pending": false,
+   "title_ru": "Blacksmith привлек $66 млн и стал unicorn после инвестиций Sequoia",
+   "simple": "Платформа Blacksmith, помогающая компаниям писать и тестировать код ИИ, собрала 66 миллионов долларов в раунде Series C и оценена в миллиард долларов. Это показывает растущий интерес к инструментам для разработки ИИ.",
+   "term": "Series C — третий раунд венчурного финансирования, обычно привлекающий более крупные суммы для масштабирования бизнеса.",
+   "use": [
+    "Обратите внимание на инструменты, которые автоматизируют тестирование ИИ‑кода, они могут ускорить ваши проекты.",
+    "Если вы разработчик ИИ, изучите возможности Blacksmith для ускорения CI/CD процессов.",
+    "Следите за новостями о подобных платформах, они могут стать частью вашего стека разработки."
+   ],
+   "money": null,
+   "category": "Разработка",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -817,6 +923,28 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "00386a311247cd",
+   "date": "2026-10-21T08:30:00Z",
+   "addedAt": "2026-10-22T01:36:40Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
+   "title_en": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
+   "summary_en": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+   "pending": false,
+   "title_ru": "Европа хочет дата‑центры, но климатические цели мешают их развитию",
+   "simple": "В Европе обсуждают, как использовать тепло от дата‑центров для обогрева домов, но планы сталкиваются с требованиями по сокращению выбросов. Это показывает, как экологические нормы влияют на развитие ИИ‑инфраструктуры.",
+   "term": "",
+   "use": [
+    "Если вы планируете открыть дата‑центр, учитывайте требования по энергоэффективности и возможности рекуперации тепла.",
+    "Исследуйте варианты использования возобновляемой энергии для питания ИИ‑вычислений.",
+    "Следите за региональными регуляциями, они могут менять условия строительства и эксплуатации дата‑центров."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "edef63b51aedc0",
    "date": "2026-10-21T07:00:00Z",
    "addedAt": "2026-10-21T18:44:42Z",
@@ -901,6 +1029,28 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "1778fb273dbb6c",
+   "date": "2026-10-21T04:00:00Z",
+   "addedAt": "2026-10-22T01:36:36Z",
+   "source": "Google AI",
+   "sourceType": "company",
+   "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+   "title_en": "Southeast Asia’s digital economy to hit $368 billion",
+   "summary_en": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
+   "pending": false,
+   "title_ru": "Цифровая экономика Юго‑Восточной Азии вырастет до $368 млрд",
+   "simple": "Отчёт e‑Conomy SEA 2026 прогнозирует, что цифровой рынок Юго‑Восточной Азии достигнет 368 миллиардов долларов, подчёркивая рост искусственного интеллекта и данных в регионе.",
+   "term": "",
+   "use": [
+    "Изучите спрос на ИИ‑решения в странах ЮВА, это может открыть новые возможности для фриланс‑проектов.",
+    "Если вы предлагаете цифровые услуги, адаптируйте их под местные языки и особенности рынка.",
+    "Следите за отраслевыми отчётами, они помогают планировать развитие бизнеса в регионе."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "15a98de385dd61",
    "date": "2026-10-21T03:42:06Z",
    "addedAt": "2026-10-21T07:47:45Z",
@@ -941,6 +1091,28 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9201054eeb4c74",
+   "date": "2026-10-21T00:00:00Z",
+   "addedAt": "2026-10-22T01:36:35Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/cloudflare-cyber",
+   "title_en": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "summary_en": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+   "pending": false,
+   "title_ru": "Cloudflare использует OpenAI для поиска уязвимостей и их исправления",
+   "simple": "Cloudflare применяет модель OpenAI Daybreak и Codex, чтобы автоматически находить уязвимости в коде и предлагать исправления, ускоряя процесс разработки и повышая качество.",
+   "term": "Codex — модель OpenAI, умеющая генерировать программный код по описанию задачи.",
+   "use": [
+    "Попробуйте интегрировать инструменты типа Codex в ваш процесс ревью кода для ускорения поиска ошибок.",
+    "Настройте автоматическое сканирование кода с помощью AI, чтобы получать предложения по исправлениям в реальном времени.",
+    "Обучите команду работать с AI‑помощниками, это повысит эффективность разработки."
+   ],
+   "money": null,
+   "category": "Разработка",
    "model": "openai/gpt-oss-120b"
   },
   {
