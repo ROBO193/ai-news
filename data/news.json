@@ -1,7 +1,281 @@
 {
- "updated": "2026-10-22T13:54:43Z",
+ "updated": "2026-10-22T18:38:28Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "2a8e11324f4e3e",
+   "date": "2026-10-22T18:12:48Z",
+   "addedAt": "2026-10-22T18:37:40Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+   "title_en": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+   "summary_en": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a […]",
+   "pending": false,
+   "title_ru": "Режиссер Wildwood считает ИИ несовместимым со студией",
+   "simple": "Режиссер студии Laika заявил, что искусственный интеллект противоречит их творческим принципам. Это важно, потому что показывает, что не все в индустрии кино готовы использовать ИИ.",
+   "term": "",
+   "use": [],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "09776931f4659a",
+   "date": "2026-10-22T18:09:56Z",
+   "addedAt": "2026-10-22T18:37:41Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+   "title_en": "Donating Agent Skills to the Agentic AI Foundation",
+   "summary_en": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an \"open standard\": I wouldn't be surprised to see this end up in the AAIF , recently the new home of the MCP specification. Fun side note: since my blog content is available to Claude via the datasette-mcp plugin I found that…",
+   "pending": false,
+   "title_ru": "Anthropic передаёт стандарт Agent Skills в фонд AAIF",
+   "simple": "Anthropic передал открытый стандарт Agent Skills в фонд Agentic AI Foundation, который работает под эгидой Linux Foundation. Это может повлиять на развитие совместимых ИИ‑агентов.",
+   "term": "Agent Skills — набор функций, которые ИИ‑агенты могут выполнять, описанный в открытом стандарте.",
+   "use": [
+    "Следите за обновлениями стандарта, чтобы использовать совместимые инструменты в проектах.",
+    "Подумайте о внедрении поддерживаемых агентных функций в свои сервисы."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2c1b17b371894e",
+   "date": "2026-10-22T18:06:52Z",
+   "addedAt": "2026-10-22T18:37:40Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+   "title_en": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+   "summary_en": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? […]",
+   "pending": false,
+   "title_ru": "Meta планирует, что ИИ‑агенты будут управлять нашей жизнью",
+   "simple": "Meta разрабатывает сеть автономных ИИ‑агентов, которые будут выполнять покупки, работу и общение от нашего имени. Это интересует, потому что меняет представление о взаимодействии с технологиями.",
+   "term": "Автономные ИИ‑агенты — программы, способные самостоятельно выполнять задачи без постоянного контроля человека.",
+   "use": [
+    "Изучайте возможности автоматизации задач с помощью ИИ‑агентов.",
+    "Оцените, какие рутинные процессы в вашей работе можно делегировать ИИ."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "98a7f3683d8fe8",
+   "date": "2026-10-22T18:03:30Z",
+   "addedAt": "2026-10-22T18:37:40Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+   "title_en": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+   "summary_en": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human […]",
+   "pending": false,
+   "title_ru": "Microsoft утверждает, что их ИИ лучше врачей в диагностике",
+   "simple": "Microsoft представил ИИ‑инструмент, который, по их словам, диагностирует заболевания в четыре раза точнее, чем человек. Это может изменить подход к медицинским проверкам.",
+   "term": "Диагностический ИИ — система, обученная распознавать болезни по медицинским данным.",
+   "use": [
+    "Следите за появлением подобных инструментов в клиниках, чтобы понять их возможности.",
+    "Если вы работаете в медицине, изучите, как интегрировать ИИ‑поддержку в диагностику."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "540e896edf8646",
+   "date": "2026-10-22T17:36:30Z",
+   "addedAt": "2026-10-22T18:37:40Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+   "title_en": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+   "summary_en": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, […]",
+   "pending": false,
+   "title_ru": "OpenAI, Anthropic и Nvidia потратили рекордные суммы на лоббирование",
+   "simple": "В летний квартал компании OpenAI, Anthropic и Nvidia потратили на лоббирование рекордные суммы, пытаясь влиять на регулирование ИИ. Это показывает рост политического влияния отрасли.",
+   "term": "",
+   "use": [],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7b213ad205a364",
+   "date": "2026-10-22T17:21:31Z",
+   "addedAt": "2026-10-22T18:37:40Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+   "title_en": "Someone hacked the Switch 2 by using an old game and AI",
+   "summary_en": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this \"ns2jb\" jailbreak, according to Sammy Hajhamid, aka \"pepsipu.\" It's a […]",
+   "pending": false,
+   "title_ru": "Хакер взломал Switch 2 с помощью старой игры и ИИ",
+   "simple": "Моддер использовал старую игру и ИИ‑модель Codex от OpenAI, чтобы взломать Nintendo Switch 2 и запустить кастомный софт. Это демонстрирует новые возможности ИИ в сфере взлома устройств.",
+   "term": "Jailbreak — процесс снятия ограничений с устройства, позволяющий запускать неофициальное программное обеспечение.",
+   "use": [
+    "Будьте внимательны к обновлениям прошивки, чтобы защитить устройства от подобных атак.",
+    "Если вы разработчик, изучайте, как ИИ может помочь в тестировании безопасности."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "93c844a35d415e",
+   "date": "2026-10-22T16:47:17Z",
+   "addedAt": "2026-10-22T18:37:41Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+   "title_en": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+   "summary_en": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+   "pending": false,
+   "title_ru": "Китайские хакеры использовали ИИ для взлома тысяч компаний через ConnectWise",
+   "simple": "Хакеры, связанные с Китаем, пробили защиту IT‑гиганта ConnectWise и с помощью ИИ‑агентов быстро атаковали тысячи его клиентов. Это показывает, как автоматизация может ускорять кибератаки.",
+   "term": "ИИ‑агент — программа, использующая искусственный интеллект для самостоятельного выполнения задач, в данном случае — взлома систем.",
+   "use": [
+    "Проверьте, какие сервисы вашей компании используют ConnectWise и обновите их до последних версий.",
+    "Внедрите многофакторную аутентификацию для доступа к критическим системам.",
+    "Следите за новостями о киберугрозах, чтобы быстро реагировать на новые методы атак."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "eaa0ebff7daf62",
+   "date": "2026-10-22T16:11:31Z",
+   "addedAt": "2026-10-22T18:37:40Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+   "title_en": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "OlmoEarth v1.3 — новые эмбеддинги для глобального охвата",
+   "simple": "OlmoEarth v1.3 представляет улучшенные эмбеддинги — векторные представления текста, охватывающие данные со всего мира. Это может повысить качество поисковых и аналитических систем.",
+   "term": "Эмбеддинг — векторное представление текста, позволяющее сравнивать смысловые сходства между фразами.",
+   "use": [
+    "Попробуйте интегрировать новые эмбеддинги в свои поисковые сервисы для более точных результатов.",
+    "Оцените, как они влияют на классификацию текстов в ваших проектах машинного обучения.",
+    "Следите за обновлениями модели, чтобы использовать её улучшения сразу после релиза."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ef05d9c57c7877",
+   "date": "2026-10-22T16:00:00Z",
+   "addedAt": "2026-10-22T18:37:40Z",
+   "source": "Microsoft Research",
+   "sourceType": "research",
+   "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+   "title_en": "Flint-interactive: A language for creating interactive data visualizations",
+   "summary_en": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-interactive: A language for creating interactive data visualizations appeared first on Microsoft Research .",
+   "pending": false,
+   "title_ru": "Flint‑interactive: язык для интерактивных визуализаций с ИИ‑агентами",
+   "simple": "Flint‑interactive позволяет ИИ‑агентам создавать интерактивные графики, где пользователь может кликать, фильтровать и исследовать данные. Это упрощает работу с большими наборами данных без программирования визуализации вручную.",
+   "term": "Интерактивная визуализация — графическое представление данных, позволяющее пользователю менять параметры отображения в реальном времени.",
+   "use": [
+    "Используйте Flint‑interactive для создания дашбордов, где пользователи могут самостоятельно исследовать данные.",
+    "Обучите сотрудников работать с этим языком, чтобы ускорить подготовку аналитических отчётов.",
+    "Интегрируйте язык в существующие BI‑инструменты для расширения их возможностей."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9d72639f5e003f",
+   "date": "2026-10-22T16:00:00Z",
+   "addedAt": "2026-10-22T18:37:41Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+   "title_en": "Uber puts all 30,000 employees on ChatGPT Work",
+   "summary_en": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+   "pending": false,
+   "title_ru": "Uber переводит всех 30 000 сотрудников на ChatGPT Work",
+   "simple": "Uber полностью внедряет корпоративный сервис ChatGPT Work, ранее протестированный в небольшом пилоте. Это позволит сотрудникам использовать ИИ‑ассистента в повседневных задачах.",
+   "term": "ChatGPT Work — корпоративная версия чат‑бота, адаптированная для бизнес‑процессов и интеграций с внутренними системами.",
+   "use": [
+    "Изучите функции ChatGPT Work, чтобы автоматизировать рутинные запросы и отчёты.",
+    "Настройте интеграцию с вашими внутренними инструментами (CRM, тикет‑системы) для ускорения работы.",
+    "Обучите команду эффективному использованию ИИ‑ассистента, чтобы повысить продуктивность."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "0acbee798fb21b",
+   "date": "2026-10-22T15:34:13Z",
+   "addedAt": "2026-10-22T18:37:41Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+   "title_en": "Quoting Armin Ronacher",
+   "summary_en": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms",
+   "pending": false,
+   "title_ru": "Армин Рончер о плохом программном обеспечении и ИИ‑безопасности",
+   "simple": "Разработчик Армин Рончер отметил, что за последние 30 лет мы создали много плохого кода, и теперь ИИ‑технологии выявляют эти проблемы. Это подчёркивает рост важности безопасности в эпоху генеративного ИИ.",
+   "term": "Генеративный ИИ — тип искусственного интеллекта, способный создавать новые данные (текст, изображения) на основе обучающих примеров.",
+   "use": [
+    "Проведите аудит кода на наличие уязвимостей, используя инструменты ИИ‑анализа.",
+    "Внедрите практики безопасного программирования, чтобы уменьшить количество ошибок в новых проектах.",
+    "Следите за новыми сервисами ИИ, которые помогают находить уязвимости в коде."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "0bffbef0359b5d",
+   "date": "2026-10-22T15:03:58Z",
+   "addedAt": "2026-10-22T18:37:41Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+   "title_en": "Spotify’s current AI bet is about being the music service that agents choose",
+   "summary_en": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+   "pending": false,
+   "title_ru": "Spotify ставит ставку на ИИ‑агентов, чтобы стать сервисом выбора музыки для них",
+   "simple": "Со‑СЕО Spotify объяснил, что рост ИИ‑агентов может принести пользу сервису, если они будут использовать Spotify как основной источник музыки. Это открывает новые возможности для интеграции с автоматизированными помощниками.",
+   "term": "ИИ‑агент — программный помощник, который использует искусственный интеллект для выполнения задач от имени пользователя.",
+   "use": [
+    "Обратите внимание, как ваш музыкальный контент может быть использован в автоматических рекомендациях агентами.",
+    "Подумайте о создании плейлистов, оптимизированных под запросы голосовых помощников.",
+    "Следите за новыми API от Spotify, позволяющими интегрировать свои сервисы с ИИ‑агентами."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "06769efcf6f442",
+   "date": "2026-10-22T15:00:02Z",
+   "addedAt": "2026-10-22T18:37:40Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+   "title_en": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+   "summary_en": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]",
+   "pending": false,
+   "title_ru": "NVIDIA представила Minerva — платформу наблюдения за AI‑фабриками",
+   "simple": "NVIDIA запустила Minerva — систему AIOps, которая собирает данные о работе инфраструктуры и ИИ‑моделей, а затем с помощью специальных ИИ‑моделей выдаёт рекомендации по устранению проблем. Это помогает поддерживать продуктивность сложных AI‑проектов.",
+   "term": "AIOps — применение искусственного интеллекта для автоматизации и улучшения операций ИТ‑инфраструктуры.",
+   "use": [
+    "Оцените, какие метрики вашей AI‑инфраструктуры сейчас собираются и где есть пробелы.",
+    "Рассмотрите возможность внедрения инструментов мониторинга, похожих на Minerva, для раннего обнаружения сбоев.",
+    "Обучите команду распознавать сигналы, указывающие на ухудшение производительности моделей."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "6aa970c38b4997",
    "date": "2026-10-22T13:53:26Z",
@@ -66,6 +340,28 @@
    ],
    "money": null,
    "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "12686626013b51",
+   "date": "2026-10-22T13:20:55Z",
+   "addedAt": "2026-10-22T18:37:40Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+   "title_en": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+   "summary_en": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is […]",
+   "pending": false,
+   "title_ru": "Билл Гейтс предсказывает 20 лет турбулентных изменений из‑за ИИ",
+   "simple": "Билл Гейтс заявил, что в ближайшие два десятилетия мир столкнётся с серьёзными потрясениями, связанными с развитием искусственного интеллекта. Он советует готовиться к этим изменениям уже сейчас.",
+   "term": "Турбулентный период — время быстрых и непредсказуемых изменений, требующих адаптации.",
+   "use": [
+    "Начните изучать основы ИИ и машинного обучения, чтобы понять, как они могут влиять на вашу профессию.",
+    "Следите за новостями о регулировании ИИ, чтобы заранее подготовиться к возможным требованиям.",
+    "Подумайте, какие процессы в вашей работе можно автоматизировать с помощью ИИ, и протестируйте простые инструменты."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -615,6 +911,28 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "ba6fa07d677a82",
+   "date": "2026-10-22T00:00:00Z",
+   "addedAt": "2026-10-22T18:37:39Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+   "title_en": "Uber brings ChatGPT Work to all employees with OpenAI",
+   "summary_en": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+   "pending": false,
+   "title_ru": "Uber внедряет ChatGPT Work для всех сотрудников",
+   "simple": "Uber начинает использовать ChatGPT Work более чем для 30 000 сотрудников, чтобы помогать им искать информацию, анализировать данные, готовить презентации и автоматизировать сложные задачи. Это ускорит работу команд и снизит нагрузку на людей.",
+   "term": "ChatGPT Work — сервис от OpenAI, позволяющий использовать возможности ChatGPT в корпоративных процессах, например для анализа данных и создания документов.",
+   "use": [
+    "Попробуйте интегрировать ChatGPT в свои ежедневные задачи, например для быстрой подготовки отчетов.",
+    "Настройте шаблоны запросов, чтобы получать нужные данные без лишних поисков.",
+    "Используйте автоматизацию в чат‑боте для рутинных операций, экономя время."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "25443172439e4a",
    "date": "2026-10-21T22:51:22Z",
    "addedAt": "2026-10-22T01:36:40Z",
@@ -630,6 +948,27 @@
    "use": [
     "Следите за новостями о финансировании AI, чтобы понять, какие проекты получают поддержку.",
     "Не спешите отказываться от инвестиций в AI только из‑за слухов о долгах."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c1d080de5b4338",
+   "date": "2026-10-21T22:45:34Z",
+   "addedAt": "2026-10-22T18:37:41Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+   "title_en": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+   "summary_en": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+   "pending": false,
+   "title_ru": "Meta планирует финансировать ИИ через новый класс акций",
+   "simple": "Meta разрабатывает новую структуру акций, чтобы привлекать деньги для масштабных инвестиций в искусственный интеллект и связанные сервисы. Это поможет компании быстрее развивать свои AI‑проекты.",
+   "term": "Класс акций — тип ценных бумаг с особыми правами и условиями, отличающийся от обычных акций.",
+   "use": [
+    "Следите за новостями о новых акциях, если вы инвестор‑частный, чтобы понять, как они могут влиять на стоимость компании.",
+    "Если вы работаете в финансовом секторе, изучите особенности нового класса акций для консультаций клиентам."
    ],
    "money": null,
    "category": "Рынки и экономика",
