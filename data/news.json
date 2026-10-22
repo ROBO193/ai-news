@@ -1,7 +1,307 @@
 {
- "updated": "2026-10-22T18:38:28Z",
+ "updated": "2026-10-22T22:27:21Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "95eb6975ad2450",
+   "date": "2026-10-22T22:24:34Z",
+   "addedAt": "2026-10-22T22:26:34Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+   "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Обучение агентов после тренировки с ThinkingBox: оценки баз данных как награды RL",
+   "simple": "Исследователи используют оценки баз данных как сигналы вознаграждения для обучения агентов после основной тренировки. Это позволяет улучшать поведение моделей без дополнительного обучения с нуля.",
+   "term": "RL (reinforcement learning) — обучение, где агент получает награды за действия и учится их максимизировать",
+   "use": [
+    "Попробуйте изучить, как использовать метрики качества данных как обратную связь для ваших моделей.",
+    "Если вы разрабатываете агенты, экспериментируйте с пост‑тренировочным дообучением на основе внешних оценок."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d73c3fbf5a8b67",
+   "date": "2026-10-22T22:08:24Z",
+   "addedAt": "2026-10-22T22:26:34Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "title_en": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "summary_en": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+   "pending": false,
+   "title_ru": "OpenAI готовит раунд инвестиций в $30 млрд перед IPO",
+   "simple": "OpenAI ищет крупный инвестиционный раунд стоимостью 30 млрд долларов, готовясь к публичному размещению акций. Это может изменить рынок ИИ‑технологий и привлечь новых игроков.",
+   "term": "",
+   "use": [
+    "Следите за новостями о планах OpenAI, чтобы понять, какие направления ИИ будут поддерживаться.",
+    "Если вы работаете в сфере ИИ, подготовьте портфолио проектов, которые могут стать интересны крупным инвесторам."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2aedd54f3eb3c4",
+   "date": "2026-10-22T21:17:29Z",
+   "addedAt": "2026-10-22T22:26:34Z",
+   "source": "MIT Technology Review",
+   "sourceType": "media",
+   "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+   "title_en": "Designing an AI serving harness built to last",
+   "summary_en": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
+   "pending": false,
+   "title_ru": "Как построить надёжный сервис вокруг ИИ‑модели",
+   "simple": "Стать конкурентоспособным в корпоративном ИИ сейчас важнее не сама модель, а инфраструктура, которая её поддерживает. Авторы подчёркивают, что внимание смещается с размеров моделей на их интеграцию в бизнес‑процессы.",
+   "term": "",
+   "use": [
+    "Оцените, какие инструменты и API нужны для надёжного развёртывания ваших моделей.",
+    "Разработайте план мониторинга и обновления моделей, чтобы обеспечить их стабильную работу в продакшене."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "afeec198fbf511",
+   "date": "2026-10-22T20:33:38Z",
+   "addedAt": "2026-10-22T22:26:34Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+   "title_en": "Meta turns Muse sharing back on",
+   "summary_en": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web […]",
+   "pending": false,
+   "title_ru": "Meta снова разрешила делиться Muse после проблем с безопасностью",
+   "simple": "Meta восстановила возможность публичного обмена страницами Muse после того, как исследователи обнаружили, что ссылки можно было легко найти. Это показывает, что компания реагирует на уязвимости в доступе к контенту.",
+   "term": "",
+   "use": [
+    "Если вы используете Muse, проверьте настройки доступа к вашим страницам.",
+    "Следите за обновлениями политики безопасности Meta, чтобы избежать случайного раскрытия конфиденциальных данных."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "29a87826b84535",
+   "date": "2026-10-22T20:32:05Z",
+   "addedAt": "2026-10-22T22:26:34Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+   "title_en": "Meta’s AI could still scrape news sites, legal experts say",
+   "summary_en": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape […]",
+   "pending": false,
+   "title_ru": "Meta изменило условия, но всё ещё может сканировать новостные сайты",
+   "simple": "Meta убрало из условий фразы о свободном обучении ИИ на новостных сайтах, однако эксперты считают, что это не решает проблему сбора контента. Вопрос о праве использовать чужие материалы остаётся открытым.",
+   "term": "",
+   "use": [
+    "Если вы владелец контента, ознакомьтесь с новыми условиями Meta, чтобы понять, как ваши данные могут использоваться.",
+    "Следите за юридическими комментариями, чтобы своевременно защищать свои права на контент."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "52e6d464731a6f",
+   "date": "2026-10-22T19:56:32Z",
+   "addedAt": "2026-10-22T22:26:34Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+   "title_en": "The Social Society Helping Women Join the AI Boom",
+   "summary_en": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+   "pending": false,
+   "title_ru": "Общество помогает женщинам войти в мир ИИ",
+   "simple": "Создатели стартапа Aged Intelligence Society проводят мероприятия, где женщины решают проблемы среднего возраста с помощью передовых технологий. Это интересно, потому что открывает новые возможности для женщин в сфере ИИ.",
+   "term": "генеративный ИИ — тип искусственного интеллекта, создающий новые данные, например тексты или изображения, на основе обученных моделей.",
+   "use": [
+    "Посетите мероприятия сообщества, чтобы познакомиться с другими женщинами, интересующимися ИИ.",
+    "Попробуйте применить простые ИИ‑инструменты к своим личным задачам, например планированию бюджета.",
+    "Следите за анонсами новых событий, где можно узнать о практических кейсах применения ИИ."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "474d46551650ea",
+   "date": "2026-10-22T19:42:26Z",
+   "addedAt": "2026-10-22T22:26:35Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+   "title_en": "DE STAAT - FREEDOM (Official Music Video)",
+   "summary_en": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leave it . Via flir on Hacker News Tags: music , ai , generative-ai , pelican-riding-a-bicycle",
+   "pending": false,
+   "title_ru": "Видео De Staat с визуальными эффектами, созданными ИИ",
+   "simple": "В новом музыкальном клипе группы De Staat использованы визуальные эффекты, созданные с помощью искусственного интеллекта. Это показывает, как ИИ проникает в креативные индустрии.",
+   "term": "генеративный ИИ — система, способная создавать новые изображения, звук или видео на основе обученных данных.",
+   "use": [
+    "Посмотрите клип, чтобы увидеть примеры ИИ‑генерации в визуальном искусстве.",
+    "Экспериментируйте с бесплатными онлайн‑инструментами генерации изображений для своих проектов.",
+    "Обратите внимание на лицензии и авторские права при использовании ИИ‑созданного контента."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ee7ecab2895964",
+   "date": "2026-10-22T19:07:09Z",
+   "addedAt": "2026-10-22T22:26:34Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+   "title_en": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+   "summary_en": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+   "pending": false,
+   "title_ru": "1Password позволяет ИИ‑агентам входить в аккаунты без пароля",
+   "simple": "1Password запустил функцию, где ИИ‑агенты могут авторизоваться в ваших сервисах, не видя сам пароль. Это повышает удобство и безопасность одновременно.",
+   "term": "агент ИИ — программный помощник, который может выполнять задачи от имени пользователя, используя доступ к сервисам.",
+   "use": [
+    "Включите новую функцию в 1Password, если часто используете ИИ‑ассистентов для работы.",
+    "Проверьте настройки доступа, чтобы убедиться, что только доверенные агенты могут входить в аккаунты.",
+    "Следите за обновлениями безопасности от 1Password, чтобы быть в курсе новых возможностей."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "27825e30035840",
+   "date": "2026-10-22T19:00:00Z",
+   "addedAt": "2026-10-22T22:26:32Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/decisions-api",
+   "title_en": "Build more responsive apps with the Decisions API",
+   "summary_en": "Fast, focused, low-cost decisions for any application.",
+   "pending": false,
+   "title_ru": "OpenAI представил Decisions API для быстрых решений в приложениях",
+   "simple": "OpenAI выпустил Decisions API — сервис, позволяющий получать быстрые и недорогие решения для любых приложений. Это удобно для разработчиков, которым нужны быстрые ответы от ИИ.",
+   "term": "API — интерфейс программирования приложений, позволяющий разным программам взаимодействовать друг с другом.",
+   "use": [
+    "Подключите Decisions API к своему приложению, чтобы получать мгновенные рекомендации.",
+    "Сравните стоимость и скорость с другими сервисами, чтобы выбрать оптимальный вариант.",
+    "Тестируйте разные сценарии запросов, чтобы понять, как API отвечает на ваши задачи."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "afbb328c263f52",
+   "date": "2026-10-22T19:00:00Z",
+   "addedAt": "2026-10-22T22:26:34Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "title_en": "Canva releases its first image generation model",
+   "summary_en": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+   "pending": false,
+   "title_ru": "Canva запустила собственную модель генерации изображений",
+   "simple": "Canva открыла доступ к своей модели генерации изображений для всех пользователей, обещая более гибкие и дешевые результаты. Это расширяет возможности создания визуального контента без навыков дизайна.",
+   "term": "модель генерации изображений — ИИ, обученный создавать новые картинки по текстовому описанию.",
+   "use": [
+    "Попробуйте новую функцию в Canva, чтобы быстро создавать иллюстрации для соцсетей.",
+    "Экспериментируйте с разными запросами, чтобы понять, как модель реагирует на детали.",
+    "Сохраняйте полученные изображения в нужных форматах для дальнейшего использования в проектах."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "1d8d266cc065f7",
+   "date": "2026-10-22T19:00:00Z",
+   "addedAt": "2026-10-22T22:26:34Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "title_en": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "summary_en": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+   "pending": false,
+   "title_ru": "OpenAI открывает свою модель‑решатель для конкуренции с Jev",
+   "simple": "OpenAI делает свою модель‑решатель доступной широкой публике, чтобы сравнить её с популярной моделью Jev. Это важно для тех, кто ищет лучшие инструменты для принятия решений на основе ИИ.",
+   "term": "модель‑решатель — ИИ, обученный выбирать оптимальные варианты из набора альтернатив.",
+   "use": [
+    "Подпишитесь на доступ к модели‑решателю от OpenAI, если вам нужны автоматические рекомендации.",
+    "Сравните её результаты с Jev, используя одинаковые задачи, чтобы оценить эффективность.",
+    "Внедрите модель в рабочие процессы, где требуется быстрое принятие решений, например планирование ресурсов."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6dc97b2e6ae28c",
+   "date": "2026-10-22T18:58:19Z",
+   "addedAt": "2026-10-22T22:26:34Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+   "title_en": "Discord now formats Markdown previews right",
+   "summary_en": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects […]",
+   "pending": false,
+   "title_ru": "Discord теперь правильно отображает Markdown‑превью",
+   "simple": "Обновление Discord исправило отображение Markdown‑файлов: теперь они показываются без странных символов. Это удобно для тех, кто делится инструкциями и контекстом для ИИ‑проектов.",
+   "term": "Markdown — простой язык разметки, позволяющий оформлять текст с помощью символов, например **жирный** или # заголовки.",
+   "use": [
+    "Проверьте, как ваши инструкции для ИИ выглядят в Discord, и поправьте форматирование при необходимости.",
+    "Используйте Discord для обмена готовыми Markdown‑файлами с коллегами, чтобы они сразу читались правильно."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d8c2939ee8cf1a",
+   "date": "2026-10-22T18:48:04Z",
+   "addedAt": "2026-10-22T22:26:34Z",
+   "source": "MIT Technology Review",
+   "sourceType": "media",
+   "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+   "title_en": "The Foundations of Scalable AI",
+   "summary_en": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic…",
+   "pending": false,
+   "title_ru": "Как построить масштабируемый ИИ: основы и регулирование",
+   "simple": "На конференции EmTech Future обсудили, какие элементы нужны для создания крупномасштабных ИИ‑систем: данные, инженерия, платформы, модели управления и контроль. Всё это должно работать вместе, особенно в строгих регуляторных условиях.",
+   "term": "Governance — система правил и процессов, обеспечивающих надёжную и этичную работу ИИ.",
+   "use": [
+    "Изучите, какие данные и инструменты нужны для вашего проекта, и начните их систематизировать.",
+    "Обратите внимание на требования регуляторов в вашей отрасли и включите их в план разработки."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "4baf690dfb57b3",
+   "date": "2026-10-22T18:43:53Z",
+   "addedAt": "2026-10-22T22:26:34Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+   "title_en": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+   "summary_en": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+   "pending": false,
+   "title_ru": "AI от Microsoft превзошёл врачей в сложных диагнозах",
+   "simple": "Новый диагностический ИИ от Microsoft показал лучшие результаты, чем у обычных врачей, в сложных случаях, согласно исследованию в журнале Science. Улучшение связано в основном с самой моделью ИИ, а не с отдельными функциями системы.",
+   "term": "Diagnostic AI — система, использующая искусственный интеллект для анализа медицинских данных и постановки диагнозов.",
+   "use": [
+    "Следите за публикациями о подобных системах, чтобы понять, какие задачи они могут автоматизировать в медицине.",
+    "Если вы работаете в здравоохранении, обсудите с руководством возможность пилотного тестирования подобных ИИ‑инструментов."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "2a8e11324f4e3e",
    "date": "2026-10-22T18:12:48Z",
@@ -277,6 +577,28 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "92b876190d7344",
+   "date": "2026-10-22T14:02:12Z",
+   "addedAt": "2026-10-22T22:26:35Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+   "title_en": "Machine speed attacks require machine speed detection and response",
+   "summary_en": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
+   "pending": false,
+   "title_ru": "Нужна быстрая реакция на атаки, использующие машинную скорость",
+   "simple": "Злоумышленники могут украсть учётные данные и начать кражу данных за несколько минут, пока команды безопасности ещё не успевают отреагировать. Exaforce показывает реальные примеры с украденными токенами GitHub, вредоносными AI‑установщиками и фишингом MFA, подчёркивая важность мгновенного обнаружения и автоматической изоляции.",
+   "term": "MFA phishing — обман, когда злоумышленник заставляет жертву подтвердить вход, используя многофакторную аутентификацию, чтобы получить доступ к системе.",
+   "use": [
+    "Установите системы мониторинга, способные обнаруживать аномальные действия в реальном времени.",
+    "Автоматизируйте блокировку подозрительных сессий и изменение токенов при обнаружении угроз.",
+    "Обучайте сотрудников распознавать фишинговые сообщения, особенно связанные с MFA."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "6aa970c38b4997",
    "date": "2026-10-22T13:53:26Z",
    "addedAt": "2026-10-22T13:53:55Z",
@@ -406,6 +728,27 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f109b36dab6a85",
+   "date": "2026-10-22T13:00:00Z",
+   "addedAt": "2026-10-22T22:26:34Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+   "title_en": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+   "summary_en": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+   "pending": false,
+   "title_ru": "Мори — милый робот‑гриб, который ничего не делает",
+   "simple": "Wired рассказывает о роботе‑грибе Мори, который выглядит как милый элемент декора, но не имеет функций. Это попытка привыкнуть людей к роботам с камерами, скрывая их за приятным дизайном.",
+   "term": "",
+   "use": [
+    "Обратите внимание на дизайн устройств с камерами, если планируете их использовать в доме или офисе.",
+    "При выборе умных гаджетов учитывайте, насколько их внешний вид влияет на комфорт пользователей."
+   ],
+   "money": null,
+   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   },
   {
