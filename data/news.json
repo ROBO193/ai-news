@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-22T22:27:21Z",
+ "updated": "2026-10-23T01:37:34Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "085ba153da3bfb",
+   "date": "2026-10-23T00:45:37Z",
+   "addedAt": "2026-10-23T01:37:16Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+   "title_en": "Left alone with nothing to do, AI agents started playing",
+   "summary_en": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+   "pending": false,
+   "title_ru": "AI‑агенты на виртуальном острове начали придумывать игры",
+   "simple": "Исследователи MIT оставили 13 искусственных интеллектов на виртуальном острове без задач. Агентам пришлось заняться чем‑то, и они начали придумывать игры, оплакивать потерянное кольцо и улучшать свои навыки.",
+   "term": "AI‑агент — программа, способная принимать решения и действовать автономно в заданной среде",
+   "use": [
+    "Попробуйте изучить, как работают автономные системы, чтобы лучше понимать их поведение в проектах.",
+    "Обратите внимание на возможность использования подобных агентов для автоматизации рутинных задач в работе.",
+    "Следите за исследованиями в области агентных систем, они могут дать идеи для новых продуктов."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "95eb6975ad2450",
    "date": "2026-10-22T22:24:34Z",
@@ -42,6 +64,28 @@
    ],
    "money": null,
    "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "1437b0ebe886b6",
+   "date": "2026-10-22T21:53:22Z",
+   "addedAt": "2026-10-23T01:37:15Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "title_en": "Canva’s first AI image model plans designs before generating them",
+   "summary_en": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an […]",
+   "pending": false,
+   "title_ru": "Canva запустила модель Craft, планирующую дизайн перед генерацией",
+   "simple": "Canva представила собственную модель генерации изображений Canva Craft, которая сначала планирует дизайн, а потом создаёт картинку. Это обещает большую точность и контроль над результатом.",
+   "term": "двухэтапная архитектура — подход, где модель сначала формирует план, а затем генерирует окончательный результат",
+   "use": [
+    "Попробуйте использовать Canva Craft для создания более точных визуальных материалов в своих проектах.",
+    "Экспериментируйте с настройками планирования, чтобы получать более согласованные изображения.",
+    "Следите за обновлениями, чтобы быстро внедрять новые возможности в свой рабочий процесс."
+   ],
+   "money": null,
+   "category": "Модели",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -574,6 +618,28 @@
    ],
    "money": null,
    "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "e66e9796ba6be5",
+   "date": "2026-10-22T14:30:24Z",
+   "addedAt": "2026-10-23T01:37:14Z",
+   "source": "Google DeepMind",
+   "sourceType": "company",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "title_en": "Beyond tree cover: mapping the world’s forest types",
+   "summary_en": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+   "pending": false,
+   "title_ru": "Глобальная карта лесных типов с помощью ИИ от DeepMind",
+   "simple": "Google DeepMind создал карту, где каждый 10‑метровый участок Земли классифицируется по типу леса. Для этого использовались модели искусственного интеллекта, обрабатывающие спутниковые данные.",
+   "term": "спутниковый анализ — использование изображений со спутников для извлечения информации о поверхности планеты",
+   "use": [
+    "Изучите возможности спутникового анализа для экологических проектов или сельского хозяйства.",
+    "Внедрите подобные карты в планирование природоохранных мероприятий.",
+    "Следите за новыми инструментами DeepMind, они могут упростить работу с геоданными."
+   ],
+   "money": null,
+   "category": "Исследования",
    "model": "openai/gpt-oss-120b"
   },
   {
