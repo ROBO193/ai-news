@@ -1,7 +1,117 @@
 {
- "updated": "2026-10-23T01:37:34Z",
+ "updated": "2026-10-23T07:41:05Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "7be951cfddff32",
+   "date": "2026-10-23T06:00:31Z",
+   "addedAt": "2026-10-23T07:40:46Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/23/google-cloud-openai-models-private-preview/",
+   "title_en": "Google opens its cloud to rival OpenAI, promises business data won’t train models",
+   "summary_en": "Google Cloud is adding OpenAI models to its platform, initially through a private preview for selected business customers. The launch includes GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna. Google positions them as options for demanding work, lower-cost professional tasks and everyday use that requires fast responses. More choice, one bill Businesses will purchase access through Google Cloud Marketplace. Usage will appear on a single Google Cloud invoice and count toward existing cloud spending commitments. It … More → The post Google opens its cloud to rival OpenAI, promises business data won’t train models appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Google Cloud добавляет модели OpenAI, обещая не использовать данные клиентов для обучения",
+   "simple": "Google Cloud начал предлагать модели OpenAI в приватном тесте для бизнес‑клиентов. Компания гарантирует, что данные клиентов не будут использоваться для обучения этих моделей, а оплата будет идти через один счёт Google Cloud.",
+   "term": "Large Language Model — крупная языковая модель, обученная на огромных объёмах текста и способная генерировать связные ответы.",
+   "use": [
+    "Оцените, какие задачи в вашем бизнесе могут решаться с помощью готовых моделей вместо собственного развития ИИ.",
+    "Проверьте условия приватного доступа, чтобы убедиться, что ваши данные действительно защищены.",
+    "Подготовьте бюджет, учитывая, что оплата будет включена в общий счёт за облачные сервисы."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "795d94f626f50d",
+   "date": "2026-10-23T04:30:39Z",
+   "addedAt": "2026-10-23T07:40:46Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/23/barracuda-cybersecurity-career-development-report/",
+   "title_en": "AI is taking cybersecurity jobs at junior and experienced levels alike",
+   "summary_en": "Organizations are cutting cybersecurity roles as they adopt AI, even while reporting shortages of the expertise needed to manage threats, according to Barracuda’s Cybersecurity Skills Gap Report. 56% have experienced professional workforce reductions linked to AI, evenly divided between entry-level and higher-level roles. The post AI is taking cybersecurity jobs at junior and experienced levels alike appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "AI заменяет рабочие места в кибербезопасности на всех уровнях",
+   "simple": "Согласно отчёту, компании сокращают позиции в кибербезопасности, используя ИИ, хотя одновременно ощущают нехватку специалистов. Сокращения происходят как среди новичков, так и среди опытных сотрудников.",
+   "term": "Cybersecurity Skills Gap — разрыв между спросом на специалистов по кибербезопасности и их реальным количеством на рынке.",
+   "use": [
+    "Изучите, какие задачи в вашей компании могут автоматизировать ИИ, чтобы сократить нагрузку на сотрудников.",
+    "Подготовьте план переквалификации персонала, фокусируясь на работе с ИИ‑инструментами.",
+    "Следите за новыми сервисами ИИ, которые могут заменить рутинные операции в безопасности."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9a4461eaf20bd9",
+   "date": "2026-10-23T04:00:41Z",
+   "addedAt": "2026-10-23T07:40:46Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/23/new-infosec-products-of-the-week-october-23-2026/",
+   "title_en": "New infosec products of the week: October 23, 2026",
+   "summary_en": "Here’s a look at the most interesting products from the past week, featuring releases from AppGate, IDENTOS, Sweet Security, and ThreatModeler. Sweet Security adds one-click protection for vulnerable cloud workloads Sweet Security has announced the release of Virtual Patching, a new capability that protects running cloud and AI applications from specific vulnerabilities the moment they are identified. Security teams can enforce protection in one click while engineering develops, tests, and deploys a permanent fix. ThreatModeler … More → The post New infosec products of the week: October 23, 2026 appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Новые инфо‑сек продукты недели: защита уязвимостей в облаке и ИИ в один клик",
+   "simple": "Компания Sweet Security выпустила функцию Virtual Patching, позволяющую мгновенно защищать облачные и ИИ‑приложения от обнаруженных уязвимостей. Защита активируется одним нажатием, пока разрабатывается постоянное исправление.",
+   "term": "Virtual Patching — временная защита уязвимости без изменения кода, реализуемая на уровне инфраструктуры.",
+   "use": [
+    "Подключите новую функцию к своим облачным сервисам, чтобы быстро реагировать на новые угрозы.",
+    "Обучите команду быстро применять виртуальные патчи до выхода официальных обновлений.",
+    "Внедрите процесс мониторинга уязвимостей, чтобы своевременно использовать эту возможность."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "94cd4ca5fb66dd",
+   "date": "2026-10-23T04:00:00Z",
+   "addedAt": "2026-10-23T07:40:45Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+   "title_en": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+   "summary_en": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+   "pending": false,
+   "title_ru": "inDrive планирует тестировать роботакси от Pony.ai в Казахстане к 2027 году",
+   "simple": "Транспортный сервис inDrive собирается в 2027 году начать испытания полностью автономных такси Pony.ai в столице Казахстана, совместно с Nvidia. Это шаг к внедрению роботакси в регионе.",
+   "term": "Robotaxi — полностью автономный автомобиль, который работает как такси без участия водителя.",
+   "use": [
+    "Следите за новостями о тестах, чтобы понять, когда такие услуги могут появиться в вашем городе.",
+    "Изучите требования к инфраструктуре и законодательству для автономных транспортных средств.",
+    "Подготовьте бизнес‑идею, связанную с обслуживанием или поддержкой роботакси, если рынок откроется."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b21a97b1b27363",
+   "date": "2026-10-23T02:00:13Z",
+   "addedAt": "2026-10-23T07:40:45Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+   "title_en": "Kazakhstan Expands Compute for Its AI Future",
+   "summary_en": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation’s increasing supply of accelerated computing — along with its growing demand for what comes next. On Friday, Oct. 23, NVIDIA […]",
+   "pending": false,
+   "title_ru": "Казахстан ускоряет развитие AI: от инфраструктуры к реальным приложениям",
+   "simple": "В Казахстане переходят от планов по построению AI‑инфраструктуры к её реальному использованию: появляются ускорители вычислений, модели и готовые приложения. Это свидетельствует о росте спроса на AI‑технологии в стране.",
+   "term": "Accelerated Computing — вычисления, использующие специальные процессоры (GPU, TPU) для ускорения задач ИИ.",
+   "use": [
+    "Рассмотрите возможность обучения в Казахстане, где растёт спрос на специалистов по AI и ускорённым вычислениям.",
+    "Ищите локальные проекты, где можно предложить свои навыки в разработке или внедрении AI‑решений.",
+    "Следите за государственными программами поддержки AI‑стартапов для возможного сотрудничества."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "085ba153da3bfb",
    "date": "2026-10-23T00:45:37Z",
@@ -22,6 +132,28 @@
    ],
    "money": null,
    "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "15c1f8ef7a5825",
+   "date": "2026-10-23T00:00:00Z",
+   "addedAt": "2026-10-23T07:40:43Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+   "summary_en": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+   "pending": false,
+   "title_ru": "OpenAI и польская NASK совместно работают над безопасностью ИИ",
+   "simple": "OpenAI и польская организация NASK объявили о партнёрстве, направленном на исследование и укрепление безопасности и надёжности ИИ‑технологий. Цель — создать более защищённую цифровую экосистему.",
+   "term": "AI Safety — область исследований, направленная на предотвращение нежелательных последствий работы искусственного интеллекта.",
+   "use": [
+    "Подпишитесь на публикации партнёров, чтобы быть в курсе новых рекомендаций по безопасному использованию ИИ.",
+    "Если вы разрабатываете ИИ‑приложения, внедрите лучшие практики из их совместных исследований.",
+    "Участвуйте в открытых обсуждениях и вебинарах, чтобы повысить свою компетенцию в области AI‑безопасности."
+   ],
+   "money": null,
+   "category": "Исследования",
    "model": "openai/gpt-oss-120b"
   },
   {
