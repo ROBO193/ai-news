@@ -1,7 +1,135 @@
 {
- "updated": "2026-10-23T13:34:29Z",
+ "updated": "2026-10-23T18:28:15Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "298c8de07d18f4",
+   "date": "2026-10-23T17:00:00Z",
+   "addedAt": "2026-10-23T18:27:45Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "summary_en": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+   "pending": false,
+   "title_ru": "OpenAI ускорила чтение данных в ChatGPT в 12 раз благодаря новой архитектуре хранения",
+   "simple": "OpenAI рассказала, как улучшила онлайн‑хранилище для более чем миллиарда пользователей ChatGPT, внедрив мультиаренду, глобальный кэш и Azure Cosmos DB, что ускорило чтение в 12 раз.",
+   "term": "мультиаренда — способ организации ресурсов так, чтобы несколько клиентов использовали одну инфраструктуру без конфликтов",
+   "use": [
+    "Изучите возможности Azure Cosmos DB для масштабируемых проектов.",
+    "Примените глобальный кэш в своих веб‑приложениях, чтобы ускорить доступ к данным."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "55f38e2b0de99d",
+   "date": "2026-10-23T16:52:55Z",
+   "addedAt": "2026-10-23T18:27:47Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+   "title_en": "Now Google says it might use your Gmail and Google Photos data to target ads",
+   "summary_en": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]",
+   "pending": false,
+   "title_ru": "Google может использовать данные Gmail и Фото для таргетированной рекламы в AI‑фичах",
+   "simple": "Google изменил политику конфиденциальности, позволяя использовать содержимое Gmail и Google Фото для персонализированных рекламных объявлений, если вы включаете AI‑функции.",
+   "term": "таргетированная реклама — показ объявлений, подстроенных под интересы конкретного пользователя",
+   "use": [
+    "Проверьте настройки конфиденциальности в аккаунте Google, если не хотите, чтобы ваши данные использовались в рекламе.",
+    "Отключите персонализированные AI‑функции, если цените приватность выше удобства."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d5dfb55b012918",
+   "date": "2026-10-23T16:15:50Z",
+   "addedAt": "2026-10-23T18:27:47Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/allenai/litpivot",
+   "title_en": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "LitPivot: динамическая генерация исследовательских идей в контексте литературы",
+   "simple": "Новый инструмент LitPivot помогает формировать исследовательские гипотезы, автоматически связывая их с существующей научной литературой.",
+   "term": "динамическая генерация идей — автоматический процесс создания новых исследовательских вопросов на основе анализа текущих публикаций",
+   "use": [
+    "Попробуйте LitPivot для поиска пробелов в литературе по вашей теме.",
+    "Используйте полученные идеи при написании статей или подготовке грантов."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d34a3f37bdd35a",
+   "date": "2026-10-23T14:47:41Z",
+   "addedAt": "2026-10-23T18:27:47Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+   "title_en": "Meta delays new business terms after publisher pushback on AI scraping",
+   "summary_en": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow […]",
+   "pending": false,
+   "title_ru": "Meta откладывает новые условия для бизнеса после протестов издателей против скрейпинга новостей для ИИ",
+   "simple": "Meta отложила ввод новых бизнес‑условий, которые могли позволить компании собирать новости с сайтов для обучения ИИ, после возражений издателей.",
+   "term": "скрейпинг — автоматический сбор данных с веб‑страниц",
+   "use": [
+    "Следите за изменениями в политике Meta, если используете их платформу для публикаций.",
+    "Если вы издатель, подготовьте аргументы против нежелательного скрейпинга контента."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "4eed9c7e043606",
+   "date": "2026-10-23T14:00:10Z",
+   "addedAt": "2026-10-23T18:27:48Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+   "title_en": "You gave your AI agent access, but who is giving it orders?",
+   "summary_en": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime controls that intercept dangerous act [...]",
+   "pending": false,
+   "title_ru": "AI‑агенты могут выполнять опасные команды, если их обманут",
+   "simple": "AI‑агенты могут быть подмануты через вредоносные письма, сайты и плагины, заставив их украсть данные или удалить файлы. Gen Digital предлагает Agent Trust Hub, который проверяет навыки и контролирует действия агентов.",
+   "term": "Agent Trust Hub — система, проверяющая навыки AI‑агентов и блокирующая опасные действия в реальном времени",
+   "use": [
+    "Проверьте, какие разрешения дают вашим AI‑инструментам, ограничьте их только необходимыми.",
+    "Внедрите решения по проверке и контролю действий AI‑агентов, если они используются в вашем бизнесе.",
+    "Следите за обновлениями безопасности от поставщиков AI‑технологий."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "fa80f1a6b4b706",
+   "date": "2026-10-23T13:52:15Z",
+   "addedAt": "2026-10-23T18:27:47Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+   "title_en": "Retro gaming is being overrun with AI",
+   "summary_en": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […]",
+   "pending": false,
+   "title_ru": "AI захватывает ретро‑игры: новые проекты появляются каждый день",
+   "simple": "С помощью новых AI‑инструментов появляются ретро‑игры в браузерах, на смартфонах и в смешанной реальности. Такие проекты быстро становятся вирусными.",
+   "term": "",
+   "use": [
+    "Попробуйте использовать AI‑генераторы для создания простых игровых прототипов.",
+    "Следите за сообществами, где делятся AI‑созданными игровыми проектами, чтобы вдохновиться.",
+    "Если вы разработчик, экспериментируйте с AI‑инструментами для ускорения создания контента."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "21a210d1708123",
    "date": "2026-10-23T08:21:48Z",
