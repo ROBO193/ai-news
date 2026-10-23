@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-23T07:41:05Z",
+ "updated": "2026-10-23T13:34:29Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "21a210d1708123",
+   "date": "2026-10-23T08:21:48Z",
+   "addedAt": "2026-10-23T13:34:12Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/23/llmjacking-agent-hijacks-exposed-ai-models/",
+   "title_en": "Hackers hijack exposed AI models to launch cyberattacks at victims’ expense",
+   "summary_en": "An attack tool built around AI goes looking for AI models that anyone on the internet can reach, then uses them to plan break-ins while the model’s owner pays for the computing power. Symantec captured the agent’s instruction set this summer through a honeypot posing as an unprotected AI service, researchers Priti More and Susmit Yenkar wrote. Its operators sent their entire working prompt to the decoy, expecting a live model on the other end … More → The post Hackers hijack exposed AI models to launch cyberattacks at victims’ expense appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Хакеры используют открытые AI‑модели для кибератак",
+   "simple": "Хакеры нашли доступные в интернете AI‑модели, используют их для планирования взломов, а владельцы моделей платят за вычислительные ресурсы. Это показывает новую угрозу, когда модели становятся инструментом преступников.",
+   "term": "Prompt — набор инструкций, который подаётся модели для получения нужного ответа.",
+   "use": [
+    "Проверьте, какие AI‑модели вы публикуете, ограничьте к ним доступ.",
+    "Отслеживайте аномальное использование вычислительных ресурсов в облаке.",
+    "Обновляйте политику безопасности, включив мониторинг запросов к моделям."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "7be951cfddff32",
    "date": "2026-10-23T06:00:31Z",
@@ -154,6 +176,28 @@
    ],
    "money": null,
    "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6430909168b586",
+   "date": "2026-10-23T00:00:00Z",
+   "addedAt": "2026-10-23T13:34:11Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+   "title_en": "Does Your Model Run on AWS Trainium? Look It Up",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Проверьте, работает ли ваша модель на AWS Trainium",
+   "simple": "Hugging Face предлагает пользователям узнать, поддерживает ли их модель процессоры AWS Trainium. Это важно для оптимизации скорости и стоимости обучения.",
+   "term": "AWS Trainium — специализированный процессор от Amazon для ускорения обучения и вывода больших нейронных сетей.",
+   "use": [
+    "Посмотрите в документации, есть ли у вашей модели поддержка Trainium.",
+    "Если поддержка есть, протестируйте модель на этом процессоре для сравнения скорости.",
+    "Учтите стоимость аренды Trainium при планировании бюджета."
+   ],
+   "money": null,
+   "category": "Железо",
    "model": "openai/gpt-oss-120b"
   },
   {
