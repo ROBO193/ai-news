@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T01:41:08Z",
+ "updated": "2026-10-24T07:24:49Z",
  "failedSources": [],
  "items": [
   {
@@ -2163,6 +2163,24 @@
    ],
    "money": null,
    "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "5cbd98ec79a60f",
+   "date": "2026-10-21T18:20:40Z",
+   "addedAt": "2026-10-24T07:24:32Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+   "title_en": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+   "summary_en": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+   "pending": false,
+   "title_ru": "Суд отклонил требование Трампа о снятии исков против загрязнения дата‑центров",
+   "simple": "Суд постановил, что EPA не может самостоятельно отклонять иск о загрязнении, связанный с дата‑центрами, в котором фигурирует AI‑компания SpaceXAI.",
+   "term": "Data center pollution — загрязнение окружающей среды, вызываемое работой серверных ферм, в том числе из‑за энергопотребления ИИ‑моделей",
+   "use": [],
+   "money": null,
+   "category": "Регулирование",
    "model": "openai/gpt-oss-120b"
   },
   {
