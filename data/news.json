@@ -1,7 +1,28 @@
 {
- "updated": "2026-10-24T07:24:49Z",
+ "updated": "2026-10-24T12:46:05Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "9865b391edef9d",
+   "date": "2026-10-24T12:00:00Z",
+   "addedAt": "2026-10-24T12:45:47Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+   "title_en": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+   "summary_en": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+   "pending": false,
+   "title_ru": "AI помогло найти и использовать уязвимости в PHP",
+   "simple": "Исследователи использовали инструменты искусственного интеллекта, чтобы обнаружить старые уязвимости в языке PHP, после чего появились атаки, поддержанные ИИ.",
+   "term": "AI‑assisted attacks — атаки, в которых ИИ помогает находить и эксплуатировать уязвимости.",
+   "use": [
+    "Обратите внимание на безопасность своих PHP‑проектов и проведите аудит кода с учётом новых методов поиска уязвимостей.",
+    "Следите за обновлениями безопасности и быстро устанавливайте патчи, чтобы не дать злоумышленникам время воспользоваться уязвимостями."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "b15a6fb9671b3f",
    "date": "2026-10-23T23:05:49Z",
@@ -1076,6 +1097,27 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "c625905b3719c2",
+   "date": "2026-10-22T15:25:02Z",
+   "addedAt": "2026-10-24T12:45:47Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+   "title_en": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+   "summary_en": "Hackers were already probing the bug before defenders were told it existed.",
+   "pending": false,
+   "title_ru": "Хакеры получили четыре дня преимущества перед раскрытием уязвимости PHP2Shell",
+   "simple": "Хакеры начали исследовать уязвимость PHP2Shell за четыре дня до того, как об этом сообщили защитники, получив тем самым преимущество.",
+   "term": "PHP2Shell — уязвимость, позволяющая удалённо выполнить код на сервере через PHP.",
+   "use": [
+    "Проверьте, использует ли ваш сайт устаревшие версии PHP и обновите их до последних патчей.",
+    "Внедрите систему мониторинга подозрительной активности, чтобы быстро обнаруживать попытки эксплуатации уязвимостей."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "0bffbef0359b5d",
    "date": "2026-10-22T15:03:58Z",
    "addedAt": "2026-10-22T18:37:41Z",
@@ -1794,6 +1836,27 @@
    ],
    "money": null,
    "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "19e4246081a213",
+   "date": "2026-10-22T02:24:17Z",
+   "addedAt": "2026-10-24T12:45:47Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+   "title_en": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+   "summary_en": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+   "pending": false,
+   "title_ru": "Хакеры эксплуатировали уязвимости PHP сразу после их исправления",
+   "simple": "AWS зафиксировал попытки использовать уязвимости PHP2Shell уже через четыре дня после их исправления, и сейчас они широко эксплуатируются.",
+   "term": "",
+   "use": [
+    "Убедитесь, что все ваши серверы обновлены до последних версий PHP и применены все патчи безопасности.",
+    "Настройте автоматические оповещения о попытках доступа к уязвимым сервисам, чтобы быстро реагировать на атаки."
+   ],
+   "money": null,
+   "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
   },
   {
