@@ -1,7 +1,28 @@
 {
- "updated": "2026-10-24T19:33:29Z",
+ "updated": "2026-10-24T22:34:00Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "0509c80e85fbac",
+   "date": "2026-10-24T21:29:12Z",
+   "addedAt": "2026-10-24T22:33:50Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+   "title_en": "Blue Planet III is keeping the rough edges in the age of AI",
+   "summary_en": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
+   "pending": false,
+   "title_ru": "Blue Planet III оставляет несовершенства в эпоху ИИ",
+   "simple": "BBC в новом сезоне «Blue Planet III» намеренно сохраняет неидеальные кадры, чтобы показать, что материал не создан ИИ. Это делает документалку более достоверной и интересной для зрителей, замечающих слишком «гладкие» изображения.",
+   "term": "AI‑генерация — создание изображений или видео с помощью искусственного интеллекта, часто дающее слишком идеальный результат",
+   "use": [
+    "Обратите внимание на детали в видеоконтенте: если кадр выглядит слишком безупречно, проверьте его подлинность.",
+    "При создании собственных видеоматериалов используйте небольшие «недочёты», чтобы избежать подозрений в искусственном происхождении."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "b0af889ad05fbb",
    "date": "2026-10-24T19:00:00Z",
@@ -128,6 +149,27 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "3812b4d599bb7a",
+   "date": "2026-10-24T03:59:57Z",
+   "addedAt": "2026-10-24T22:33:51Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+   "title_en": "battledrones v14: Compass Rose, a four player map",
+   "summary_en": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI) Claude Opus 5.5 added a new map called \"Compass Rose\" and modified the WebSockets multiplayer network code to support up to four players for that map, joining via share links or QR codes. The new teams use robots themed in purple and green, joining the existing blue and red designs. You can preview those…",
+   "pending": false,
+   "title_ru": "Battledrones v14: новая карта Compass Rose для четырёх игроков",
+   "simple": "Разработчик добавил в игру Battledrones карту «Compass Rose», поддерживающую до четырёх игроков и ИИ‑замену пустых мест. Это расширяет возможности онлайн‑игры и делает её более гибкой.",
+   "term": "WebSocket — протокол для постоянного двунаправленного соединения между клиентом и сервером, часто используемый в онлайн‑играх",
+   "use": [
+    "Попробуйте подключиться к новой карте через ссылки или QR‑коды, чтобы проверить работу многопользовательского режима.",
+    "Если вы разрабатываете свои игры, изучите поддержку WebSocket для реализации гибкой многопользовательской логики."
+   ],
+   "money": null,
+   "category": "Разработка",
    "model": "openai/gpt-oss-120b"
   },
   {
