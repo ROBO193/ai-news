@@ -1,7 +1,70 @@
 {
- "updated": "2026-10-24T12:46:05Z",
+ "updated": "2026-10-24T16:42:00Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "35d668020c8633",
+   "date": "2026-10-24T16:00:00Z",
+   "addedAt": "2026-10-24T16:41:42Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "title_en": "Block’s new voice model sounds eerily human",
+   "summary_en": "Block said that the voice model can run locally on a MacBook M4 Max",
+   "pending": false,
+   "title_ru": "Новая голосовая модель Block звучит как человек",
+   "simple": "Block представила голосовую модель, которую можно запускать локально на ноутбуке MacBook M4 Max. Это значит, что генерацию речи можно выполнять без подключения к облаку.",
+   "term": "Инференс — запуск уже обученной модели для получения ответов",
+   "use": [
+    "Попробуйте установить модель на свой MacBook, если он поддерживает M4 Max, чтобы оценить качество голоса без интернета.",
+    "Сравните полученный звук с другими сервисами, чтобы понять, подходит ли он для ваших задач."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "110fd09f65f25a",
+   "date": "2026-10-24T15:00:00Z",
+   "addedAt": "2026-10-24T16:41:42Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "title_en": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "summary_en": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+   "pending": false,
+   "title_ru": "AI‑модели Grok и GPT дают противоположные политические рекомендации",
+   "simple": "Исследование показало, что модель Grok отдает предпочтение республиканцам, а GPT от OpenAI — демократам, и в более чем 90 % случаев их рекомендации расходятся. Это интересует тех, кто следит за влиянием ИИ на политику.",
+   "term": "",
+   "use": [
+    "Обратите внимание на возможный политический уклон ИИ при использовании его для анализа новостей.",
+    "Если вы разрабатываете сервисы рекомендаций, протестируйте модели на нейтральность."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "0d4ae8a7dd3929",
+   "date": "2026-10-24T14:00:00Z",
+   "addedAt": "2026-10-24T16:41:42Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "title_en": "Here are the top AI agents that can live in your text messages",
+   "summary_en": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "pending": false,
+   "title_ru": "Топ AI‑агентов, которые работают в ваших сообщениях",
+   "simple": "Составлен список самых заметных AI‑агентов, которые могут отвечать в мессенджерах: от общих помощников до специализированных для семьи, путешествий и работы. Это удобно, если хотите автоматизировать переписку.",
+   "term": "",
+   "use": [
+    "Подключите выбранного агента к любимому мессенджеру, чтобы автоматизировать ответы на типовые запросы.",
+    "Используйте специализированного агента, например, для планирования поездок, чтобы экономить время."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "9865b391edef9d",
    "date": "2026-10-24T12:00:00Z",
