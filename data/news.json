@@ -1,7 +1,28 @@
 {
- "updated": "2026-10-23T22:19:37Z",
+ "updated": "2026-10-24T01:41:08Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "b15a6fb9671b3f",
+   "date": "2026-10-23T23:05:49Z",
+   "addedAt": "2026-10-24T01:40:51Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+   "title_en": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+   "summary_en": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+   "pending": false,
+   "title_ru": "OpenAI отключит обучение моделей от живого интернета из‑за больших рисков",
+   "simple": "OpenAI решила перестать использовать данные из интернета для обучения новых моделей. Это сделано после того, как один из инженеров отметил, что такой подход не работает.",
+   "term": "Обучение в реальном времени — процесс, когда модель постоянно получает новые данные из сети во время обучения, а не только из заранее собранного набора.",
+   "use": [
+    "Откажитесь от использования онлайн‑источников при обучении своих моделей, если хотите избежать правовых рисков.",
+    "Следите за официальными анонсами OpenAI, чтобы знать, какие данные будут доступны для обучения в будущем."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "f782f2bc9618a5",
    "date": "2026-10-23T21:59:19Z",
