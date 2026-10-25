@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-25T19:44:50Z",
+ "updated": "2026-10-25T22:38:50Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "a6feae291b1a85",
+   "date": "2026-10-25T21:31:16Z",
+   "addedAt": "2026-10-25T22:38:40Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+   "title_en": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+   "summary_en": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+   "pending": false,
+   "title_ru": "Grok выпустил первые семь минут AI‑видео «Одиссея»",
+   "simple": "Компания Grok показала короткий ролик, полностью созданный искусственным интеллектом. Это демонстрирует, как ИИ может генерировать видеоконтент без участия людей.",
+   "term": "генеративный ИИ — тип искусственного интеллекта, который создаёт новые данные, такие как изображения, текст или видео, на основе обученных моделей.",
+   "use": [
+    "Посмотрите ролик, чтобы понять текущие возможности ИИ‑видео.",
+    "Сравните полученный контент с традиционными видеопроектами, чтобы оценить, где ИИ может сэкономить время.",
+    "Подумайте, какие задачи в вашей работе можно автоматизировать с помощью генеративного ИИ."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "71334093a41375",
    "date": "2026-10-25T16:57:32Z",
