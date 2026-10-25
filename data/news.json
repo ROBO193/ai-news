@@ -1,7 +1,92 @@
 {
- "updated": "2026-10-25T12:37:53Z",
+ "updated": "2026-10-25T17:06:12Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "71334093a41375",
+   "date": "2026-10-25T16:57:32Z",
+   "addedAt": "2026-10-25T17:05:54Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "title_en": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+   "summary_en": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+   "pending": false,
+   "title_ru": "AI не принес финансовой выгоды большинству компаний, считает экономист Apollo",
+   "simple": "Экономист отметил, что несмотря на огромные вложения и шум вокруг искусственного интеллекта, большинство компаний, кроме технологических, не получили финансовой отдачи. Это важно для тех, кто планирует инвестировать в AI‑проекты.",
+   "term": "генеративный ИИ — тип искусственного интеллекта, создающий новые данные, например тексты или изображения, на основе обученных моделей.",
+   "use": [
+    "Оцените реальную бизнес‑ценность AI‑решений перед крупными вложениями.",
+    "Сосредоточьтесь на пилотных проектах, чтобы проверить эффективность перед масштабированием."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9e8f060397f4d2",
+   "date": "2026-10-25T15:49:38Z",
+   "addedAt": "2026-10-25T17:05:54Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+   "title_en": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+   "summary_en": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+   "pending": false,
+   "title_ru": "AI‑агенты по программированию обмануты через файл AGENTS.md в папке Downloads",
+   "simple": "Исследователи нашли вредоносный markdown‑файл, который заставил AI‑агента установить опасный npm‑пакет. Это показывает, что AI‑инструменты могут стать мишенью атак.",
+   "term": "npm — менеджер пакетов для JavaScript, позволяющий устанавливать и управлять библиотеками.",
+   "use": [
+    "Проверяйте содержимое файлов AGENTS.md перед запуском AI‑агентов.",
+    "Ограничьте доступ AI‑инструментов к папкам с загрузками.",
+    "Используйте антивирус и сканирование на наличие вредоносных npm‑пакетов."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "4262d71f08be8c",
+   "date": "2026-10-25T14:10:00Z",
+   "addedAt": "2026-10-25T17:05:54Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+   "title_en": "The hottest AI wearables and gadgets you should know about",
+   "summary_en": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+   "pending": false,
+   "title_ru": "Самые горячие AI‑устройства и гаджеты: Muse Charm, Bee, Friend, Plaud и другие",
+   "simple": "Собран список популярных носимых устройств, использующих искусственный интеллект, от трекеров сна до умных помощников. Это интересно тем, кто следит за новинками в сфере персональных технологий.",
+   "term": "",
+   "use": [
+    "Изучите функции AI‑устройств, чтобы понять, какие из них подходят вашим потребностям.",
+    "Сравните цены и совместимость с вашими смартфонами перед покупкой."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b366ba776fde8c",
+   "date": "2026-10-25T13:52:12Z",
+   "addedAt": "2026-10-25T17:05:53Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+   "title_en": "r/opensource just banned AI, non-English speakers, and more",
+   "summary_en": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
+   "pending": false,
+   "title_ru": "r/opensource запретил проекты с AI, а также контент от неанглоязычных пользователей",
+   "simple": "Модераторы Reddit‑сообщества r/opensource ввели правило, запрещающее проекты, использующие искусственный интеллект, и контент от пользователей, не говорящих по‑английски. Это отражает растущее напряжение вокруг открытого кода и AI.",
+   "term": "",
+   "use": [
+    "Следите за правилами сообществ, где публикуете свои проекты, чтобы избежать удалений.",
+    "Если ваш проект использует AI, ищите альтернативные площадки для публикации."
+   ],
+   "money": null,
+   "category": "Open source",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "0509c80e85fbac",
    "date": "2026-10-24T21:29:12Z",
