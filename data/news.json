@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T06:18:49Z",
+ "updated": "2026-10-25T12:37:53Z",
  "failedSources": [],
  "items": [
   {
@@ -245,6 +245,28 @@
    "use": [],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "99c99157c7fa15",
+   "date": "2026-10-23T20:42:34Z",
+   "addedAt": "2026-10-25T12:37:44Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+   "title_en": "Google’s AI search changes upended online publishing",
+   "summary_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
+   "pending": false,
+   "title_ru": "AI‑поиск Google меняет онлайн‑издание",
+   "simple": "Google внедрил искусственный интеллект в поиск, что меняет правила игры для издателей в интернете. Теперь контент будет оцениваться и показываться по‑новому, что важно для тех, кто публикует статьи.",
+   "term": "AI‑поиск — система, использующая искусственный интеллект для понимания запросов и подбора релевантных результатов.",
+   "use": [
+    "Оцените, как ваш контент может появляться в новых результатах поиска и адаптируйте заголовки под вопросы пользователей.",
+    "Следите за рекомендациями Google по оптимизации под AI‑поиск и обновляйте статьи согласно им.",
+    "Экспериментируйте с форматами контента (видео, инфографика), которые AI‑поиск может лучше воспринимать."
+   ],
+   "money": null,
+   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   },
   {
