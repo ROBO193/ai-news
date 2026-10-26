@@ -1,7 +1,196 @@
 {
- "updated": "2026-10-26T15:17:32Z",
+ "updated": "2026-10-26T20:38:36Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "5d5ff332a0b6b5",
+   "date": "2026-10-26T20:04:16Z",
+   "addedAt": "2026-10-26T20:38:00Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+   "title_en": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+   "summary_en": "Included is the ability to limit which applications Siri can directly access.",
+   "pending": false,
+   "title_ru": "Apple выпустила iOS и macOS 27.2 с новыми функциями Siri",
+   "simple": "Apple обновила свои системы, добавив новые возможности для Siri, в том числе ограничение доступа к приложениям. Это может быть полезно тем, кто хочет лучше контролировать, какие программы использует голосовой помощник.",
+   "term": "Siri — голосовой помощник Apple, который отвечает на запросы и управляет устройствами.",
+   "use": [
+    "Обратите внимание на новые настройки доступа Siri в настройках вашего iPhone или Mac.",
+    "Ограничьте доступ Siri только к тем приложениям, которые действительно нужны, чтобы повысить конфиденциальность."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "34adadfb171aac",
+   "date": "2026-10-26T19:00:25Z",
+   "addedAt": "2026-10-26T20:38:01Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+   "title_en": "Quoting Jason Koebler",
+   "summary_en": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support problems that they have discovered something journalistically notable and that 404 Media, specifically, can help them. — Jason Koebler , ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems Tags: jason-koebler , openai , journalism , ai , llms , ai-ethics , ai-misuse , generative-ai , chatgpt , 404-media",
+   "pending": false,
+   "title_ru": "ChatGPT часто советует обращаться в 404 Media вместо техподдержки",
+   "simple": "Пользователи, ищущие помощь в обычных технических проблемах, всё чаще получают от ChatGPT рекомендации обращаться в компанию 404 Media. Это показывает, как ИИ может влиять на восприятие поддержки.",
+   "term": "ChatGPT — чат-бот на основе больших языковых моделей, генерирующий ответы на запросы пользователей.",
+   "use": [
+    "Будьте скептичны к рекомендациям ИИ и проверяйте их достоверность перед тем, как обращаться в сторонние сервисы.",
+    "Если нужен реальный техподдержка, ищите официальные каналы производителя устройства."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c6549f35a055aa",
+   "date": "2026-10-26T17:45:43Z",
+   "addedAt": "2026-10-26T20:38:01Z",
+   "source": "MIT Technology Review",
+   "sourceType": "media",
+   "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+   "title_en": "Will the real Anthropic please stand up",
+   "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it…",
+   "pending": false,
+   "title_ru": "Anthropic подала проспект IPO после месяцев спекуляций",
+   "simple": "Компания Anthropic, разрабатывающая ИИ, официально подала документы для выхода на биржу. В проспекте подробно описаны риски и планы развития технологии.",
+   "term": "IPO — первичное публичное размещение акций, когда компания впервые предлагает их инвесторам на бирже.",
+   "use": [
+    "Следите за новостями о выходе Anthropic на рынок, чтобы понять, какие технологии ИИ будут развиваться дальше.",
+    "Если вы изучаете ИИ, обратите внимание на публичные документы компаний для понимания отраслевых трендов."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2500a6aad8741c",
+   "date": "2026-10-26T17:30:55Z",
+   "addedAt": "2026-10-26T20:38:00Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+   "title_en": "The RealReal won’t let AI agents hog designer clothing",
+   "summary_en": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, […]",
+   "pending": false,
+   "title_ru": "The RealReal усиливает защиту от AI‑агентов в магазине одежды",
+   "simple": "Сервис по продаже подержанной роскошной одежды The RealReal обновил систему защиты от ботов, чтобы AI‑агенты не могли захватывать товары. Это реакция на случаи, когда ИИ использовался для резервирования предметов.",
+   "term": "AI‑агент — программный робот, использующий искусственный интеллект для автоматического выполнения задач в интернете.",
+   "use": [
+    "Если вы продаёте товары онлайн, проверьте, есть ли у вас защита от автоматических ботов.",
+    "Не используйте скрипты для покупки товаров, если это нарушает правила сайта."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "4a8f41d180d7e4",
+   "date": "2026-10-26T17:10:23Z",
+   "addedAt": "2026-10-26T20:38:00Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+   "title_en": "Five weird details from Anthropic’s IPO filing",
+   "summary_en": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to […]",
+   "pending": false,
+   "title_ru": "Странные детали из IPO‑проспекта Anthropic",
+   "simple": "Anthropic опубликовала документ S‑1, где раскрыла детали бизнеса, зарплаты руководства и планы расходов на IPO. Это интересно, потому что показывает, как компания готовится к публичному размещению акций.",
+   "term": "S‑1 — документ, который компания подаёт в SEC перед IPO, раскрывающий финансовую и операционную информацию.",
+   "use": [
+    "Изучите, какие риски указывают в подобных проспектах, чтобы лучше оценивать стартапы.",
+    "Обратите внимание на структуру расходов компаний ИИ, это поможет планировать бюджеты в своих проектах."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "0c7a0e58403592",
+   "date": "2026-10-26T16:49:42Z",
+   "addedAt": "2026-10-26T20:38:01Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+   "title_en": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+   "summary_en": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+   "pending": false,
+   "title_ru": "Стратегия Anthropic удерживать корпоративных клиентов",
+   "simple": "В S‑1 Anthropic показала, что более половины крупных клиентов используют одновременно платформу Claude и собственное приложение. Такой кросс‑продажи делает клиентов более привязанными, как у Amazon.",
+   "term": "cross‑selling — продажа дополнительных продуктов тем же клиентам, чтобы увеличить их лояльность.",
+   "use": [
+    "Подумайте, как объединить свои сервисы в единый пакет для клиентов.",
+    "Разработайте простую интеграцию между продуктами, чтобы увеличить их совместное использование."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "4a24365e960e7c",
+   "date": "2026-10-26T16:46:36Z",
+   "addedAt": "2026-10-26T20:38:01Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+   "title_en": "SpaceX locks in $40B GPU financing deal with Apollo",
+   "summary_en": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+   "pending": false,
+   "title_ru": "SpaceX заключила $40 млрд финансирования GPU",
+   "simple": "SpaceX получила обязательство финансировать около 40 млрд долларов на покупку AI‑чипов и оборудования для дата‑центров, назвав это крупнейшим в истории финансированием GPU.",
+   "term": "GPU — графический процессор, используемый для ускорения вычислений в искусственном интеллекте.",
+   "use": [
+    "Следите за ростом спроса на AI‑чипы, это может влиять цены на облачные сервисы.",
+    "Если вы работаете с вычислительными задачами, оцените возможность перехода на GPU для ускорения."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "5ecfeeaf9cec8d",
+   "date": "2026-10-26T16:01:55Z",
+   "addedAt": "2026-10-26T20:38:01Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+   "title_en": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+   "summary_en": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
+   "pending": false,
+   "title_ru": "S‑1 Anthropic как руководство по рискам ИИ",
+   "simple": "В документе Anthropic утверждает, что «закрытый цикл» — лучший путь к успеху ИИ, но одновременно видит в этом угрозу существованию человечества.",
+   "term": "закрытый цикл — подход, при котором ИИ получает обратную связь и сам улучшает свои модели без внешнего контроля.",
+   "use": [
+    "Будьте внимательны к продуктам, использующим автономное обучение, оценивайте их безопасность.",
+    "Изучайте материалы по этике ИИ, чтобы понимать потенциальные риски."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "be77c96c39b4ea",
+   "date": "2026-10-26T16:00:00Z",
+   "addedAt": "2026-10-26T20:37:56Z",
+   "source": "Google AI",
+   "sourceType": "company",
+   "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+   "title_en": "Our newest AI Quest: Mapping the human brain",
+   "summary_en": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+   "pending": false,
+   "title_ru": "Новый AI‑квест: картировать человеческий мозг",
+   "simple": "Google AI анонсировала новый проект «AI Quest», цель которого — создать карту человеческого мозга с помощью искусственного интеллекта.",
+   "term": "AI Quest — исследовательская инициатива, использующая ИИ для моделирования и визуализации структуры мозга.",
+   "use": [
+    "Следите за публикациями проекта, они могут дать идеи для нейронаучных исследований.",
+    "Если вы студент, попробуйте изучить основы нейросетей, применяемых в биологии."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "ad4aca2b15a915",
    "date": "2026-10-26T14:50:47Z",
@@ -240,6 +429,27 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "64d59b55a8fb86",
+   "date": "2026-10-26T10:00:00Z",
+   "addedAt": "2026-10-26T20:37:55Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+   "title_en": "ChatGPT’s expanding world of work",
+   "summary_en": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+   "pending": false,
+   "title_ru": "Как люди используют ChatGPT в работе по всему миру",
+   "simple": "OpenAI проанализировала данные о 165 типах работы в почти 100 странах. Показано, как сотрудники применяют ChatGPT и как это меняется со временем.",
+   "term": "",
+   "use": [
+    "Попробуйте интегрировать ChatGPT в свои ежедневные задачи, например, составление писем или поиск информации.",
+    "Отслеживайте, какие функции модели вам полезны, чтобы оптимизировать рабочий процесс."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "3ae98091f4f29d",
    "date": "2026-10-26T09:30:00Z",
    "addedAt": "2026-10-26T15:16:54Z",
@@ -321,6 +531,27 @@
    ],
    "money": null,
    "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "8f2f08b6e19780",
+   "date": "2026-10-26T07:00:00Z",
+   "addedAt": "2026-10-26T20:37:55Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/openai-cut-incident-investigation",
+   "title_en": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+   "summary_en": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+   "pending": false,
+   "title_ru": "Ultrafast ускорил расследование инцидентов в OpenAI",
+   "simple": "Инженеры OpenAI используют инструмент Codex Ultrafast, чтобы за несколько минут разбирать инциденты. Это ускоряет анализ безопасности и рефакторинг кода.",
+   "term": "Codex Ultrafast — система, ускоряющая поиск и исправление проблем в коде с помощью ИИ.",
+   "use": [
+    "Изучите возможности автоматизации анализа кода в своих проектах, используя похожие инструменты.",
+    "Внедрите быстрый процесс проверки кода перед релизом, чтобы снизить риски."
+   ],
+   "money": null,
+   "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -431,6 +662,27 @@
    ],
    "money": null,
    "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "1758535ac6be3e",
+   "date": "2026-10-26T00:00:00Z",
+   "addedAt": "2026-10-26T20:37:55Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+   "title_en": "Introducing GPT-6.1 Terra",
+   "summary_en": "Bringing fast and capable computer use to everyone",
+   "pending": false,
+   "title_ru": "GPT‑6.1 Terra: быстрый и доступный компьютерный ИИ для всех",
+   "simple": "OpenAI анонсировала модель GPT‑6.1 Terra, обещающую высокую скорость и возможность выполнять вычисления на обычных устройствах. Это делает мощный ИИ более доступным.",
+   "term": "",
+   "use": [
+    "Попробуйте новые возможности модели для автоматизации рутинных задач на вашем компьютере.",
+    "Оцените, какие процессы в работе можно ускорить с помощью локального ИИ."
+   ],
+   "money": null,
+   "category": "Модели",
    "model": "openai/gpt-oss-120b"
   },
   {
