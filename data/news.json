@@ -1,7 +1,117 @@
 {
- "updated": "2026-10-26T01:18:14Z",
+ "updated": "2026-10-26T07:54:33Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "31b7e15487009d",
+   "date": "2026-10-26T06:30:29Z",
+   "addedAt": "2026-10-26T07:54:14Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/26/linux-foundation-open-source-ai-slop/",
+   "title_en": "AI slop is piling up highest on the biggest open-source projects",
+   "summary_en": "The maintainers of large open source projects are taking the worst of the AI slop. In a Linux Foundation survey of 234 open source contributors and maintainers, people running projects with more than 50 contributors estimated that close to a third of the code changes landing in their queue are low quality or AI-generated. Those maintainers now worry more about burning out than about the code itself. Across all projects, the estimate comes to about … More → The post AI slop is piling up highest on the biggest open-source projects appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "AI‑мусор заполняет крупнейшие open‑source проекты",
+   "simple": "Поддерживающие крупные открытые проекты замечают, что почти треть новых изменений в их репозиториях — низкокачественные или сгенерированы ИИ. Это повышает риск выгорания у разработчиков.",
+   "term": "AI‑мусор — код, автоматически сгенерированный ИИ, часто низкого качества и требующий дополнительной проверки.",
+   "use": [
+    "Отслеживайте долю ИИ‑генерированного кода в своих проектах.",
+    "Внедрите обязательный код‑ревью для всех изменений, независимо от их источника.",
+    "Обучайте команду распознавать типичные ошибки ИИ‑кода."
+   ],
+   "money": null,
+   "category": "Open source",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "786d926d498b22",
+   "date": "2026-10-26T06:00:12Z",
+   "addedAt": "2026-10-26T07:54:14Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/26/product-showcase-stellar-cyber-isoc-platform/",
+   "title_en": "Product showcase: Stellar Cyber’s ISOC platform provides full-cycle architecture",
+   "summary_en": "An AI SOC that starts with somebody else’s alert is already too late. Stellar Cyber collects and normalizes telemetry, detects suspicious activity, correlates evidence, builds cases, investigates incidents, triages findings, and drives response from the same security architecture. That gives people and AI access to the evidence behind the alert – not just the alert itself. Full-cycle security operations means the data, detections, context, investigation, decisions, and response remain connected as an incident moves through … More → The post Product showcase: Stellar Cyber’s ISOC platform provides full-cycle architecture appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Stellar Cyber представил AI‑SOC с полным циклом защиты",
+   "simple": "Компания представила платформу, где ИИ собирает данные, обнаруживает угрозы, связывает доказательства и управляет реакцией в рамках единой архитектуры. Это позволяет видеть не только сигналы тревоги, но и всю цепочку их происхождения.",
+   "term": "AI‑SOC — система безопасности, где искусственный интеллект участвует во всех этапах от сбора данных до реагирования.",
+   "use": [
+    "Оцените, насколько ваша текущая система безопасности интегрирована с данными и автоматизацией.",
+    "Рассмотрите внедрение решений, позволяющих ИИ получать контекстные данные, а не только сигналы тревоги.",
+    "Обучите персонал работать с платформой, где ИИ и человек совместно расследуют инциденты."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "36875f2f7926cf",
+   "date": "2026-10-26T05:30:27Z",
+   "addedAt": "2026-10-26T07:54:14Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/26/arrakis-dormant-ai-agent-risks-report/",
+   "title_en": "Forgotten AI agents may still access sensitive company data",
+   "summary_en": "AI agents that have not run recently retain credentials and connections to company systems, according to Arrakis Security’s 2026 Autonomous Agents Threat Report. About 76% of enabled agents examined had not run in 60 days, leaving access available through inactive software. Agents by exposure family (Source: Arrakis Security) The analysis covered thousands of agents in customer production environments over a 12-week period. These programs can read and write data, call tools and start workflows, giving … More → The post Forgotten AI agents may still access sensitive company data appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Забытые AI‑агенты могут продолжать доступ к корпоративным данным",
+   "simple": "Отчёт показывает, что почти три четверти AI‑агентов, не запускались более 60 дней, но всё ещё хранят учётные данные и могут взаимодействовать с системами компании. Это создаёт скрытую точку доступа.",
+   "term": "AI‑агент — программный модуль, использующий ИИ для выполнения задач, часто с доступом к корпоративным ресурсам.",
+   "use": [
+    "Проведите инвентаризацию всех AI‑агентов в вашей инфраструктуре.",
+    "Отключайте или удаляйте неактивные агенты, чтобы устранить лишний доступ.",
+    "Внедрите автоматические проверки прав доступа у всех AI‑агентов."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b2e653b286c9ec",
+   "date": "2026-10-26T04:30:36Z",
+   "addedAt": "2026-10-26T07:54:14Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/26/reddit-r-opensource-ai-ban/",
+   "title_en": "r/opensource bans AI projects, and solo devs go down with them",
+   "summary_en": "Moderators of r/opensource, Reddit’s catch-all forum for open source software, have barred any project that “uses AI, is made by AI, or is intended for AI.” Moderator Wolvereness announced the rules in a post over the weekend. A project now has to be at least a year old and actively maintained, carry an OSI license, have an existing community and “subjectively 3+” contributors. The poster needs a Reddit account at least a year old with … More → The post r/opensource bans AI projects, and solo devs go down with them appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "r/opensource запретил AI‑проекты, пострадали одиночки‑разработчики",
+   "simple": "Модераторы Reddit‑сообщества r/opensource ввели правило, запрещающее любые проекты, связанные с ИИ, если они молоды или без активного сообщества. Это затронуло многих одиночных разработчиков, чьи проекты теперь не принимаются.",
+   "term": "Open source — открытый исходный код, доступный для свободного использования и модификации.",
+   "use": [
+    "Если вы планируете публиковать AI‑проект, убедитесь, что он старше года и имеет активное сообщество.",
+    "Ищите альтернативные площадки для размещения AI‑проектов, где такие ограничения нет.",
+    "Сформируйте небольшое сообщество вокруг проекта, чтобы соответствовать требованиям."
+   ],
+   "money": null,
+   "category": "Open source",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "15fdd35ccdebf7",
+   "date": "2026-10-26T04:25:59Z",
+   "addedAt": "2026-10-26T07:54:14Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/26/google-elephant-goldfish-model-plugin/",
+   "title_en": "Google open-sources the Elephant-Goldfish Model plugin its engineers use to catch AI coding mistakes",
+   "summary_en": "Google has open-sourced the Elephant-Goldfish Model plugin, an internal tool that makes an AI coding agent write and defend a design document before it touches any code. The plugin hands that document to fresh AI sessions that have never seen the design conversation and tells them to find what is wrong with it. The EGM plugin in a nutshell (Source: Google) “AI-powered velocity is transformative; however, it has silently introduced a potential reliability crisis by … More → The post Google open-sources the Elephant-Goldfish Model plugin its engineers use to catch AI coding mistakes appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Google открывает плагин Elephant‑Goldfish для проверки кода ИИ",
+   "simple": "Google выпустил в открытый доступ плагин, который заставляет ИИ‑агент сначала написать и защитить дизайн‑документ, а затем проверять код на ошибки, используя свежие сессии ИИ. Это помогает избежать ошибок в автоматическом коде.",
+   "term": "Плагин — дополнение к программному обеспечению, расширяющее его функции.",
+   "use": [
+    "Подключите плагин к своим инструментам разработки, если используете ИИ‑генерацию кода.",
+    "Внедрите обязательный этап написания дизайн‑документа перед генерацией кода.",
+    "Проводите проверку кода с помощью независимых ИИ‑сессий, как предлагает плагин."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "a6feae291b1a85",
    "date": "2026-10-25T21:31:16Z",
