@@ -1,7 +1,172 @@
 {
- "updated": "2026-10-26T20:38:36Z",
+ "updated": "2026-10-27T00:34:01Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "51b6dc021077f1",
+   "date": "2026-10-26T23:53:07Z",
+   "addedAt": "2026-10-27T00:33:32Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+   "title_en": "GPT-6.1 Terra",
+   "summary_en": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting proposals and interpreting technical drawings to filling out forms and editing videos. Terra sits in the same position as Sonnet in the Anthropic model collection - not the cheapest or the most…",
+   "pending": false,
+   "title_ru": "GPT-6.1 Terra: модель с визуальным рассуждением и управлением компьютером",
+   "simple": "OpenAI представила новую модель GPT-6.1 Terra, которая умеет анализировать изображения и выполнять задачи на компьютере, например, заполнять формы и редактировать видео. Это улучшение по сравнению с предыдущей GPT‑5.6 Terra и ориентировано на повседневные рабочие задачи.",
+   "term": "Визуальное рассуждение — способность модели понимать и интерпретировать изображения так же, как текст.",
+   "use": [
+    "Попробуйте использовать GPT-6.1 Terra для автоматизации рутинных задач, например, заполнения отчетов.",
+    "Тестируйте модель на простых графических заданиях, чтобы оценить её точность.",
+    "Внедрите её в рабочие процессы, где требуется совместный анализ текста и изображений."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "bba291662c45fb",
+   "date": "2026-10-26T23:47:59Z",
+   "addedAt": "2026-10-27T00:33:30Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+   "title_en": "OpenAI announces three big science discoveries and a new way to work with academics",
+   "summary_en": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in […]",
+   "pending": false,
+   "title_ru": "OpenAI объявила три новых научных открытия и сотрудничество с учёными",
+   "simple": "OpenAI сообщила о трёх значимых открытиях в математике, информатике и физике, полученных с помощью ИИ, и о том, что внешние эксперты‑«пастухи» помогают направлять результаты. Это показывает рост роли ИИ в научных исследованиях.",
+   "term": "Shepherd (пастух) — внешний эксперт, который контролирует и направляет работу ИИ‑модели в научных проектах.",
+   "use": [
+    "Следите за публикациями OpenAI, чтобы узнать о новых методах решения задач.",
+    "Если вы учёный, рассмотрите возможность сотрудничества с ИИ‑проектами для ускорения исследований.",
+    "Изучайте примеры применения ИИ в вашей области, чтобы понять, где он может помочь."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "250e5d8f302445",
+   "date": "2026-10-26T22:00:00Z",
+   "addedAt": "2026-10-27T00:33:26Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/greptile-code-review-codex-astra",
+   "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+   "summary_en": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+   "pending": false,
+   "title_ru": "Greptile использует GPT-6 Astra для обнаружения багов в пользовательских сценариях",
+   "simple": "Компания Greptile применяет модель GPT-6 Astra, чтобы проверять рабочие процессы пользователей, усиливать безопасность и уменьшать повторную работу кода. Это расширяет возможности автоматического тестирования.",
+   "term": "Тестирование пользовательских сценариев — проверка того, как реальный пользователь взаимодействует с программой, чтобы найти ошибки.",
+   "use": [
+    "Оцените возможность интеграции GPT-6 Astra в ваш процесс тестирования.",
+    "Обратите внимание на автоматизацию проверки безопасности с помощью ИИ.",
+    "Используйте полученные результаты для сокращения времени на исправление кода."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "96b9f45bb2e6d9",
+   "date": "2026-10-26T21:45:31Z",
+   "addedAt": "2026-10-27T00:33:30Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+   "title_en": "Anthropic is burning gas to feed the AI boom",
+   "summary_en": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" […]",
+   "pending": false,
+   "title_ru": "Anthropic использует природный газ для работы дата‑центров",
+   "simple": "В документе S‑1 Anthropic признала, что её дата‑центры всё больше зависят от природного газа, поскольку конкуренция за электроэнергию и места с надёжным питанием растёт. Это подчёркивает экологические вопросы роста ИИ.",
+   "term": "S‑1 — регистрационный документ компании, подаваемый в SEC перед публичным размещением акций.",
+   "use": [
+    "Следите за энергетической политикой провайдеров, если планируете использовать мощные ИИ‑модели.",
+    "Рассмотрите альтернативные источники энергии для собственного ИИ‑оборудования.",
+    "Оцените влияние затрат на энергию при расчёте бюджета ИИ‑проектов."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "e663e24339fad1",
+   "date": "2026-10-26T21:27:15Z",
+   "addedAt": "2026-10-27T00:33:31Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+   "title_en": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+   "summary_en": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+   "pending": false,
+   "title_ru": "В проспекте IPO Anthropic отсутствуют ключевые финансовые данные",
+   "simple": "В документе S‑1 компании Anthropic не указаны многие финансовые показатели, что вызывает вопросы у аналитиков о прозрачности компании перед выходом на биржу. Это важно для инвесторов и регуляторов.",
+   "term": "IPO — первичное публичное размещение акций, когда компания впервые продаёт их широкой публике.",
+   "use": [
+    "Если вы инвестор, изучайте независимые отчёты, чтобы понять реальное состояние компании.",
+    "Обратите внимание на отсутствие данных при оценке рисков инвестиций.",
+    "Следите за последующими раскрытиями информации от Anthropic."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9b6153963ef54e",
+   "date": "2026-10-26T21:08:28Z",
+   "addedAt": "2026-10-27T00:33:31Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+   "title_en": "Former pentester used ARTEX AI to steal 8.2 million data records",
+   "summary_en": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
+   "pending": false,
+   "title_ru": "Бывший пентестер использовал ARTEX AI для кражи миллионов записей",
+   "simple": "В Южной Корее полиция раскрыла группу, которая с помощью фреймворка ARTEX AI для тестирования безопасности совершила кибератаки на более чем 90 организаций, украдя 8,2 млн записей. Это показывает, как ИИ может быть использован в преступных целях.",
+   "term": "Pentesting (пентест) — проверка системы на уязвимости с целью их обнаружения и исправления.",
+   "use": [
+    "Укрепляйте свои системы, проводя регулярные проверки уязвимостей.",
+    "Следите за обновлениями безопасности используемых ИИ‑инструментов.",
+    "Обучайте персонал распознавать подозрительные активности в сети."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "154f68998af199",
+   "date": "2026-10-26T20:46:49Z",
+   "addedAt": "2026-10-27T00:33:31Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+   "title_en": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+   "summary_en": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
+   "pending": false,
+   "title_ru": "OpenAI представила GPT‑6.1 Terra: быстрее в три раза и дешевле",
+   "simple": "OpenAI выпустила новую модель GPT‑6.1 Terra, которая лучше справляется с работой за компьютером, визуальными задачами и программированием. При этом её стоимость значительно ниже, чем у предыдущих больших моделей, что делает её доступнее.",
+   "term": "Инференс — запуск уже обученной модели для получения ответов",
+   "use": [
+    "Попробуйте протестировать GPT‑6.1 Terra в своих текущих автоматизационных скриптах.",
+    "Сравните скорость и цену работы модели с тем, что вы используете сейчас, чтобы понять выгоду.",
+    "Обратите внимание на новые возможности визуального анализа, если ваша работа связана с изображениями."
+   ],
+   "money": {
+    "idea": "предоставлять услуги автоматизации и анализа данных с помощью GPT‑6.1 Terra",
+    "how": [
+     "Зарегистрируйтесь на платформе OpenAI и получите доступ к модели.",
+     "Разработайте небольшие решения для типовых задач клиентов (например, генерация кода, обработка изображений).",
+     "Предложите эти решения как платные сервисы или фриланс‑заказы.",
+     "Собирайте обратную связь и улучшайте сервисы, используя более дешёвый тариф модели."
+    ],
+    "who": "специалисты по автоматизации, разработчики, фрилансеры с навыками Python или JavaScript",
+    "effort": "средний",
+    "risk": "зависимость от доступа к API и возможные ограничения лицензии"
+   },
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "5d5ff332a0b6b5",
    "date": "2026-10-26T20:04:16Z",
@@ -258,6 +423,28 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "f16aefe89a6e3f",
+   "date": "2026-10-26T14:30:00Z",
+   "addedAt": "2026-10-27T00:33:26Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "title_en": "Working with academic communities to build scientific understanding",
+   "summary_en": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+   "pending": false,
+   "title_ru": "OpenAI делится результатами исследований по математическим и физическим гипотезам",
+   "simple": "OpenAI опубликовал результаты работы своих моделей над сложными задачами, такими как гипотеза Какаи, гипотеза экспоненциального времени и квантовая хромодинамика, и предлагает учёным проверять и развивать эти находки. Это показывает, как ИИ может помогать в фундаментальных науках.",
+   "term": "Гипотеза Какаи — открытая математическая проблема о покрытии плоскости множеством отрезков без пересечений",
+   "use": [
+    "Изучите опубликованные результаты, чтобы понять, какие задачи ИИ уже решает в науке.",
+    "Попробуйте воспроизвести эксперименты, используя открытый код OpenAI, если вы занимаетесь исследовательской работой.",
+    "Обратитесь к авторам с вопросами о методах, если планируете применять их в своих проектах."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "3c0f1fb39eeafb",
    "date": "2026-10-26T14:00:10Z",
    "addedAt": "2026-10-26T15:16:55Z",
@@ -299,6 +486,28 @@
    ],
    "money": null,
    "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "1a1d4bf2fc111e",
+   "date": "2026-10-26T13:45:00Z",
+   "addedAt": "2026-10-27T00:33:26Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+   "title_en": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "summary_en": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+   "pending": false,
+   "title_ru": "GPT-6.1 Sol помогает CodeRabbit улучшать безопасность кода",
+   "simple": "CodeRabbit применил модель GPT-6.1 Sol, чтобы находить уязвимости в больших проектах. Инструмент автоматически предлагает исправления, облегчая работу разработчиков.",
+   "term": "security agent — программный модуль, который автоматически ищет уязвимости в коде и предлагает варианты их исправления.",
+   "use": [
+    "Оцените, какие инструменты анализа кода уже используете, и сравните их с возможностями AI‑помощников.",
+    "Если вы разрабатываете сложные проекты, попробуйте интегрировать AI‑модель для предварительного сканирования кода.",
+    "Следите за обновлениями подобных сервисов, чтобы быстро получать новые функции защиты."
+   ],
+   "money": null,
+   "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -811,6 +1020,28 @@
    ],
    "money": null,
    "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "770c71828f233d",
+   "date": "2026-10-24T20:15:33Z",
+   "addedAt": "2026-10-27T00:33:31Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+   "title_en": "Will AI expose the rickety infrastructure of the internet?",
+   "summary_en": "The moment you realize the internet is \"held together by glue and dreams.\"",
+   "pending": false,
+   "title_ru": "Сможет ли ИИ раскрыть хрупкость интернета?",
+   "simple": "В статье рассуждают, что интернет построен на несовершенных связях и мечтах, и ИИ может показать, где эти слабые места. Это важно, потому что уязвимости могут стать проблемой для всех пользователей.",
+   "term": "",
+   "use": [
+    "Следите за новыми инструментами AI, которые проверяют надёжность сетевых соединений.",
+    "Если вы отвечаете за ИТ‑безопасность, проведите аудит текущей инфраструктуры с учётом рекомендаций AI‑сервисов.",
+    "Обучайте сотрудников распознавать потенциальные проблемы, которые могут быть выявлены ИИ."
+   ],
+   "money": null,
+   "category": "Исследования",
    "model": "openai/gpt-oss-120b"
   },
   {
