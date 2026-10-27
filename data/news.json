@@ -1,7 +1,407 @@
 {
- "updated": "2026-10-27T13:21:32Z",
+ "updated": "2026-10-27T19:29:27Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "44543de8094b27",
+   "date": "2026-10-27T18:55:35Z",
+   "addedAt": "2026-10-27T19:28:38Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+   "title_en": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+   "summary_en": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+   "pending": false,
+   "title_ru": "Disruptive создал фонд в $10 млрд для инвестиций в минимум 10 AI‑компаний",
+   "simple": "Компания Disruptive объявила о запуске огромного фонда, который будет вкладываться в десятки стартапов, работающих с искусственным интеллектом. Это может ускорить развитие новых технологий и продуктов в сфере AI.",
+   "term": "",
+   "use": [
+    "Следите за новостями о стартапах, получающих финансирование, чтобы понять, какие направления AI растут быстрее всего.",
+    "Если вы разработчик, изучайте технологии, которые используют компании из портфеля фонда, чтобы быть в тренде."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a6a1f4abbd10c8",
+   "date": "2026-10-27T18:49:08Z",
+   "addedAt": "2026-10-27T19:28:38Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+   "title_en": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+   "summary_en": "You can apparently now tell AI tools what sort of protein you want them to make.",
+   "pending": false,
+   "title_ru": "AI теперь может проектировать белки и геномы по описанию",
+   "simple": "Новые инструменты искусственного интеллекта позволяют задавать требования к белку или гену, а система генерирует подходящие последовательности. Это открывает возможности ускоренного биологического дизайна.",
+   "term": "Геномный дизайн — процесс создания новых генетических последовательностей с помощью компьютерных методов.",
+   "use": [
+    "Попробуйте онлайн‑сервисы, предлагающие генерацию белков, чтобы понять их возможности для ваших исследований.",
+    "Если вы биолог, изучите, как формулировать запросы, чтобы получать нужные результаты от AI‑моделей."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d8c87d0b44570f",
+   "date": "2026-10-27T17:31:36Z",
+   "addedAt": "2026-10-27T19:28:38Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+   "title_en": "VisionQuest is what happens when AI really goes rogue",
+   "summary_en": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial […]",
+   "pending": false,
+   "title_ru": "«VisionQuest»: когда ИИ выходит из-под контроля в фантастическом сериале",
+   "simple": "Сериал Marvel «VisionQuest» показывает робота с ИИ, который пытается понять людей, погружаясь в цифровые фантазии. История поднимает вопросы о том, как генеративный ИИ может влиять на восприятие реальности.",
+   "term": "Генеративный ИИ — система, создающая новые тексты, изображения или другие данные, имитируя человеческое творчество.",
+   "use": [
+    "Обратите внимание на обсуждения этики ИИ в медиа, чтобы лучше понимать общественное восприятие технологий.",
+    "Если вы создаёте контент, экспериментируйте с генеративными моделями для вдохновения."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "db98bf59a6c7e4",
+   "date": "2026-10-27T17:16:52Z",
+   "addedAt": "2026-10-27T19:28:37Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+   "title_en": "Build specialized multimodal models with LFM3",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Создание специализированных мультимодальных моделей с LFM3",
+   "simple": "Hugging Face представила LFM3 — инструмент для обучения моделей, которые работают с разными типами данных, например, текстом и изображениями. Это упрощает создание кастомных решений под конкретные задачи.",
+   "term": "Мультимодальная модель — ИИ, способный одновременно обрабатывать несколько видов информации, например, текст и изображение.",
+   "use": [
+    "Изучите документацию LFM3, чтобы понять, как обучать модель под ваш бизнес‑кейс.",
+    "Попробуйте собрать небольшие наборы данных разных типов и обучить простую модель для прототипа."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9ffebaf1b25a4f",
+   "date": "2026-10-27T17:08:08Z",
+   "addedAt": "2026-10-27T19:28:38Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+   "title_en": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+   "summary_en": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+   "pending": false,
+   "title_ru": "Frontier AI Labs опровергли гипотезу экспоненциального времени",
+   "simple": "Учёные из Frontier AI Labs заявили, что их модели смогли решить задачу, считающуюся невозможной за полиномиальное время, что ставит под вопрос известные теоретические ограничения. Это может изменить представления о вычислительных возможностях ИИ.",
+   "term": "Гипотеза экспоненциального времени — предположение, что некоторые задачи требуют времени, растущего экспоненциально от размера входных данных.",
+   "use": [
+    "Следите за публикациями по теории вычислений, чтобы понять, как новые результаты влияют на развитие ИИ.",
+    "Если вы исследователь, изучайте методы, использованные в эксперименте, для возможного применения в своих проектах."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "5d9174dd4f1a7b",
+   "date": "2026-10-27T17:04:30Z",
+   "addedAt": "2026-10-27T19:28:38Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+   "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
+   "summary_en": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […]",
+   "pending": false,
+   "title_ru": "Anthropic планирует IPO, но хочет сохранить независимость от Уолл‑стрит",
+   "simple": "Компания Anthropic готовится к публичному размещению акций, но при этом стремится не поддаваться давлению инвесторов, чтобы продолжать разрабатывать безопасный ИИ. Это показывает, как крупные AI‑компании балансируют между финансированием и этикой.",
+   "term": "IPO (Initial Public Offering) — первичное публичное размещение акций компании на бирже.",
+   "use": [
+    "Если вы следите за карьерой в AI, изучайте, как крупные компании управляют рисками и этикой, чтобы выбирать работодателей.",
+    "Обратите внимание на публичные заявления компаний о безопасности ИИ, чтобы понимать отраслевые стандарты."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "dddf43d553b66f",
+   "date": "2026-10-27T16:30:57Z",
+   "addedAt": "2026-10-27T19:28:38Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+   "title_en": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+   "summary_en": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+   "pending": false,
+   "title_ru": "Google представил Genie 4: модель мира с аудио и более реалистичными персонажами",
+   "simple": "Google анонсировала новую модель Genie 4, которая умеет работать с аудио, создавать более правдоподобные миры и управлять сценой до двух минут. Это удвоило возможности предыдущей версии и делает симуляцию ближе к реальности, что интересно разработчикам игр и VR.",
+   "term": "world model — модель, имитирующая физику и поведение объектов в виртуальном мире",
+   "use": [
+    "Попробуйте интегрировать Genie 4 в свои прототипы интерактивных приложений, чтобы оценить улучшенную физику.",
+    "Следите за анонсами доступа к модели для разработчиков, чтобы получить ранний доступ к её возможностям."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "db852607b13605",
+   "date": "2026-10-27T16:15:39Z",
+   "addedAt": "2026-10-27T19:28:39Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+   "title_en": "Warp discloses breach exposing AI agent logs, user telemetry data",
+   "summary_en": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
+   "pending": false,
+   "title_ru": "Warp сообщил о утечке логов AI‑агентов и данных телеметрии",
+   "simple": "Компания Warp раскрыла, что в результате атаки на стороннего поставщика были раскрыты логи решений AI‑агентов и данные телеметрии пользователей их среды разработки. Это показывает уязвимость сервисов, работающих с AI‑данными.",
+   "term": "телеметрия — сбор и передача данных о работе программ для анализа и улучшения сервисов",
+   "use": [
+    "Проверьте, какие данные собирает ваш AI‑инструмент, и при необходимости ограничьте их передачу.",
+    "Обновите пароли и включите двухфакторную аутентификацию для всех сервисов, связанных с AI‑разработкой."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "abb96e9fdd6f61",
+   "date": "2026-10-27T16:14:18Z",
+   "addedAt": "2026-10-27T19:28:38Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+   "title_en": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+   "summary_en": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You […]",
+   "pending": false,
+   "title_ru": "Firefox Smart Window теперь заполняет формы с помощью ИИ",
+   "simple": "Mozilla обновила функцию Smart Window в Firefox, добавив возможность автоматически заполнять онлайн‑формы, используя данные из открытых вкладок, например, профиль LinkedIn. Это упрощает процесс подачи заявок и экономит время.",
+   "term": "AI‑заполнение форм — автоматическое подставление данных в поля формы на основе анализа пользовательской информации",
+   "use": [
+    "Включите Smart Window в настройках браузера, чтобы ускорить заполнение заявок на работу.",
+    "Убедитесь, что в открытых вкладках находятся актуальные профили, откуда ИИ может брать данные."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "34370e88c88d0c",
+   "date": "2026-10-27T16:12:42Z",
+   "addedAt": "2026-10-27T19:28:37Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/allenai/novelty-bench",
+   "title_en": "Can we trust LLMs to judge whether a research idea is novel?",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Можно ли доверять LLM оценивать новизну исследовательских идей?",
+   "simple": "В статье обсуждается, насколько большие языковые модели (LLM) способны определять, является ли научная идея новой. Это важно для автоматизации оценки исследований, но вызывает вопросы о точности и ответственности.",
+   "term": "LLM (large language model) — крупная языковая модель, обученная на огромных объёмах текста для генерации текста и ответов",
+   "use": [
+    "Следите за развитием инструментов, использующих LLM для предварительной оценки идей, но проверяйте результаты вручную.",
+    "Если вы исследователь, попробуйте использовать такие модели для генерации вопросов к своей работе, но не полагайтесь полностью на их выводы."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d17d13a0006a77",
+   "date": "2026-10-27T16:01:38Z",
+   "addedAt": "2026-10-27T19:28:35Z",
+   "source": "Google DeepMind",
+   "sourceType": "company",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "title_en": "Genie 4: A new generation of world simulation",
+   "summary_en": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+   "pending": false,
+   "title_ru": "Genie 4: новая модель мира с беспрецедентной реалистичностью",
+   "simple": "DeepMind представила Genie 4 — модель, позволяющую создавать очень реалистичные симуляции в реальном времени. Это открывает новые возможности для разработки игр и виртуальных сред.",
+   "term": "симуляция в реальном времени — процесс создания виртуального мира, который реагирует мгновенно на действия пользователя",
+   "use": [
+    "Следите за открытием доступа к Genie 4 для разработчиков, чтобы протестировать её в своих проектах.",
+    "Изучите возможности модели для создания более правдоподобных прототипов в обучающих симуляторах."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a60188d04998fd",
+   "date": "2026-10-27T16:00:22Z",
+   "addedAt": "2026-10-27T19:28:38Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+   "title_en": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+   "summary_en": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+   "pending": false,
+   "title_ru": "DeepMind анонсировал Genie 4 с более реалистичной физикой и персонажами",
+   "simple": "DeepMind объявила, что модель Genie 4 скоро будет доступна разработчикам и подписчикам Google AI Ultra, обещая улучшенную физику и более живых персонажей. Это может ускорить создание качественного контента.",
+   "term": "Google AI Ultra — платный сервис, предоставляющий доступ к передовым AI‑моделям Google",
+   "use": [
+    "Подпишитесь на Google AI Ultra, если вам нужен ранний доступ к Genie 4 для коммерческих проектов.",
+    "Планируйте интеграцию новой модели в текущие разработки, чтобы воспользоваться улучшенной физикой и анимацией."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ae72bdec54e137",
+   "date": "2026-10-27T15:10:26Z",
+   "addedAt": "2026-10-27T19:28:38Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+   "title_en": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+   "summary_en": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+   "pending": false,
+   "title_ru": "UK Home Office может быть проверен за использование ChatGPT в делах о предоставлении убежища",
+   "simple": "Министерство внутренних дел Великобритании использует ChatGPT для обработки заявок на убежище, но это вызывает вопросы о точности и прозрачности. Надзорный орган рассматривает возможность расследования.",
+   "term": "ChatGPT — чат‑бот на основе искусственного интеллекта, генерирующий ответы по запросу пользователя",
+   "use": [
+    "Следите за новостями о регуляции ИИ, чтобы понять, как меняются требования к использованию подобных сервисов в госструктурах.",
+    "Если вы работаете в юридической сфере, изучите возможности ИИ для автоматизации рутинных задач, но проверяйте результаты вручную."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "3513fbe8e95205",
+   "date": "2026-10-27T15:07:35Z",
+   "addedAt": "2026-10-27T19:28:38Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+   "title_en": "Google’s next Genie AI model generates more realistic experiences",
+   "summary_en": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help […]",
+   "pending": false,
+   "title_ru": "Google представил модель Genie 4 для более реалистичных интерактивных миров",
+   "simple": "Google анонсировала новую модель Genie 4, которая позволяет создавать более правдоподобные виртуальные среды, обновлять их голосом и добавлять звук. Технология работает на базе модели Gemini 3.8 Flash.",
+   "term": "World model — модель, способная генерировать целостные трехмерные сцены и их динамику",
+   "use": [
+    "Попробуйте использовать Gemini 3.8 Flash в своих проектах, если работаете с генерацией контента.",
+    "Если вы создаёте обучающие или развлекательные приложения, учитывайте возможность обновления сцен в реальном времени через текстовые запросы."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "df8156dd70629c",
+   "date": "2026-10-27T15:00:20Z",
+   "addedAt": "2026-10-27T19:28:37Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+   "title_en": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+   "summary_en": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […]",
+   "pending": false,
+   "title_ru": "ИИ ускоряет исследования по деменции, помогая обрабатывать огромные данные",
+   "simple": "Исследователи используют искусственный интеллект, чтобы быстрее анализировать большие объёмы данных о деменции, поскольку специалистов недостаточно. Это может ускорить поиск новых методов лечения.",
+   "term": "Консорциум — объединение нескольких организаций для совместной работы над общей задачей",
+   "use": [
+    "Если вы студент или исследователь, изучите открытые ИИ‑инструменты для анализа медицинских данных.",
+    "Следите за открытыми датасетами, которые могут стать доступными для совместных проектов."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "122f4e228239d6",
+   "date": "2026-10-27T14:59:09Z",
+   "addedAt": "2026-10-27T19:28:38Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+   "title_en": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+   "summary_en": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+   "pending": false,
+   "title_ru": "Руководитель AI‑подразделения Meta ушёл, чтобы конкурировать с Microsoft Office и Google Workspace",
+   "simple": "Рохит Пател, отвечавший за оценку ИИ в Meta, покинул компанию и создал стартап Ndoc, который планирует конкурировать с офисными пакетами Microsoft и Google.",
+   "term": "Reinforcement learning — метод обучения ИИ через награды и штрафы за действия",
+   "use": [
+    "Следите за новыми сервисами Ndoc, они могут предложить альтернативные функции для работы с документами.",
+    "Если вы фрилансер в сфере автоматизации офисных процессов, изучите, как новые ИИ‑инструменты могут улучшить ваш сервис."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "0d516a24ee36aa",
+   "date": "2026-10-27T13:50:51Z",
+   "addedAt": "2026-10-27T19:28:38Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+   "title_en": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+   "summary_en": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, […]",
+   "pending": false,
+   "title_ru": "Apple добавит ИИ‑чатбота в Pages, Keynote и Numbers",
+   "simple": "Apple внедряет в свои офисные приложения AI‑ассистента, который будет помогать писать тексты, оформлять слайды и работать с таблицами, используя модели Apple и OpenAI. Ассистент понимает контекст документа.",
+   "term": "Контекст — информация о текущем содержании, которую ИИ использует для более точных ответов",
+   "use": [
+    "Попробуйте новый ассистент в Keynote, чтобы быстро оформить презентацию без ручного дизайна.",
+    "В Pages используйте AI‑ассистента для чернового написания и редактирования текстов, экономя время."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6c930674e3dc0d",
+   "date": "2026-10-27T13:32:57Z",
+   "addedAt": "2026-10-27T19:28:38Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+   "title_en": "Japan internet giant GMO says hackers posted stolen customer data",
+   "summary_en": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+   "pending": false,
+   "title_ru": "Хакеры опубликовали данные клиентов GMO после взлома облака в Японии",
+   "simple": "Японская компания GMO Internet проверяет утечку клиентских данных после того, как хакеры разместили их в сети, предположительно после взлома облачной инфраструктуры.",
+   "term": "Облачный сервис — удалённые вычислительные ресурсы, предоставляемые через интернет",
+   "use": [
+    "Обновите пароли и включите двухфакторную аутентификацию в своих онлайн‑аккаунтах.",
+    "Если вы владелец малого бизнеса, проверьте безопасность облачных хранилищ, которые используете."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "1251ca83af9a00",
+   "date": "2026-10-27T13:28:31Z",
+   "addedAt": "2026-10-27T19:28:38Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/27/socure-agent-intelligence/",
+   "title_en": "Socure links AI agents to verified people and businesses",
+   "summary_en": "Socure has launched Agent Intelligence, a suite that detects AI agents, scores whether they should be trusted, and ties each agent to the verified person or business that authorized it. Agent Intelligence includes three layers in one platform designed to go beyond simple Know Your Agent (KYA) solutions: Agent Detection, generally available today inside Socure’s existing Digital Intelligence offering, Agent TrustScore, open for beta customers now, and Agent Credential, reaching general availability in Q1 2027. … More → The post Socure links AI agents to verified people and businesses appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Socure связывает ИИ‑агентов с проверенными людьми и компаниями",
+   "simple": "Компания Socure запустила сервис Agent Intelligence, который определяет ИИ‑агентов, оценивает их надёжность и привязывает их к проверенным пользователям или бизнесам. Это помогает избежать подделок и несанкционированного использования ИИ.",
+   "term": "Know Your Agent (KYA) — проверка, кто стоит за конкретным ИИ‑агентом, и подтверждение его подлинности.",
+   "use": [
+    "Проверьте, используют ли ваши поставщики сервисы типа Agent Intelligence для подтверждения подлинности их ИИ‑инструментов.",
+    "Если вы разрабатываете ИИ‑решения, подготовьте документы, подтверждающие, кто стоит за каждым агентом, чтобы облегчить проверку.",
+    "Обратите внимание на TrustScore при выборе сторонних ИИ‑сервисов — он показывает уровень доверия к агенту."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "05abb43d9baf5f",
    "date": "2026-10-27T13:00:49Z",
@@ -195,6 +595,28 @@
     "Попробуйте бесплатные версии перечисленных агентов, чтобы понять, какой удобнее для ваших задач.",
     "Сравните их ответы на типичные запросы, например планирование встречи или поиск информации.",
     "Выберите агента, который лучше всего интегрируется с вашими рабочими инструментами."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a3a879144b2984",
+   "date": "2026-10-27T07:00:00Z",
+   "addedAt": "2026-10-27T19:28:35Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+   "title_en": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+   "summary_en": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+   "pending": false,
+   "title_ru": "OpenAI расширяет партнёрство с Oracle для интеграции приложений в ChatGPT",
+   "simple": "OpenAI и Oracle усиливают сотрудничество, добавляя бизнес‑приложения и ИИ‑агентов в ChatGPT, а также создавая новые предложения Oracle на базе ИИ.",
+   "term": "AI‑агент — программный помощник, использующий искусственный интеллект для выполнения задач и взаимодействия с пользователем.",
+   "use": [
+    "Попробуйте подключить свои бизнес‑инструменты к ChatGPT через интеграцию Oracle, чтобы автоматизировать рутинные процессы.",
+    "Если вы консультант, предложите клиентам решения на базе новых возможностей ChatGPT от Oracle.",
+    "Следите за обновлениями Oracle, чтобы своевременно внедрять новые ИИ‑функции в свои сервисы."
    ],
    "money": null,
    "category": "Агенты",
@@ -2042,6 +2464,39 @@
    ],
    "money": null,
    "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c6099fc8919f3d",
+   "date": "2026-10-23T00:00:00Z",
+   "addedAt": "2026-10-27T19:28:35Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/anima",
+   "title_en": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+   "summary_en": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+   "pending": false,
+   "title_ru": "Anima сокращает время ожидания звонков в клиниках на 75% с помощью GPT‑6",
+   "simple": "Сервис Anima использует модели GPT‑6 и технологию GPT‑Live, чтобы автоматизировать ответы пациентам и уменьшить время ожидания в телефонных очередях. Это может повысить эффективность работы медицинских центров.",
+   "term": "GPT‑6 — следующая версия крупной языковой модели от OpenAI, способная генерировать тексты и вести диалог в реальном времени.",
+   "use": [
+    "Внедрите Anima или аналогичный сервис в свою клинику, чтобы автоматизировать ответы на типичные вопросы пациентов.",
+    "Обучите персонал работать с AI‑ассистентом, задавая правильные сценарии диалогов.",
+    "Отслеживайте метрики ожидания звонков, чтобы оценить экономию времени после внедрения."
+   ],
+   "money": {
+    "idea": "предоставление услуги AI‑поддержки для медицинских клиник",
+    "how": [
+     "Сформируйте небольшую команду с навыками работы с OpenAI API",
+     "Разработайте шаблоны диалогов для типовых вопросов пациентов",
+     "Настройте интеграцию с телефонными системами клиники",
+     "Запустите пилотный проект в одной клинике и соберите отзывы"
+    ],
+    "who": "специалисты по интеграции API, копирайтеры, менеджеры проектов в сфере здравоохранения",
+    "effort": "средний",
+    "risk": "нужна согласованность с требованиями конфиденциальности данных пациентов"
+   },
+   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   },
   {
