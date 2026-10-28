@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-27T23:50:57Z",
+ "updated": "2026-10-28T05:54:30Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "0a7119608b55c9",
+   "date": "2026-10-28T01:15:28Z",
+   "addedAt": "2026-10-28T05:54:12Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+   "title_en": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+   "summary_en": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+   "pending": false,
+   "title_ru": "Amazon получит огромную прибыль от IPO Anthropic",
+   "simple": "Инвесторы ожидают заработать миллиарды на выходе компании Anthropic на биржу, но Amazon, владеющая значительной долей, получит ещё больше. Это важно, потому что показывает, как крупные корпорации используют AI‑стартапы для роста.",
+   "term": "IPO — первичное публичное размещение акций, когда компания впервые продаёт акции широкой публике",
+   "use": [
+    "Следите за новостями о крупных AI‑компаниях, чтобы понять, какие технологии привлекают инвесторов.",
+    "Если вы работаете в сфере AI, изучайте, какие решения интересуют крупные корпорации, чтобы предлагать похожие сервисы.",
+    "Обратите внимание на партнерские программы крупных игроков, они могут открывать возможности для совместных проектов."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "6210b5315dda5a",
    "date": "2026-10-27T23:34:27Z",
@@ -746,6 +768,28 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9dbb9e5222c01c",
+   "date": "2026-10-27T11:19:18Z",
+   "addedAt": "2026-10-28T05:54:12Z",
+   "source": "MIT Technology Review",
+   "sourceType": "media",
+   "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+   "title_en": "Industrial Intelligence: The next growth opportunity for manufacturing",
+   "summary_en": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor…",
+   "pending": false,
+   "title_ru": "Industrial Intelligence — новый рост для производства",
+   "simple": "Производители всё чаще используют искусственный интеллект и данные, чтобы сохранять опыт работников и улучшать настройки оборудования. Это помогает повышать эффективность и снижать простои.",
+   "term": "Industrial intelligence — применение ИИ и аналитики для сбора и использования знаний в производстве",
+   "use": [
+    "Изучите базовые методы сбора данных с оборудования, чтобы предлагать аналитические сервисы производствам.",
+    "Освойте инструменты машинного обучения, ориентированные на предсказание отказов и оптимизацию процессов.",
+    "Предложите небольшим фабрикам внедрить простые датчики и дешевые модели для улучшения контроля."
+   ],
+   "money": null,
+   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   },
   {
