@@ -1,7 +1,194 @@
 {
- "updated": "2026-10-28T05:54:30Z",
+ "updated": "2026-10-28T13:11:31Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "056614830d953c",
+   "date": "2026-10-28T12:00:00Z",
+   "addedAt": "2026-10-28T13:11:02Z",
+   "source": "MIT Technology Review",
+   "sourceType": "media",
+   "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+   "title_en": "Pairing industrial AI autonomy and human control",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Сочетание автономного промышленного ИИ и человеческого контроля",
+   "simple": "В статье рассматривается, как автоматические системы ИИ могут работать вместе с людьми на производстве, чтобы повысить эффективность и безопасность. Такой гибридный подход помогает избежать ошибок полностью автоматических решений.",
+   "term": "индустриальный ИИ — искусственный интеллект, применяемый в производственных процессах для оптимизации и автоматизации задач.",
+   "use": [
+    "Оцените, какие повторяющиеся задачи на вашем предприятии могут быть автоматизированы ИИ.",
+    "Внедрите систему мониторинга, позволяющую оператору вмешиваться при отклонениях от нормы.",
+    "Обучите персонал работать с интерфейсами ИИ, чтобы они могли корректировать работу алгоритмов."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6da995572c9c0a",
+   "date": "2026-10-28T11:27:30Z",
+   "addedAt": "2026-10-28T13:11:01Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+   "title_en": "Meta quietly launched an ‘AI pet journal’ app",
+   "summary_en": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with […]",
+   "pending": false,
+   "title_ru": "Meta запустила приложение‑журнал «AI pet»",
+   "simple": "Meta представила приложение Waddle World, где виртуальный питомец общается с пользователем голосом и рисует иллюстрации диалогов. Приложение позиционируется как ежедневный журнал, а не игра.",
+   "term": "генеративный ИИ — модель, создающая новые тексты, изображения или звук на основе обученных данных.",
+   "use": [
+    "Скачайте приложение и попробуйте вести диалог с виртуальным питомцем, чтобы увидеть возможности генеративного ИИ.",
+    "Используйте полученные идеи и стили общения в своих собственных проектах контента.",
+    "Обратите внимание на то, как голосовой ввод упрощает взаимодействие с ИИ."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ec6b9e65488118",
+   "date": "2026-10-28T10:15:00Z",
+   "addedAt": "2026-10-28T13:11:02Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+   "title_en": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+   "summary_en": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+   "pending": false,
+   "title_ru": "Сотрудники Macmillan устроили вечеринку для убитого AI‑ассистента",
+   "simple": "В издательстве Macmillan создали внутреннего AI‑ассистента NOA, который оказался непрактичным, после чего его отключили. Авторы жалуются, что ИИ ухудшил их отношения с издателями.",
+   "term": "AI‑ассистент — программный агент, помогающий выполнять задачи с помощью искусственного интеллекта.",
+   "use": [
+    "Если в вашей компании планируется внедрять AI‑ассистента, протестируйте его на небольших задачах перед масштабированием.",
+    "Собирайте обратную связь от пользователей, чтобы понять, где ИИ действительно полезен.",
+    "Не полагайтесь полностью на ИИ в критических процессах без человеческой проверки."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "5d9615019ec259",
+   "date": "2026-10-28T10:09:07Z",
+   "addedAt": "2026-10-28T13:11:03Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+   "title_en": "Quoting Terk Terkowitz",
+   "summary_en": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. — Terk Terkowitz , An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon , generative-ai , agentic-engineering , ai , llms",
+   "pending": false,
+   "title_ru": "Терк Терквиц о том, как признавать ограничения AI в работе",
+   "simple": "Внутренний документ Amazon советует сотрудникам фиксировать случаи, когда текущие AI‑инструменты не помогают, и делиться этим с командой. Такой подход помогает понять, где ИИ ещё не готов к использованию.",
+   "term": "генеративный ИИ — тип ИИ, который создает новые материалы, такие как тексты или изображения, на основе обученных данных.",
+   "use": [
+    "Документируйте, какие задачи в вашем проекте не решаются AI‑инструментами, и обсуждайте это с коллегами.",
+    "Ищите альтернативные методы или комбинируйте AI с традиционными подходами для решения проблем.",
+    "Обучайте команду критически оценивать результаты работы ИИ."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2fc8e689e413ca",
+   "date": "2026-10-28T09:30:00Z",
+   "addedAt": "2026-10-28T13:10:58Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+   "title_en": "Legora is building the agentic operating system for legal work",
+   "summary_en": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+   "pending": false,
+   "title_ru": "Legora создает AI‑операционную систему для юридической работы",
+   "simple": "Legora использует модели OpenAI, такие как ChatGPT и Codex, чтобы ускорить юридические процессы, автоматизировать анализ контрактов и освободить юристов для более сложных задач. Это показывает, как ИИ может стать помощником в правовой сфере.",
+   "term": "Large language model — крупная языковая модель, обученная на огромных объёмах текста и способная генерировать осмысленные ответы.",
+   "use": [
+    "Попробуйте интегрировать готовые модели OpenAI в свои юридические задачи через API.",
+    "Изучите возможности автоматического анализа контрактов с помощью Codex и ChatGPT.",
+    "Настройте простые скрипты, которые будут предварительно проверять документы перед их передачей юристу."
+   ],
+   "money": {
+    "idea": "предоставлять услуги автоматизированного анализа юридических документов",
+    "how": [
+     "Изучить API OpenAI и способы их вызова",
+     "Создать шаблоны запросов для типовых юридических задач",
+     "Разработать небольшое веб‑приложение или чат‑бота для клиентов",
+     "Продвигать сервис среди небольших фирм и стартапов"
+    ],
+    "who": "юристы, специалисты по автоматизации, разработчики с базовыми навыками Python",
+    "effort": "средний",
+    "risk": "зависимость от сторонних API и необходимость соблюдения конфиденциальности данных"
+   },
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f53a8961cc1155",
+   "date": "2026-10-28T08:30:00Z",
+   "addedAt": "2026-10-28T13:11:02Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+   "title_en": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+   "summary_en": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+   "pending": false,
+   "title_ru": "AI‑сигналы тревоги: чат‑боты могут помогать в экстренных ситуациях",
+   "simple": "Исследователи предупреждают, что люди плохо реагируют на экстренные сообщения, но чат‑боты, основанные на ИИ, могут улучшить восприятие и реакцию, если пользователи будут их воспринимать всерьёз. Это открывает новые возможности для систем оповещения.",
+   "term": "чат‑бот — программный агент, который общается с пользователем в текстовом виде, часто используя ИИ для понимания запросов.",
+   "use": [
+    "Оцените возможность внедрения чат‑бота в существующие системы оповещения вашего предприятия.",
+    "Тестируйте, насколько пользователи доверяют сообщениям от ИИ, и адаптируйте тон общения.",
+    "Подготовьте инструкции, как правильно реагировать на сообщения от чат‑бота в экстренных ситуациях."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ded555b8da4159",
+   "date": "2026-10-28T06:30:35Z",
+   "addedAt": "2026-10-28T13:11:02Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/28/brian-blakley-bellini-capital-ai-security-governance/",
+   "title_en": "Bellini Capital CISO on AI security governance and the limits of patching faster",
+   "summary_en": "In this Help Net Security interview, Brian Blakley, CISO at Bellini Capital and ConnectSecure, explains why AI makes finding vulnerabilities faster while fixing them still takes time. He argues that “patch faster” is not enough and that teams need to cut exposure while remediation is pending. Blakley describes a shared metric for CIOs and CISOs, how his team tests for silent model updates, who owns the damage when an AI agent makes a mistake, and … More → The post Bellini Capital CISO on AI security governance and the limits of patching faster appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "CISO Bellini Capital о том, почему «патчить быстрее» недостаточно в эпоху ИИ",
+   "simple": "Брайан Блейкли объясняет, что ИИ ускоряет поиск уязвимостей, но исправление их всё равно занимает время, поэтому компании должны уменьшать риск, пока работают над исправлениями. Он предлагает новые метрики и подходы к управлению ошибками ИИ‑моделей.",
+   "term": "патч — быстрое исправление уязвимости в программном обеспечении.",
+   "use": [
+    "Внедрите процесс мониторинга и временного ограничения доступа к уязвимым функциям ИИ.",
+    "Разработайте метрику, измеряющую время между обнаружением уязвимости и её исправлением.",
+    "Обучите команду реагировать на «тихие» обновления моделей, которые могут менять поведение системы."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b3d9e88f2ebe90",
+   "date": "2026-10-28T06:00:00Z",
+   "addedAt": "2026-10-28T13:11:02Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+   "title_en": "Should AI Decide Your Court Case? This Judge Says Yes",
+   "summary_en": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+   "pending": false,
+   "title_ru": "Судья Великобритании считает, что ИИ может решать гражданские дела",
+   "simple": "Геофри Вос, один из ведущих судей Англии, считает, что ИИ может рассматривать многие гражданские споры, но важно определить границы его применения. Это поднимает вопросы о роли технологий в правосудии.",
+   "term": "судебный ИИ — система, использующая искусственный интеллект для анализа правовых материалов и вынесения решений.",
+   "use": [
+    "Следите за законодательными инициативами, касающимися использования ИИ в суде, чтобы понять, как это может повлиять на вашу практику.",
+    "Изучите, какие типы дел уже могут быть автоматизированы, и подготовьте рекомендации для клиентов.",
+    "Подготовьте вопросы о прозрачности и ответственности ИИ‑судей для обсуждения с коллегами."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "0a7119608b55c9",
    "date": "2026-10-28T01:15:28Z",
@@ -1217,6 +1404,28 @@
    ],
    "money": null,
    "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "830f46d3a8fd49",
+   "date": "2026-10-26T18:50:41Z",
+   "addedAt": "2026-10-28T13:11:02Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+   "title_en": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+   "summary_en": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+   "pending": false,
+   "title_ru": "Сотрудники Boston Dynamics протестуют против продажи роботов‑собак ICE",
+   "simple": "Компания ICE хочет купить роботов‑собак у Boston Dynamics, но более 300 сотрудников протестуют, опасаясь риска. Компания отстаивает сделку.",
+   "term": "Робот‑собака — автономный робот, способный передвигаться и выполнять задачи, часто использующий ИИ для навигации и распознавания.",
+   "use": [
+    "Следите за новостями о применении роботов в правоохранительных органах.",
+    "Если работаете в сфере робототехники, учитывайте этические вопросы при разработке.",
+    "Обратите внимание на требования к безопасности при внедрении подобных систем."
+   ],
+   "money": null,
+   "category": "Регулирование",
    "model": "openai/gpt-oss-120b"
   },
   {
