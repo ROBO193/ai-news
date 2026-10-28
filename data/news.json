@@ -1,7 +1,172 @@
 {
- "updated": "2026-10-28T18:56:09Z",
+ "updated": "2026-10-28T23:19:27Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "09f762edab0d4f",
+   "date": "2026-10-28T23:05:39Z",
+   "addedAt": "2026-10-28T23:18:46Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+   "title_en": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+   "summary_en": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
+   "pending": false,
+   "title_ru": "Негатив к ИИ усиливается, предупреждает глава Instagram",
+   "simple": "Адам Моссери, руководитель Instagram, сказал, что недовольство искусственным интеллектом растёт и будет усиливаться. Это важно, потому что отношение общества влияет на развитие и принятие новых технологий.",
+   "term": "AI (искусственный интеллект) — системы, способные выполнять задачи, требующие человеческого интеллекта, такие как распознавание речи или изображений.",
+   "use": [
+    "Обратите внимание на то, как ваши проекты используют ИИ и какие риски могут возникнуть в восприятии аудитории.",
+    "Подумайте о том, как объяснять пользу ИИ клиентам и коллегам, чтобы снизить страхи.",
+    "Следите за общественными дискуссиями о ИИ, чтобы адаптировать свою стратегию коммуникаций."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f348c6db37d87f",
+   "date": "2026-10-28T21:48:37Z",
+   "addedAt": "2026-10-28T23:18:46Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+   "title_en": "Google expands AI Search ads globally as core ad growth slows",
+   "summary_en": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+   "pending": false,
+   "title_ru": "Google расширяет рекламу AI Search по всему миру",
+   "simple": "Google объявил о глобальном запуске рекламных объявлений в результатах поиска, генерируемых ИИ, несмотря на замедление общего роста рекламного бизнеса. Это открывает новые возможности для рекламодателей.",
+   "term": "AI Search ads — рекламные места в результатах поисковой выдачи, формируемые искусственным интеллектом на основе запросов пользователя.",
+   "use": [
+    "Изучите, как ваши рекламные кампании могут использовать AI Search ads для более точного таргетинга.",
+    "Подготовьте креативы, учитывающие контекст запросов, чтобы повысить эффективность объявлений.",
+    "Следите за аналитикой новых форматов, чтобы быстро адаптировать бюджет."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "90b267becbf2ea",
+   "date": "2026-10-28T21:34:30Z",
+   "addedAt": "2026-10-28T23:18:46Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "title_en": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "summary_en": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+   "pending": false,
+   "title_ru": "Microsoft заработала $10 млрд от сотрудничества с OpenAI",
+   "simple": "Microsoft сообщила, что получила 10 миллиардов долларов от коммерческих соглашений с OpenAI, включая совместные доходы. Это подчёркивает важность партнёрства с ИИ‑компаниями.",
+   "term": "",
+   "use": [
+    "Рассмотрите возможность интеграции сервисов OpenAI в свои продукты, чтобы предложить клиентам новые функции.",
+    "Изучите условия лицензирования и API OpenAI, чтобы понять, как их использовать в проектах.",
+    "Подготовьте предложения для клиентов, где ИИ‑модели могут автоматизировать рутинные задачи."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "5d25973f53528c",
+   "date": "2026-10-28T20:32:02Z",
+   "addedAt": "2026-10-28T23:18:46Z",
+   "source": "MIT Technology Review",
+   "sourceType": "media",
+   "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+   "title_en": "Creating AI value with enterprise context",
+   "summary_en": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
+   "pending": false,
+   "title_ru": "Создание ценности ИИ в корпоративном контексте",
+   "simple": "В компаниях одновременно работают множество AI‑платформ: чат‑боты, системы автоматизации и аналитика. Их результаты могут быть ошибочными или неполными, поэтому важно контролировать выводы ИИ.",
+   "term": "AI‑платформа — система, использующая искусственный интеллект для выполнения конкретных бизнес‑задач.",
+   "use": [
+    "Оцените, какие AI‑инструменты уже используются в вашей компании.",
+    "Внедрите процесс проверки результатов ИИ перед принятием решений.",
+    "Обучите сотрудников распознавать возможные ошибки ИИ."
+   ],
+   "money": {
+    "idea": "Консультации по проверке и оптимизации результатов ИИ в компании",
+    "how": [
+     "Оценить текущие AI‑инструменты и их задачи",
+     "Внедрить процесс валидации выводов ИИ",
+     "Обучить сотрудников проверять результаты",
+     "Настроить мониторинг качества и корректировать модели"
+    ],
+    "who": "Специалисты по бизнес‑аналитике и AI, умеющие работать с данными и процессами",
+    "effort": "средний",
+    "risk": "Неправильная интерпретация выводов ИИ может привести к ошибочным решениям"
+   },
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "fc7d1d71bde9a1",
+   "date": "2026-10-28T20:03:00Z",
+   "addedAt": "2026-10-28T23:18:46Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+   "title_en": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "summary_en": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
+   "pending": false,
+   "title_ru": "Google представил Gemini 4 Carbon с прорывом в кибербезопасности",
+   "simple": "Google выпустил новую модель Gemini 4 Carbon, заявив о значительном улучшении в кодинге, агентных задачах и кибербезопасности, модель возглавила рейтинг AI‑моделей.",
+   "term": "агентные задачи — задачи, где ИИ действует автономно, принимая решения без постоянного вмешательства человека.",
+   "use": [
+    "Подпишитесь на Google Cloud и получите доступ к Gemini 4 Carbon.",
+    "Тестируйте модель для обнаружения уязвимостей в своих системах.",
+    "Следите за обновлениями, чтобы использовать новые возможности модели."
+   ],
+   "money": {
+    "idea": "Разработка сервисов кибербезопасности на базе Gemini 4 Carbon",
+    "how": [
+     "Зарегистрироваться в Google Cloud и включить доступ к Gemini 4 Carbon",
+     "Создать прототип инструмента обнаружения угроз с использованием модели",
+     "Провести тестирование на реальных данных",
+     "Предложить готовый сервис клиентам"
+    ],
+    "who": "Разработчики с опытом в AI и кибербезопасности, умеющие работать с облачными сервисами",
+    "effort": "высокий",
+    "risk": "Зависимость от облачной платформы и возможные ограничения доступа к модели"
+   },
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2ede9b7f343197",
+   "date": "2026-10-28T19:19:58Z",
+   "addedAt": "2026-10-28T23:18:46Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "title_en": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "summary_en": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+   "pending": false,
+   "title_ru": "Anthropic запустил инструменты для контроля расходов на ИИ",
+   "simple": "Anthropic представил новые инструменты, позволяющие компаниям видеть, за что они платят при использовании её моделей, что поможет оптимизировать бюджеты перед IPO.",
+   "term": "ИИ‑расходы — затраты на использование моделей искусственного интеллекта, включая оплату за запросы и вычислительные ресурсы.",
+   "use": [
+    "Подключите инструменты Anthropic к своим проектам.",
+    "Сформируйте отчёт о текущих затратах на модели ИИ.",
+    "Определите неэффективные запросы и сократите их количество."
+   ],
+   "money": {
+    "idea": "Оптимизация расходов на ИИ для компаний",
+    "how": [
+     "Подключить инструменты Anthropic к существующим сервисам",
+     "Сформировать детальный отчёт о текущих затратах",
+     "Выявить и устранить неэффективные запросы",
+     "Перепроектировать процессы для снижения расходов"
+    ],
+    "who": "Аналитики и специалисты по управлению ИИ‑ресурсами, умеющие работать с данными и бюджетированием",
+    "effort": "средний",
+    "risk": "Ограниченный доступ к деталям модели может затруднить точную оценку эффективности"
+   },
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "bfd6acefc1fbf8",
    "date": "2026-10-28T18:47:27Z",
@@ -84,6 +249,28 @@
    ],
    "money": null,
    "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "997184eddd10bc",
+   "date": "2026-10-28T17:09:14Z",
+   "addedAt": "2026-10-28T23:18:46Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/28/github-package-firewall-npm/",
+   "title_en": "GitHub’s npm package firewall can block brand-new versions before they install",
+   "summary_en": "GitHub announced a package firewall that checks npm packages against an enterprise’s policy before they install. It blocks known malware, critical vulnerabilities, and brand-new versions, and any developer can turn it on by pointing npm at the firewall. The checks run before a package reaches a laptop, a build, or a coding agent. GitHub says AI agents are helping developers build more software, faster, and the firewall is one of four security additions aimed at … More → The post GitHub’s npm package firewall can block brand-new versions before they install appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "GitHub ввёл firewall для npm‑пакетов, блокирующий новые версии",
+   "simple": "GitHub запустил firewall, который проверяет npm‑пакеты по политике компании перед установкой и может блокировать новые версии, если они подозрительны. Это помогает защитить проекты от вредоносного кода и уязвимостей.",
+   "term": "firewall — система, проверяющая и фильтрующая входящий трафик или данные по заданным правилам",
+   "use": [
+    "Включите firewall в настройках npm вашего проекта, указав адрес GitHub‑firewall.",
+    "Проверьте политику безопасности компании и настройте её правила под свои требования.",
+    "Следите за уведомлениями firewall о заблокированных пакетах и обновляйте зависимости вручную, если они безопасны."
+   ],
+   "money": null,
+   "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -497,6 +684,28 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "75e2017ed4c5a2",
+   "date": "2026-10-28T13:15:00Z",
+   "addedAt": "2026-10-28T23:18:41Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "summary_en": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+   "pending": false,
+   "title_ru": "OpenAI и ServiceNow расширяют совместную работу в корпоративных процессах",
+   "simple": "OpenAI и ServiceNow усиливают партнёрство, интегрируя модели и агенты OpenAI в платформу ServiceNow и её рабочие процессы, а также в ChatGPT и Codex. Это позволит автоматизировать задачи в бизнес‑среде с помощью ИИ.",
+   "term": "агент — программный компонент, который autonomously выполняет задачи, взаимодействуя с пользователем или другими системами",
+   "use": [
+    "Подключите модели OpenAI к ServiceNow, чтобы автоматизировать повторяющиеся запросы поддержки.",
+    "Используйте ChatGPT в ServiceNow для быстрого создания ответов на типовые вопросы клиентов.",
+    "Обучите сотрудников работать с новыми ИИ‑инструментами для повышения эффективности процессов."
+   ],
+   "money": null,
+   "category": "Агенты",
    "model": "openai/gpt-oss-120b"
   },
   {
