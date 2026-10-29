@@ -1,7 +1,136 @@
 {
- "updated": "2026-10-29T19:43:47Z",
+ "updated": "2026-10-29T23:59:37Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "05367ef1f34c39",
+   "date": "2026-10-29T23:42:22Z",
+   "addedAt": "2026-10-29T23:59:09Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+   "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+   "summary_en": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+   "pending": false,
+   "title_ru": "AWS планирует стать бизнесом в $1 трлн, но сначала увеличит расходы",
+   "simple": "Amazon хочет лидировать в облачных сервисах для ИИ и достичь дохода в один триллион долларов. Для этого компания продолжит активно инвестировать в оборудование и инфраструктуру.",
+   "term": "Capex — капитальные расходы, деньги, вложенные в покупку оборудования и развитие инфраструктуры.",
+   "use": [
+    "Следите за новыми сервисами AWS для ИИ, чтобы использовать их в своих проектах.",
+    "Оцените, какие облачные ресурсы вам нужны, и планируйте бюджет с учётом возможных повышений цен."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7363e725b55af5",
+   "date": "2026-10-29T23:35:52Z",
+   "addedAt": "2026-10-29T23:59:10Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+   "title_en": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+   "summary_en": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+   "pending": false,
+   "title_ru": "OpenAI отменил план снижения лимитов в ChatGPT Pro после критики",
+   "simple": "OpenAI решил не уменьшать ограничения использования для платных планов ChatGPT Pro и Business Premium, несмотря на первоначальные намерения. Это важно для пользователей, которым нужны большие объёмы запросов.",
+   "term": "",
+   "use": [
+    "Продолжайте использовать ваш текущий план ChatGPT Pro без опасений ограничения.",
+    "Если вам нужны большие объёмы запросов, выбирайте план с более высоким лимитом."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "07b8277675a3d4",
+   "date": "2026-10-29T22:48:29Z",
+   "addedAt": "2026-10-29T23:59:10Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+   "title_en": "API credits benefit for eligible ChatGPT subscriptions",
+   "summary_en": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or $500 subscription plan with them you now get that same quantity of credits to apply to one of your API organizations. I maintain subscriptions with both companies, so this is great news for me! I may even ship some public-facing demos now that the credits are already covered by my existing subscriptions. Tags: ai , openai ,…",
+   "pending": false,
+   "title_ru": "OpenAI добавил кредитные бонусы к подпискам ChatGPT",
+   "simple": "Теперь владельцы платных подписок ChatGPT получают такие же кредитные бонусы, как у Anthropic, для использования их API. Это упрощает работу с API без дополнительных расходов.",
+   "term": "API‑кредит — условные единицы, которые можно потратить на вызовы программного интерфейса сервиса.",
+   "use": [
+    "Подключите полученные кредиты к вашему проекту, чтобы протестировать API без затрат.",
+    "Планируйте объём запросов, используя бесплатные кредиты, чтобы оценить эффективность модели."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a6d0e88b749ca2",
+   "date": "2026-10-29T22:09:24Z",
+   "addedAt": "2026-10-29T23:59:10Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+   "title_en": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+   "summary_en": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...]",
+   "pending": false,
+   "title_ru": "Вирусная кампания использует модели Hugging Face для майнинга крипты",
+   "simple": "Злоумышленники снова используют модели Hugging Face, чтобы захватывать GPU‑серверы и майнить криптовалюту, а также распространяют поддельный набор для Solana, который устанавливает удалённый доступ.",
+   "term": "RAT — вредоносное программное обеспечение, позволяющее удалённо управлять заражённым компьютером.",
+   "use": [
+    "Проверяйте подписи и источники моделей перед загрузкой, особенно если они популярны.",
+    "Отслеживайте аномальную нагрузку GPU и сетевой трафик на серверах.",
+    "Обновляйте антивирусные базы и используйте мониторинг процессов."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "24f3c9778b1e49",
+   "date": "2026-10-29T20:05:47Z",
+   "addedAt": "2026-10-29T23:59:09Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+   "title_en": "Rivian expands joint venture with VW to include AI assistant",
+   "summary_en": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+   "pending": false,
+   "title_ru": "Rivian расширяет совместный проект с VW, добавив ИИ‑ассистента",
+   "simple": "Rivian и Volkswagen расширяют своё совместное предприятие, включив в него разработку ИИ‑ассистента для автомобилей. Это может улучшить функции взаимодействия водителя с машиной.",
+   "term": "ИИ‑ассистент — программный агент, помогающий пользователю управлять устройством с помощью естественного языка и контекста.",
+   "use": [
+    "Следите за новыми функциями ИИ‑ассистента в будущих моделях автомобилей Rivian.",
+    "Если вы разрабатываете автоприложения, изучайте интеграцию с такими ассистентами.",
+    "Подготовьте свои сервисы к поддержке голосовых команд и контекстных запросов."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "56fa7327f2b2eb",
+   "date": "2026-10-29T19:56:19Z",
+   "addedAt": "2026-10-29T23:59:09Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+   "title_en": "OpenAI-backed Thrive Holdings acquires ADT",
+   "summary_en": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+   "pending": false,
+   "title_ru": "Thrive Holdings (поддерживаемый OpenAI) покупает ADT",
+   "simple": "Компания Thrive Holdings, инвестированная OpenAI, приобретает ADT. Планируют внедрить искусственный интеллект в домашнюю систему безопасности, что может улучшить реакцию и предсказание угроз.",
+   "term": "AI — искусственный интеллект, технологии, позволяющие машинам выполнять задачи, требующие человеческого интеллекта.",
+   "use": [
+    "Изучите, как AI может автоматизировать оповещения о вторжениях в вашем доме.",
+    "Обратите внимание на новые функции умных датчиков, которые могут появиться в продуктах ADT.",
+    "Подумайте о подключении существующих систем безопасности к облачным сервисам для получения аналитики в реальном времени."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "9e5c9d9f241b70",
    "date": "2026-10-29T19:19:16Z",
@@ -194,6 +323,28 @@
    ],
    "money": null,
    "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7610575f95441b",
+   "date": "2026-10-29T16:42:32Z",
+   "addedAt": "2026-10-29T23:59:09Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+   "title_en": "US investigated Chinese spy plot aimed at Nvidia CEO",
+   "summary_en": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+   "pending": false,
+   "title_ru": "В США расследуют китайский шпионский план против CEO Nvidia",
+   "simple": "В США проверяют случай, когда сотрудник сингапурской AI‑облачной компании, подозреваемый в нелегальной продаже чипов Nvidia в Китай, мог быть китайским шпионом. Это показывает риски в сфере высоких технологий и ИИ.",
+   "term": "Nvidia — компания, производящая графические процессоры, часто используемые для обучения и работы ИИ‑моделей.",
+   "use": [
+    "Будьте внимательны к поставщикам оборудования и проверяйте их репутацию.",
+    "Учитывайте геополитические риски при работе с технологиями, связанными с ИИ.",
+    "Разработайте политику внутренней безопасности данных и доступа к критическим системам."
+   ],
+   "money": null,
+   "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -2968,17 +3119,6 @@
    "model": "openai/gpt-oss-120b"
   },
   {
-   "id": "71784ce3534e69",
-   "date": "2026-10-26T17:26:36Z",
-   "addedAt": "2026-10-29T19:42:48Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
-   "title_en": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-   "summary_en": "Investigators explain how highway thieves stole $100M in data center equipment.",
-   "pending": true
-  },
-  {
    "id": "4a8f41d180d7e4",
    "date": "2026-10-26T17:10:23Z",
    "addedAt": "2026-10-26T20:38:00Z",
@@ -3040,17 +3180,6 @@
    "money": null,
    "category": "Железо",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "d4fc15392e5cfc",
-   "date": "2026-10-26T16:15:00Z",
-   "addedAt": "2026-10-29T19:42:49Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
-   "title_en": "webframe: evaluated as a scraper and a sandbox",
-   "summary_en": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard output and any exceptions to standard error. It's written in Go on top of the glaze library, which provides access to a system browser (\"WKWebView on macOS, WebKitGTK on Linux, WebView2 on Windows\") so it doesn't need to bundle its own browser engine. It reminds me of my own shot-scraper javascript tool, albeit in a much smaller package that doesn't depend on Playwright. I had Claude Opus 5.5 put it through its paces and…",
-   "pending": true
   },
   {
    "id": "5ecfeeaf9cec8d",
@@ -4125,17 +4254,6 @@
    "money": null,
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "e44aee2d440224",
-   "date": "2026-10-23T17:18:31Z",
-   "addedAt": "2026-10-29T19:42:48Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-   "title_en": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-   "summary_en": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-   "pending": true
   },
   {
    "id": "298c8de07d18f4",
