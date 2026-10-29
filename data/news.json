@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-28T23:19:27Z",
+ "updated": "2026-10-29T05:58:40Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "b0fbfced4c005a",
+   "date": "2026-10-28T23:23:21Z",
+   "addedAt": "2026-10-29T05:58:22Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+   "title_en": "Quoting Ted Sanders",
+   "summary_en": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c) have better recall of esoteric facts. As you note, our models are ordered: Luna < Terra < Sol < Astra [ ... ] These days, version number signifies a few things at once: the order of release, the relationship to other releases, and the magnitude of improvement. So something like 6.1 would indicate…",
+   "pending": false,
+   "title_ru": "Размер модели влияет на её способности и стоимость",
+   "simple": "Большие языковые модели обычно работают лучше, но стоят дороже за токен и лучше запоминают редкие факты. Это важно при выборе модели для задач, где нужна точность и надёжность.",
+   "term": "Токен — единица текста, которую модель обрабатывает за один шаг, например слово или часть слова.",
+   "use": [
+    "Сравните требования задачи с доступным бюджетом, выбирая модель подходящего размера.",
+    "Учтите, что более крупные модели могут потребовать больше вычислительных ресурсов.",
+    "Проверьте, насколько важна точность фактов для вашего проекта, и выбирайте модель соответственно."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "09f762edab0d4f",
    "date": "2026-10-28T23:05:39Z",
