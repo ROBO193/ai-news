@@ -1,7 +1,522 @@
 {
- "updated": "2026-10-29T13:18:09Z",
+ "updated": "2026-10-29T19:43:47Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "9e5c9d9f241b70",
+   "date": "2026-10-29T19:19:16Z",
+   "addedAt": "2026-10-29T19:42:47Z",
+   "source": "Microsoft Research",
+   "sourceType": "research",
+   "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+   "title_en": "Microsoft Research Focus – Edition #97",
+   "summary_en": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus – Edition #97 appeared first on Microsoft Research .",
+   "pending": false,
+   "title_ru": "Последние исследования Microsoft: от кодирующих агентов до прогноза погоды",
+   "simple": "Microsoft поделилась новыми исследованиями, включая работу над агентами, помогающими писать код, и улучшения в долгосрочном прогнозе погоды. Это интересно, потому что показывает, как ИИ проникает в разные сферы.",
+   "term": "Агент — программный помощник, который автоматически выполняет задачи, используя ИИ.",
+   "use": [
+    "Подпишитесь на рассылку Microsoft Research, чтобы получать свежие идеи для проектов.",
+    "Изучите примеры кодирующих агентов, чтобы улучшить свои навыки программирования.",
+    "Следите за новостями о погодных моделях, если работаете в сельском хозяйстве или логистике."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "31a141606e8662",
+   "date": "2026-10-29T19:14:36Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+   "title_en": "Meta quietly launches an AI fashion app called Style Sketch",
+   "summary_en": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+   "pending": false,
+   "title_ru": "Meta запустила приложение Style Sketch для создания виртуального гардероба",
+   "simple": "Meta представила приложение, которое через Instagram собирает фотографии вашей одежды и позволяет добавлять новые вещи с помощью фото или видео. Это упрощает планирование образов и поиск новых стилей.",
+   "term": "Виртуальный гардероб — цифровая коллекция ваших вещей, собранная автоматически из изображений.",
+   "use": [
+    "Подключите приложение к своему Instagram, чтобы собрать текущий гардероб.",
+    "Снимайте новые вещи и добавляйте их в приложение, чтобы легче подбирать наряды.",
+    "Экспериментируйте с комбинациями в приложении, чтобы экономить время на выборе одежды."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2a1a8a7c88a013",
+   "date": "2026-10-29T18:45:31Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+   "title_en": "You can generate and edit Google Docs files directly in Gemini chats now",
+   "summary_en": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in […]",
+   "pending": false,
+   "title_ru": "Gemini теперь умеет создавать и редактировать файлы Google Docs и другие форматы",
+   "simple": "В Google Gemini добавили возможность генерировать, просматривать и править документы, таблицы, презентации и код прямо в чате. Это удобно для быстрой работы без переключения приложений.",
+   "term": "Генерация файлов — автоматическое создание документов с помощью ИИ на основе вашего запроса.",
+   "use": [
+    "Откройте Gemini и попробуйте создать черновик отчёта, указав тему и структуру.",
+    "Загрузите существующий документ в чат, чтобы быстро внести правки через ИИ.",
+    "Используйте функцию редактирования кода, чтобы быстро исправить небольшие ошибки в скриптах."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "bf3026d4c625e9",
+   "date": "2026-10-29T18:39:43Z",
+   "addedAt": "2026-10-29T19:42:49Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+   "title_en": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+   "summary_en": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+   "pending": false,
+   "title_ru": "Сотрудник Accenture запустил личного ИИ‑агента в защищённой системе Пентагона",
+   "simple": "Сотрудник Accenture подключил своего персонального ИИ‑агента Claude к сети Министерства обороны, где он работал два месяца, пока не был обнаружен. Это показывает риски использования личных ИИ в чувствительных системах.",
+   "term": "Искусственный агент — программный помощник, использующий ИИ для выполнения задач, часто в виде чат‑бота.",
+   "use": [
+    "Если работаете с конфиденциальными данными, проверяйте политику компании по использованию ИИ‑агентов.",
+    "Обучайте сотрудников безопасному использованию внешних ИИ‑сервисов в корпоративных сетях.",
+    "Проводите аудит доступа ИИ‑агентов, чтобы избежать утечек информации."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a39d2cb266f954",
+   "date": "2026-10-29T17:54:38Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+   "title_en": "Granola crunches up a dictation feature to compete with Wispr",
+   "summary_en": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+   "pending": false,
+   "title_ru": "Granola добавила диктовку в свой сервис заметок, конкурируя с Wispr",
+   "simple": "После того как Wispr внедрила функцию заметок к диктовке, сервис Granola ответил, добавив собственную диктовку в приложение для встреч. Это усиливает конкуренцию в сфере голосовых помощников для записей.",
+   "term": "Диктовка — преобразование речи в текст с помощью ИИ, позволяющее быстро фиксировать информацию.",
+   "use": [
+    "Попробуйте новую функцию диктовки в Granola во время совещаний, чтобы сразу получать текстовые заметки.",
+    "Сравните качество распознавания в Granola и Wispr, выбирая более точный сервис для своих нужд.",
+    "Настройте интеграцию с календарём, чтобы автоматически привязывать записи к событиям."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "672400a4a73efc",
+   "date": "2026-10-29T17:00:26Z",
+   "addedAt": "2026-10-29T19:42:49Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+   "title_en": "Building a multiplayer game world with autonomous Fable-class models",
+   "summary_en": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gaming environment where players can use prompts (to the in-game agent, Savi) to modify the game world. I fired it up on my phone for a few minutes and was able to prompt a castle into existence, then a dragon, then ride the dragon to fly around that castle. By Jacob's telling, Spawn is now being developed autonomously by a swarm of Fable-powered agents costing over $3 million in…",
+   "pending": false,
+   "title_ru": "Мультиплеерный мир с автономными моделями Fable‑class",
+   "simple": "Создан игровой сервис Spawn, где игроки через текстовые запросы могут менять мир: построить замок, вызвать дракона и летать на нём. Это демонстрирует, как современные модели могут действовать как самостоятельные агенты внутри игры.",
+   "term": "агентные модели — ИИ, способные принимать решения и выполнять действия в среде без постоянного вмешательства человека",
+   "use": [
+    "Попробуйте поэкспериментировать с простыми текстовыми запросами в доступных AI‑играх, чтобы понять возможности управления миром.",
+    "Следите за новыми сервисами, где ИИ‑агенты интегрированы в интерактивные приложения, чтобы использовать их в обучении или развлечениях."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7bf0065ceb1646",
+   "date": "2026-10-29T17:00:00Z",
+   "addedAt": "2026-10-29T19:42:44Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/updated-model-spec",
+   "title_en": "An updated Model Spec for more capable and beneficial AI",
+   "summary_en": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+   "pending": false,
+   "title_ru": "Обновлённые принципы модели OpenAI для более полезного ИИ",
+   "simple": "OpenAI опубликовала новую спецификацию модели, в которой выделила пять ценностей, направляющих развитие ИИ: разумные суждения, уважение к человеческой воле и точность исполнения намерений. Это важно для создания более надёжных систем.",
+   "term": "спецификация модели — набор правил и требований, которым должна соответствовать ИИ‑система",
+   "use": [
+    "Изучите перечисленные ценности, чтобы оценивать новые ИИ‑продукты на их соответствие этическим стандартам.",
+    "При разработке собственных ИИ‑решений учитывайте эти принципы, чтобы повысить доверие пользователей."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "bcae5e5bffd4de",
+   "date": "2026-10-29T17:00:00Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+   "title_en": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "summary_en": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+   "pending": false,
+   "title_ru": "Mistral открыла веса триллионной модели для кибербезопасности",
+   "simple": "Компания Mistral выпустила открытые веса своей триллионной модели, заявив, что она даёт контроль над киберзащитой, недоступный закрытым моделям. Это может расширить возможности компаний в защите от атак.",
+   "term": "веса модели — параметры нейросети, которые определяют её поведение и которые можно загрузить для собственного использования",
+   "use": [
+    "Скачайте открытые веса и протестируйте их в небольших проектах по обнаружению аномалий в сети.",
+    "Подключите модель к существующим системам мониторинга, чтобы улучшить автоматическое выявление угроз."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "45b4ef0b726f6d",
+   "date": "2026-10-29T16:48:16Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+   "title_en": "Microsoft’s AI future has fewer jobs",
+   "summary_en": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and […]",
+   "pending": false,
+   "title_ru": "AI у Microsoft сокращает количество рабочих мест",
+   "simple": "Microsoft объявила о добровольных выкупах для около 60 000 сотрудников, связывая это с планами по автоматизации и внедрению ИИ. Компания ожидает, что технологии заменят часть человеческого труда.",
+   "term": "автоматизация — замена ручных процессов программным или роботизированным решением",
+   "use": [
+    "Оцените, какие рутинные задачи в вашей работе могут быть автоматизированы с помощью доступных ИИ‑инструментов.",
+    "Начните изучать базовые навыки работы с чат‑ботами и генеративными моделями, чтобы оставаться востребованным."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "4fecc0fbd4dea1",
+   "date": "2026-10-29T16:24:55Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+   "title_en": "Google admits AI search makes less money, but it's fixing that with more ads",
+   "summary_en": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+   "pending": false,
+   "title_ru": "Google признаёт, что AI‑поиск приносит меньше дохода, планирует больше рекламы",
+   "simple": "Google сообщил, что поиск с ИИ сейчас генерирует отрицательный денежный поток, и компания собирается компенсировать это ростом рекламных показов. Это показывает, как коммерция влияет на развитие ИИ‑функций.",
+   "term": "генеративный поиск — поиск, который использует ИИ для создания ответов, а не просто выдаёт ссылки",
+   "use": [
+    "Следите за изменениями в рекламных форматах, чтобы адаптировать свои маркетинговые кампании к новым возможностям.",
+    "Экспериментируйте с созданием контента, оптимизированного под генеративный поиск, чтобы повысить видимость."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "88294416a4cb10",
+   "date": "2026-10-29T16:21:00Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+   "title_en": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+   "summary_en": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+   "pending": false,
+   "title_ru": "Эк ex‑сотрудники Palantir создали Dream – AI‑модель для строительства",
+   "simple": "Бывшие руководители Palantir запустили стартап Dream, получивший 17 млн долларов от a16z. Их система обучена на данных о более чем 100 млн квадратных футов зданий и учитывает физику и строительные нормы.",
+   "term": "world model — модель, описывающая реальный мир (например, здания) и позволяющая предсказывать последствия действий в нём",
+   "use": [
+    "Изучите, как AI может анализировать строительные чертежи и документы, чтобы автоматизировать проверку соответствия нормам.",
+    "Подумайте, какие задачи в вашем проекте можно передать такой модели: оценка стоимости, проверка планов, поиск ошибок.",
+    "Следите за новыми сервисами Dream, они могут предложить инструменты для ускорения проектирования."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9d92d4ec6e5e36",
+   "date": "2026-10-29T16:02:16Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+   "title_en": "The NYT Cooking app is testing AI recipe modifications",
+   "summary_en": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any […]",
+   "pending": false,
+   "title_ru": "NYT Cooking тестирует AI‑подсказки для изменения рецептов",
+   "simple": "The New York Times пробует новую функцию в приложении Cooking, где искусственный интеллект предлагает заменять ингредиенты, менять оборудование и масштабировать порции. Пользователи уже обсуждают её работу.",
+   "term": "AI‑подсказка — рекомендация, генерируемая моделью искусственного интеллекта, основанная на запросе пользователя",
+   "use": [
+    "Попробуйте новую функцию, чтобы адаптировать рецепты под имеющиеся у вас продукты.",
+    "Сравните предложенные заменители с традиционными вариантами, чтобы понять, насколько они подходят вашему вкусу.",
+    "Если вы часто готовите, сохраняйте понравившиеся AI‑модификации для будущих блюд."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a2aa84b8c0fc4a",
+   "date": "2026-10-29T15:00:00Z",
+   "addedAt": "2026-10-29T19:42:49Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+   "title_en": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+   "summary_en": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+   "pending": false,
+   "title_ru": "Стартап &Truth автоматизирует формальную верификацию кода",
+   "simple": "Новый стартап &Truth разрабатывает инструменты, которые с помощью математики проверяют, что программное обеспечение работает правильно, без ошибок. Это часть растущего направления автоматизации верификации.",
+   "term": "формальная верификация — математический метод доказательства корректности программы",
+   "use": [
+    "Если вы разработчик, изучите основы формальной верификации, чтобы повысить надёжность своего кода.",
+    "Следите за продуктами &Truth, они могут предложить удобные сервисы для автоматической проверки проектов.",
+    "Включайте в процесс тестирования этапы автоматической верификации, если работаете над критически важными системами."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "e7c6ca872fb535",
+   "date": "2026-10-29T14:49:11Z",
+   "addedAt": "2026-10-29T19:42:49Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/29/fake-chatgpt-claude-apps-github-yoba-malware-cryptominer/",
+   "title_en": "Yoba malware hides in fake desktop versions of ChatGPT and Claude",
+   "summary_en": "Fake GitHub projects posing as desktop versions of ChatGPT and Claude have been used to spread a malware chain that ends with a cryptocurrency miner, Check Point has found. The researchers have been tracking the campaign, dubbed Yoba, for the past two months. Its operator set up repositories and GitHub.io pages for supposed apps called GPT-5.6 Sol, GPT-6 Astra and Claude Opus, and hosted the malware as ZIP releases on GitHub. “While the repositories do … More → The post Yoba malware hides in fake desktop versions of ChatGPT and Claude appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Малварь Yoba прячется в поддельных десктоп‑клиентах ChatGPT и Claude",
+   "simple": "Хакеры разместили на GitHub фальшивые версии настольных приложений ChatGPT и Claude, в которые встроили вредоносный код‑майнер. Пользователи, скачавшие такие ZIP‑файлы, могут заразить свои компьютеры.",
+   "term": "майнер — программа, использующая ресурсы компьютера для добычи криптовалюты без согласия владельца",
+   "use": [
+    "Проверяйте подпись и репутацию репозитория перед загрузкой любого программного обеспечения.",
+    "Скачивайте официальные версии AI‑инструментов только с сайтов разработчиков, а не из сторонних репозиториев.",
+    "Установите антивирус и регулярно сканируйте систему на наличие нежелательных программ."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "60c269dfa54ed7",
+   "date": "2026-10-29T14:35:26Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+   "title_en": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+   "summary_en": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+   "pending": false,
+   "title_ru": "AI‑агент Wabi, создающий мини‑приложения, оценён в 1,25 млрд долларов",
+   "simple": "Сервис Wabi, позиционирующий себя как персональный AI‑агент, который автоматически собирает небольшие приложения, привлек инвестиции в 55 млн долларов и теперь стоит более миллиарда.",
+   "term": "AI‑агент — программный помощник, способный выполнять задачи без прямого вмешательства пользователя, используя искусственный интеллект",
+   "use": [
+    "Подпишитесь на новости Wabi, чтобы узнать, какие задачи он сможет автоматизировать в вашем бизнесе.",
+    "Если вы разрабатываете небольшие веб‑инструменты, попробуйте интегрировать их через Wabi для ускорения вывода на рынок.",
+    "Следите за открытыми API, они могут позволить вам создавать собственные автоматические мини‑приложения."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "42f121e2a91a4d",
+   "date": "2026-10-29T14:10:49Z",
+   "addedAt": "2026-10-29T19:42:49Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/10/29/research-ai-assistant-browser-vulnerabilities/",
+   "title_en": "Researchers broke the browsers built into VS Code, Cursor, Copilot, Codex and Claude Desktop",
+   "summary_en": "Forever Security found ways out of the built-in browsers in five AI coding assistants: Cursor, GitHub Copilot, OpenAI’s Codex, Microsoft’s VS Code and Anthropic’s Claude Desktop. In all five, a web page or a local file reached the computer behind the browser. Cursor ran attacker code, Copilot showed a fake address, and Codex, VS Code and Claude Desktop let a single local file read the rest of the disk. Two of those holes are still … More → The post Researchers broke the browsers built into VS Code, Cursor, Copilot, Codex and Claude Desktop appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Уязвимости в встроенных браузерах AI‑помощников для кода",
+   "simple": "Исследователи обнаружили, что в браузерах пяти популярных AI‑помощников (Cursor, Copilot, Codex, VS Code и Claude Desktop) можно выполнить код, получить доступ к файлам и даже прочитать весь диск. Некоторые уязвимости ещё не исправлены.",
+   "term": "уязвимость — ошибка в программном обеспечении, позволяющая злоумышленнику выполнить нежелательные действия",
+   "use": [
+    "Обновляйте AI‑инструменты для кодинга сразу после выхода патчей, чтобы закрыть найденные дыры.",
+    "Не открывайте подозрительные ссылки или файлы внутри встроенных браузеров помощников.",
+    "Для критически важного кода используйте отдельные изолированные среды, а не встроенные браузеры."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "18c36f7241d29e",
+   "date": "2026-10-29T14:06:27Z",
+   "addedAt": "2026-10-29T19:42:49Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+   "title_en": "Quoting Ben Hylak",
+   "summary_en": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. — Ben Hylak Tags: model-context-protocol , ai",
+   "pending": false,
+   "title_ru": "Бен Хайлак о будущих продуктах: UI и агент без лишних слоёв",
+   "simple": "Бен Хайлак считает, что идеальный продукт должен работать как «headless mcp», подключённый к агенту, без необходимости пользователя разбираться в деталях. Он хвалит свой продукт за удобный интерфейс, который нравится клиентам.",
+   "term": "headless mcp — архитектура, где основной функционал скрыт от пользователя и управляется через внешнего агента",
+   "use": [
+    "Обратите внимание на простоту интерфейса при выборе сервисов, выбирайте те, где всё работает «за кулисами».",
+    "Если разрабатываете продукт, подумайте, как скрыть сложные части за удобным UI, чтобы пользователи не задумывались о технических деталях."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d340597c608d25",
+   "date": "2026-10-29T14:00:10Z",
+   "addedAt": "2026-10-29T19:42:49Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
+   "title_en": "3 Ways AI Agents Already Operate in Your Browser",
+   "summary_en": "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to distinguish their activity from human users. [...]",
+   "pending": false,
+   "title_ru": "Три способа, как AI‑агенты работают в браузере",
+   "simple": "AI‑агенты могут управлять вашими браузерами, взаимодействовать с корпоративными приложениями и получать доступ к конфиденциальным данным, маскируясь под обычных сотрудников. Традиционные средства защиты часто не отличают их действия от действий человека.",
+   "term": "агент — программный компонент, который автоматически выполняет задачи, имитируя действия пользователя",
+   "use": [
+    "Проверьте, какие расширения и скрипты установлены в браузере, особенно в рабочей среде.",
+    "Обучите сотрудников распознавать необычное поведение браузера, например, автоматические запросы к внутренним системам."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "5955274c3dce89",
+   "date": "2026-10-29T14:00:00Z",
+   "addedAt": "2026-10-29T19:42:49Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+   "title_en": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+   "summary_en": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+   "pending": false,
+   "title_ru": "Mistral: модель «Le Chonk» обгоняет китайские аналоги",
+   "simple": "Французская лаборатория Mistral заявила, что их новая модель «Le Chonk» по качеству кода и кибербезопасности сопоставима или лучше ведущих китайских моделей DeepSeek и Z.ai. Это показывает рост конкуренции в открытом доступе к мощным ИИ‑моделям.",
+   "term": "open-weight — открытая модель, доступная для использования и доработки без ограничений лицензии",
+   "use": [
+    "Следите за новыми открытыми моделями, они могут стать альтернативой коммерческим решениям.",
+    "Если вы разработчик, попробуйте протестировать «Le Chonk» в задачах кодинга или анализа безопасности."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "079251699e8ed6",
+   "date": "2026-10-29T13:47:56Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+   "title_en": "Anthropic is asking Wall Street to believe in AGI",
+   "summary_en": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]",
+   "pending": false,
+   "title_ru": "Anthropic просит Уолл‑Стрит поверить в AGI",
+   "simple": "Anthropic подала документы для IPO, в которых обещает развитие искусственного общего интеллекта (AGI). Компания пытается убедить инвесторов, что её технологии способны достичь уровня, близкого к человеческому разуму.",
+   "term": "AGI — искусственный общий интеллект, система, способная выполнять любые интеллектуальные задачи, как человек",
+   "use": [
+    "Следите за новостями о крупных AI‑компаниях, они часто задают направление развития отрасли.",
+    "Если интересуетесь AI‑исследованиями, изучайте публичные документы компаний, такие как S‑1, чтобы понять их стратегии."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f3538b6fb36f4f",
+   "date": "2026-10-29T13:37:07Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+   "title_en": "Granite Switch 4.1.1 — Update models like you update software",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Granite Switch 4.1.1: обновление моделей как программного обеспечения",
+   "simple": "Granite Switch выпустил версию 4.1.1, позволяющую обновлять модели ИИ так же просто, как обновлять обычное ПО. Это упрощает поддержание актуальности и безопасности моделей.",
+   "term": "обновление моделей — процесс замены или доработки ИИ‑модели новой версией для улучшения её качества",
+   "use": [
+    "Если используете модели из Granite Switch, проверьте наличие обновлений и установите их сразу.",
+    "Внедряйте автоматическое обновление моделей в рабочие процессы, чтобы не отставать от новых возможностей."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "0b3918620b8634",
+   "date": "2026-10-29T13:20:35Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+   "title_en": "Anthropic’s business plan: Build God or die trying",
+   "summary_en": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT […]",
+   "pending": false,
+   "title_ru": "Бизнес‑план Anthropic: тратить всё на вычисления",
+   "simple": "В S‑1 Anthropic объясняет, что планирует тратить максимум средств на вычислительные ресурсы, чтобы построить «машинного бога». Компания позиционирует себя как поставщика ИТ‑услуг, но основной упор — на огромные вычисления.",
+   "term": "вычислительные ресурсы — мощные процессоры и графические карты, используемые для обучения и работы ИИ‑моделей",
+   "use": [
+    "Если работаете в сфере ИИ, учитывайте, что крупные проекты требуют значительных вычислительных мощностей.",
+    "Для небольших проектов ищите облачные сервисы с гибкой оплатой, чтобы не переплачивать за ресурсы."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c546a70dbf994e",
+   "date": "2026-10-29T13:00:00Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+   "title_en": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+   "summary_en": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+   "pending": false,
+   "title_ru": "Deepgram покупает Daily, создателя Pipecat, для улучшения голосовой ИИ‑инфраструктуры",
+   "simple": "Deepgram приобрела компанию Daily, разработчика технологии Pipecat. Это поможет Deepgram лучше работать с реальными голосовыми и видеопотоками.",
+   "term": "инфраструктура — совокупность технологий и сервисов, обеспечивающих работу приложений, в данном случае для голосового ИИ",
+   "use": [
+    "Изучите возможности Pipecat для интеграции в свои голосовые сервисы.",
+    "Обратите внимание на совместимость новых функций с текущими продуктами компании."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "fd92a529665f18",
+   "date": "2026-10-29T13:00:00Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+   "title_en": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+   "summary_en": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+   "pending": false,
+   "title_ru": "Alexa теперь умеет управлять списками покупок и подписками",
+   "simple": "Amazon обновила Alexa, добавив возможность создавать и редактировать списки покупок, а также управлять подписками и инструкциями доставки. Это упрощает голосовое управление покупками.",
+   "term": "",
+   "use": [
+    "Попробуйте создать список покупок через голосовой запрос и проверяйте его в приложении Alexa.",
+    "Настройте голосовые команды для изменения подписок и доставки, чтобы экономить время."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "6b9126ef4fcd77",
    "date": "2026-10-29T12:44:15Z",
@@ -87,6 +602,48 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "d28967fce9c692",
+   "date": "2026-10-29T09:00:00Z",
+   "addedAt": "2026-10-29T19:42:44Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "title_en": "How we detect frontier model misalignment",
+   "summary_en": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+   "pending": false,
+   "title_ru": "OpenAI объясняет, как обнаруживает несоответствия моделей‑пограничников",
+   "simple": "OpenAI рассказала о многоуровневом мониторинге, который позволяет выявлять отклонения поведения моделей и несанкционированные действия агентов, чтобы вовремя вмешаться.",
+   "term": "модель‑пограничник — крупная ИИ‑модель, работающая на границе возможностей и рисков",
+   "use": [
+    "Следите за новостями о методах мониторинга, чтобы применять лучшие практики в своих проектах.",
+    "Разработайте простые правила для автоматического оповещения о подозрительном поведении ИИ."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2d9928289658e9",
+   "date": "2026-10-29T07:00:00Z",
+   "addedAt": "2026-10-29T19:42:44Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/ropes-gray-ai-diligence",
+   "title_en": "How Ropes & Gray is developing AI for transactional diligence",
+   "summary_en": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+   "pending": false,
+   "title_ru": "Ropes & Gray используют ИИ от OpenAI для юридической проверки сделок",
+   "simple": "Юридическая фирма Ropes & Gray совместно с OpenAI разрабатывает ИИ, который помогает группировать документы, создавать их резюме и готовить отчёты перед советами клиентам.",
+   "term": "транзакционная проверка — процесс анализа документов и данных при заключении сделок",
+   "use": [
+    "Изучите, как ИИ может автоматически резюмировать юридические документы.",
+    "Внедрите инструменты для предварительного анализа договоров, чтобы ускорить работу с клиентами."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "e417a2d85675ac",
    "date": "2026-10-29T06:30:04Z",
    "addedAt": "2026-10-29T13:17:41Z",
@@ -126,6 +683,48 @@
    ],
    "money": null,
    "category": "Open source",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "e1c742c1d925ba",
+   "date": "2026-10-29T00:00:00Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/announcing-project-protostar",
+   "title_en": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Project ProtoStar: подготовка публичных научных данных к использованию ИИ",
+   "simple": "Hugging Face объявила о проекте ProtoStar, цель которого — сделать научные данные, полученные из государственных грантов, готовыми к обучению ИИ‑моделей.",
+   "term": "",
+   "use": [
+    "Следите за открытыми наборами данных в рамках ProtoStar для обучения своих моделей.",
+    "Подготовьте свои проекты к использованию готовых научных датасетов, экономя время на сборе данных."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a1765f446c5b64",
+   "date": "2026-10-29T00:00:00Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/mistral-large4",
+   "title_en": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Mistral Large 4 теперь доступна на Hugging Face под именем Le Chonk",
+   "simple": "Hugging Face разместила большую языковую модель Mistral Large 4, получившую прозвище Le Chonk, для публичного использования.",
+   "term": "",
+   "use": [
+    "Попробуйте запустить Le Chonk через интерфейс Hugging Face для генерации текста.",
+    "Сравните её результаты с другими моделями, чтобы выбрать оптимальную для своих задач."
+   ],
+   "money": null,
+   "category": "Модели",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -2369,6 +2968,17 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "71784ce3534e69",
+   "date": "2026-10-26T17:26:36Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+   "title_en": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+   "summary_en": "Investigators explain how highway thieves stole $100M in data center equipment.",
+   "pending": true
+  },
+  {
    "id": "4a8f41d180d7e4",
    "date": "2026-10-26T17:10:23Z",
    "addedAt": "2026-10-26T20:38:00Z",
@@ -2430,6 +3040,17 @@
    "money": null,
    "category": "Железо",
    "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d4fc15392e5cfc",
+   "date": "2026-10-26T16:15:00Z",
+   "addedAt": "2026-10-29T19:42:49Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+   "title_en": "webframe: evaluated as a scraper and a sandbox",
+   "summary_en": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard output and any exceptions to standard error. It's written in Go on top of the glaze library, which provides access to a system browser (\"WKWebView on macOS, WebKitGTK on Linux, WebView2 on Windows\") so it doesn't need to bundle its own browser engine. It reminds me of my own shot-scraper javascript tool, albeit in a much smaller package that doesn't depend on Playwright. I had Claude Opus 5.5 put it through its paces and…",
+   "pending": true
   },
   {
    "id": "5ecfeeaf9cec8d",
@@ -3504,6 +4125,17 @@
    "money": null,
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "e44aee2d440224",
+   "date": "2026-10-23T17:18:31Z",
+   "addedAt": "2026-10-29T19:42:48Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+   "title_en": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+   "summary_en": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+   "pending": true
   },
   {
    "id": "298c8de07d18f4",
