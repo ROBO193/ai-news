@@ -1,7 +1,284 @@
 {
- "updated": "2026-10-30T13:09:46Z",
+ "updated": "2026-10-30T18:40:43Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "c4dbacf8aa2b8b",
+   "date": "2026-10-30T18:21:38Z",
+   "addedAt": "2026-10-30T18:40:02Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+   "title_en": "Google’s satellite AI server transmits its first response to Earth",
+   "summary_en": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]",
+   "pending": false,
+   "title_ru": "Сателлит Google с ИИ впервые ответил на Землю",
+   "simple": "Google запустил спутник с чипами для ИИ и получил первый ответ — модель Gemma 4 написала хайку о космосе. Это показывает, что мощные ИИ‑процессоры могут работать в условиях орбиты.",
+   "term": "Tensor Processing Unit — специализированный процессор от Google для ускорения вычислений нейронных сетей",
+   "use": [
+    "Следите за новостями о спутниковых ИИ‑сервисах, они могут появиться в облачных решениях.",
+    "Подумайте, как использовать удалённые вычисления для задач, требующих высокой пропускной способности.",
+    "Если вы разработчик, изучайте возможности работы с моделями на Edge‑устройствах."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b2263e9f84127c",
+   "date": "2026-10-30T17:57:24Z",
+   "addedAt": "2026-10-30T18:40:02Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+   "title_en": "nemotron-halloween",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Новый модельный релиз nemotron‑halloween",
+   "simple": "Hugging Face анонсировал модель под названием nemotron‑halloween. Пока детали неизвестны, но название указывает на экспериментальный выпуск в рамках серии моделей.",
+   "term": "",
+   "use": [],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d52c9778a55e47",
+   "date": "2026-10-30T17:47:12Z",
+   "addedAt": "2026-10-30T18:40:03Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+   "title_en": "Zest’s new AI agent finds restaurants and books reservations over text",
+   "summary_en": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+   "pending": false,
+   "title_ru": "AI‑агент Zest подбирает рестораны и бронирует столы через SMS",
+   "simple": "Сервис Zest запустил ИИ‑консьержа, который собирает предпочтения группы, предлагает варианты и делает резервирование по смс. Это упрощает совместный выбор места для еды.",
+   "term": "",
+   "use": [
+    "Попробуйте использовать Zest, если часто планируете встречи с друзьями и хотите быстро согласовать ресторан.",
+    "Внедрите похожий чат‑бот в свой бизнес, чтобы автоматизировать бронирования.",
+    "Следите за интеграциями AI‑агентов в мессенджерах для повышения клиентского сервиса."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b10570d1171fb8",
+   "date": "2026-10-30T17:38:19Z",
+   "addedAt": "2026-10-30T18:40:02Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+   "title_en": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "summary_en": "Low costs and offline security mean magnetic tape still has a job.",
+   "pending": false,
+   "title_ru": "Fujifilm увеличит производство магнитных лент из‑за спроса на ИИ‑архивирование",
+   "simple": "Fujifilm планирует увеличить производство магнитных лент в 5 раз, потому что ИИ‑системы требуют надёжного и дешёвого офлайн‑хранилища данных. Ленты остаются актуальными для долгосрочного архивирования.",
+   "term": "",
+   "use": [
+    "Если вы храните большие объёмы данных, рассмотрите магнитные ленты как экономичный вариант резервного копирования.",
+    "Обратите внимание на совместимость лент с вашими ИИ‑проектами, где важна безопасность данных.",
+    "Следите за ценами и доступностью лент, они могут стать выгодным ресурсом для небольших компаний."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "0de3f9697e499a",
+   "date": "2026-10-30T17:38:04Z",
+   "addedAt": "2026-10-30T18:40:02Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+   "title_en": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+   "summary_en": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More […]",
+   "pending": false,
+   "title_ru": "Starbucks планирует персонализированное цифровое меню в драйв‑труе с ИИ",
+   "simple": "Starbucks исследует возможность показывать каждому клиенту индивидуальное меню в окне заказа, используя ИИ для распознавания и предсказания предпочтений. Это может ускорить обслуживание и повысить удовлетворённость.",
+   "term": "",
+   "use": [
+    "Следите за внедрением персонализированных меню в кафе, они могут стать новым стандартом обслуживания.",
+    "Если вы владелец малого кафе, попробуйте простые системы рекомендаций на основе покупок клиентов.",
+    "Изучайте, как ИИ может анализировать предпочтения, чтобы предлагать более релевантные товары."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "135f70cd39eb4c",
+   "date": "2026-10-30T17:00:00Z",
+   "addedAt": "2026-10-30T18:40:03Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+   "title_en": "Google’s first data center satellite is online and writing poetry",
+   "summary_en": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+   "pending": false,
+   "title_ru": "Первый спутник‑центр данных Google пишет стихи в космосе",
+   "simple": "На орбите работает первый в мире TPU‑чип Google, который генерирует поэзию с помощью модели Gemma 4. Это демонстрирует, что ИИ‑модели могут выполнять творческие задачи даже в космосе.",
+   "term": "",
+   "use": [
+    "Следите за развитием облачных сервисов, которые могут использовать спутниковые вычисления.",
+    "Если вы исследователь, подумайте о возможностях распределённых ИИ‑вычислений для обработки данных в реальном времени.",
+    "Изучайте, как модели могут генерировать контент в ограниченных ресурсных средах."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "1a9f926a45b8d1",
+   "date": "2026-10-30T16:53:49Z",
+   "addedAt": "2026-10-30T18:40:02Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+   "title_en": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+   "summary_en": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+   "pending": false,
+   "title_ru": "«Призрачные студенты» используют ИИ для кражи студенческих займов",
+   "simple": "Служба правосудия обнаружила, что мошенники создают фальшивые студенческие профили и используют ИИ, чтобы оформить миллионы долларов займов. Это показывает, как технологии могут облегчать финансовое мошенничество.",
+   "term": "ghost student — фальшивый студент, созданный в системе подачи заявок на финансовую помощь для получения займов.",
+   "use": [
+    "Проверьте свои данные в FAFSA на предмет подозрительных записей.",
+    "Если вы работаете в образовании, внедрите двойную проверку личности заявителей."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "8cb2db80dc5c1d",
+   "date": "2026-10-30T16:03:45Z",
+   "addedAt": "2026-10-30T18:40:03Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+   "title_en": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+   "summary_en": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+   "pending": false,
+   "title_ru": "Тайлер Шульц предупреждает: ИИ — шанс обмануть людей",
+   "simple": "Бывший сотрудник Theranos считает, что быстрый рост ИИ создаёт возможности для новых мошенничеств, когда компании без прибыли привлекают огромные инвестиции. Это напоминает о необходимости критически оценивать обещания стартапов.",
+   "term": "Trillion‑dollar valuation — оценка компании в триллион долларов, часто основанная на ожиданиях, а не на реальных доходах.",
+   "use": [
+    "При оценке стартапов проверяйте реальные показатели, а не только обещания технологий.",
+    "Если вы инвестор, требуйте прозрачные финансовые отчёты."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "974d9b85c8fb96",
+   "date": "2026-10-30T15:14:37Z",
+   "addedAt": "2026-10-30T18:40:02Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+   "title_en": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+   "summary_en": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many […]",
+   "pending": false,
+   "title_ru": "Папа Лев XIV призывает к разоружению ИИ",
+   "simple": "Папа Лев XIV заявил, что ИИ‑системы должны быть «разоружены», особенно автономное оружие, и призвал ООН к запрету таких технологий. Это усиливает дискуссию о моральных границах ИИ.",
+   "term": "lethal autonomous weapons — автономные системы, способные принимать решения об использовании силы без человеческого контроля.",
+   "use": [
+    "Следите за законодательными инициативами в своей стране о регулировании ИИ‑оружия.",
+    "Если вы работаете в сфере безопасности, изучайте этические стандарты применения ИИ."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "4a4bcbde667c12",
+   "date": "2026-10-30T15:00:10Z",
+   "addedAt": "2026-10-30T18:40:02Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+   "title_en": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+   "summary_en": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
+   "pending": false,
+   "title_ru": "ИИ‑агенты помогают искать сигналы внеземных цивилизаций",
+   "simple": "Исследователи используют ИИ‑агенты для анализа радиосигналов в поисках признаков внеземного разума, что ускоряет процесс обработки огромных массивов данных. Это пример применения ИИ в астрономии.",
+   "term": "agentic AI — ИИ‑система, способная самостоятельно принимать решения и выполнять задачи без постоянного вмешательства человека.",
+   "use": [
+    "Если вы интересуетесь астрономией, изучайте открытые наборы данных SETI и инструменты ИИ для их анализа.",
+    "Подпишитесь на научные каналы, где публикуются результаты подобных исследований."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "96a0f026f2e040",
+   "date": "2026-10-30T14:36:54Z",
+   "addedAt": "2026-10-30T18:40:03Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+   "title_en": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+   "summary_en": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]",
+   "pending": false,
+   "title_ru": "Вредоносное расширение Claude Code ставит SSH‑бэкдоры",
+   "simple": "Злоумышленники распространили поддельную версию расширения Claude Code, которое устанавливает скрытые SSH‑бэкдоры на компьютеры разработчиков, затронув до 5 000 человек. Это показывает риски использования сторонних плагинов.",
+   "term": "SSH backdoor — скрытый способ доступа к серверу через протокол SSH, позволяющий обойти обычную аутентификацию.",
+   "use": [
+    "Проверяйте подписи и источники всех установленных расширений в IDE.",
+    "Регулярно обновляйте антивирус и сканируйте систему на наличие подозрительных программ."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f986a412ee0ee4",
+   "date": "2026-10-30T13:54:25Z",
+   "addedAt": "2026-10-30T18:40:03Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+   "title_en": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+   "summary_en": "DoorDash said that it is open to working with third-party agent makers.",
+   "pending": false,
+   "title_ru": "DoorDash получил лишь несколько сотен заказов от AI‑агентов",
+   "simple": "DoorDash сообщил, что от программ‑агентов поступило лишь несколько сотен заказов. Компания открыта к сотрудничеству с разработчиками таких агентов, что может расширить их использование.",
+   "term": "AI‑агент — программное приложение, автоматически выполняющее задачи от имени пользователя.",
+   "use": [
+    "Отслеживайте, какие сервисы предлагают интеграцию с AI‑агентами, чтобы улучшить автоматизацию заказов.",
+    "Если вы разработчик, изучите API DoorDash для создания собственного агента.",
+    "Следите за новостями о партнёрствах DoorDash, чтобы вовремя подключиться к новым возможностям."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "5ec9437afb1392",
+   "date": "2026-10-30T13:11:05Z",
+   "addedAt": "2026-10-30T18:40:02Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+   "title_en": "Silicon Valley wants you to invest in miracles",
+   "summary_en": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, […]",
+   "pending": false,
+   "title_ru": "Силиконовая долина предлагает инвестировать в «чудеса» технологий",
+   "simple": "В статье обсуждается, как инвестировать в технологии, которые могут либо представлять огромные риски, либо открыть новые возможности. Это актуально для тех, кто следит за будущим искусственного интеллекта.",
+   "term": "Экзистенциальный риск — возможность, что технология может угрожать существованию человечества.",
+   "use": [
+    "Изучайте аналитические отчёты о технологических стартапах, чтобы понять их потенциальные риски и выгоды.",
+    "Следите за регулятивными инициативами, которые могут влиять на развитие ИИ‑технологий.",
+    "Обсуждайте с экспертами, какие направления ИИ считаются наиболее безопасными и перспективными."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "fd4521a185997c",
    "date": "2026-10-30T13:05:28Z",
@@ -115,6 +392,28 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "25cc4c9bb2e3e7",
+   "date": "2026-10-30T09:30:00Z",
+   "addedAt": "2026-10-30T18:39:58Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "title_en": "Making it easier for websites to express AI training preferences",
+   "summary_en": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+   "pending": false,
+   "title_ru": "OpenAI будет учитывать сигнал robots.txt для обучения моделей",
+   "simple": "OpenAI объявила, что будет уважать специальный сигнал в файле robots.txt, позволяющий владельцам сайтов указывать, хотят ли они, чтобы их контент использовался для обучения ИИ. Это повышает контроль над данными.",
+   "term": "robots.txt — файл, в котором веб‑сайт указывает, какие боты могут его сканировать и какие части запрещены.",
+   "use": [
+    "Если у вас сайт, добавьте в robots.txt специальный сигнал, если не хотите, чтобы ваш контент использовался для обучения ИИ.",
+    "Следите за обновлениями OpenAI, чтобы знать, как они обрабатывают такие сигналы.",
+    "При планировании сбора данных учитывайте, что некоторые ресурсы могут ограничить доступ для обучения моделей."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "27aad19a5fa7c1",
    "date": "2026-10-30T09:23:25Z",
    "addedAt": "2026-10-30T13:09:20Z",
@@ -128,6 +427,28 @@
    "simple": "Модель GLM-5.3 от Zhipu AI смогла выполнить сложные сценарии кибератак, не отказываясь от задач. Компания Irregular считает это лучшим результатом для открытой модели.",
    "term": "open-weight model — модель с открытыми весами, позволяющая исследователям изучать её внутренности",
    "use": [],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c7606af40dbb90",
+   "date": "2026-10-30T09:00:00Z",
+   "addedAt": "2026-10-30T18:39:58Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+   "title_en": "Community safety report and new protections for teens",
+   "summary_en": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+   "pending": false,
+   "title_ru": "OpenAI усиливает защиту от насилия в ChatGPT",
+   "simple": "OpenAI улучшила систему предотвращения насилия в ChatGPT, добавив более ранние вмешательства и расширив отчётность о безопасности. Это делает чат‑бот более безопасным для пользователей.",
+   "term": "Система предотвращения насилия — набор механизмов, ограничивающих генерацию опасного или агрессивного контента.",
+   "use": [
+    "При работе с ChatGPT учитывайте, что новые ограничения могут влиять на ответы по чувствительным темам.",
+    "Используйте обновлённые функции безопасности для создания более ответственного контента.",
+    "Следите за официальными рекомендациями OpenAI по безопасному использованию модели."
+   ],
    "money": null,
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
@@ -1086,6 +1407,28 @@
    ],
    "money": null,
    "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6750c246141218",
+   "date": "2026-10-29T00:00:00Z",
+   "addedAt": "2026-10-30T18:39:58Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/credit-saison",
+   "title_en": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+   "summary_en": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+   "pending": false,
+   "title_ru": "Credit Saison получил 954% доход от пилотного проекта ChatGPT Enterprise",
+   "simple": "Компания Credit Saison провела пилотный проект с ChatGPT Enterprise и достигла возврата инвестиций в 954 %. Руководство и сотрудники помогли масштабировать результаты на всю компанию, что показывает потенциал ИИ в бизнесе.",
+   "term": "ROI — показатель возврата инвестиций, измеряющий, сколько прибыли получено на каждый вложенный доллар.",
+   "use": [
+    "Оцените, какие задачи в вашем отделе могут автоматизировать ИИ‑модели, чтобы повысить эффективность.",
+    "Попробуйте запустить небольшой пилотный проект с ChatGPT в своей компании и измерьте экономический эффект.",
+    "Подготовьте план масштабирования успешных ИИ‑решений на другие подразделения."
+   ],
+   "money": null,
+   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   },
   {
