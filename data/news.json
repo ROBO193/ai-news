@@ -1,7 +1,277 @@
 {
- "updated": "2026-10-30T18:40:43Z",
+ "updated": "2026-10-30T23:02:42Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "43523836c60442",
+   "date": "2026-10-30T22:56:13Z",
+   "addedAt": "2026-10-30T23:02:06Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+   "title_en": "Ollie, a privacy-focused AI assistant, is shutting down",
+   "summary_en": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+   "pending": false,
+   "title_ru": "AI‑ассистент Ollie, ориентированный на конфиденциальность, закрывается",
+   "simple": "Создатель Ollie объявил, что сервис, который защищал личные данные пользователей, будет закрыт через неделю. Это происходит на фоне роста количества AI‑ассистентов на рынке.",
+   "term": "",
+   "use": [
+    "Откажитесь от использования Ollie и найдите альтернативу, которая тоже гарантирует конфиденциальность.",
+    "Следите за новостями о новых сервисах, которые обещают защиту данных, чтобы выбрать безопасный вариант."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "011fdc062b2b84",
+   "date": "2026-10-30T22:32:53Z",
+   "addedAt": "2026-10-30T23:02:05Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+   "title_en": "Apple Intelligence is finally coming to China with iOS 27.3",
+   "summary_en": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring […]",
+   "pending": false,
+   "title_ru": "Apple Intelligence появится в Китае в iOS 27.3",
+   "simple": "Apple анонсировала, что функция Apple Intelligence будет доступна в Китае в бета‑версии iOS 27.3, а полная версия выйдет в декабре. Это расширит возможности локального ИИ‑помощника для китайских пользователей.",
+   "term": "",
+   "use": [
+    "Обновите iPhone до бета‑версии, когда она появится, чтобы протестировать новые функции.",
+    "Следите за официальными инструкциями Apple, чтобы правильно настроить персональные сценарии работы с ИИ."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "25a528e218b108",
+   "date": "2026-10-30T22:04:23Z",
+   "addedAt": "2026-10-30T23:02:05Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+   "title_en": "The biggest names in AI are backing a new way to opt out of scraping",
+   "summary_en": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal […]",
+   "pending": false,
+   "title_ru": "Крупные AI‑компании согласились на новый способ отказа от скрейпинга контента",
+   "simple": "OpenAI, Google, Microsoft и Anthropic поддержали стандарт, позволяющий издателям указывать, что их материалы нельзя использовать для обучения ИИ. Это упрощает процесс отказа от скрейпинга, потому что один сигнал будет работать для всех компаний.",
+   "term": "policy token — специальный сигнал, который издатель добавляет в свой сайт, чтобы сообщить ИИ‑моделям, что контент нельзя использовать для обучения.",
+   "use": [
+    "Если у вас есть веб‑ресурс, проверьте возможность добавить policy token, чтобы защитить контент.",
+    "Следите за обновлениями стандартов, чтобы быть уверенным, что ваш отказ от скрейпинга учитывается всеми крупными AI‑платформами."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "60ba719a05749c",
+   "date": "2026-10-30T21:52:03Z",
+   "addedAt": "2026-10-30T23:02:06Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+   "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+   "summary_en": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+   "pending": false,
+   "title_ru": "Anthropic может получить низкий кредитный рейтинг после IPO",
+   "simple": "Аналитики считают, что после выхода на биржу Anthropic получит «junk‑rating», что усложнит привлечение инвестиций для финансирования больших расходов компании.",
+   "term": "",
+   "use": [
+    "Следите за новостями о финансировании AI‑стартапов, чтобы понять, какие компании могут искать партнёров или подрядчиков.",
+    "Если вы работаете в сфере AI‑услуг, учитывайте, что компании с высоким кредитным риском могут искать внешние решения для снижения расходов."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "df26d5473c418f",
+   "date": "2026-10-30T21:41:54Z",
+   "addedAt": "2026-10-30T23:02:06Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+   "title_en": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+   "summary_en": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+   "pending": false,
+   "title_ru": "Проект сверхзвукового самолёта Boom отложен, компания переключается на питание AI‑центров",
+   "simple": "Компания Boom объявила, что её сверхзвуковой пассажирский самолёт может задержаться, а бизнес по поставке энергии для AI‑центров потерял крупного клиента. Это показывает, как приоритеты в сфере AI могут менять стратегию компаний.",
+   "term": "",
+   "use": [
+    "Если вы работаете в сфере энергетики, изучите требования AI‑центров к энергоэффективности, чтобы предлагать конкурентные решения.",
+    "Следите за изменениями в планах компаний, работающих с AI‑инфраструктурой, чтобы своевременно адаптировать свои предложения."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "0806533d8a7105",
+   "date": "2026-10-30T21:26:59Z",
+   "addedAt": "2026-10-30T23:02:06Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+   "title_en": "Last-minute Halloween costumes for tech nerds",
+   "summary_en": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+   "pending": false,
+   "title_ru": "Костюмы на Хэллоуин для технари: AI‑агент, уязвимость PHP и др.",
+   "simple": "Если нет костюма, можно одеться как иконка AI‑агента, уязвимость в PHP или персонаж из проекта Брайана Джонсона. Это простой способ выглядеть оригинально и по‑техноло­гическому.",
+   "term": "",
+   "use": [],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a7904f9e100d0c",
+   "date": "2026-10-30T21:19:26Z",
+   "addedAt": "2026-10-30T23:02:06Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+   "title_en": "How a Contractor’s Claude Agent Got Into the Pentagon",
+   "summary_en": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
+   "pending": false,
+   "title_ru": "Как агент Claude попал в Пентагон",
+   "simple": "В подкасте Uncanny Valley рассказали, как агент ИИ Claude от Anthropic оказался в системе Пентагона. Это показывает, как быстро ИИ‑технологии могут попасть в государственные структуры.",
+   "term": "Агент — программный помощник, который автоматически выполняет задачи, используя модель ИИ.",
+   "use": [
+    "Обратите внимание на возможности интеграции ИИ‑агентов в корпоративные процессы.",
+    "Следите за новостями о правовых и этических нормах при использовании ИИ в госструктурах."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f1f6194d203671",
+   "date": "2026-10-30T21:17:40Z",
+   "addedAt": "2026-10-30T23:02:06Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+   "title_en": "Cracks are emerging in the AI spending boom",
+   "summary_en": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+   "pending": false,
+   "title_ru": "Сомнения в устойчивости бума расходов на ИИ",
+   "simple": "Крупные технологические компании тратят миллиарды на инфраструктуру ИИ, но растущий долг и скепсис инвесторов ставят под вопрос, насколько долго продлится этот рост расходов. Это важно для понимания будущих инвестиций в ИИ.",
+   "term": "Кэш‑флоу — разница между притоком и оттоком денежных средств компании.",
+   "use": [
+    "Следите за финансовыми отчётами компаний, инвестирующих в ИИ, чтобы оценить их устойчивость.",
+    "Оценивайте, насколько ваш бизнес может выдержать рост расходов на ИИ‑технологии."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ce0cce9f3bc556",
+   "date": "2026-10-30T21:09:54Z",
+   "addedAt": "2026-10-30T23:02:06Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+   "title_en": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+   "summary_en": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+   "pending": false,
+   "title_ru": "Backdoor в расширении Anthropic VS Code на Cursor почти 12 часов",
+   "simple": "Расширение для VS Code от Anthropic, связанное с Cursor, было скомпрометировано почти полдня. Пока неизвестно, как злоумышленники получили доступ к проверенному аккаунту Anthropic.",
+   "term": "Backdoor — скрытый способ доступа к системе, позволяющий обойти обычные меры защиты.",
+   "use": [
+    "Проверьте подписи и источники всех установленных расширений в IDE.",
+    "Обновляйте инструменты разработки сразу после выхода патчей безопасности."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f167e37bde6d31",
+   "date": "2026-10-30T21:09:46Z",
+   "addedAt": "2026-10-30T23:02:06Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+   "title_en": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+   "summary_en": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
+   "pending": false,
+   "title_ru": "Критическая уязвимость ядра Linux: удалённый доступ root на серверах MPTCP",
+   "simple": "Исследователи из Anthropic нашли эксплойт, позволяющий неавторизованным злоумышленникам получить права root на серверах с Multipath TCP. Это серьёзная угроза для инфраструктуры.",
+   "term": "Root — привилегированный пользователь в Unix‑подобных системах с полным доступом к системе.",
+   "use": [
+    "Обновите ядро Linux до версии, где уязвимость исправлена.",
+    "Отключите или ограничьте использование Multipath TCP, если он не критичен для ваших сервисов."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "e6a83342c0c51d",
+   "date": "2026-10-30T20:48:43Z",
+   "addedAt": "2026-10-30T23:02:05Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+   "title_en": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+   "summary_en": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want […]",
+   "pending": false,
+   "title_ru": "Сэм Альтман: лучше держать RAM в дата‑центре, а не в ПК",
+   "simple": "Генеральный директор OpenAI Сэм Альтман сказал, что из‑за нехватки оперативной памяти лучше использовать её в дата‑центрах, а не в персональных компьютерах. Это отражает текущие проблемы цепочек поставок в сфере железа.",
+   "term": "RAM — оперативная память, используемая для временного хранения данных, необходимых процессору.",
+   "use": [
+    "Если вы планируете запускать тяжёлые ИИ‑модели, рассматривайте облачные решения с мощными серверами.",
+    "Следите за новостями о поставках компонентов, чтобы своевременно планировать обновления оборудования."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "65d255a74525f3",
+   "date": "2026-10-30T20:40:13Z",
+   "addedAt": "2026-10-30T23:02:06Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+   "title_en": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+   "summary_en": "People who love AI don't always love telling others they used it.",
+   "pending": false,
+   "title_ru": "Провост Дартмута потерял работу из‑за собственного использования ИИ",
+   "simple": "Провост Дартмута предупреждал о том, что студенты могут списывать с помощью ИИ, но сам активно использовал ИИ в работе и был уволен. Это показывает, как двойные стандарты могут привести к последствиям.",
+   "term": "AI cheating — использование искусственного интеллекта для выполнения учебных или рабочих заданий вместо человека.",
+   "use": [
+    "Обратите внимание, что открытое использование ИИ в профессиональной сфере может вызвать вопросы у руководства.",
+    "Если вы используете ИИ, будьте готовы объяснить, как и зачем вы это делаете, чтобы избежать недоразумений."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "538ea1326a6a8f",
+   "date": "2026-10-30T19:30:52Z",
+   "addedAt": "2026-10-30T23:02:06Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+   "title_en": "Basically no one is using AI agents for their DoorDash orders",
+   "summary_en": "But it's still early days for the relatively new e-commerce use case.",
+   "pending": false,
+   "title_ru": "AI‑агенты пока почти не используют для заказов DoorDash",
+   "simple": "Хотя идея использовать ИИ‑агентов для автоматизации заказов в DoorDash уже существует, на практике почти никто этим не пользуется, потому что технология ещё в ранней стадии развития.",
+   "term": "AI‑агент — программный помощник, который автоматически выполняет задачи, например, делает заказы, используя искусственный интеллект.",
+   "use": [
+    "Следите за появлением сервисов, предлагающих автоматизацию заказов, чтобы быть первым пользователем.",
+    "Если вы разработчик, изучите, как интегрировать AI‑агенты в e‑commerce, чтобы предложить клиентам новые возможности."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "c4dbacf8aa2b8b",
    "date": "2026-10-30T18:21:38Z",
@@ -470,6 +740,27 @@
     "Уточните в своей компании, есть ли возможность оформить подобное исключение, если у вас есть религиозные возражения.",
     "Следите за изменениями в политике использования ИИ, чтобы знать, какие требования могут появиться.",
     "Если вы руководите командой, обсудите гибкие подходы к внедрению ИИ, учитывая разные убеждения сотрудников."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d2282bcce1625c",
+   "date": "2026-10-30T00:00:00Z",
+   "addedAt": "2026-10-30T23:02:02Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/fair-use-benefits-everyone",
+   "title_en": "Fair use benefits everyone",
+   "summary_en": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+   "pending": false,
+   "title_ru": "Честное использование поддерживает обучение ИИ",
+   "simple": "OpenAI опубликовала выдержки из судебных материалов, показывающие, как доктрина честного использования помогает обучать ИИ и развивать инновации.",
+   "term": "Честное использование — юридический принцип, позволяющий использовать защищённые авторским правом материалы без разрешения в определённых целях, например, для обучения ИИ.",
+   "use": [
+    "При создании обучающих наборов данных учитывайте правила честного использования, чтобы избежать юридических проблем.",
+    "Если вы разрабатываете ИИ‑продукты, изучите примеры из судебных дел, чтобы понять, какие материалы можно использовать легально."
    ],
    "money": null,
    "category": "Регулирование",
@@ -12640,173 +12931,6 @@
    "category": "Исследования",
    "model": "openai/gpt-oss-120b",
    "money": null
-  },
-  {
-   "id": "93062c67d6f00e",
-   "date": "2026-10-12T15:54:36Z",
-   "addedAt": "2026-10-17T00:34:31Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
-   "title_en": "web-edit 0.1a0",
-   "summary_en": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Extra High build this Python web app which provides a web UI for viewing and editing files in a folder. It's intended to be run over Tailscale, so I can have an agent start this running and then edit files via my Tailscale network directly from my phone. Here's the interface for browsing files in a folder: Editing uses CodeMirror 6 - I was going to use Monaco but that still doesn't have a great mobile experience yet. Tags: projects , python , ai , tailscale…",
-   "pending": false,
-   "title_ru": "web‑edit 0.1a0: веб‑интерфейс для редактирования файлов через Tailscale",
-   "simple": "Создано небольшое веб‑приложение, позволяющее просматривать и менять файлы в папке через защищённую сеть Tailscale, управляемое с телефона. Для редактирования используется редактор CodeMirror 6.",
-   "term": "CodeMirror 6 — библиотека JavaScript, предоставляющая в браузере полноценный редактор кода с подсветкой и автодополнением.",
-   "use": [
-    "Запустите web‑edit на сервере, подключенном к Tailscale, чтобы безопасно редактировать файлы удалённо.",
-    "Используйте мобильный браузер, чтобы менять конфигурацию или скрипты без необходимости переносить файлы вручную.",
-    "Настройте права доступа в Tailscale, чтобы только уполномоченные устройства могли видеть и менять файлы."
-   ],
-   "money": null,
-   "category": "Open source",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "9c679f3096ea25",
-   "date": "2026-10-12T15:00:25Z",
-   "addedAt": "2026-10-15T17:18:22Z",
-   "source": "NVIDIA",
-   "sourceType": "company",
-   "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
-   "title_en": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-   "summary_en": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA announced new partnerships and contributions aimed at […]",
-   "pending": false,
-   "title_ru": "NVIDIA открывает архитектуру Vera Rubin для масштабирования AI‑фабрик",
-   "simple": "На OCP Global Summit NVIDIA представила открытый стандарт Vera Rubin, который поможет строить крупные AI‑инфраструктуры более эффективно. Это важно для компаний, планирующих масштабировать вычислительные мощности от мегаватт до гигаватт.",
-   "term": "AI‑фабрика — крупномасштабный центр обработки данных, специально оптимизированный для обучения и вывода ИИ‑моделей.",
-   "use": [
-    "Изучите открытый стандарт Vera Rubin, если планируете расширять вычислительные мощности для ИИ.",
-    "Обратите внимание на совместимость оборудования с этим стандартом при выборе серверов и сетевых решений."
-   ],
-   "category": "Железо",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "5528ba1d9cba34",
-   "date": "2026-10-10T02:04:12Z",
-   "addedAt": "2026-10-15T17:18:24Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-   "title_en": "Quoting The New York Times",
-   "summary_en": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said. — The New York Times , Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website Tags: accidental-cyberattacks , anthropic , generative-ai , ai , llms",
-   "pending": false,
-   "title_ru": "Агенты Anthropic пытались заполнить визовые формы на сайте Госдепартамента",
-   "simple": "Anthropic раскрыла, что её ИИ‑агенты отправляли 20 неполных заявок на визу через форму Госдепартамента, но заявки не прошли обработку. Инцидент показывает, как автоматические системы могут случайно взаимодействовать с внешними сервисами.",
-   "term": "агент — программный модуль, способный самостоятельно выполнять задачи, имитируя действия человека.",
-   "use": [
-    "Отслеживайте автоматические запросы ваших сервисов, чтобы избежать нежелательных действий.",
-    "Настройте ограничения доступа к внешним формам и API для ИИ‑систем.",
-    "Проводите тесты на безопасность, проверяя, как ваши модели взаимодействуют с публичными сайтами."
-   ],
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "baf7193e75c145",
-   "date": "2026-10-09T16:00:35Z",
-   "addedAt": "2026-10-15T17:18:22Z",
-   "source": "NVIDIA",
-   "sourceType": "company",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-   "title_en": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "summary_en": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
-   "pending": false,
-   "title_ru": "Разработчики используют AI‑агенты в NVIDIA Omniverse для создания симуляций",
-   "simple": "В NVIDIA Omniverse разработчики комбинируют передовые AI‑модели с библиотеками платформы, чтобы автоматизировать сборку сцен, физику и рендеринг. Это ускоряет создание симуляций для тестирования и проектирования.",
-   "term": "Omniverse — платформа NVIDIA для совместной работы над 3D‑симуляциями в реальном времени.",
-   "use": [
-    "Попробуйте интегрировать AI‑агенты в ваш процесс создания 3D‑моделей для ускорения рутинных задач.",
-    "Изучите возможности Omniverse, если работаете над инженерными или визуальными проектами."
-   ],
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "12c2c27c0af6f8",
-   "date": "2026-10-09T09:00:00Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "MIT Technology Review",
-   "sourceType": "media",
-   "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-   "title_en": "We’re putting too much faith in AI’s ability to say no",
-   "summary_en": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently, the idea that AI shouldn’t…",
-   "pending": false,
-   "title_ru": "Мы слишком доверяем способности ИИ говорить «нет»",
-   "simple": "Статьи обсуждают, что полагаться на то, что ИИ откажется выполнять опасные команды, опасно, потому что системы могут не отказываться так, как люди. Это важно для разработки безопасных ИИ‑систем.",
-   "term": "Этичный отказ ИИ — способность системы отклонять запросы, которые могут быть вредными или неэтичными.",
-   "use": [
-    "При проектировании ИИ‑систем включайте проверку запросов и ограничения на опасные действия.",
-    "Тестируйте, как система реагирует на потенциально опасные команды, и корректируйте её поведение."
-   ],
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "90995f7dbc9c26",
-   "date": "2026-10-09T07:00:00Z",
-   "addedAt": "2026-10-15T17:18:21Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/asana-browser-agent",
-   "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-   "summary_en": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-   "pending": false,
-   "title_ru": "Asana сократила затраты на модели в 76 раз с помощью GPT‑6.1 Sol",
-   "simple": "Asana использовала модель GPT‑6 Astra в Codex, что сделало их браузерный агент в 76 раз дешевле и в 5 раз быстрее в тестах, позволяя предлагать клиентам более мощные модели. Это демонстрирует экономию ресурсов при оптимизации AI‑решений.",
-   "term": "Инференс — запуск уже обученной модели для получения ответов.",
-   "use": [
-    "Если вы разрабатываете AI‑приложения, попробуйте более лёгкие модели для снижения расходов.",
-    "Оптимизируйте запросы к модели, чтобы ускорить работу и уменьшить затраты."
-   ],
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "edd58468d56444",
-   "date": "2026-10-09T07:00:00Z",
-   "addedAt": "2026-10-15T17:18:21Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/sophos",
-   "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "summary_en": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-   "pending": false,
-   "title_ru": "Sophos ускорил расследование угроз с OpenAI Daybreak",
-   "simple": "Компания Sophos использует модель Daybreak от OpenAI, чтобы сократить время расследования киберугроз почти до нуля и автоматизировать более половины случаев. Это показывает, как ИИ может облегчить работу специалистов по безопасности.",
-   "term": "MDR — Managed Detection and Response, сервис, где специалисты мониторят и реагируют на угрозы в сети",
-   "use": [
-    "Попробуйте узнать, какие инструменты ИИ предлагает ваш провайдер безопасности.",
-    "Обратите внимание на возможности автоматизации в текущих процессах расследования.",
-    "Сохраняйте человеческий контроль над автоматизированными решениями."
-   ],
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "577a3234004ba1",
-   "date": "2026-10-09T00:08:24Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "MIT Technology Review",
-   "sourceType": "media",
-   "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-   "title_en": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-   "summary_en": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…",
-   "pending": false,
-   "title_ru": "Создатель вирусов, спроектированных ИИ, рассказывает о работе",
-   "simple": "Студент Стэнфорда использовал генеративный ИИ, чтобы предложить генетические схемы микроскопических вирусов, показывая, что ИИ может помогать в проектировании биологических объектов. Это поднимает вопросы о будущих возможностях создания искусственной жизни.",
-   "term": "Генеративный ИИ — модель, создающая новые данные, например тексты или схемы, на основе обучающих примеров",
-   "use": [
-    "Следите за этическими рекомендациями в своей учебе или работе с биотехнологиями.",
-    "Обсудите с коллегами потенциальные риски использования ИИ в биологии.",
-    "Не используйте такие модели без надлежащего контроля и согласования с регуляторами."
-   ],
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
   }
  ]
 }
