@@ -1,7 +1,73 @@
 {
- "updated": "2026-10-31T15:47:18Z",
+ "updated": "2026-10-31T20:04:00Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "ba55b05e53eaee",
+   "date": "2026-10-31T18:01:12Z",
+   "addedAt": "2026-10-31T20:03:43Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+   "title_en": "Northflank security breach leads to abuse of customers' AI API keys",
+   "summary_en": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+   "pending": false,
+   "title_ru": "Утечка данных в Northflank: злоумышленники использовали AI‑ключи клиентов",
+   "simple": "Платформа Northflank сообщила о взломе, после которого злоумышленники получили доступ к API‑ключам искусственного интеллекта её клиентов. Пользователям советуют сразу сменить все пароли и секреты.",
+   "term": "API‑ключ — уникальный код, позволяющий программам обращаться к сервису ИИ и получать ответы",
+   "use": [
+    "Смените все пароли и токены в аккаунте Northflank.",
+    "Проверьте журналы доступа, чтобы увидеть подозрительные запросы к AI‑сервисам.",
+    "Настройте двухфакторную аутентификацию для защиты учётных записей."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "344dcf79744aa2",
+   "date": "2026-10-31T16:12:55Z",
+   "addedAt": "2026-10-31T20:03:43Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "title_en": "OpenAI reportedly lowers funding target for new round",
+   "summary_en": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+   "pending": false,
+   "title_ru": "OpenAI снижает цель привлечения инвестиций в новом раунде",
+   "simple": "Согласно сообщениям, OpenAI уменьшила планируемый объём финансирования в последнем раунде, что может указывать на изменения в стратегии компании.",
+   "term": "",
+   "use": [
+    "Следите за официальными анонсами OpenAI, чтобы понять, какие направления развития приоритетны.",
+    "Если вы разрабатываете решения на базе OpenAI, уточните условия доступа к API и цены.",
+    "Подготовьте свои проекты к возможным изменениям в тарифах и лимитах использования сервисов."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ed0268fa6e325c",
+   "date": "2026-10-31T16:09:02Z",
+   "addedAt": "2026-10-31T20:03:43Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+   "title_en": "I built an AI Tamagotchi before Meta could",
+   "summary_en": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]",
+   "pending": false,
+   "title_ru": "Автор создал AI‑Тамагочи до появления аналогов от Meta",
+   "simple": "Автор рассказал, как самостоятельно разработал виртуального помощника с искусственным интеллектом, похожего на популярный Tamagotchi, ещё до того, как Meta анонсировала свой Muse Charm.",
+   "term": "",
+   "use": [
+    "Попробуйте создать простого чат‑бота с помощью доступных онлайн‑инструментов, чтобы понять, как работает AI‑ассистент.",
+    "Изучите возможности интеграции небольших AI‑моделей в личные проекты, например, в мобильные приложения.",
+    "Следите за новыми гаджетами с AI, чтобы оценить, какие функции могут быть полезны в вашей работе или хобби."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "4e3b797fd4a7ce",
    "date": "2026-10-31T13:10:19Z",
@@ -12878,69 +12944,6 @@
     "Используйте полученные ролики в соцсетях или обучающих курсах, чтобы привлечь аудиторию."
    ],
    "category": "Применение",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "735d02276e5c54",
-   "date": "2026-10-13T11:00:00Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
-   "title_en": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
-   "summary_en": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
-   "pending": false,
-   "title_ru": "Википедия недооценила влияние ИИ, и это оказалось ошибкой",
-   "simple": "Статьи в Википедии стали реже использовать из‑за появления ИИ‑обзоров, но это может привести к более серьёзным последствиям, чем просто падение трафика. Автор считает, что упущена важная роль Википедии в эпоху ИИ.",
-   "term": "ИИ‑обзор — автоматическое создание или редактирование статей с помощью искусственного интеллекта",
-   "use": [
-    "Обратите внимание на качество ИИ‑генерируемого контента, проверяя факты вручную.",
-    "Используйте ИИ‑инструменты для поиска информации, но дополнительно проверяйте источники."
-   ],
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "089e26be9c889c",
-   "date": "2026-10-13T10:00:00Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "MIT Technology Review",
-   "sourceType": "media",
-   "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-   "title_en": "Open models have real benefits. Do they outweigh the risks?",
-   "summary_en": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…",
-   "pending": false,
-   "title_ru": "Открытые модели: выгоды против рисков кибератак",
-   "simple": "MIT Technology Review обсуждает, насколько открытые ИИ‑модели полезны и какие угрозы они могут создать, в частности кибеработы. Недавно Anthropic предупредил о модели GLM‑5.3 как о потенциальном инструменте для атак.",
-   "term": "GLM‑5.3 — крупная открытая языковая модель, способная генерировать тексты, которую считают потенциально опасной для кибератак",
-   "use": [
-    "Следите за обновлениями безопасности при работе с открытыми моделями.",
-    "Оцените необходимость ограничений доступа к мощным моделям в вашем проекте."
-   ],
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "dfdee0e44f890f",
-   "date": "2026-10-13T10:00:00Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
-   "title_en": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
-   "summary_en": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
-   "pending": false,
-   "title_ru": "Крупный Pro‑AI Super PAC вложил миллионы в компании‑посредники в Неваде",
-   "simple": "Сеть политических фондов, поддерживаемая крупными технологическими инвесторами, направила значительные средства в компании‑посредники в Неваде, чтобы продвигать про‑ИИ кандидатов. Это показывает растущее влияние ИИ‑тематики в политике.",
-   "term": "",
-   "use": [
-    "Отслеживайте политические инициативы, связанные с ИИ, чтобы понимать регулятивные изменения.",
-    "Если вы работаете в сфере ИИ, учитывайте возможные новые требования к прозрачности и этике."
-   ],
-   "category": "Регулирование",
    "model": "openai/gpt-oss-120b",
    "money": null
   }
