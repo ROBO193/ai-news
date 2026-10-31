@@ -1,7 +1,71 @@
 {
- "updated": "2026-10-31T20:04:00Z",
+ "updated": "2026-10-31T23:28:00Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "0def4a2fca6b3a",
+   "date": "2026-10-31T23:15:22Z",
+   "addedAt": "2026-10-31T23:27:42Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+   "title_en": "How We Took Over ChatGPT Accounts",
+   "summary_en": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenAI use the MathLive JavaScript library as part of their graph support, and that library includes its own virtual keyboard , which can be triggered in the parent page via postMessage() from the…",
+   "pending": false,
+   "title_ru": "Эксплойт, позволяющий захватить аккаунты ChatGPT",
+   "simple": "Исследователи нашли способ взломать механизм отображения пользовательского HTML в ChatGPT, используя уязвимость в библиотеке MathLive. Это показывает, как важно тщательно изолировать сторонний код.",
+   "term": "sandboxed iframe — изолированный фрейм, в котором запускается код без доступа к основной странице",
+   "use": [
+    "Проверьте, как ваш продукт изолирует пользовательский HTML, используя sandbox‑атрибут.",
+    "Следите за обновлениями библиотек, особенно тех, что обрабатывают графику.",
+    "Если вы разрабатываете интеграцию с ChatGPT, учитывайте ограничения на выполнение стороннего кода."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "89c6cb6d297171",
+   "date": "2026-10-31T21:41:00Z",
+   "addedAt": "2026-10-31T23:27:42Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "title_en": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+   "summary_en": "Apple's new CEO defended the company's current position in the AI landscape.",
+   "pending": false,
+   "title_ru": "CEO Apple: компания не будет выпускать ИИ просто ради ИИ",
+   "simple": "Новый глава Apple заявил, что фирма не будет создавать искусственный интеллект без ясной пользы для пользователей. Это отражает осторожный подход компании к новым технологиям.",
+   "term": "",
+   "use": [
+    "Отслеживайте, какие функции Apple добавит в будущие устройства, чтобы понять, где будет полезен ИИ.",
+    "Если вы разрабатываете приложения для iOS, учитывайте, что Apple может поддерживать только проверенные ИИ‑фичи."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "bc398a80a0dffe",
+   "date": "2026-10-31T21:17:03Z",
+   "addedAt": "2026-10-31T23:27:42Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "title_en": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "summary_en": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+   "pending": false,
+   "title_ru": "Суд разрешил продолжить иск NAACP против xAI за загрязнение",
+   "simple": "Суд одобрил иск, в котором NAACP обвиняет компанию xAI, принадлежащую SpaceX, в нарушении закона о чистом воздухе. Это может повлиять на работу дата‑центров ИИ.",
+   "term": "",
+   "use": [
+    "Следите за экологическими требованиями к дата‑центрам, если планируете их размещать.",
+    "Если ваш бизнес использует ИИ‑инфраструктуру, учитывайте возможные регуляторные ограничения."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "ba55b05e53eaee",
    "date": "2026-10-31T18:01:12Z",
@@ -12878,72 +12942,6 @@
    "term": "",
    "use": [],
    "category": "Модели",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "87e22abf54d8b6",
-   "date": "2026-10-13T13:32:00Z",
-   "addedAt": "2026-10-15T17:18:24Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-   "title_en": "Quoting Geoffrey Huntley",
-   "summary_en": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling the agent to use the diagnostics library. All of a sudden it's ten out of ten. — Geoffrey Huntley , nobody should type code by hand anymore. here's what's left. Tags: coding-agents , generative-ai , git , agentic-engineering , ai , geoffrey-huntley , llms",
-   "pending": false,
-   "title_ru": "Как заставить агент использовать библиотеку диагностики через git‑хук",
-   "simple": "Разработчик предложил проверять коммиты на прямые вызовы диагностических модулей и блокировать их, заставляя агента пользоваться своей библиотекой. Это повышает надёжность кода, написанного ИИ‑агентами.",
-   "term": "git‑хук — скрипт, который автоматически запускается при определённых действиях в системе контроля версий git.",
-   "use": [
-    "Настройте pre‑commit хук, который проверяет вызовы запрещённых функций.",
-    "Добавьте в проект свою библиотеку диагностики и требуйте её использование.",
-    "Отслеживайте результаты, чтобы убедиться в уменьшении ошибок."
-   ],
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "1001bd5509532d",
-   "date": "2026-10-13T12:00:49Z",
-   "addedAt": "2026-10-15T17:18:22Z",
-   "source": "NVIDIA",
-   "sourceType": "company",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-   "title_en": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-   "summary_en": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and […]",
-   "pending": false,
-   "title_ru": "NVIDIA RTX Spark: новый суперчип для игр, творчества и ИИ",
-   "simple": "NVIDIA анонсировала RTX Spark — чип, объединяющий возможности игрового ПК, студии создания контента и персонального ИИ‑суперкомпьютера. Он обещает до 128 ГБ общей памяти и петафлоп вычислительной мощности для ИИ.",
-   "term": "петафлоп — единица измерения вычислительной мощности, равная 10¹⁵ операций в секунду.",
-   "use": [
-    "Следите за появлением RTX Spark в линейке ПК, чтобы планировать обновление техники.",
-    "Оцените, какие задачи в вашем бизнесе могут выиграть от такой мощности (рендеринг, обучение моделей).",
-    "Подготовьте программное обеспечение, совместимое с RTX‑технологиями, чтобы сразу воспользоваться преимуществами."
-   ],
-   "category": "Железо",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "ffc748cb8d88a9",
-   "date": "2026-10-13T12:00:00Z",
-   "addedAt": "2026-10-15T17:18:21Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-   "title_en": "Higgsfield takes AI video from 1 minute to over 10",
-   "summary_en": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-   "pending": false,
-   "title_ru": "Higgsfield удлиняет AI‑видео до 10 минут с помощью GPT‑6 и новых моделей",
-   "simple": "Компания Higgsfield представила инструменты, позволяющие создавать более длительные AI‑видео: GPT‑6 Astra генерирует сценарий, GPT‑Image‑2.5 отвечает за визуалы, а GPT‑Live помогает с озвучкой. Это открывает путь к полноценному видеопроизводству на базе ИИ.",
-   "term": "GPT‑6 Astra — модель генерации текста, оптимизированная для создания сценариев длительных видеороликов.",
-   "use": [
-    "Попробуйте создать короткое видео с помощью новых моделей, чтобы оценить качество.",
-    "Экспериментируйте с комбинированием GPT‑6 Astra, GPT‑Image‑2.5 и GPT‑Live для полного цикла производства.",
-    "Используйте полученные ролики в соцсетях или обучающих курсах, чтобы привлечь аудиторию."
-   ],
-   "category": "Применение",
    "model": "openai/gpt-oss-120b",
    "money": null
   }
