@@ -1,7 +1,28 @@
 {
- "updated": "2026-10-30T23:02:42Z",
+ "updated": "2026-10-31T02:30:10Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "6336aff37e57b8",
+   "date": "2026-10-31T01:20:05Z",
+   "addedAt": "2026-10-31T02:29:52Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+   "title_en": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+   "summary_en": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+   "pending": false,
+   "title_ru": "Nvidia может стать со‑залогодателем для AI‑центра Nscale в Западной Вирджинии",
+   "simple": "Чиповый гигант Nvidia готов выступить гарантом по кредиту для нового дата‑центра, где будут работать AI‑модели. Это покажет уверенность производителя в росте спроса на искусственный интеллект.",
+   "term": "cosigner — лицо, которое подписывает кредит вместе с основным заемщиком, беря на себя часть ответственности за выплату.",
+   "use": [
+    "Обратите внимание на проекты, где требуется финансирование инфраструктуры AI, и ищите партнёров‑гарантов.",
+    "Если вы планируете открыть собственный AI‑центр, изучите возможность привлечения крупных технологических компаний в качестве со‑залогодателей."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "43523836c60442",
    "date": "2026-10-30T22:56:13Z",
@@ -63,6 +84,27 @@
    ],
    "money": null,
    "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6198118eee1371",
+   "date": "2026-10-30T21:54:34Z",
+   "addedAt": "2026-10-31T02:29:52Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+   "title_en": "Intel’s stock crashes, knocking $12B from government’s stake",
+   "summary_en": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+   "pending": false,
+   "title_ru": "Падение акций Intel убивает $12 млрд доли государства",
+   "simple": "Акции Intel резко упали, потому что рост спроса на AI заставил цены на ПК и комплектующие подскочить. Это ударило по доходам компании и, соответственно, по государственным инвестициям.",
+   "term": "",
+   "use": [
+    "Следите за тем, как спрос на AI влияет на цены традиционных компьютерных компонентов.",
+    "Если вы работаете в сфере поставок ПК, учитывайте возможные колебания цен из‑за роста спроса на AI‑технологии."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -1232,6 +1274,28 @@
    ],
    "money": null,
    "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "baf7193e75c145",
+   "date": "2026-10-29T16:00:35Z",
+   "addedAt": "2026-10-31T02:29:51Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "title_en": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "summary_en": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+   "pending": false,
+   "title_ru": "Разработчики используют AI‑агентов в NVIDIA Omniverse для создания симуляций",
+   "simple": "В NVIDIA Omniverse разработчики комбинируют передовые AI‑модели с библиотеками платформы, чтобы автоматизировать сборку сцен, физику и рендеринг. Это ускоряет создание приложений для тестирования и проектирования.",
+   "term": "AI‑агент — программа, способная самостоятельно выполнять задачи, используя искусственный интеллект, например управлять объектами в симуляции.",
+   "use": [
+    "Попробуйте интегрировать AI‑агенты в свои прототипы, чтобы ускорить проверку идей.",
+    "Изучите библиотеки Omniverse, если работаете над визуализацией или инженерными симуляциями.",
+    "Используйте готовые модели AI для автоматизации рутинных шагов в построении сцен."
+   ],
+   "money": null,
+   "category": "Агенты",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12865,70 +12929,6 @@
     "Если используете ИИ в работе, внедрите проверку результатов человеком перед принятием решений."
    ],
    "category": "Безопасность",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "af9f71cc471671",
-   "date": "2026-10-12T17:00:27Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
-   "title_en": "Muse Wonder Puts Meta Back at the AI Frontier",
-   "summary_en": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
-   "pending": false,
-   "title_ru": "Meta представила модель, соперничающую с лучшими в мире, с новыми ограничителями поведения",
-   "simple": "Meta анонсировала свою крупнейшую модель ИИ, которая по качеству сравнима с лучшими в мире. В неё встроены функции, предотвращающие отклонения модели от заданных целей.",
-   "term": "RLHF — обучение с подкреплением от человеческой обратной связи, когда модель учится на оценках людей, чтобы отвечать более безопасно и полезно.",
-   "use": [
-    "Попробуйте протестировать новые возможности модели в своих проектах, чтобы понять её ограничения.",
-    "Обратите внимание на встроенные ограничения при разработке приложений, чтобы избежать нежелательного поведения ИИ."
-   ],
-   "category": "Модели",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "131f413269cf58",
-   "date": "2026-10-12T16:58:00Z",
-   "addedAt": "2026-10-17T05:40:27Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
-   "title_en": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
-   "summary_en": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app : I need a Python 3.15 flame graph and heatmap demo of the \"web-edit\" app from PyPI - research first then make me those demos Here's the resulting example flame graph and heatmap . Tags: profiling , python , codex",
-   "pending": false,
-   "title_ru": "Профилирование web‑edit в Python 3.15: flame‑графики и тепловые карты кода",
-   "simple": "Автор протестировал новый профайлер Python 3.15 на приложении web‑edit, используя GPT‑6 для генерации демонстраций. Получились flame‑графики и тепловые карты, показывающие, какие части кода самые «тёплые».",
-   "term": "flame graph — визуальное представление стека вызовов, где ширина полосы показывает, сколько времени занимает каждый вызов.",
-   "use": [
-    "Запустите профайлер Python 3.15 на своём проекте, чтобы увидеть узкие места в производительности.",
-    "Сравните полученные flame‑графики с тепловыми картами, чтобы понять, какие строки кода требуют оптимизации.",
-    "Используйте результаты профилирования для приоритизации рефакторинга и улучшения отклика приложения."
-   ],
-   "money": null,
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "5d83dba89b9f02",
-   "date": "2026-10-12T16:00:00Z",
-   "addedAt": "2026-10-15T17:18:22Z",
-   "source": "Microsoft Research",
-   "sourceType": "research",
-   "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
-   "title_en": "Simulating student learning for better AI tutoring",
-   "summary_en": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics. The post Simulating student learning for better AI tutoring appeared first on Microsoft Research .",
-   "pending": false,
-   "title_ru": "StudentSim: симуляция обучения студентов для улучшения ИИ‑репетиторов",
-   "simple": "Исследователи создали систему StudentSim, которая имитирует поведение учеников, чтобы тестировать и улучшать ИИ‑репетиторы до их реального использования. Это помогает повысить качество обучения в шахматах, письме и математике.",
-   "term": "Симуляция обучения — моделирование поведения реальных учеников в виртуальной среде для оценки и доработки обучающих систем.",
-   "use": [
-    "Используйте StudentSim для предварительного тестирования своих ИИ‑репетиторов, прежде чем запускать их в продакшн.",
-    "Обратите внимание на полученные метрики поведения учеников, чтобы скорректировать стратегии обучения модели."
-   ],
-   "category": "Исследования",
    "model": "openai/gpt-oss-120b",
    "money": null
   }
