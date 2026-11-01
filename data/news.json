@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T23:28:00Z",
+ "updated": "2026-11-01T06:22:42Z",
  "failedSources": [],
  "items": [
   {
@@ -22,6 +22,28 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "bc9463905bbd6e",
+   "date": "2026-10-31T22:10:01Z",
+   "addedAt": "2026-11-01T06:22:33Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+   "title_en": "datasette-llm 0.1a9",
+   "summary_en": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db --internal internal.db Previously you would also need to specify a model with -s plugins.datasette-agent.default_model gpt-6-astra . Tags: datasette , llm , datasette-agent",
+   "pending": false,
+   "title_ru": "Обновление datasette-llm: автоматический выбор модели",
+   "simple": "Плагин datasette-llm теперь сам подбирает модель, которую использует LLM, поэтому можно запускать Datasette Agent без указания модели в параметрах.",
+   "term": "LLM — крупная языковая модель, способная генерировать текст по запросу.",
+   "use": [
+    "Запустите Datasette Agent без параметра -s plugins.datasette-agent.default_model, чтобы проверить автоматический выбор модели.",
+    "Посмотрите пример команды uvx --with datasette-agent … и сравните с прежним способом.",
+    "Если нужен другой вариант модели, настройте её явно только в особых случаях."
+   ],
+   "money": null,
+   "category": "Open source",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12926,24 +12948,6 @@
     "effort": "средний",
     "risk": "зависимость от изменения цен и условий доступа"
    }
-  },
-  {
-   "id": "c1e94fc831365c",
-   "date": "2026-10-13T16:00:00Z",
-   "addedAt": "2026-10-15T17:18:22Z",
-   "source": "Google AI",
-   "sourceType": "company",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-   "title_en": "Gemini 4 Argon: Built to solve your hardest problems",
-   "summary_en": "TBD",
-   "pending": false,
-   "title_ru": "Gemini 4 Argon: создан для решения самых сложных задач",
-   "simple": "Google позиционирует Gemini 4 Argon как модель, способную справляться с самыми трудными задачами. Подробностей пока нет, но ожидается, что она будет более мощной.",
-   "term": "",
-   "use": [],
-   "category": "Модели",
-   "model": "openai/gpt-oss-120b",
-   "money": null
   }
  ]
 }
