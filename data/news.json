@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-01T19:46:03Z",
+ "updated": "2026-11-01T23:41:27Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "33c086ca1438f5",
+   "date": "2026-11-01T21:55:23Z",
+   "addedAt": "2026-11-01T23:41:17Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "title_en": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+   "summary_en": "Data centers are deeply unpopular. But what if we called them something else?",
+   "pending": false,
+   "title_ru": "OpenAI может переименовать дата‑центры в «AI compute campuses»",
+   "simple": "OpenAI рассматривает возможность назвать свои дата‑центры не просто центрами обработки данных, а «AI compute campuses». Это может изменить восприятие таких объектов, делая их более привлекательными.",
+   "term": "AI compute campus — термин, подразумевающий комплекс вычислительных ресурсов, специально предназначенных для работы искусственного интеллекта.",
+   "use": [
+    "Обратить внимание на то, как в описании инфраструктуры компании используют новые названия, чтобы улучшить имидж.",
+    "Следить за тем, как переименование может влиять на восприятие клиентов и партнёров.",
+    "При подготовке собственных презентаций использовать более «технологичные» названия для инфраструктурных проектов."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "0ae10264665c48",
+   "date": "2026-11-01T20:57:58Z",
+   "addedAt": "2026-11-01T23:41:17Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+   "title_en": "AI can make tech CEOs’ lives easier. What about everyone else?",
+   "summary_en": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+   "pending": false,
+   "title_ru": "AI облегчает работу техноло­гических CEO, а что с остальными?",
+   "simple": "В статье обсуждается, как инструменты искусственного интеллекта помогают руководителям технологических компаний, но часто их заявления кажутся оторванными от реальности обычных сотрудников.",
+   "term": "",
+   "use": [
+    "Проанализировать, какие AI‑инструменты уже применяются в вашей компании и насколько они доступны всем сотрудникам.",
+    "Внедрить простые AI‑сервисы (например, автоподбор текста) в ежедневные задачи, чтобы повысить эффективность.",
+    "Обсудить с руководством, как сделать использование ИИ более открытым и понятным для всех уровней персонала."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "835fd1406315e6",
    "date": "2026-11-01T16:49:04Z",
@@ -12887,50 +12931,6 @@
     "Обратите внимание на требования к прозрачности и этике в проектах с ИИ."
    ],
    "category": "Регулирование",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "63b1605b51b19b",
-   "date": "2026-10-13T18:23:33Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-   "title_en": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-   "summary_en": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
-   "pending": false,
-   "title_ru": "Disney предлагает $20 млн за технологию чат‑бота Character.AI",
-   "simple": "Disney рассматривает покупку технологий одного из первых чат‑ботов, связанного с трагическим случаем суицида подростка. Сделка может помочь компании расширить свои интерактивные сервисы.",
-   "term": "Чат‑бот — программа, имитирующая разговор с человеком, часто использующая большие языковые модели.",
-   "use": [
-    "Следите за новостями о том, как крупные медиа используют ИИ в развлечениях.",
-    "Если вы разрабатываете чат‑боты, изучайте требования к безопасности и этике.",
-    "Подумайте, как ИИ может улучшить пользовательский опыт в ваших проектах."
-   ],
-   "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "550c4c02e9ff21",
-   "date": "2026-10-13T17:05:48Z",
-   "addedAt": "2026-10-15T17:18:22Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-   "title_en": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "Быстрые частные агенты на устройстве с LFM2.5-24B-A2B",
-   "simple": "Новый крупный языковой модельный агент LFM2.5‑24B‑A2B позволяет запускать приватные ИИ‑приложения прямо на устройстве без облака. Это повышает скорость и конфиденциальность.",
-   "term": "On‑device inference — запуск модели ИИ непосредственно на устройстве пользователя, без отправки данных в облако.",
-   "use": [
-    "Попробуйте локальные модели для задач, где важна конфиденциальность данных.",
-    "Оцените, хватает ли мощности вашего компьютера для такой модели.",
-    "Следите за оптимизацией моделей под мобильные и настольные устройства."
-   ],
-   "category": "Модели",
    "model": "openai/gpt-oss-120b",
    "money": null
   }
