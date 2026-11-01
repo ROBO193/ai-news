@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-01T14:21:29Z",
+ "updated": "2026-11-01T19:46:03Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "835fd1406315e6",
+   "date": "2026-11-01T16:49:04Z",
+   "addedAt": "2026-11-01T19:45:54Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+   "title_en": "Quoting Kyle Kingsbury",
+   "summary_en": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? — Kyle Kingsbury , Jepsen results for ParticleDB 1.1.4 Tags: kyle-kingsbury , llms , ai , generative-ai , ai-misuse",
+   "pending": false,
+   "title_ru": "LLM подрывают доверие к документации и софту",
+   "simple": "Большие языковые модели могут подделывать сигналы качества кода и документации, из‑за чего инженеры могут начать сомневаться в новых проектах. Автор задаёт вопрос, как поддерживать надёжность и показывать её пользователям.",
+   "term": "LLM — крупная языковая модель, способная генерировать текст, в том числе код и документацию.",
+   "use": [
+    "Пересматривайте критически автоматические описания и проверяйте их вручную.",
+    "Внедряйте независимые проверки кода, не полагаясь только на выводы ИИ.",
+    "Документируйте процесс проверки, чтобы показать пользователям, как вы гарантируете качество."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "d15dc155427a19",
    "date": "2026-11-01T13:53:11Z",
@@ -12909,28 +12931,6 @@
     "Следите за оптимизацией моделей под мобильные и настольные устройства."
    ],
    "category": "Модели",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "7e60f5237eddc0",
-   "date": "2026-10-13T17:00:39Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
-   "title_en": "Google wants to host your personal vibe-coded apps in the Play Store",
-   "summary_en": "Google plans to help turn those personal AI-generated apps into wide releases.",
-   "pending": false,
-   "title_ru": "Google поможет разместить ваши персональные AI‑приложения в Play Store",
-   "simple": "Google планирует поддерживать разработчиков в публикации приложений, созданных с помощью генеративного ИИ, в официальном магазине. Это упростит доступ к персонализированным сервисам для широкой аудитории.",
-   "term": "Generative AI — тип ИИ, который создает новые данные (текст, изображения, код) на основе обученных примеров.",
-   "use": [
-    "Разработайте небольшое AI‑приложение и попробуйте разместить его в Play Store.",
-    "Изучите требования Google к контенту, созданному ИИ.",
-    "Обратите внимание на политику конфиденциальности и безопасность данных пользователей."
-   ],
-   "category": "Разработка",
    "model": "openai/gpt-oss-120b",
    "money": null
   }
