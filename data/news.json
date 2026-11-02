@@ -1,7 +1,177 @@
 {
- "updated": "2026-11-02T17:13:16Z",
+ "updated": "2026-11-02T23:55:56Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "dc6c7ef2ed74ce",
+   "date": "2026-11-02T23:20:01Z",
+   "addedAt": "2026-11-02T23:55:19Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+   "title_en": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+   "summary_en": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, and […]",
+   "pending": false,
+   "title_ru": "NY Times подала в суд на браузер Brave за скрейпинг контента и обход платных стен",
+   "simple": "Издание NY Times и несколько других СМИ обвиняют браузер Brave в незаконном сборе материалов для обучения ИИ и в том, что пользователи могут обходить их платные подписки. Это важно, потому что показывает растущее напряжение между медиа и технологиями ИИ.",
+   "term": "скрейпинг — автоматический сбор данных с веб‑страниц, часто без разрешения владельцев сайта",
+   "use": [
+    "Обратите внимание на то, какие сервисы вы используете для чтения новостей и проверяйте их политику по обходу платных материалов.",
+    "Если вы разрабатываете продукты, учитывайте юридические риски использования контента без согласия правообладателей."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "19ce29ebfa9628",
+   "date": "2026-11-02T23:13:53Z",
+   "addedAt": "2026-11-02T23:55:20Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "title_en": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "summary_en": "The one-year-old startup is now valued at $300 million.",
+   "pending": false,
+   "title_ru": "Trajectory привлекла $45 млн, чтобы упростить обучение ИИ для нетехнических специалистов",
+   "simple": "Стартап Trajectory собрал крупные инвестиции, чтобы создать платформу, где люди без технического бэкграунда смогут обучать ИИ‑модели. Это открывает возможности для компаний, которым нужны кастомные модели, но нет специалистов по машинному обучению.",
+   "term": "",
+   "use": [
+    "Попробуйте искать инструменты без кода для настройки ИИ, если вам нужно решить бизнес‑задачу без найма ML‑инженеров.",
+    "Следите за новыми платформами, которые обещают упрощённый процесс обучения моделей, чтобы быстро прототипировать решения."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "e3f3f6c0c50f4c",
+   "date": "2026-11-02T22:57:16Z",
+   "addedAt": "2026-11-02T23:55:19Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+   "title_en": "Anthropic clamps down on Claude’s AI video game clones",
+   "summary_en": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]",
+   "pending": false,
+   "title_ru": "Anthropic ограничила возможность создания клонов видеоигр в Claude Code",
+   "simple": "Компания Anthropic обновила настройки своего инструмента Claude Code, чтобы он не использовался для копирования существующих видеоигр. Это важно для защиты авторских прав и предотвращения нелегального контента, созданного ИИ.",
+   "term": "",
+   "use": [
+    "Если вы разрабатываете игры, проверяйте, какие ИИ‑инструменты допускают генерацию контента, чтобы не нарушать права.",
+    "Используйте Claude Code только для создания оригинальных идей, а не копий уже существующих проектов."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "55dd7e97ced5d8",
+   "date": "2026-11-02T22:14:50Z",
+   "addedAt": "2026-11-02T23:55:20Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+   "title_en": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+   "summary_en": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+   "pending": false,
+   "title_ru": "Anthropic предупреждает о приближении RSI — самосовершенствующегося ИИ",
+   "simple": "Anthropic заявила, что технологии могут скоро достичь уровня RSI, когда ИИ будет способен самостоятельно улучшать себя, что может привести к резкому скачку возможностей. Это вызывает опасения у экспертов по будущему ИИ.",
+   "term": "RSI (Recursive Self‑Improvement) — процесс, когда ИИ улучшает свои собственные алгоритмы без внешнего вмешательства, ускоряя рост своих способностей",
+   "use": [
+    "Следите за обсуждениями в сфере этики ИИ, чтобы быть в курсе потенциальных рисков и регулирования.",
+    "Если вы работаете с ИИ, планируйте стратегии контроля и мониторинга моделей, особенно при их автоматическом обновлении."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f6edbcaffade53",
+   "date": "2026-11-02T21:40:14Z",
+   "addedAt": "2026-11-02T23:55:20Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+   "title_en": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+   "summary_en": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+   "pending": false,
+   "title_ru": "Китайские хакеры использовали открытый AI‑фреймворк ARTEX для атак на 200 организаций",
+   "simple": "Хакеры из Китая применили ARTEX — открытый набор инструментов для автоматизированного тестирования безопасности, чтобы провести кибератаки на более чем 200 компаний в 14 странах. Это показывает, как ИИ может усиливать угрозы кибербезопасности.",
+   "term": "penetration‑testing — проверка систем на уязвимости, часто с имитацией атак, чтобы выявить слабые места",
+   "use": [
+    "Убедитесь, что ваши системы прошли независимый аудит безопасности, особенно если вы используете открытые инструменты.",
+    "Обучите сотрудников основам кибербезопасности, чтобы они могли распознавать автоматизированные атаки."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "8402594bed2479",
+   "date": "2026-11-02T19:19:17Z",
+   "addedAt": "2026-11-02T23:55:20Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+   "title_en": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+   "summary_en": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+   "pending": false,
+   "title_ru": "NY Times и другие СМИ подали в суд на браузер Brave за копирование контента",
+   "simple": "NY Times обвиняет браузер Brave в том, что тот собирает защищённые статьи и раздаёт их своим клиентам, включая сервисы на базе ИИ. Это важно, потому что показывает, как компании защищают свои материалы от автоматического использования.",
+   "term": "Scraping — автоматический сбор данных с веб‑страниц без разрешения владельца.",
+   "use": [
+    "Проверьте, какие источники контента вы используете в своих проектах, чтобы не нарушать авторские права.",
+    "Если вы разрабатываете сервисы, использующие сторонний контент, добавьте проверку лицензий.",
+    "Следите за юридическими новостями в сфере данных, чтобы своевременно адаптировать свои практики."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "778dbacaaeb9af",
+   "date": "2026-11-02T18:05:31Z",
+   "addedAt": "2026-11-02T23:55:20Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+   "title_en": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+   "summary_en": "The tsunami of imitators is way bigger than any one model maker can stem.",
+   "pending": false,
+   "title_ru": "Новые правила Claude против копирования игр не остановят рост имитаций ИИ",
+   "simple": "Claude ввёл ограничения, чтобы не позволять ИИ копировать игровые идеи, но количество подобных копий растёт быстрее, чем любые меры. Это показывает, насколько трудно контролировать творческий вывод моделей.",
+   "term": "Имитация (cloning) — процесс, когда ИИ генерирует контент, похожий на уже существующий, часто нарушая авторские права.",
+   "use": [
+    "Если вы разрабатываете игры, учитывайте возможность появления похожих ИИ‑генерированных проектов и готовьте юридическую защиту.",
+    "Следите за обновлениями политик ИИ‑платформ, чтобы знать, какие ограничения действуют.",
+    "Разрабатывайте уникальные механики, которые сложно скопировать автоматически."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b810030289ed79",
+   "date": "2026-11-02T17:45:00Z",
+   "addedAt": "2026-11-02T23:55:17Z",
+   "source": "Google AI",
+   "sourceType": "company",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+   "title_en": "The latest AI news we announced in October 2026",
+   "summary_en": "Animated carousel of images from AI posts in October",
+   "pending": false,
+   "title_ru": "Итоги AI‑новостей октября 2026 года от Google AI",
+   "simple": "Google AI собрал в виде карусели основные события в сфере искусственного интеллекта за октябрь. Это удобно, если хотите быстро вспомнить, что происходило в отрасли.",
+   "term": "",
+   "use": [
+    "Подпишитесь на рассылки или каналы, где публикуются такие подборки, чтобы быть в курсе новинок.",
+    "Используйте полученную информацию для выбора тем для собственного обучения или проектов."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "0ad9e89a8ab0a4",
    "date": "2026-11-02T17:00:00Z",
@@ -63,6 +233,28 @@
     "Если вы используете Grok Bot в работе, проверьте текущие лимиты и планируйте запросы экономно.",
     "Ищите альтернативные модели с более предсказуемыми затратами.",
     "Оптимизируйте запросы к боту, формулируя их чётко и коротко."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "de4cf53f9db963",
+   "date": "2026-11-02T15:30:00Z",
+   "addedAt": "2026-11-02T23:55:17Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/scaling-git-at-openai",
+   "title_en": "Scaling Git at OpenAI",
+   "summary_en": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+   "pending": false,
+   "title_ru": "OpenAI создал Pando — масштабируемый Git‑совместимый бекенд для разработки ИИ‑моделей",
+   "simple": "OpenAI разработал Pando, систему, которая работает как Git, но способна хранить огромные объёмы кода и данных, необходимые для больших ИИ‑моделей. Это важно для команд, которые пишут и обучают сложные модели.",
+   "term": "Git‑совместимый бекенд — система хранения, позволяющая работать с версиями кода и данных так же, как это делает Git, но для больших объёмов.",
+   "use": [
+    "Если вы работаете над крупными ИИ‑проектами, изучите возможности Pando для управления версиями данных.",
+    "Настройте процесс CI/CD (непрерывной интеграции и доставки) с использованием Pando, чтобы ускорить разработку.",
+    "Обратите внимание на совместимость ваших инструментов с Pando, чтобы избежать проблем при миграции."
    ],
    "money": null,
    "category": "Разработка",
@@ -274,6 +466,28 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "ed4b5825368264",
+   "date": "2026-11-02T09:00:00Z",
+   "addedAt": "2026-11-02T23:55:17Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/lifeval",
+   "title_en": "LifeVal",
+   "summary_en": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+   "pending": false,
+   "title_ru": "LifeVal: новый способ измерять, как ИИ помогает в повседневных задачах",
+   "simple": "OpenAI представила LifeVal — показатель, оценивающий, насколько искусственный интеллект упрощает такие задачи, как поиск детского сада или оформление документов. Это поможет понять реальную пользу ИИ в жизни людей.",
+   "term": "Benchmark — измеритель эффективности, позволяющий сравнивать результаты разных систем.",
+   "use": [
+    "Оцените, какие задачи в вашей работе или бизнесе можно автоматизировать с помощью ИИ и сравните их эффективность.",
+    "Следите за появлением публичных результатов LifeVal, чтобы выбирать инструменты с лучшими показателями.",
+    "Используйте полученные данные для обоснования инвестиций в ИИ‑решения."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "25d58d631aa5de",
    "date": "2026-11-02T06:30:36Z",
    "addedAt": "2026-11-02T17:12:46Z",
@@ -337,6 +551,28 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "598c6194c0d34c",
+   "date": "2026-11-02T00:00:00Z",
+   "addedAt": "2026-11-02T23:55:17Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/qodo-codex-plugin",
+   "title_en": "Qodo builds context into AI code review with Codex",
+   "summary_en": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+   "pending": false,
+   "title_ru": "Qodo улучшает проверку кода ИИ, добавляя контекст с помощью Codex",
+   "simple": "Компания Qodo интегрировала в Codex (модель ИИ от OpenAI) знания о компании и стандарты кодирования, чтобы автоматически находить серьёзные ошибки до создания pull‑request. Это ускоряет процесс ревью кода.",
+   "term": "Codex — модель ИИ, обученная писать и проверять программный код.",
+   "use": [
+    "Подключите Qodo к своим репозиториям, чтобы получать автоматические предупреждения о критических ошибках.",
+    "Обучите команду пользоваться новым инструментом для ускорения проверки кода.",
+    "Настройте правила качества в Qodo в соответствии со стандартами вашего проекта."
+   ],
+   "money": null,
+   "category": "Разработка",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12696,248 +12932,6 @@
     "Обучите сотрудников распознавать новые методы обмана."
    ],
    "category": "Безопасность",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "224ee0818768ef",
-   "date": "2026-10-14T17:10:15Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-   "title_en": "Researchers use AI to design proteins that cut up other proteins",
-   "summary_en": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
-   "pending": false,
-   "title_ru": "AI помогает создавать белки, разрезающие другие белки",
-   "simple": "Исследователи применили искусственный интеллект для проектирования белков, способных разрушать очень стабильные связи в других белках. Это открывает новые возможности в биотехнологиях.",
-   "term": "Белок‑фермент — молекула, разрезающая химические связи в других белках.",
-   "use": [
-    "Следите за публикациями в области AI‑дизайна белков.",
-    "Если вы работаете в биотехе, изучите возможности интеграции AI‑моделей в процесс разработки.",
-    "Рассмотрите сотрудничество с AI‑компаниями для ускорения прототипирования."
-   ],
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "c3523710f928c3",
-   "date": "2026-10-14T16:41:49Z",
-   "addedAt": "2026-10-16T18:50:45Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-   "title_en": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-   "summary_en": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-   "pending": false,
-   "title_ru": "В комнате OpenAI нашли скрытый микрофон‑записывающее устройство",
-   "simple": "В засекреченной комнате OpenAI обнаружили микрофон, замаскированный под туалетную бумагу; инженеру предъявлены обвинения в шпионаже с возможным сроком до 5 лет и штрафом в $250 000.",
-   "term": "Шпионские обвинения — юридическое преследование за передачу секретной информации иностранным агентам.",
-   "use": [
-    "Проверьте безопасность офисного оборудования, особенно в местах с конфиденциальной информацией.",
-    "Обучайте сотрудников правилам обращения с потенциально опасными устройствами.",
-    "Внедрите процедуры регулярного аудита технических средств в критических зонах."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "8560636ebc000f",
-   "date": "2026-10-14T16:26:53Z",
-   "addedAt": "2026-10-15T17:18:24Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
-   "title_en": "AI is mass decompiling games. That's both awesome and scary.",
-   "summary_en": "AI is mass decompiling games. That's both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly). I like how this piece captures both the positives and the negatives of this new development: Most people already realized the scary part by now. If AI can decompile games and software, then the entire tech industry is about to explode. Anybody can decompile other software and use it any way they'd like, and nobody can stop them. Companies can steal from…",
-   "pending": false,
-   "title_ru": "AI массово декомпилирует игры: возможности и угрозы",
-   "simple": "Искусственный интеллект умеет разбирать готовый код игр, создавая новые комбинации и помогая сохранять старые проекты. Это открывает как творческие возможности, так и риски для индустрии.",
-   "term": "Декомпиляция — процесс преобразования исполняемого кода обратно в читаемый исходный код.",
-   "use": [
-    "Попробуйте использовать AI‑инструменты для изучения старых игр и их портирования на новые платформы.",
-    "Следите за лицензиями: убедитесь, что вы имеете право разбирать и использовать чужой код.",
-    "Оцените риски: учитывайте возможные юридические последствия при публикации модифицированных игр."
-   ],
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "672ebf75c430cf",
-   "date": "2026-10-14T16:12:42Z",
-   "addedAt": "2026-10-15T17:18:22Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-   "title_en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "HiRO-ACEv2: моделирование экстремальной погоды с высоким разрешением и низкой стоимостью",
-   "simple": "Новая модель HiRO-ACEv2 позволяет симулировать сильные погодные явления с детализацией 3 км, при этом требуя гораздо меньше вычислительных ресурсов. Это может ускорить исследования климата и подготовку к стихийным бедствиям.",
-   "term": "Разрешение модели — степень детализации, с которой модель описывает пространство, измеряется в километрах.",
-   "use": [
-    "Используйте модель для локального прогноза экстремальных событий в вашем регионе.",
-    "Внедрите её в учебные проекты по климатологии, чтобы показать влияние разрешения на результаты.",
-    "Сравните затраты на вычисления с другими моделями, чтобы выбрать оптимальный вариант."
-   ],
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "9c18b5e1b4bfcb",
-   "date": "2026-10-14T15:16:04Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-   "title_en": "Deezer will soon let you filter out AI-generated music",
-   "summary_en": "Deezer said that the new toggle will be rolled out by the end of the year.",
-   "pending": false,
-   "title_ru": "Deezer добавит фильтр AI‑генерированной музыки",
-   "simple": "Сервис Deezer планирует в конце года внедрить переключатель, позволяющий пользователям скрывать треки, созданные искусственным интеллектом. Это поможет слушателям выбирать только человеческое творчество.",
-   "term": "AI‑генерированная музыка — композиции, полностью или частично созданные алгоритмами искусственного интеллекта.",
-   "use": [
-    "Включите фильтр, если хотите слушать только музыку, написанную людьми.",
-    "Следите за обновлением приложения к концу года, чтобы активировать функцию.",
-    "Если вы музыкант, учитывайте, что ваши треки могут быть отмечены как AI‑контент и могут требовать отдельной маркировки."
-   ],
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "ecdf723c0581a8",
-   "date": "2026-10-14T15:08:00Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-   "title_en": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-   "summary_en": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-   "pending": false,
-   "title_ru": "Zenzap собирает $44 млн для AI‑чата, который заменит WhatsApp в работе",
-   "simple": "Стартап Zenzap привлек 44 миллиона долларов для развития чат‑приложения на базе ИИ, которое уже используют такие компании, как Starbucks и Taco Bell. Приложение предназначено для корпоративного общения.",
-   "term": "AI‑чат — система обмена сообщениями, в которой ответы генерируются искусственным интеллектом, адаптированным под бизнес‑контекст.",
-   "use": [
-    "Попробуйте интегрировать Zenzap в ваш рабочий процесс для автоматизации ответов и организации задач.",
-    "Сравните его с текущими мессенджерами, чтобы понять, какие функции действительно экономят время.",
-    "Обучите сотрудников пользоваться новыми возможностями ИИ‑чата, чтобы повысить эффективность коммуникаций."
-   ],
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "40dbf46b638448",
-   "date": "2026-10-14T15:00:00Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-   "title_en": "Floqer’s AI agents research sales prospects so teams don’t have to",
-   "summary_en": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-   "pending": false,
-   "title_ru": "Floqer запускает AI‑агентов для поиска потенциальных клиентов",
-   "simple": "Компания Floqer разработала искусственных агентов, которые автоматически исследуют и находят перспективных покупателей, освобождая команды продаж от рутинной работы. Это ускоряет процесс поиска лидов.",
-   "term": "AI‑агент — программный помощник, который самостоятельно выполняет задачи, используя искусственный интеллект.",
-   "use": [
-    "Внедрите AI‑агентов Floqer в ваш процесс продаж, чтобы автоматизировать поиск новых клиентов.",
-    "Настройте критерии поиска, чтобы получать только релевантные лиды.",
-    "Отслеживайте результаты работы агентов и корректируйте параметры для повышения качества лидов."
-   ],
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "62cbe095b5166b",
-   "date": "2026-10-14T14:30:00Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-   "title_en": "TechCrunch Disrupt 2026: Day 2",
-   "summary_en": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
-   "pending": false,
-   "title_ru": "TechCrunch Disrupt 2026: второй день с темами ИИ",
-   "simple": "Во второй день конференции TechCrunch Disrupt 2026 обсуждались разные темы, связанные с искусственным интеллектом, а также прошли встречи для инвесторов и круглые столы. Это интересно тем, кто следит за новыми идеями и возможностями в сфере ИИ.",
-   "term": "",
-   "use": [
-    "Подпишитесь на рассылку TechCrunch, чтобы получать анонсы будущих мероприятий по ИИ.",
-    "Посетите онлайн‑трансляцию, если не можете присутствовать лично, чтобы не пропустить новые идеи.",
-    "Отметьте в календаре даты следующих конференций, чтобы планировать участие заранее."
-   ],
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "937c7f4fab21f4",
-   "date": "2026-10-14T14:00:10Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "BleepingComputer",
-   "sourceType": "media",
-   "url": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
-   "title_en": "The Blind Spots of Agentic Pentesting and How to Close Them",
-   "summary_en": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and breach simulation can help close these gaps. [...]",
-   "pending": false,
-   "title_ru": "Как закрыть пробелы в AI‑пентестинге",
-   "simple": "Picus Security объясняет, что автоматическое тестирование безопасности с помощью ИИ может пропускать части сети из‑за ограничений, но сочетание агентного пентеста, проверки экспозиции и симуляции нарушений помогает устранить эти пробелы. Это важно для компаний, желающих лучше защищать свои системы.",
-   "term": "Agentic pentesting — автоматизированный тест на проникновение, где ИИ‑агенты ищут уязвимости в реальном времени.",
-   "use": [
-    "Оцените, какие части вашей сети могут быть недоступны для текущих сканеров и добавьте агентные решения.",
-    "Внедрите проверку экспозиции, чтобы понять, какие активы видимы извне.",
-    "Проведите симуляцию реального нарушения, чтобы проверить готовность реагировать."
-   ],
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "7923e9fedadd30",
-   "date": "2026-10-14T12:55:06Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-   "title_en": "Anthropic warns small AI models could self-replicate through IoT devices",
-   "summary_en": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-   "pending": false,
-   "title_ru": "Anthropic: небольшие модели ИИ могут самовоспроизводиться через IoT",
-   "simple": "Исследователи Anthropic предупредили, что небольшие модели ИИ, встроенные в устройства интернета вещей, могут стать «самовоспроизводящимися» вредоносными программами, похожими на компьютерные черви. Это может изменить представление о рисках IoT‑устройств.",
-   "term": "IoT — сеть физических устройств, подключённых к интернету и способных обмениваться данными.",
-   "use": [
-    "Проверьте, какие IoT‑устройства у вас есть, и обновите их прошивки до последних версий.",
-    "Ограничьте доступ к IoT‑устройствам из внешних сетей с помощью брандмауэра.",
-    "Следите за новостями о безопасных моделях ИИ, чтобы выбирать проверенные решения."
-   ],
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "a0e0fec2c2b5f5",
-   "date": "2026-10-14T12:00:00Z",
-   "addedAt": "2026-10-15T17:18:21Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/amp-beyond-coding",
-   "title_en": "Amp puts AI agents to work beyond code with OpenAI models",
-   "summary_en": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-   "pending": false,
-   "title_ru": "Amp использует модели OpenAI для агентов за пределами кода",
-   "simple": "Компания Amp демонстрирует, как её агенты, работающие на новых моделях OpenAI (GPT‑6 Astra, Ultrafast, GPT‑Live‑1), могут выполнять задачи, не связанные с программированием, например, взаимодействовать с пользователями через ChatGPT. Это расширяет возможности применения ИИ‑агентов.",
-   "term": "AI‑агент — программный «помощник», который использует ИИ для выполнения заданных действий без постоянного вмешательства человека.",
-   "use": [
-    "Изучите возможности модели GPT‑6 Astra, чтобы автоматизировать рутинные задачи в вашем бизнесе.",
-    "Подключите функцию «Sign in with ChatGPT» к своим сервисам, чтобы упростить вход пользователям.",
-    "Экспериментируйте с агентами в нестандартных сценариях, например, в поддержке клиентов или планировании мероприятий."
-   ],
-   "category": "Агенты",
    "model": "openai/gpt-oss-120b",
    "money": null
   }
