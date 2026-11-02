@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-01T23:41:27Z",
+ "updated": "2026-11-02T06:23:55Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "af20a6eef9a285",
+   "date": "2026-11-02T06:00:33Z",
+   "addedAt": "2026-11-02T06:23:45Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/02/byoky-open-source-ai-api-key-wallet/",
+   "title_en": "Byoky: Open-source wallet for AI API keys",
+   "summary_en": "Byoky is an open-source wallet for AI API keys, available as a Chrome and Firefox extension and as iOS and Android apps. Users store their keys for OpenAI, Anthropic, Google Gemini and other providers in it, encrypted on their own device. Apps that want those keys ask the wallet for access, and the wallet sends each request to the provider itself. The app gets a session token. The key stays in the wallet. Byoky goes … More → The post Byoky: Open-source wallet for AI API keys appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Byoky — открытый кошелёк для ключей AI‑сервисов",
+   "simple": "Byoky — это бесплатное приложение‑кошелёк, где можно хранить ключи доступа к сервисам ИИ, например OpenAI, Anthropic и Google Gemini. Ключи шифруются на устройстве, а приложения получают только токен доступа, а не сам ключ.",
+   "term": "API‑ключ — уникальный код, позволяющий приложению обращаться к сервису и получать его функции.",
+   "use": [
+    "Скачайте расширение Byoky для браузера или мобильное приложение и импортируйте свои ключи ИИ‑сервисов.",
+    "Настройте приложения так, чтобы они запрашивали доступ к ключу через Byoky, а не хранили его напрямую.",
+    "Проверьте, что ваш кошелёк защищён паролем или биометрией, чтобы предотвратить кражу ключей."
+   ],
+   "money": null,
+   "category": "Open source",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "519e423872b85c",
+   "date": "2026-11-02T05:00:46Z",
+   "addedAt": "2026-11-02T06:23:45Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/02/aur0ra-ransomware-ai-agents/",
+   "title_en": "Ransomware gang talked AI agents into doing much of its dirty work",
+   "summary_en": "The group behind the Aur0ra ransomware has been using AI agents to move through victim networks, collect credentials and work its way up to domain administrator access, according to Sophos. AI-assisted intrusion workflow (Source: Sophos) The company, which tracks the group as GOLD OGRE, recovered artifacts from the Cursor AI coding assistant in late August that show the attackers handing the agents VPN logins, proxy access, targets and objectives. The agents then mapped the network … More → The post Ransomware gang talked AI agents into doing much of its dirty work appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Группа ransomware использует AI‑агентов для взлома сетей",
+   "simple": "Исследователи обнаружили, что преступники из группы GOLD OGRE заставляют AI‑агентов искать учётные данные и повышать привилегии в сетях жертв. Это ускоряет их работу и делает атаки более автоматизированными.",
+   "term": "AI‑агент — программа, использующая искусственный интеллект для самостоятельного выполнения задач, например поиска данных в сети.",
+   "use": [
+    "Будьте внимательны к необычным запросам к внешним сервисам, которые могут быть инициированы AI‑агентами.",
+    "Обновляйте системы обнаружения вторжений, чтобы они учитывали автоматизированные действия скриптов.",
+    "Ограничьте привилегии сервисных учётных записей, чтобы AI‑агенты не могли быстро получить администраторский доступ."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "33c086ca1438f5",
    "date": "2026-11-01T21:55:23Z",
@@ -12887,50 +12931,6 @@
     "Сравните качество результатов Argon с предыдущими моделями, чтобы решить, стоит ли переходить на новую версию."
    ],
    "category": "Модели",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "471508c04c304c",
-   "date": "2026-10-13T19:43:07Z",
-   "addedAt": "2026-10-15T17:37:45Z",
-   "source": "Google DeepMind",
-   "sourceType": "company",
-   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-   "title_en": "Developing Gemini 4 Argon responsibly and safely",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "Разработка Gemini 4 Argon с учётом ответственности и безопасности",
-   "simple": "Google DeepMind рассказывает о подходах к безопасной и ответственной разработке модели Gemini 4 Argon, подчёркивая важность этических принципов и контроля рисков.",
-   "term": "",
-   "use": [
-    "Изучите рекомендации по безопасному использованию новых ИИ‑моделей, чтобы избежать нежелательных последствий.",
-    "Внедрите процедуры проверки этичности и риска при интеграции Gemini 4 Argon в свои проекты.",
-    "Следите за обновлениями от разработчиков, чтобы своевременно применять лучшие практики безопасности."
-   ],
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b",
-   "money": null
-  },
-  {
-   "id": "e9699345b4667a",
-   "date": "2026-10-13T19:35:29Z",
-   "addedAt": "2026-10-15T17:18:23Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-   "title_en": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-   "summary_en": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
-   "pending": false,
-   "title_ru": "OpenAI и Anthropic призвали британских законодателей регулировать ИИ",
-   "simple": "Лидеры компаний OpenAI и Anthropic выступили перед парламентом, требуя правил для искусственного интеллекта. На том же мероприятии спецслужбы предупредили о риске использования ИИ для создания биологического оружия.",
-   "term": "Биологическое оружие — средства, созданные для нанесения вреда живым организмам, которые могут быть спроектированы с помощью ИИ.",
-   "use": [
-    "Следите за новыми законодательными инициативами в своей стране.",
-    "Если вы работаете в сфере ИИ, готовьте внутренние политики безопасности.",
-    "Обратите внимание на требования к прозрачности и этике в проектах с ИИ."
-   ],
-   "category": "Регулирование",
    "model": "openai/gpt-oss-120b",
    "money": null
   }
