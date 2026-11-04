@@ -1,7 +1,73 @@
 {
- "updated": "2026-11-03T21:50:42Z",
+ "updated": "2026-11-04T02:26:11Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "5d47252e76d42d",
+   "date": "2026-11-04T00:42:54Z",
+   "addedAt": "2026-11-04T02:25:45Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+   "title_en": "The biggest modding site in PC gaming is taking a stance on AI",
+   "summary_en": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent […]",
+   "pending": false,
+   "title_ru": "Nexus Mods требует указывать использование ИИ в модах",
+   "simple": "Сайт Nexus Mods теперь требует от авторов модов указывать, использовался ли ИИ при их создании. Это поможет пользователям знать, какой контент генерировался автоматически.",
+   "term": "AI‑generated content — контент, созданный с помощью искусственного интеллекта, а не полностью человеком",
+   "use": [
+    "Проверьте свои моды: если вы использовали ИИ, укажите это при загрузке.",
+    "Следите за новыми правилами сайта, чтобы избежать отклонения модов.",
+    "Если вы ищете моды, обращайте внимание на отметку об использовании ИИ, чтобы понять их происхождение."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "64fbdbf83ed120",
+   "date": "2026-11-03T23:37:45Z",
+   "addedAt": "2026-11-04T02:25:45Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+   "title_en": "Please stop asking me when the AI bubble will pop",
+   "summary_en": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]",
+   "pending": false,
+   "title_ru": "Автор просит не спрашивать о дне падения AI‑пузыря",
+   "simple": "Автор статьи говорит, что предсказать, когда «пузырь» искусственного интеллекта лопнет, невозможно, и любые ставки на такой момент — рискованны. Он подчеркивает, что рынок ИИ слишком непредсказуем.",
+   "term": "",
+   "use": [
+    "Не делайте финансовых ставок, основываясь только на прогнозах о «пузыре» ИИ.",
+    "Сосредоточьтесь на изучении реальных навыков работы с ИИ, а не на попытках предугадать рынок.",
+    "Следите за реальными кейсами применения ИИ, а не за спекулятивными прогнозами."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f901cc10a3c48e",
+   "date": "2026-11-03T22:41:03Z",
+   "addedAt": "2026-11-04T02:25:45Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "title_en": "Anthropic is working on a system to prove AI models’ identity",
+   "summary_en": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+   "pending": false,
+   "title_ru": "Anthropic разрабатывает FlashProve для проверки подлинности ИИ‑моделей",
+   "simple": "Компания Anthropic работает над системой FlashProve, которая позволит проверять, что ответ действительно пришёл от заявленной модели ИИ. Это поможет бороться с подделкой и недоверием к ИИ‑ответам.",
+   "term": "FlashProve — система, позволяющая подтвердить, что ответ сгенерирован конкретной моделью ИИ, а не подделкой",
+   "use": [
+    "При работе с ИИ‑инструментами проверяйте, есть ли у них подтверждение подлинности от FlashProve.",
+    "Если вы разрабатываете сервисы, интегрируйте проверку подлинности ответов, чтобы повысить доверие пользователей.",
+    "Следите за новостями о внедрении FlashProve в популярных платформах ИИ."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "d37889a9ebdda0",
    "date": "2026-11-03T21:43:08Z",
@@ -12934,83 +13000,6 @@
    "category": "Исследования",
    "model": "openai/gpt-oss-120b",
    "money": null
-  },
-  {
-   "id": "849b423196d125",
-   "date": "2026-10-16T00:00:00Z",
-   "addedAt": "2026-10-16T14:54:57Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/reflection-beam",
-   "title_en": "Welcome Beam: a 501B open model you can own, customize, and scale",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "Welcome Beam — открытая модель, которую можно настроить и масштабировать",
-   "simple": "Компания Hugging Face представила открытый проект Welcome Beam, позволяющий пользователям запускать собственные версии модели и адаптировать её под свои задачи. Это упрощает работу с ИИ без необходимости писать код с нуля.",
-   "term": "open source — открытый исходный код, доступный всем для изучения, изменения и использования",
-   "use": [
-    "Скачайте репозиторий проекта и попробуйте запустить модель локально",
-    "Настройте параметры под свои задачи, например, обработку текста или изображений",
-    "Используйте полученную модель в небольших проектах или прототипах"
-   ],
-   "money": null,
-   "category": "Open source",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "9db4940a53f868",
-   "date": "2026-10-16T00:00:00Z",
-   "addedAt": "2026-10-16T22:07:54Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-   "title_en": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "summary_en": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-   "pending": false,
-   "title_ru": "Stack Overflow for Agents вырос в 3 раза благодаря плагину ChatGPT",
-   "simple": "Разработчики быстро создали сервис Stack Overflow for Agents, а плагин для ChatGPT привлек в него в десять раз больше новых пользователей. Это показывает, как интеграция ИИ может ускорять рост продуктов.",
-   "term": "ChatGPT‑плагин — дополнение, позволяющее использовать возможности ChatGPT внутри другого сервиса.",
-   "use": [
-    "Попробуйте подключить ChatGPT‑плагин к своим рабочим инструментам, чтобы автоматизировать ответы на типовые вопросы.",
-    "Изучите, как создавать простые плагины для ChatGPT, чтобы расширить функциональность ваших сервисов.",
-    "Внедрите в свой клиентский сервис базу знаний и подключите к ней ChatGPT для ускорения поддержки."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "4a2f3ca18eb9ce",
-   "date": "2026-10-16T00:00:00Z",
-   "addedAt": "2026-10-17T05:40:24Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/benefit-street-partners",
-   "title_en": "Benefit Street Partners answers questions faster with Codex",
-   "summary_en": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-   "pending": false,
-   "title_ru": "Benefit Street Partners ускоряет ответы с помощью Codex",
-   "simple": "Компания использует Codex от OpenAI для автоматической проверки кода и ускорения работы с кредитными договорами. Это помогает быстрее сравнивать оценки займов и отвечать клиентам.",
-   "term": "Codex — модель от OpenAI, умеющая генерировать и проверять программный код.",
-   "use": [
-    "Внедрите автоматическую проверку кода в свои финансовые инструменты, используя готовые API.",
-    "Настройте шаблоны запросов к Codex для типовых задач анализа кредитных документов.",
-    "Обучите команду работать с результатами, полученными от модели, чтобы ускорить процесс принятия решений."
-   ],
-   "money": {
-    "idea": "Предоставлять услуги автоматизированного анализа кредитных договоров",
-    "how": [
-     "Изучить API Codex и получить доступ к нему",
-     "Разработать скрипты, которые принимают договор в текстовом виде и выводят ключевые параметры",
-     "Тестировать решение на реальных примерах и отладить ошибки",
-     "Предлагать сервис небольшим финансовым компаниям или фриланс‑консультантам"
-    ],
-    "who": "Навыки программирования, базовое понимание финансов и кредитных документов",
-    "effort": "средний",
-    "risk": "Зависимость от стабильности внешнего API и возможные ограничения по объёму запросов"
-   },
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
   }
  ]
 }
