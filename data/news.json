@@ -1,7 +1,95 @@
 {
- "updated": "2026-11-04T02:26:11Z",
+ "updated": "2026-11-04T11:10:03Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "5704c36d2a38b5",
+   "date": "2026-11-04T10:29:48Z",
+   "addedAt": "2026-11-04T11:09:36Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/04/binance-hack-north-korea-fake-job-interview/",
+   "title_en": "Fake job interview opened the door to $6.34 billion Binance heist",
+   "summary_en": "A tampered software installer and a fake job interview gave attackers the access they needed to steal about $6.34 billion in digital assets from Binance. “It was not a single isolated breach or a simple phishing incident,” Binance wrote in its incident report. “The attackers combined a range of techniques, including social engineering by fake recruitment interviews, malicious software downloads, compromised internal AI tooling, endpoint compromise, and an advanced transaction-authorisation method.” The money left Binance … More → The post Fake job interview opened the door to $6.34 billion Binance heist appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Фальшивое интервью привело к краже $6,34 млрд у Binance",
+   "simple": "Злоумышленники использовали поддельное собеседование и вредоносный софт, чтобы получить доступ к системе Binance и украсть цифровые активы. Это показывает, как комбинация социнженерии и AI‑инструментов может привести к крупным утечкам.",
+   "term": "социальная инженерия — манипуляция людьми для получения доступа к системе",
+   "use": [
+    "Проверяйте подлинность всех запросов о работе, особенно если они приходят от неизвестных источников.",
+    "Усилите контроль доступа к внутренним AI‑инструментам и проверяйте их обновления.",
+    "Обучайте сотрудников распознавать фишинговые и социнженерные попытки."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7880589c220325",
+   "date": "2026-11-04T07:00:26Z",
+   "addedAt": "2026-11-04T11:09:36Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/04/lindsay-kaye-human-security-ai-generated-malware/",
+   "title_en": "What AI-generated malware looks like under the microscope",
+   "summary_en": "In this Help Net Security interview, Lindsay Kaye, VP of Threat Intelligence at HUMAN Security, talks about what AI-generated malware looks like on the bench. She points to tidy comments, uniform logging messages, and emojis as signs a script came from a model, and notes that decompiled code strips much of that away. Kaye also covers how AI is squeezing the time teams have to patch, where it helps criminals scale fraud, and why her … More → The post What AI-generated malware looks like under the microscope appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Как выглядит AI‑сгенерированный вредоносный код",
+   "simple": "Эксперт объяснила, что в скриптах, созданных ИИ, часто встречаются аккуратные комментарии, одинаковые сообщения логов и даже эмодзи. При декомпиляции часть этих признаков исчезает, но они помогают обнаружить такие программы.",
+   "term": "AI‑сгенерированный вредонос — вредоносный код, написанный с помощью искусственного интеллекта",
+   "use": [
+    "Настройте системы мониторинга на поиск необычных шаблонов в логах и комментариях к коду.",
+    "Обучайте аналитиков распознавать характерные признаки ИИ‑созданных скриптов.",
+    "Внедрите процесс проверки кода, включающий проверку на наличие эмодзи и однообразных сообщений."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "bd492964973c64",
+   "date": "2026-11-04T05:30:45Z",
+   "addedAt": "2026-11-04T11:09:36Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/04/ai-strategy-miscalculation-gartner-report/",
+   "title_en": "Companies going all in on AI could see their strategy backfire",
+   "summary_en": "Four of the five highest-ranked enterprise risks in Gartner’s Quarterly Emerging Risk Report were AI-related. AI strategy miscalculation and AI-driven competitive displacement debuted at No. 3 and No. 4, respectively. The AI workforce preparedness gap held fifth place. AI discovery of cyber vulnerabilities and geopolitical energy supply shocks held the top two spots for the second consecutive quarter. The rankings show a composite risk score based on responses from 308 enterprise risk management leaders, auditors … More → The post Companies going all in on AI could see their strategy backfire appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Слишком агрессивные AI‑стратегии могут обернуться риском",
+   "simple": "Отчет Gartner показывает, что большинство топ‑рисков для компаний связаны с ИИ: неправильные стратегии, вытеснение конкурентов и нехватка подготовленных специалистов. Это важно для руководителей, планирующих масштабировать AI.",
+   "term": "AI‑driven competitive displacement — вытеснение конкурентов за счёт более продвинутых AI‑решений",
+   "use": [
+    "Оцените готовность команды к работе с AI перед крупными инвестициями.",
+    "Разработайте план постепенного внедрения AI, учитывая возможные риски.",
+    "Следите за отраслевыми тенденциями, чтобы не отстать от конкурентов."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "3490e0f2b0071d",
+   "date": "2026-11-04T04:36:14Z",
+   "addedAt": "2026-11-04T11:09:36Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/04/anthropic-flashprove-provable-inference/",
+   "title_en": "Anthropic open-sources FlashProve, its provable inference prototype for MoE models",
+   "summary_en": "Anthropic’s Frontier Red Team, with collaborators at EPFL, MIT and StarkWare, built FlashProve, a prototype that produces a cryptographic proof that one specific language model generated one specific reply. The prover, two verifiers, the formal proofs behind them and a protocol specification are on GitHub under the Apache 2.0 license. Source: Anthropic When you send a prompt to a hosted API, you can’t confirm which model answered it. A provider could route the request to … More → The post Anthropic open-sources FlashProve, its provable inference prototype for MoE models appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Anthropic открыла код FlashProve — доказательство генерации ответов модели",
+   "simple": "Команда Anthropic совместно с учёными создала FlashProve, который генерирует криптографическое доказательство того, что конкретный ответ был получен от определённой модели. Прототип и документация опубликованы в открытом доступе.",
+   "term": "протокол доказательства генерации — метод, позволяющий подтвердить, какая модель создала конкретный ответ, используя криптографию",
+   "use": [
+    "Изучите открытый код FlashProve, если работаете с API моделей, чтобы проверять их подлинность.",
+    "Внедрите проверку ответов в свои сервисы, если важна прозрачность источника модели.",
+    "Следите за обновлениями проекта, чтобы использовать новые возможности верификации."
+   ],
+   "money": null,
+   "category": "Open source",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "5d47252e76d42d",
    "date": "2026-11-04T00:42:54Z",
@@ -12890,116 +12978,6 @@
    "money": null,
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "055bfa833fc008",
-   "date": "2026-10-16T08:53:41Z",
-   "addedAt": "2026-10-16T08:54:06Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/16/android-enhanced-built-in-scam-protection/",
-   "title_en": "Android adds AI-powered scam alerts, hangs up on bank impostors",
-   "summary_en": "Google’s new scam protections cover Google Messages and third-party messaging apps, with an enhanced protection mode, expanded scam alerts and safeguards against call-forwarding and screen-sharing scams. “With scams growing harder to spot, it’s nearly impossible for users to catch every red flag themselves. That’s why Android’s built-in defenses actively intercept these threats before they reach you,” Alberto Pastor Nieto, Senior Product Manager at Google Messages, and Shaifali Bhandari, Product Manager at Android, explained. Scam alerts … More → The post Android adds AI-powered scam alerts, hangs up on bank impostors appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Android добавил AI‑защиту от мошенников в сообщениях и звонках",
-   "simple": "Google внедрил в Android искусственный интеллект, который предупреждает о мошеннических сообщениях и звонках и даже прерывает их. Это помогает пользователям не попасть в ловушки, пока они сами не успевают заметить опасность.",
-   "term": "AI‑защита — система, использующая искусственный интеллект для распознавания и блокировки мошеннических действий в реальном времени.",
-   "use": [
-    "Включите в настройках Android функцию защиты от мошенничества, если она ещё не активирована.",
-    "Обратите внимание на новые предупреждения в приложениях сообщений и звонков и не игнорируйте их.",
-    "При получении подозрительного звонка или сообщения проверьте, не помечено ли оно системой как потенциальный обман."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "390ece11278ffa",
-   "date": "2026-10-16T05:00:24Z",
-   "addedAt": "2026-10-16T08:15:08Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/16/stolen-ai-api-keys-autonomous-scans/",
-   "title_en": "Stolen AI API keys are paying for hackers’ autonomous scans",
-   "summary_en": "A seller on a restricted criminal forum is marketing an autonomous hacking tool that runs on stolen OpenAI, Anthropic and Google API keys, so the key’s owner pays for the scans. Bitsight’s threat intelligence team tracked the shift across thousands of posts on 16 underground forums from February through August 2026. Over that window, mentions of AI agents, indirect prompt injection and the Model Context Protocol (MCP) rose 67 percent. Two groups are exposed. A … More → The post Stolen AI API keys are paying for hackers’ autonomous scans appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Украденные AI‑ключи используют для автоматических сканирований хакерами",
-   "simple": "На криминальном форуме продаётся инструмент, который использует украденные API‑ключи OpenAI, Anthropic и Google для автоматических атак, заставляя владельцев платить за сканирование.",
-   "term": "API‑ключ — уникальный код, позволяющий программам обращаться к сервису и использовать его функции.",
-   "use": [
-    "Проверьте активность своих AI‑ключей в консоли провайдера.",
-    "Настройте ограничения по IP и бюджету для каждого ключа.",
-    "Регулярно меняйте ключи и удаляйте неиспользуемые."
-   ],
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b",
-   "money": {
-    "idea": "Предложить услуги по аудиту и защите AI‑ключей для компаний",
-    "how": [
-     "Соберите информацию о типичных утечках API‑ключей.",
-     "Разработайте чек‑лист проверки безопасности ключей.",
-     "Предложите клиентам настройку ограничений и мониторинг расходов.",
-     "Оказывайте поддержку при обнаружении подозрительной активности."
-    ],
-    "who": "Специалисты по кибербезопасности, знакомые с облачными AI‑сервисами",
-    "effort": "средний",
-    "risk": "Неправильная настройка ограничений может привести к блокировке легитимных запросов"
-   }
-  },
-  {
-   "id": "8506686dc9dbdb",
-   "date": "2026-10-16T04:00:27Z",
-   "addedAt": "2026-10-16T04:41:34Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/16/new-infosec-products-of-the-week-october-16-2026/",
-   "title_en": "New infosec products of the week: October 16, 2026",
-   "summary_en": "Here’s a look at the most interesting products from the past week, featuring releases from NinjaOne, Qualys, Scytale, and SolarWinds. NinjaOne combines Katana AI and MCP server to accelerate IT problem resolution NinjaOne has announced Katana AI, an agentic AI technician that supports and elevates IT workers, and the NinjaOne MCP server, an agentic orchestration connector that extends the platform’s governed access to the AI tools teams already use. Katana AI analyzes device telemetry, history, … More → The post New infosec products of the week: October 16, 2026 appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "NinjaOne представила Katana AI и сервер MCP для ускорения ИТ‑поддержки",
-   "simple": "NinjaOne выпустила Katana AI — ИИ‑техника, помогающего ИТ‑специалистам, и сервер MCP, который соединяет существующие AI‑инструменты с их платформой. Это должно ускорить решение проблем в ИТ‑отделах.",
-   "term": "Agentic AI — ИИ, способный самостоятельно принимать решения и выполнять задачи без постоянного вмешательства человека.",
-   "use": [
-    "Попробуйте интегрировать Katana AI в текущие процессы ИТ‑поддержки.",
-    "Оцените, какие задачи можно автоматизировать с помощью сервера MCP.",
-    "Обучите сотрудников работе с новыми AI‑инструментами."
-   ],
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b",
-   "money": {
-    "idea": "Создать сервис настройки и внедрения Katana AI для малых ИТ‑команд",
-    "how": [
-     "Изучите документацию NinjaOne и возможности Katana AI.",
-     "Разработайте типовые сценарии автоматизации для типовых запросов.",
-     "Предложите клиентам настройку и обучение персонала.",
-     "Поддерживайте сервис обновлениями и мониторингом эффективности."
-    ],
-    "who": "ИТ‑консультанты, знакомые с платформой NinjaOne и автоматизацией процессов",
-    "effort": "средний",
-    "risk": "Неправильная настройка может привести к ошибочным действиям в инфраструктуре"
-   }
-  },
-  {
-   "id": "ba4e7337aba280",
-   "date": "2026-10-16T01:44:47Z",
-   "addedAt": "2026-10-16T04:41:33Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-   "title_en": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "Новый набор данных: 2,8 триллиона токенов для предобучения индийских языков",
-   "simple": "Исследователи представили открытый pipeline, который генерирует огромный набор данных в 2,8 триллиона токенов для предобучения моделей на индийских языках. Это поможет улучшить качество моделей для этих языков.",
-   "term": "Pretraining — начальное обучение модели на большом объёме данных перед её доработкой под конкретные задачи.",
-   "use": [
-    "Изучите открытый pipeline и попробуйте собрать собственный набор данных.",
-    "Примените полученный набор для дообучения небольших моделей на индийских языках.",
-    "Следите за публикациями, чтобы узнать о новых версиях данных."
-   ],
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b",
-   "money": null
   }
  ]
 }
