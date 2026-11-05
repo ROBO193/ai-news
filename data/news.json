@@ -1,7 +1,117 @@
 {
- "updated": "2026-11-05T00:26:30Z",
+ "updated": "2026-11-05T07:58:03Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "eeeae62d983b8e",
+   "date": "2026-11-05T06:45:07Z",
+   "addedAt": "2026-11-05T07:57:35Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/05/zohaib-ahmed-resemble-ai-detecting-ai-agent-traffic/",
+   "title_en": "AI agent detection signals that still work when agents look human",
+   "summary_en": "Bots follow a script. AI agents work toward a goal and choose their own steps, which makes them harder to catch. In this Help Net Security interview, Zohaib Ahmed, CEO of Resemble AI explains how agents arrive as declared, undeclared or disguised traffic, and why binary bot detection misses the last two groups. Ahmed walks through the signals that give agents away, like click timing or a batch of sessions all chasing one goal. For … More → The post AI agent detection signals that still work when agents look human appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Как обнаружить AI‑агентов, которые выглядят как люди",
+   "simple": "AI‑агенты действуют самостоятельно, а не по готовому скрипту, поэтому их сложнее поймать. В интервью объясняются сигналы, такие как время кликов и одновременные сессии, которые помогают их выявить.",
+   "term": "AI‑агент — программа, которая самостоятельно выбирает шаги для достижения цели, а не просто исполняет заранее заданный сценарий",
+   "use": [
+    "Отслеживайте аномальное время между кликами пользователей.",
+    "Проверяйте группы сеансов, которые одновременно стремятся к одной цели.",
+    "Настройте системы мониторинга на выявление подобных паттернов поведения."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "915c0b58aca6a7",
+   "date": "2026-11-05T06:11:25Z",
+   "addedAt": "2026-11-05T07:57:35Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/05/healthcare-ai-governance-patient-data/",
+   "title_en": "Healthcare can’t govern the AI tools it hasn’t found yet",
+   "summary_en": "Nearly nine in ten healthcare leaders say security or compliance staff always or usually review AI-written code that touches patient data before it goes live, and seven in ten have still found an AI-built tool handling that data without IT or security knowing, according to Paubox. Source: Paubox These are the scripts, automations, and integrations staff put together with AI coding assistants. Here’s the catch: a code review only covers what someone submits, and a … More → The post Healthcare can’t govern the AI tools it hasn’t found yet appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Медицинские организации не могут контролировать скрытые AI‑инструменты",
+   "simple": "Большинство руководителей в здравоохранении проверяют AI‑код, но часто обнаруживают инструменты, о которых IT‑службы не знают. Это происходит из‑за использования AI‑помощников для написания скриптов без надзора.",
+   "term": "AI‑помощник по коду — система, генерирующая программный код по запросу пользователя, часто без полного контроля со стороны IT",
+   "use": [
+    "Внедрите обязательный журнал всех AI‑генерируемых скриптов.",
+    "Проводите регулярные аудиты кода, созданного AI, даже если он не был официально заявлен.",
+    "Обучайте персонал правилам безопасного использования AI‑помощников."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "fc3bb545d92aeb",
+   "date": "2026-11-05T05:30:14Z",
+   "addedAt": "2026-11-05T07:57:35Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/05/dnsfilter-shadow-ai-cost-report/",
+   "title_en": "Companies are spending more on AI governance and getting less control",
+   "summary_en": "Companies are increasing their cybersecurity budgets, with AI security and governance the top priority for additional spending, followed by cloud security, according to DNSFilter’s The Cost of Shadow AI report. Some 74.5% of respondents reported a larger cybersecurity budget than 12 months earlier. Asked where their next incremental security dollar would go, 40.3% named AI security and governance, followed by cloud security at 25.5%. One reason to prioritize it is that employees grant AI tools … More → The post Companies are spending more on AI governance and getting less control appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Бюджеты на AI‑управление растут, но контроль падает",
+   "simple": "Компании увеличивают расходы на кибербезопасность, делая AI‑безопасность и управление приоритетом, однако контроль над AI‑инструментами снижается. Сотрудники часто дают доступ AI без достаточного надзора.",
+   "term": "AI‑управление — процесс контроля и регулирования использования искусственного интеллекта в организации",
+   "use": [
+    "Определите чёткие политики доступа к AI‑инструментам.",
+    "Внедрите автоматические проверки прав доступа к AI‑сервисам.",
+    "Обучайте сотрудников рискам неконтролируемого использования AI."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "4d0aa265ccf366",
+   "date": "2026-11-05T05:00:30Z",
+   "addedAt": "2026-11-05T07:57:35Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/05/okta-ai-customer-experiences-report/",
+   "title_en": "Most consumers aren’t ready to let AI agents shop unsupervised",
+   "summary_en": "Customer control, account security and ease of use are influencing the adoption of AI agents that make purchases, book services and access personal information, according to Okta’s 2026 Customer Identity Trends Report. Consumers’ willingness to delegate depends on what an agent can do, the consequences of a mistake and their ability to approve or reverse its actions. Businesses introducing these services must meet new requirements for verifying agents and managing their permissions. Only 37% of … More → The post Most consumers aren’t ready to let AI agents shop unsupervised appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Потребители не готовы доверять AI‑агентам покупки без контроля",
+   "simple": "Люди сомневаются в том, чтобы позволять AI‑агентам самостоятельно делать покупки, из‑за опасений за безопасность и возможность ошибок. Это требует от компаний новых методов проверки и управления правами агентов.",
+   "term": "AI‑агент покупок — система, автоматически совершающая покупки или бронирования от имени пользователя",
+   "use": [
+    "Предоставляйте пользователям возможность одобрять каждую покупку.",
+    "Разрабатывайте прозрачные механизмы отмены действий AI‑агента.",
+    "Информируйте клиентов о том, какие данные использует агент."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "1c7da4acfcdd25",
+   "date": "2026-11-05T01:26:22Z",
+   "addedAt": "2026-11-05T07:57:35Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+   "title_en": "Apple is reportedly cutting budgets for its internal AI usage",
+   "summary_en": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+   "pending": false,
+   "title_ru": "Apple сокращает бюджеты на внутреннее использование AI",
+   "simple": "Apple, по сообщениям, значительно уменьшает расходы на AI‑технологии для своих инженерных команд. Это может означать переориентацию ресурсов внутри компании.",
+   "term": "",
+   "use": [
+    "Следите за новостями о внутренних проектах Apple, чтобы понять, какие AI‑инструменты могут стать доступными внешним разработчикам.",
+    "Если вы разрабатываете приложения для Apple, учитывайте возможные изменения в поддержке AI‑функций.",
+    "Изучайте альтернативные AI‑платформы, если планируете интеграцию в продукты Apple."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "88d1bdb9c1605f",
    "date": "2026-11-04T23:13:14Z",
@@ -915,6 +1025,38 @@
     "Следите за реальными кейсами применения ИИ, а не за спекулятивными прогнозами."
    ],
    "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f11d9a22fb662e",
+   "date": "2026-11-03T22:41:23Z",
+   "addedAt": "2026-11-05T07:57:35Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+   "title_en": "Google hasn’t figured out how to make AI pay like its search engine",
+   "summary_en": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads […]",
+   "pending": false,
+   "title_ru": "Google не умеет заставить ИИ платить, как поисковая система",
+   "simple": "Google сообщает, что рост запросов в поиске ускорился, но доход от рекламы замедлился, показывая сложности монетизации ИИ в поиске. Это важно для маркетологов и рекламодателей.",
+   "term": "Платные клики — рекламные переходы, за которые рекламодатель платит поисковой системе.",
+   "use": [
+    "Следите за изменениями в рекламных инструментах Google и адаптируйте свои стратегии.",
+    "Тестируйте новые форматы объявлений, чтобы понять, что лучше работает в текущих условиях."
+   ],
+   "money": {
+    "idea": "Оптимизация рекламных кампаний в Google Ads",
+    "how": [
+     "Изучить текущие инструменты Google Ads",
+     "Предложить клиентам аудит их рекламных кампаний",
+     "Внедрить улучшения, используя новые форматы объявлений",
+     "Отслеживать результаты и корректировать стратегию"
+    ],
+    "who": "Маркетологи, специалисты по онлайн‑рекламе, фрилансеры в сфере digital‑маркетинга",
+    "effort": "средний",
+    "risk": "Зависимость от изменений алгоритмов и политики Google"
+   },
    "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   },
@@ -12847,135 +12989,6 @@
     "Оцените, какие повторяющиеся задачи в вашей ИТ‑команде можно автоматизировать с помощью виртуальных работников.",
     "Если вы администратор, протестируйте демо‑версию сервиса на небольшом участке инфраструктуры.",
     "Обеспечьте процесс проверки (human‑in‑the‑loop) для критически важных действий."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "54614ce5231727",
-   "date": "2026-10-19T13:28:06Z",
-   "addedAt": "2026-10-19T17:33:49Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/19/sweet-security-virtual-patching/",
-   "title_en": "Sweet Security adds one-click protection for vulnerable cloud workloads",
-   "summary_en": "Sweet Security has announced the release of Virtual Patching, a new capability that protects running cloud and AI applications from specific vulnerabilities the moment they are identified. Security teams can enforce protection in one click while engineering develops, tests, and deploys a permanent fix. Vulnerability remediation can take days or weeks as engineering teams develop fixes, test changes, obtain approvals, and deploy updated applications. During that window, the running application remains exposed. AI is making … More → The post Sweet Security adds one-click protection for vulnerable cloud workloads appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Sweet Security выпустила «Virtual Patching» — мгновенную защиту уязвимостей в облаке",
-   "simple": "Новый инструмент от Sweet Security позволяет одним кликом защитить работающие облачные и AI‑приложения от недавно обнаруженных уязвимостей, пока разрабатывается постоянное исправление. Это сокращает время открытого окна риска.",
-   "term": "Virtual Patching — временная защита, которая блокирует известные уязвимости без изменения кода приложения",
-   "use": [
-    "Внедрите виртуальный патчинг в процесс CI/CD, чтобы быстро реагировать на новые уязвимости.",
-    "Настройте оповещения о новых уязвимостях и применяйте один‑клик защиту до выхода официального патча.",
-    "Проверьте совместимость виртуального патча с вашими текущими облачными сервисами."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "1f63abf1d8df54",
-   "date": "2026-10-19T12:44:44Z",
-   "addedAt": "2026-10-19T17:33:49Z",
-   "source": "BleepingComputer",
-   "sourceType": "media",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-   "title_en": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-   "summary_en": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
-   "pending": false,
-   "title_ru": "Microsoft исправила баг в Outlook, скрывающий кнопки Copilot",
-   "simple": "Microsoft устранила известную ошибку, из‑за которой в классическом клиенте Outlook на Windows исчезали кнопки Copilot и чат. Теперь пользователи снова могут пользоваться встроенным помощником в почте.",
-   "term": "Copilot — AI‑ассистент, интегрированный в продукты Microsoft для помощи в написании текста и выполнении задач",
-   "use": [
-    "Обновите Outlook до последней версии, чтобы увидеть кнопки Copilot.",
-    "Если вы используете Copilot, проверьте его настройки и включите нужные функции.",
-    "Обучите коллег, как эффективно использовать Copilot для ускорения работы с письмами."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "9279cf6bb0c3cf",
-   "date": "2026-10-19T12:37:05Z",
-   "addedAt": "2026-10-19T17:33:48Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-   "title_en": "Democrats think cracking down on AI could give them an edge",
-   "summary_en": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That […]",
-   "pending": false,
-   "title_ru": "Демократы считают, что регулирование ИИ даст им преимущество",
-   "simple": "Если демократы вернут контроль над Конгрессом, им придётся решать, как регулировать искусственный интеллект. Это может стать важным политическим вопросом в США.",
-   "term": "Open-weight модели — ИИ‑модели, чьи параметры открыты для всех, их можно скачать и изменить.",
-   "use": [
-    "Следите за новостями о законодательных инициативах в сфере ИИ.",
-    "Если вы работаете в сфере технологий, готовьте рекомендации по соблюдению будущих правил."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "c17a4963d410cf",
-   "date": "2026-10-19T12:30:00Z",
-   "addedAt": "2026-10-19T22:27:53Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-   "title_en": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-   "summary_en": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-   "pending": false,
-   "title_ru": "Laplace Intelligence тестирует роботов и автопилоты в виртуальном мире",
-   "simple": "Старт‑ап из Мичигана использует AI‑агентов и интерактивные симуляции, чтобы проверять роботов и самоуправляемые машины до их выхода в реальность. Компания участвует в конкурсе TechCrunch Disrupt.",
-   "term": "симуляция — создание виртуального окружения, где можно безопасно проверять работу систем",
-   "use": [
-    "Попробуйте интегрировать симуляционные тесты в свой процесс разработки роботов.",
-    "Изучите открытые платформы для создания AI‑агентов, чтобы проводить собственные стресс‑тесты.",
-    "Следите за результатами конкурса, они могут подсказать лучшие практики."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "7a364f356aab49",
-   "date": "2026-10-19T12:00:00Z",
-   "addedAt": "2026-10-20T01:54:31Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/low-resource-programming-languages",
-   "title_en": "Advancing coding in low‑resource programming languages",
-   "summary_en": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-   "pending": false,
-   "title_ru": "OpenAI улучшает ChatGPT для редких языков программирования",
-   "simple": "OpenAI работает над тем, чтобы ChatGPT лучше понимал и генерировал код на малоиспользуемых языках, таких как COBOL, а также проводит новые тесты для миграции SQLite. Это расширит возможности ИИ‑помощников для старых систем.",
-   "term": "малоиспользуемый язык программирования — язык, который применяется в небольшом числе проектов, часто в старых системах",
-   "use": [
-    "Если вы поддерживаете старые системы, попробуйте использовать ChatGPT для автоматизации миграции кода.",
-    "Изучите возможности ИИ‑помощников в написании тестов для редких языков, чтобы ускорить разработку."
-   ],
-   "money": null,
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "c7d5c6f537c1e3",
-   "date": "2026-10-19T11:04:12Z",
-   "addedAt": "2026-10-19T17:33:49Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/19/open-weight-ai-model-risks-microsoft-nvidia/",
-   "title_en": "With open-weight AI, more of the security burden falls on enterprises",
-   "summary_en": "Organizations that run open-weight AI models on their own infrastructure may have to supply safety and security controls that an AI provider would otherwise handle for them, Microsoft and NVIDIA warn in a joint paper on managing the risks of these models. Open-weight models are AI models whose weights, the values a model learns during training, are published so that anyone can download, inspect, modify and run them. Closed-weight models stay with the company that … More → The post With open-weight AI, more of the security burden falls on enterprises appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "При открытых моделях ИИ безопасность ложится на компании",
-   "simple": "Microsoft и NVIDIA предупреждают, что организации, использующие открытые модели ИИ, должны сами обеспечивать их безопасность. В отличие от закрытых моделей, провайдер не берёт на себя эту задачу.",
-   "term": "Open-weight модели — ИИ‑модели, чьи параметры открыты для всех, их можно скачать и изменить.",
-   "use": [
-    "Оцените, какие модели вы используете, и проверьте их безопасность.",
-    "Разработайте внутренние процедуры контроля за открытыми ИИ‑моделями."
    ],
    "money": null,
    "category": "Безопасность",
