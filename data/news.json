@@ -1,7 +1,91 @@
 {
- "updated": "2026-11-06T03:29:03Z",
+ "updated": "2026-11-06T12:13:38Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "c9b593946ad1ee",
+   "date": "2026-11-06T10:19:49Z",
+   "addedAt": "2026-11-06T12:13:18Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/06/openai-gpt-6-cyber-released/",
+   "title_en": "OpenAI’s GPT-6 Cyber found 81 Firefox flaws earlier AI testing missed",
+   "summary_en": "OpenAI has introduced GPT-6 Cyber, a version of GPT-6 Astra trained to find software vulnerabilities, test how attackers could exploit them, and help develop fixes. The model is designed for authorized security testing of websites and applications. Vulnerability research and security testing OpenAI used GPT-6 Cyber to help secure its systems, including the infrastructure used to train its AI models. In controlled security tests, agents using GPT-6 Cyber and other OpenAI models combined vulnerabilities to … More → The post OpenAI’s GPT-6 Cyber found 81 Firefox flaws earlier AI testing missed appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "GPT‑6 Cyber обнаружил 81 уязвимость в Firefox, пропущенные прежними тестами",
+   "simple": "OpenAI представила версию GPT‑6, обученную искать программные уязвимости. В тестах модель нашла 81 проблемы в браузере Firefox, которые не заметили другие проверки.",
+   "term": "Уязвимость — ошибка в программном обеспечении, позволяющая злоумышленникам получить несанкционированный доступ или выполнить нежелательные действия.",
+   "use": [
+    "Оцените, какие инструменты ИИ могут помочь в проверке безопасности вашего ПО.",
+    "Внедрите регулярные автоматические сканирования кода с использованием моделей, обученных на поиске уязвимостей."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "e804e0e7928903",
+   "date": "2026-11-06T10:00:00Z",
+   "addedAt": "2026-11-06T12:13:18Z",
+   "source": "MIT Technology Review",
+   "sourceType": "media",
+   "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+   "title_en": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+   "summary_en": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
+   "pending": false,
+   "title_ru": "Гуманоидный робот убирает квартиру: взгляд в будущее домашней автоматизации",
+   "simple": "Автор попробовал сервис, где человекоподобный робот чистит жильё в Сан‑Франциско. Это показало, как роботы могут выполнять бытовые задачи, заменяя людей.",
+   "term": "Гуманоидный робот — машина, внешне напоминающая человека и способная выполнять задачи, требующие манипуляций руками и передвижения.",
+   "use": [
+    "Следите за появлением подобных сервисов в вашем городе и пробуйте их, если хотите сэкономить время на уборке.",
+    "Изучите основы программирования и робототехники, чтобы понять, как такие устройства работают и как их можно адаптировать под свои нужды."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9889510bec40cd",
+   "date": "2026-11-06T06:28:32Z",
+   "addedAt": "2026-11-06T12:13:18Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+   "title_en": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+   "summary_en": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+   "pending": false,
+   "title_ru": "Palo Alto Networks обсуждает покупку стартапа по AI‑безопасности Clutch за $500 млн",
+   "simple": "Крупный поставщик кибербезопасности Palo Alto Networks рассматривает приобретение стартапа Clutch, который разрабатывает AI‑агентов для защиты. Сделка может усилить их предложения в сфере искусственного интеллекта.",
+   "term": "",
+   "use": [
+    "Следите за новостями о слияниях в сфере AI‑безопасности, чтобы понять, какие решения становятся доступнее.",
+    "Если вы работаете в кибербезопасности, изучайте инструменты, основанные на AI‑агентах, чтобы оставаться конкурентоспособным."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a64f92172f8122",
+   "date": "2026-11-06T06:00:03Z",
+   "addedAt": "2026-11-06T12:13:18Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/06/autonomous-ai-oversight-governance/",
+   "title_en": "87% say their AI controls need to work better",
+   "summary_en": "The AI running inside large companies has stopped waiting for permission. Across five categories of AI, from chatbots to process automation, more than half of 3,600 business decision-makers say the systems their teams use can act within defined rules without routine review, or finish whole processes with no human approval. 87% of those same respondents say their organization needs a better way to approve, monitor and control how AI gets used. Vanson Bourne ran the … More → The post 87% say their AI controls need to work better appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "87 % компаний считают, что контроль над AI‑системами работает плохо",
+   "simple": "Опрос 3 600 руководителей показал, что большинство считают, что их AI‑инструменты нуждаются в лучшем мониторинге и одобрении. Это важно для предотвращения нежелательных действий без человеческого контроля.",
+   "term": "",
+   "use": [
+    "Внедрите процессы регулярного аудита и утверждения AI‑моделей в своей организации.",
+    "Обучите сотрудников принципам ответственного использования AI, чтобы снизить риски автоматических решений."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "85f398082dadd8",
    "date": "2026-11-06T00:37:56Z",
@@ -42,6 +126,38 @@
    ],
    "money": null,
    "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "82196d4ece0a64",
+   "date": "2026-11-06T00:00:00Z",
+   "addedAt": "2026-11-06T12:13:17Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+   "title_en": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Английский Египта и Нигерии попали в рейтинг Open ASR",
+   "simple": "В открытом рейтинге распознавания речи (Open ASR) появились модели, обученные на египетском и нигерийском вариантах английского. Это расширяет возможности систем распознавать разные акценты.",
+   "term": "ASR — автоматическое распознавание речи, технология, преобразующая звук в текст.",
+   "use": [
+    "Попробуйте использовать открытые модели из рейтинга для тестов распознавания речи в своих проектах.",
+    "Обратите внимание на поддержку новых акцентов, если ваш продукт ориентирован на международных пользователей."
+   ],
+   "money": {
+    "idea": "Предлагать услуги транскрипции с использованием открытых моделей ASR",
+    "how": [
+     "Скачайте подходящую модель из Open ASR Leaderboard",
+     "Настройте её на своей инфраструктуре или в облаке",
+     "Запустите сервис транскрипции для клиентов",
+     "Маркетируйте сервис как поддерживающий редкие акценты"
+    ],
+    "who": "Разработчики, знакомые с Python и ML‑инфраструктурой",
+    "effort": "средний",
+    "risk": "Качество распознавания может быть ниже коммерческих решений"
+   },
+   "category": "Open source",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -1228,6 +1344,27 @@
     "Следите за новостями о внутренних проектах Apple, чтобы понять, какие AI‑инструменты могут стать доступными внешним разработчикам.",
     "Если вы разрабатываете приложения для Apple, учитывайте возможные изменения в поддержке AI‑функций.",
     "Изучайте альтернативные AI‑платформы, если планируете интеграцию в продукты Apple."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2c368bf7ce9212",
+   "date": "2026-11-05T01:02:14Z",
+   "addedAt": "2026-11-06T12:13:18Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+   "title_en": "After the midterms, a bigger clash over data centers could be coming",
+   "summary_en": "Data center opposition crossed party lines in Tuesday’s midterms.",
+   "pending": false,
+   "title_ru": "После выборов может обостриться конфликт вокруг дата‑центров",
+   "simple": "На выборах появилось единое сопротивление дата‑центрам, что может привести к новым ограничениям их размещения. Это важно для компаний, использующих большие вычислительные мощности.",
+   "term": "Дата‑центр — помещение, где размещаются серверы и оборудование для обработки и хранения данных.",
+   "use": [
+    "Следите за местными нормативами при планировании новых серверных мощностей.",
+    "Рассмотрите варианты распределённой обработки данных, чтобы снизить зависимость от крупных дата‑центров."
    ],
    "money": null,
    "category": "Железо",
@@ -12863,133 +13000,6 @@
    ],
    "money": null,
    "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "f52190a49967b6",
-   "date": "2026-10-20T18:07:34Z",
-   "addedAt": "2026-10-20T18:32:02Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-   "title_en": "Meta pauses Muse sharing after researchers find AI chats on the web",
-   "summary_en": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […]",
-   "pending": false,
-   "title_ru": "Meta приостановила функцию Muse после утечки ссылок",
-   "simple": "Meta отключила возможность делиться чатами Muse, потому что исследователи нашли публичные ссылки на эти разговоры. Это показывает риски конфиденциальности в AI‑ассистентах.",
-   "term": "Конфиденциальность — защита личных данных от несанкционированного доступа.",
-   "use": [
-    "Будьте осторожны при делении ссылок на AI‑чаты, проверяйте настройки приватности.",
-    "Если вы разрабатываете AI‑приложения, учитывайте безопасность данных пользователей."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "2f7a561d0868a8",
-   "date": "2026-10-20T17:55:12Z",
-   "addedAt": "2026-10-20T22:22:58Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-   "title_en": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-   "summary_en": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
-   "pending": false,
-   "title_ru": "Эрик Шмидт владеет около половины доли Anthropic, чем CEO Дарио Амодеи",
-   "simple": "По данным Bloomberg, бывший глава Google Эрик Шмидт владеет примерно 1 % акций AI‑лаборатории Anthropic, что примерно вдвое меньше, чем у её генерального директора. Это показывает интерес крупных технологических фигур к стартапам в сфере ИИ.",
-   "term": "",
-   "use": [
-    "Следите за новостями о крупных инвесторах в ИИ, чтобы понимать, какие направления получают поддержку.",
-    "Если вы изучаете карьерные возможности в AI, обратите внимание на компании, где участвуют известные инвесторы."
-   ],
-   "money": null,
-   "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "e6729fe7617ac5",
-   "date": "2026-10-20T17:41:58Z",
-   "addedAt": "2026-10-20T18:32:03Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-   "title_en": "French Government Calls Emergency Meetings With Platforms Over Protests",
-   "summary_en": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-   "pending": false,
-   "title_ru": "Франция требует от платформ ограничить протестный контент и AI‑изображения",
-   "simple": "Французское правительство потребовало от TikTok и других площадок убрать видеозаписи протестов и изображения, изменённые ИИ, чтобы предотвратить распространение дезинформации.",
-   "term": "AI‑изображения — картинки, созданные или изменённые с помощью искусственного интеллекта.",
-   "use": [
-    "Если вы создаёте контент, проверяйте, не нарушает ли он новые требования по AI‑модификации.",
-    "Следите за локальными регуляциями, чтобы ваш онлайн‑бизнес соответствовал требованиям к контенту."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "f25d567c798eab",
-   "date": "2026-10-20T17:40:20Z",
-   "addedAt": "2026-10-20T18:32:03Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
-   "title_en": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-   "summary_en": "Meta argues nobody “decided” to pirate books to train AI.",
-   "pending": false,
-   "title_ru": "Meta обвиняет сотрудников, скачавших торренты, вместо руководства",
-   "simple": "Meta заявила, что сотрудники, а не руководители, скачивали книги через торренты для обучения ИИ. Это может показать, как компании пытаются сместить ответственность за нарушения.",
-   "term": "",
-   "use": [
-    "Обратите внимание на политику компании по использованию контента для обучения ИИ.",
-    "Следите за тем, как в вашей организации оформляются права на данные, используемые в проектах ИИ."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "8891282d78b30c",
-   "date": "2026-10-20T17:12:48Z",
-   "addedAt": "2026-10-20T18:32:03Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-   "title_en": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-   "summary_en": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
-   "pending": false,
-   "title_ru": "AI‑помощник Muse от Meta собрал 10 млн загрузок в США за 40 дней",
-   "simple": "Приложение Muse, виртуальный собеседник от Meta, быстро набрало популярность, превысив 10 миллионов скачиваний. Оно удерживает пользователей лучше, чем конкуренты, что говорит о спросе на персональных ИИ‑ассистентов.",
-   "term": "",
-   "use": [
-    "Скачайте Muse, чтобы попробовать общение с ИИ‑ассистентом и оценить его возможности.",
-    "Если вы разрабатываете похожие сервисы, изучите, какие функции удерживают пользователей в Muse."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "6422ce081b343d",
-   "date": "2026-10-20T16:20:06Z",
-   "addedAt": "2026-10-21T07:47:44Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-   "title_en": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-   "summary_en": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-   "pending": false,
-   "title_ru": "Физический ИИ в эпохе LEGO",
-   "simple": "Эксперт из Nvidia сравнил развитие физического ИИ с игрой LEGO — сейчас он только собирает базовые блоки. Это значит, что роботы пока способны лишь на простые задачи, но потенциал растёт.",
-   "term": "Физический ИИ — искусственный интеллект, управляющий реальными объектами, например роботами, а не только виртуальными системами.",
-   "use": [
-    "Следите за новыми прототипами роботов в новостях, чтобы понять, какие задачи они уже решают.",
-    "Изучайте базовые принципы робототехники, чтобы быть готовыми к появлению более сложных систем.",
-    "Подумайте, какие простые процессы в вашем бизнесе можно автоматизировать с помощью уже доступных роботов."
-   ],
-   "money": null,
-   "category": "Железо",
    "model": "openai/gpt-oss-120b"
   }
  ]
