@@ -1,7 +1,49 @@
 {
- "updated": "2026-11-05T22:43:11Z",
+ "updated": "2026-11-06T03:29:03Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "85f398082dadd8",
+   "date": "2026-11-06T00:37:56Z",
+   "addedAt": "2026-11-06T03:28:45Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+   "title_en": "OpenAI is stepping back from NDAs for data center projects",
+   "summary_en": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions […]",
+   "pending": false,
+   "title_ru": "OpenAI откажется от NDA в проектах дата‑центров",
+   "simple": "OpenAI объявила, что не будет использовать соглашения о неразглашении с государственными чиновниками в проектах дата‑центров. Это сделано после общественного сопротивления расширению дата‑центров.",
+   "term": "",
+   "use": [
+    "Обратите внимание на открытость компаний при выборе партнёров.",
+    "Следите за новостями о политике конфиденциальности в IT‑проектах."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "cc48f8093c5bb1",
+   "date": "2026-11-06T00:06:12Z",
+   "addedAt": "2026-11-06T03:28:45Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+   "title_en": "Airbnb is working on an AI travel agent",
+   "summary_en": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But […]",
+   "pending": false,
+   "title_ru": "Airbnb разрабатывает AI‑агента для планирования поездок",
+   "simple": "Airbnb планирует к 2027 году запустить искусственного помощника, который будет помогать пользователям планировать и бронировать путешествия. Компания считает, что такие агенты уже умеют выполнять простые задачи, как бронирование столика.",
+   "term": "AI‑агент — программный помощник, использующий искусственный интеллект для выполнения задач по запросу пользователя.",
+   "use": [
+    "Попробуйте в 2027 году использовать нового помощника для упрощения планирования поездок.",
+    "Следите за обновлениями Airbnb, чтобы первым протестировать сервис."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "01af2f668adeb8",
    "date": "2026-11-05T22:40:55Z",
@@ -148,6 +190,27 @@
    ],
    "money": null,
    "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c88b52d0b21039",
+   "date": "2026-11-05T20:00:00Z",
+   "addedAt": "2026-11-06T03:28:43Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/cultfit-builds-with-codex",
+   "title_en": "Cult.fit builds operational muscle with Codex",
+   "summary_en": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+   "pending": false,
+   "title_ru": "Cult.fit ускоряет работу с помощью Codex",
+   "simple": "Компания Cult.fit использует Codex — инструмент от OpenAI, чтобы команды могли быстрее создавать внутренние инструменты и менять рабочие процессы. Это помогает ускорить разработку и автоматизацию задач.",
+   "term": "Codex — модель от OpenAI, умеющая генерировать программный код по описанию на естественном языке.",
+   "use": [
+    "Изучите возможности Codex для автоматизации рутинных задач в своей работе.",
+    "Попробуйте писать простые скрипты с помощью описаний на обычном языке."
+   ],
+   "money": null,
+   "category": "Разработка",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -399,6 +462,27 @@
    "use": [],
    "money": null,
    "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b58fee4edbbb5f",
+   "date": "2026-11-05T17:00:00Z",
+   "addedAt": "2026-11-06T03:28:43Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "title_en": "Australian universities are creating AI-native graduates",
+   "summary_en": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+   "pending": false,
+   "title_ru": "Австралийские вузы готовят AI‑специалистов",
+   "simple": "Университеты Австралии расширяют доступ к ChatGPT и включают искусственный интеллект в учебные программы, чтобы выпускники были готовы к работе в AI‑ориентированном рынке.",
+   "term": "ChatGPT — чат‑бот на основе крупной языковой модели, способный вести диалог и генерировать текст.",
+   "use": [
+    "Начните использовать ChatGPT для практики решения учебных задач.",
+    "Следите за курсами, где вводятся AI‑технологии, чтобы повысить свою конкурентоспособность."
+   ],
+   "money": null,
+   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -997,6 +1081,27 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "300d91101f21ec",
+   "date": "2026-11-05T08:00:00Z",
+   "addedAt": "2026-11-06T03:28:43Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/merge-builds-with-openai",
+   "title_en": "Merge builds product and business tools with OpenAI technology",
+   "summary_en": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+   "pending": false,
+   "title_ru": "Merge использует технологии OpenAI для продуктов и бизнеса",
+   "simple": "Компания Merge применяет GPT‑6 Astra, ChatGPT и Codex для проверки кода, поддержки маркетинга и планирования деловых мероприятий. AI помогает автоматизировать как технические, так и управленческие задачи.",
+   "term": "GPT‑6 Astra — продвинутая языковая модель от OpenAI, используемая для генерации текста и кода.",
+   "use": [
+    "Изучите, как AI может проверять ваш код и ускорять разработку.",
+    "Применяйте AI‑инструменты для подготовки маркетинговых материалов и планов."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "eeeae62d983b8e",
    "date": "2026-11-05T06:45:07Z",
    "addedAt": "2026-11-05T07:57:35Z",
@@ -1129,6 +1234,28 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "1f9981de570064",
+   "date": "2026-11-05T00:45:15Z",
+   "addedAt": "2026-11-06T03:28:43Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/ads/customers/flipsnack",
+   "title_en": "Flipsnack grows product signups with conversion optimization",
+   "summary_en": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+   "pending": false,
+   "title_ru": "Flipsnack увеличил регистрации с помощью рекламных кампаний ChatGPT",
+   "simple": "Flipsnack запустил рекламу, ориентированную на ChatGPT, чтобы привлечь людей к пробному использованию сервиса. Это привело к росту регистраций и снижению стоимости привлечения.",
+   "term": "ChatGPT Ads — рекламные кампании, использующие возможности ChatGPT для создания текста объявлений.",
+   "use": [
+    "Попробуйте настроить рекламные объявления, используя генерацию текста от ChatGPT, чтобы сделать их более привлекательными.",
+    "Отслеживайте стоимость привлечения одного пользователя и оптимизируйте кампанию для её снижения.",
+    "Тестируйте разные варианты текста, чтобы понять, какие сообщения лучше конвертируют."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "89209ab642b10e",
    "date": "2026-11-05T00:00:00Z",
    "addedAt": "2026-11-05T16:31:34Z",
@@ -1148,6 +1275,28 @@
    ],
    "money": null,
    "category": "Open source",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c0d7b0808284d1",
+   "date": "2026-11-05T00:00:00Z",
+   "addedAt": "2026-11-06T03:28:43Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/franklin-templeton",
+   "title_en": "Franklin Templeton uses OpenAI to support investment research",
+   "summary_en": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+   "pending": false,
+   "title_ru": "Franklin Templeton применяет OpenAI для инвестиционных исследований",
+   "simple": "Финансовая компания начала использовать инструменты OpenAI в анализе акций, чтобы помочь менеджерам сравнивать мнения и оценивать риски. Это ускоряет процесс исследования рынка.",
+   "term": "AI‑workflow — последовательность действий, автоматизированных с помощью искусственного интеллекта, для выполнения задачи.",
+   "use": [
+    "Изучите возможности API OpenAI для автоматизации анализа данных в своей работе.",
+    "Внедрите простые скрипты, которые будут собирать и сравнивать аналитические отчёты.",
+    "Проверяйте результаты ИИ вручную, чтобы убедиться в их корректности."
+   ],
+   "money": null,
+   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12841,151 +12990,6 @@
    ],
    "money": null,
    "category": "Железо",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "ca293d8533a348",
-   "date": "2026-10-20T16:09:19Z",
-   "addedAt": "2026-10-20T18:32:02Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/allenai/fairstress",
-   "title_en": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "FairStress: более глубокая оценка справедливости решений больших языковых моделей",
-   "simple": "Исследователи представили метод FairStress, который проверяет, насколько справедливо работают крупные языковые модели при принятии решений. Это важно, чтобы избежать предвзятости в автоматических системах.",
-   "term": "LLM — крупная языковая модель, обученная на огромных объёмах текста и способная генерировать ответы.",
-   "use": [
-    "При работе с LLM учитывайте необходимость тестировать их на справедливость с помощью подобных методик.",
-    "Если вы разрабатываете модели, включайте проверку на предвзятость в процесс разработки."
-   ],
-   "money": null,
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "5130abca4141f2",
-   "date": "2026-10-20T16:00:00Z",
-   "addedAt": "2026-10-20T18:32:03Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-   "title_en": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-   "summary_en": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-   "pending": false,
-   "title_ru": "Стартап создал ИИ‑переводчик электрических сигналов растений",
-   "simple": "Компания Electric Plant разработала ИИ‑модель, которая переводит электрические импульсы в стеблях растений в понятные сообщения. Это открывает возможность «слушать» растения через их собственные сигналы.",
-   "term": "Электрофизиология — изучение электрических процессов в живых организмах, в том числе в растениях.",
-   "use": [
-    "Следите за новыми инструментами, позволяющими измерять электрические сигналы растений, если интересуетесь агротехникой.",
-    "Если вы работаете в сфере сельского хозяйства, попробуйте интегрировать такие датчики для мониторинга состояния растений."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "e85a4c5da2af52",
-   "date": "2026-10-20T15:53:21Z",
-   "addedAt": "2026-10-20T18:32:02Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-   "title_en": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-   "summary_en": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and […]",
-   "pending": false,
-   "title_ru": "Spotify удалил 50 млн треков, созданных ИИ, из рекомендаций",
-   "simple": "Spotify сообщил, что за год убрал более 50 миллионов песен, признанных искусственно сгенерированным или спамом, и улучшил алгоритмы рекомендаций в пользу человеческих исполнителей.",
-   "term": "AI‑генерация музыки — создание музыкальных композиций с помощью искусственного интеллекта.",
-   "use": [
-    "Если вы музыкант, убедитесь, что ваш контент имеет человеческую подпись, чтобы избежать автоматического удаления.",
-    "Следите за обновлениями рекомендаций Spotify, если используете платформу для продвижения музыки."
-   ],
-   "money": null,
-   "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "913203c4de7400",
-   "date": "2026-10-20T15:20:25Z",
-   "addedAt": "2026-10-20T18:32:03Z",
-   "source": "MIT Technology Review",
-   "sourceType": "media",
-   "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-   "title_en": "The new economics of enterprise AI",
-   "summary_en": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it?” to “how efficiently are we using it?”…",
-   "pending": false,
-   "title_ru": "Новая экономика корпоративного ИИ: от редкой технологии к инфраструктуре",
-   "simple": "Статья сравнивает развитие ИИ в компаниях с внедрением электричества: сначала его используют в отдельных проектах, а потом он становится базой для всех процессов, и важен вопрос эффективности использования.",
-   "term": "Инфраструктура ИИ — набор технологий и процессов, которые делают искусственный интеллект доступным и постоянным в компании.",
-   "use": [
-    "Оцените, какие бизнес‑процессы в вашей компании могут выиграть от постоянного применения ИИ.",
-    "Разработайте план по измерению эффективности ИИ‑решений, чтобы понять их реальную ценность."
-   ],
-   "money": null,
-   "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "94e7f4f5c0e52b",
-   "date": "2026-10-20T15:19:48Z",
-   "addedAt": "2026-10-20T18:32:02Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-   "title_en": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "ALTK-Evolve: новая модель памяти лидирует в тесте обслуживания клиентов",
-   "simple": "Исследователи представили модель ALTK-Evolve, которая использует обученную память и обходит другие решения в тесте τ²-bench по задачам обслуживания клиентов. Это показывает, что без больших «фронтирных» моделей можно достичь высоких результатов.",
-   "term": "τ²-bench — набор тестов, измеряющих эффективность моделей в обслуживании клиентов",
-   "use": [],
-   "money": null,
-   "category": "Модели",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "7ee5ffca62bfde",
-   "date": "2026-10-20T15:07:43Z",
-   "addedAt": "2026-10-20T18:32:03Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-   "title_en": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-   "summary_en": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-   "pending": false,
-   "title_ru": "AI‑агент вызвал хаос в группе из 7500 интернет‑исследователей",
-   "simple": "В закрытый список рассылки из 7500 экспертов по интернету был добавлен искусственный агент, после чего участники начали массово отвечать всем. Ситуация раскрыла устаревшие представления специалистов о конфиденциальности в онлайн‑сообществах.",
-   "term": "listserv — электронный список рассылки, где сообщения автоматически пересылаются всем подписчикам",
-   "use": [
-    "Обратите внимание на настройки приватности при работе в больших группах.",
-    "Изучайте, как автоматические ответы могут влиять на коммуникацию в профессиональных сообществах."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "afb6cd59faf067",
-   "date": "2026-10-20T13:26:09Z",
-   "addedAt": "2026-10-20T13:39:07Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/20/abstract-links-automated-response-actions-directly-to-siem-detection-rules/",
-   "title_en": "Abstract links automated response actions directly to SIEM detection rules",
-   "summary_en": "Abstract has announced new AI SOC capabilities in its agentic SIEM: investigation, hunt, and triage powered by a combination of Abstract’s own trained and tuned models and frontier foundation models, and SOAR response capabilities with actions assigned directly to detection rules. The capabilities are built into the platform that already collects, routes, and detects on security data in stream. Security teams are facing agentic attacks that move at machine speed while their own tooling spreads … More → The post Abstract links automated response actions directly to SIEM detection rules appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Abstract связывает автоматические ответы с правилами SIEM",
-   "simple": "Компания Abstract добавила в свою систему SIEM возможность автоматически выполнять реакции на инциденты, привязывая их к правилам обнаружения. Это помогает быстрее реагировать на быстрые атаки.",
-   "term": "SIEM — система, собирающая и анализирующая данные безопасности в реальном времени",
-   "use": [
-    "Оцените, какие правила в вашей SIEM могут быть автоматизированы.",
-    "Настройте тестовый сценарий автоматической реакции в безопасной среде.",
-    "Следите за тем, чтобы автоматические действия были ограничены и проверялись вручную."
-   ],
-   "money": null,
-   "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
   }
  ]
