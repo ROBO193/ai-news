@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-07T13:15:49Z",
+ "updated": "2026-11-07T18:06:42Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "fa06ff8fdc83e2",
+   "date": "2026-11-07T15:47:15Z",
+   "addedAt": "2026-11-07T18:06:32Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+   "title_en": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+   "summary_en": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
+   "pending": false,
+   "title_ru": "AI‑ассистент NYT Cooking спас ужин, но чуть не испортил торт",
+   "simple": "Автор использовал AI‑ассистент от NYT Cooking, чтобы придумать рецепт курицы на будний вечер, и он помог выбрать блюдо, но совет по выпечке оказался плохим. Это показывает, как ИИ может помогать в планировании еды, но иногда дает ошибочные рекомендации.",
+   "term": "AI‑ассистент — программа, использующая искусственный интеллект для подсказок и рекомендаций в реальном времени",
+   "use": [
+    "Попробуйте использовать AI‑ассистенты при планировании меню, проверяя их советы на практике.",
+    "Сравнивайте предложения ИИ с проверенными рецептами, чтобы избежать ошибок в выпечке.",
+    "Обращайте внимание на детали рецептов, такие как температура и время, даже если совет дал ИИ."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "73be1ddc7ff24f",
+   "date": "2026-11-07T15:43:45Z",
+   "addedAt": "2026-11-07T18:06:32Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+   "title_en": "The US let Nvidia sell chips to an empty office in China",
+   "summary_en": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+   "pending": false,
+   "title_ru": "США позволили Nvidia продавать чипы в пустой офис в Китае",
+   "simple": "Сообщается, что компания Nvidia продаёт свои AI‑чипы H200 фирме New Matrix, у которой нет реального офиса в Китае, вызывая вопросы о проверке получателей. Это поднимает вопросы контроля за экспортом технологий ИИ.",
+   "term": "AI‑чип — специализированный процессор, оптимизированный для задач искусственного интеллекта",
+   "use": [
+    "Следите за новостями о регулировании экспорта AI‑технологий, если работаете в сфере поставок.",
+    "Учитывайте риски сотрудничества с компаниями, у которых нет прозрачной инфраструктуры.",
+    "При планировании проектов с AI‑чипами проверяйте надёжность поставщиков."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "f5ca85f34e518f",
    "date": "2026-11-07T11:00:00Z",
@@ -21,6 +65,28 @@
    ],
    "money": null,
    "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "055e03fe8fc4b1",
+   "date": "2026-11-07T05:43:11Z",
+   "addedAt": "2026-11-07T18:06:32Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+   "title_en": "AI broke the cybersecurity world. What’s next?",
+   "summary_en": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
+   "pending": false,
+   "title_ru": "AI разрушил кибербезопасность: что дальше?",
+   "simple": "В подкасте эксперт по кибербезопасности Алекс Стамос обсуждает, как ИИ создал новые угрозы в сфере защиты данных и какие проблемы сейчас стоят перед отраслью. Это важно, потому что ИИ меняет способы атак и защиты.",
+   "term": "Кибербезопасность — защита компьютерных систем и данных от несанкционированного доступа и атак",
+   "use": [
+    "Изучайте, как ИИ может использоваться в атаках, чтобы лучше защищать свои системы.",
+    "Внедряйте инструменты мониторинга, способные обнаруживать аномалии, связанные с ИИ.",
+    "Обучайте сотрудников распознавать фишинговые сообщения, генерируемые ИИ."
+   ],
+   "money": null,
+   "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12940,82 +13006,6 @@
    ],
    "money": null,
    "category": "Железо",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "1bbb4f6fc3d142",
-   "date": "2026-10-21T13:01:28Z",
-   "addedAt": "2026-10-21T18:44:43Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-   "title_en": "Conversational Gemini navigation comes to Apple CarPlay",
-   "summary_en": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring […]",
-   "pending": false,
-   "title_ru": "Google добавил Gemini в навигацию Apple CarPlay",
-   "simple": "Google запустила голосового помощника Gemini для навигации в Apple CarPlay, сначала в США, а затем по всему миру. Это расширяет возможности голосового управления в автомобилях.",
-   "term": "Gemini — голосовой AI‑ассистент Google, способный вести диалог и выполнять команды в реальном времени",
-   "use": [
-    "Попробуйте активировать Gemini в вашем CarPlay, чтобы управлять навигацией голосом.",
-    "Обратите внимание на ограничения регионального доступа и обновляйте приложение при их появлении.",
-    "Используйте Gemini для планирования маршрутов и получения информации о пробках без отвлечения от дороги."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "74fcf21eca7add",
-   "date": "2026-10-21T13:00:00Z",
-   "addedAt": "2026-10-21T18:44:42Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-   "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-   "summary_en": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-   "pending": false,
-   "title_ru": "ChatGPT Ads теперь в 26 новых странах",
-   "simple": "Платформа рекламных объявлений в ChatGPT расширилась до 26 стран, и уже более 100 000 рекламодателей используют её для привлечения покупателей. Это открывает новые каналы маркетинга.",
-   "term": "ChatGPT Ads — рекламный сервис, позволяющий показывать объявления внутри диалогов ChatGPT",
-   "use": [
-    "Если вы владелец малого бизнеса, разместите рекламу в ChatGPT, чтобы достучаться до пользователей, ищущих ваш товар.",
-    "Настройте таргетинг по интересам и географии, доступный в сервисе.",
-    "Отслеживайте эффективность объявлений через встроенные метрики и корректируйте сообщения."
-   ],
-   "money": {
-    "idea": "заработать на размещении рекламных кампаний в ChatGPT",
-    "how": [
-     "Создать аккаунт рекламодателя в ChatGPT Ads",
-     "Разработать рекламные креативы, адаптированные под диалоговый формат",
-     "Запустить кампанию, выбрав целевую аудиторию и бюджет",
-     "Анализировать результаты и оптимизировать объявления"
-    ],
-    "who": "маркетологи, владельцы малого бизнеса, фрилансеры в сфере рекламы",
-    "effort": "средний",
-    "risk": "необходимость адаптировать креативы под диалоговый формат, возможные ограничения по бюджету"
-   },
-   "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "38715d90bd30f0",
-   "date": "2026-10-21T12:51:24Z",
-   "addedAt": "2026-10-21T13:55:19Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-   "title_en": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "NVIDIA Kumo Forecast объединяет предобученные представления временных рядов с поиском исторических шаблонов",
-   "simple": "NVIDIA представила Kumo Forecast — метод, который использует уже обученные модели для анализа временных рядов и ищет похожие паттерны в прошлом. Это помогает делать более точные прогнозы и понимать, почему модель приняла то или иное решение.",
-   "term": "Инференс — запуск уже обученной модели для получения предсказаний",
-   "use": [
-    "Попробуйте использовать готовые предобученные модели для своих данных о продажах или трафике.",
-    "Обратите внимание на возможность визуализировать найденные исторические паттерны для лучшего объяснения результатов."
-   ],
-   "money": null,
-   "category": "Модели",
    "model": "openai/gpt-oss-120b"
   }
  ]
