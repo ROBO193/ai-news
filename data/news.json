@@ -1,7 +1,28 @@
 {
- "updated": "2026-11-07T00:09:01Z",
+ "updated": "2026-11-07T06:12:11Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "36231604b28864",
+   "date": "2026-11-07T01:40:28Z",
+   "addedAt": "2026-11-07T06:12:02Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "title_en": "Crusoe sells troubled Wyoming data center project to Google",
+   "summary_en": "The deal highlights the challenges of developing massive AI data centers.",
+   "pending": false,
+   "title_ru": "Crusoe продал проблемный проект дата‑центра в Вайоминге Google",
+   "simple": "Компания Crusoe продала свой проект огромного дата‑центра в Вайоминге Google. Сделка показывает, как сложно строить большие центры обработки данных для ИИ.",
+   "term": "Дата‑центр — помещение, где размещают серверы для хранения и обработки больших объёмов данных, в том числе для ИИ.",
+   "use": [
+    "Обратите внимание на риски при планировании крупных инфраструктурных проектов.",
+    "Следите за новостями о партнёрствах крупных облачных провайдеров с небольшими игроками."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "6813d62fd92533",
    "date": "2026-11-06T23:46:18Z",
@@ -555,6 +576,27 @@
    ],
    "money": null,
    "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "44766e97c42926",
+   "date": "2026-11-06T12:01:25Z",
+   "addedAt": "2026-11-07T06:12:01Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+   "title_en": "Protesters break into Microsoft data center site in Amsterdam",
+   "summary_en": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some […]",
+   "pending": false,
+   "title_ru": "Протестующие ворвались на стройку дата‑центра Microsoft в Амстердаме",
+   "simple": "Группа протестующих проникла на строительную площадку нового дата‑центра Microsoft в пригороде Амстердама. Это часть акции против возведения трёх высотных башен.",
+   "term": "",
+   "use": [
+    "Учтите общественное мнение при выборе места для крупных ИТ‑проектов.",
+    "Следите за реакцией местных сообществ на планы строительства инфраструктуры."
+   ],
+   "money": null,
+   "category": "Железо",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -3109,6 +3151,27 @@
    ],
    "money": null,
    "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2f70d6c369eb88",
+   "date": "2026-11-03T20:39:55Z",
+   "addedAt": "2026-11-07T06:12:02Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+   "title_en": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+   "summary_en": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+   "pending": false,
+   "title_ru": "Украина заставила Россию ускорить строительство подземных дата‑центров",
+   "simple": "После ударов украинских дронов Россия спешно планирует подземные дата‑центры, чтобы защитить свою цифровую инфраструктуру.",
+   "term": "",
+   "use": [
+    "Рассмотрите варианты резервного размещения серверов в защищённых локациях.",
+    "Следите за тенденциями в защите ИТ‑инфраструктуры от физических угроз."
+   ],
+   "money": null,
+   "category": "Железо",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12953,69 +13016,6 @@
    ],
    "money": null,
    "category": "Модели",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "0b1d731f907edd",
-   "date": "2026-10-21T10:50:37Z",
-   "addedAt": "2026-10-21T13:55:19Z",
-   "source": "NVIDIA",
-   "sourceType": "company",
-   "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
-   "title_en": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
-   "summary_en": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: […]",
-   "pending": false,
-   "title_ru": "NVIDIA Spark: локальный ИИ для персональных агентов в Европе",
-   "simple": "На конференции GTC Berlin NVIDIA представила линейку локального AI‑оборудования RTX Spark, DGX Spark и DGX Station, позволяющих запускать персональных агентов на ПК и серверах. Это дает разработчикам возможность работать с ИИ без постоянного подключения к облаку.",
-   "term": "Локальный ИИ — искусственный интеллект, работающий полностью на пользовательском устройстве без передачи данных в облако",
-   "use": [
-    "Попробуйте установить RTX Spark на свой Windows‑ПК, чтобы запускать персонального помощника без интернета.",
-    "Разрабатывайте прототипы агентов на DGX Spark, если нужны более мощные вычисления на месте."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "7dbdc8f6d3c5a0",
-   "date": "2026-10-21T10:45:17Z",
-   "addedAt": "2026-10-21T13:55:19Z",
-   "source": "NVIDIA",
-   "sourceType": "company",
-   "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
-   "title_en": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
-   "summary_en": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs, Google Cloud Virgo Network and Google Cloud’s fourth-generation advanced liquid-cooling technology for demanding […]",
-   "pending": false,
-   "title_ru": "NVIDIA Vera Rubin: новые облачные инстансы для обучения и инференса",
-   "simple": "NVIDIA и Google Cloud объявили о доступности инстансов Vera Rubin, объединяющих мощные GPU, сетевые ускорители и жидкостное охлаждение. Они предназначены для обучения, инференса и масштабного обучения с подкреплением в облаке.",
-   "term": "Обучение с подкреплением — метод, где модель учится через взаимодействие с окружением и получение наград",
-   "use": [
-    "Используйте новые инстансы Vera Rubin для ускорения обучения сложных моделей в облаке.",
-    "Учтите требования к охлаждению и сетевой пропускной способности при планировании больших экспериментов."
-   ],
-   "money": null,
-   "category": "Железо",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "f47072a36f450d",
-   "date": "2026-10-21T10:30:41Z",
-   "addedAt": "2026-10-21T13:55:19Z",
-   "source": "NVIDIA",
-   "sourceType": "company",
-   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
-   "title_en": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-   "summary_en": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for […]",
-   "pending": false,
-   "title_ru": "NVIDIA расширяет облачную инфраструктуру в Европе для безопасных AI‑агентов",
-   "simple": "NVIDIA и её партнёры открывают новые вычислительные мощности в Европе, предлагая открытые модели, которые можно кастомизировать и запускать безопасно. Это ускорит развитие локальных AI‑приложений и сервисов.",
-   "term": "Sovereign Cloud — облачная инфраструктура, расположенная в стране и под её юридическим контролем, обеспечивающая соответствие локальным требованиям",
-   "use": [
-    "Подключитесь к ближайшему региональному дата‑центру NVIDIA, чтобы снизить задержки при работе с AI‑моделями.",
-    "Выбирайте открытые модели, если планируете их дорабатывать под свои задачи."
-   ],
-   "money": null,
-   "category": "Железо",
    "model": "openai/gpt-oss-120b"
   }
  ]
