@@ -1,7 +1,28 @@
 {
- "updated": "2026-11-07T06:12:11Z",
+ "updated": "2026-11-07T13:15:49Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "f5ca85f34e518f",
+   "date": "2026-11-07T11:00:00Z",
+   "addedAt": "2026-11-07T13:15:40Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+   "title_en": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+   "summary_en": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+   "pending": false,
+   "title_ru": "Приложения для помощников получают ИИ, но этого недостаточно",
+   "simple": "Приложения, помогающие родственникам ухаживать за близкими, стали умнее благодаря искусственному интеллекту. Однако забота о самих помощниках всё ещё остаётся нерешённой проблемой.",
+   "term": "",
+   "use": [
+    "Обратите внимание на функции ИИ в новых приложениях и попробуйте их в своей семье.",
+    "Следите за обновлениями, которые добавляют поддержку психологического здоровья помощников."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "36231604b28864",
    "date": "2026-11-07T01:40:28Z",
@@ -93,6 +114,27 @@
    "use": [
     "Следите за тем, чтобы AI‑инструменты запускались только в полностью изолированных средах.",
     "Проверяйте логи и права доступа после тестов, чтобы убедиться, что ничего не вышло наружу."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "8879475e62b379",
+   "date": "2026-11-06T21:48:06Z",
+   "addedAt": "2026-11-07T13:15:39Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+   "title_en": "Why a new report on Anthropic automating AI development is alarming researchers",
+   "summary_en": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
+   "pending": false,
+   "title_ru": "Отчёт о том, как Anthropic автоматизирует создание ИИ, тревожит исследователей",
+   "simple": "Компания Anthropic использует ИИ, чтобы создавать ещё более мощные ИИ‑модели, и их прогресс ускоряется вдвое. Это вызывает опасения у специалистов по безопасности ИИ.",
+   "term": "Автоматизация разработки ИИ — процесс, когда одна модель ИИ помогает проектировать и обучать другие модели без человеческого вмешательства.",
+   "use": [
+    "Следите за новостями о безопасности ИИ, чтобы понимать потенциальные риски.",
+    "Если вы работаете в сфере ИИ, изучайте методы контроля и тестирования автоматизированных систем."
    ],
    "money": null,
    "category": "Безопасность",
@@ -12971,48 +13013,6 @@
    "use": [
     "Попробуйте использовать готовые предобученные модели для своих данных о продажах или трафике.",
     "Обратите внимание на возможность визуализировать найденные исторические паттерны для лучшего объяснения результатов."
-   ],
-   "money": null,
-   "category": "Модели",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "04cfd76c8ff18b",
-   "date": "2026-10-21T12:35:00Z",
-   "addedAt": "2026-10-21T13:55:20Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
-   "title_en": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
-   "summary_en": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
-   "pending": false,
-   "title_ru": "Ошибка в ссылках Meta Muse раскрывает личные разговоры пользователей",
-   "simple": "Исследователи нашли уязвимость в функции Share Links сервиса Muse от Meta, из‑за которой можно было получить доступ к личным диалогам. Компания приостановила работу функции, чтобы исправить проблему.",
-   "term": "Share Links — механизм, позволяющий делиться результатами общения с ИИ через ссылку",
-   "use": [
-    "Не делитесь ссылками на разговоры с ИИ, если в них есть конфиденциальные данные.",
-    "Следите за обновлениями безопасности сервисов, которыми пользуетесь, и отключайте подозрительные функции."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "61f4d0141ff303",
-   "date": "2026-10-21T12:00:00Z",
-   "addedAt": "2026-10-21T13:55:17Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/openai-models-google-cloud",
-   "title_en": "OpenAI models are coming to Google Cloud",
-   "summary_en": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-   "pending": false,
-   "title_ru": "Модели OpenAI появятся в Google Cloud",
-   "simple": "OpenAI и Google Cloud совместно разместят передовые модели и инструменты Codex в каталоге Gemini Model Garden, доступные через Marketplace. Это упростит использование мощных ИИ‑моделей в облаке.",
-   "term": "Marketplace — онлайн‑платформа, где можно быстро подключать готовые сервисы и модели",
-   "use": [
-    "Подключите модели OpenAI через Google Cloud Marketplace для автоматизации задач в вашем проекте.",
-    "Изучите примеры использования Codex, чтобы ускорить написание кода и тестирование."
    ],
    "money": null,
    "category": "Модели",
