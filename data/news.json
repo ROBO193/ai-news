@@ -1,7 +1,28 @@
 {
- "updated": "2026-11-07T21:58:49Z",
+ "updated": "2026-11-08T01:29:50Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "69c75581d56ff5",
+   "date": "2026-11-07T21:17:08Z",
+   "addedAt": "2026-11-08T01:29:41Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "title_en": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "summary_en": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+   "pending": false,
+   "title_ru": "Китайская разведка наняла руководителя Megaspeed для шпионажа за CEO Nvidia",
+   "simple": "Согласно меморандуму, китайская служба безопасности привлекла топ‑менеджера Megaspeed, чтобы следить за генеральным директором Nvidia. Это показывает, насколько ценятся лидеры в сфере графических процессоров и ИИ.",
+   "term": "Nvidia — компания, разрабатывающая графические процессоры, широко используемые для обучения и работы ИИ‑моделей.",
+   "use": [
+    "Обратите внимание на новости о кибербезопасности в IT‑компаниях.",
+    "Следите за тем, как компании защищают свои руководящие кадры от шпионажа."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "fa06ff8fdc83e2",
    "date": "2026-11-07T15:47:15Z",
@@ -12984,28 +13005,6 @@
    ],
    "money": null,
    "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "e37ca55fd04177",
-   "date": "2026-10-21T13:52:23Z",
-   "addedAt": "2026-10-21T18:44:44Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/21/nvidia-openshell-reference-architecture/",
-   "title_en": "NVIDIA unveils security architecture that can stop AI agents crossing set boundaries",
-   "summary_en": "NVIDIA’s OpenShell Reference Architecture is designed to help businesses control AI agents operating across enterprise infrastructure and local computing systems. It builds on NVIDIA’s existing OpenShell security software, combining it with hardware for running AI models, managing agent operations and enforcing security rules. The aim is to let agents carry out useful work within defined boundaries, while giving businesses tools to monitor their behaviour and stop activity that crosses those limits. “AI capability and safety … More → The post NVIDIA unveils security architecture that can stop AI agents crossing set boundaries appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "NVIDIA представила архитектуру для ограничения действий AI‑агентов",
-   "simple": "NVIDIA выпустила OpenShell Reference Architecture, позволяющую компаниям задавать границы работы ИИ‑агентов и контролировать их поведение. Это помогает использовать ИИ безопасно внутри инфраструктуры.",
-   "term": "OpenShell — программно‑аппаратный комплекс NVIDIA для управления и ограничения действий ИИ‑агентов",
-   "use": [
-    "Изучите возможности OpenShell, если планируете развертывать ИИ‑агенты в корпоративной сети.",
-    "Определите правила, которые ИИ‑агенты могут выполнять, и внедрите их в систему.",
-    "Настройте оповещения о попытках выхода ИИ‑агента за установленные границы."
-   ],
-   "money": null,
-   "category": "Железо",
    "model": "openai/gpt-oss-120b"
   }
  ]
