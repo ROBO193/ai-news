@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-08T09:08:55Z",
+ "updated": "2026-11-08T16:03:54Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "3b57d3e3ef8708",
+   "date": "2026-11-08T12:00:00Z",
+   "addedAt": "2026-11-08T16:03:44Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+   "title_en": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+   "summary_en": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+   "pending": false,
+   "title_ru": "Новый AI‑инструмент в приложении NYT Cooking меняет рецепты",
+   "simple": "NYT Cooking добавил бета‑функцию, позволяющую менять ингредиенты и подстраивать рецепты под свои нужды. Тест показал, что инструмент работает довольно точно, что удобно для тех, кто хочет адаптировать блюда.",
+   "term": "AI‑модель — программа, обученная на данных, способная предсказывать или генерировать результаты, в данном случае варианты рецептов.",
+   "use": [
+    "Попробуйте новую функцию в приложении, заменив в рецепте нежелательный ингредиент на более доступный.",
+    "Сравните полученный вариант с оригиналом, чтобы понять, насколько изменения влияют на вкус и текстуру.",
+    "Используйте модификатор, когда готовите для людей с диетическими ограничениями, например без глютена."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "927c104d244087",
+   "date": "2026-11-08T10:00:00Z",
+   "addedAt": "2026-11-08T16:03:44Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+   "title_en": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+   "summary_en": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+   "pending": false,
+   "title_ru": "Модели мира: AI учит роботов и машины навигации в 3‑D пространстве",
+   "simple": "Разрабатываются AI‑модели, которые симулируют физику реального мира в трёх измерениях, чтобы обучать роботов и автономные автомобили. Это помогает им лучше понимать и предсказывать поведение объектов вокруг.",
+   "term": "модель мира — цифровая копия реального окружения, где AI может экспериментировать с физическими законами без риска для реального мира.",
+   "use": [
+    "Изучите основы 3‑D моделирования и физического симулирования, чтобы понять, как работают такие системы.",
+    "Подпишитесь на открытые курсы по робототехнике, где рассматриваются модели мира.",
+    "Следите за новостями компаний, предлагающих такие симуляторы, чтобы применять их в учебных проектах."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "a977e0a42a2bca",
    "date": "2026-11-08T09:00:21Z",
@@ -12958,50 +13002,6 @@
     "Будьте осторожны с загрузкой программ, обещающих AI‑функционал, проверяйте их источники.",
     "Не доверяйте неожиданным запросам от чат‑ботов, предлагающим установить «AI‑инструменты».",
     "Обновляйте антивирусные решения, чтобы они могли обнаруживать новые схемы AI‑мошенничества."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "0b138e9a1d8232",
-   "date": "2026-10-21T14:00:00Z",
-   "addedAt": "2026-10-21T18:44:44Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-   "title_en": "AI promises productivity, but for managers, it’s mostly a headache for now",
-   "summary_en": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-   "pending": false,
-   "title_ru": "AI повышает продуктивность, но менеджерам сейчас сложнее оценивать работу",
-   "simple": "Более половины менеджеров считают, что после внедрения ИИ им труднее оценивать результаты сотрудников. Это важно, потому что новые инструменты меняют привычные способы контроля.",
-   "term": "агентный ИИ — система, способная самостоятельно выполнять задачи без постоянного вмешательства человека",
-   "use": [
-    "Обратите внимание на то, как ИИ влияет на метрики оценки работы и адаптируйте критерии.",
-    "Внедрите прозрачные отчёты о том, какие задачи выполняет ИИ и какие результаты получает человек.",
-    "Обучайте команду работать с ИИ, чтобы понимать его ограничения и возможности."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "e50d33e77f8a87",
-   "date": "2026-10-21T14:00:00Z",
-   "addedAt": "2026-10-21T18:44:44Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-   "title_en": "AI Guardrails Aren’t Stopping Criminal Hackers",
-   "summary_en": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
-   "pending": false,
-   "title_ru": "Ограничения ИИ не останавливают хакеров",
-   "simple": "Хакеры используют продвинутый ИИ, в том числе модели вроде Claude, для организации кибератак. Это показывает, что текущие меры защиты недостаточны.",
-   "term": "агентный ИИ — ИИ, способный самостоятельно принимать решения и выполнять действия, например, писать код атак",
-   "use": [
-    "Проверьте, какие ИИ‑инструменты используют в вашей компании, и ограничьте их доступ к конфиденциальным данным.",
-    "Обновите политики безопасности, включив контроль за использованием генеративных моделей.",
-    "Проведите обучение персонала о рисках использования ИИ в кибербезопасности."
    ],
    "money": null,
    "category": "Безопасность",
