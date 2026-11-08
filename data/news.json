@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-08T16:03:54Z",
+ "updated": "2026-11-08T20:35:16Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "53044e44b3aab4",
+   "date": "2026-11-08T19:18:19Z",
+   "addedAt": "2026-11-08T20:35:06Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+   "title_en": "Apple is racing to make Siri more agentic",
+   "summary_en": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
+   "pending": false,
+   "title_ru": "Apple ускоряет развитие Siri как AI‑агента",
+   "simple": "Apple хочет, чтобы Siri стала более самостоятельным помощником, способным конкурировать с продуктами OpenAI и Meta. Руководство ставит перед командой задачу быстро внедрить новые возможности искусственного интеллекта.",
+   "term": "AI‑агент — программный помощник, который может выполнять задачи и принимать решения без постоянного вмешательства человека.",
+   "use": [
+    "Попробуйте включить экспериментальные функции Siri в настройках iOS, чтобы оценить новые возможности.",
+    "Следите за обновлениями iOS, где могут появиться новые команды для Siri.",
+    "Если вы разработчик, изучите API Apple для интеграции собственных функций в Siri."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ae06ecf7187204",
+   "date": "2026-11-08T17:23:19Z",
+   "addedAt": "2026-11-08T20:35:06Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+   "title_en": "Elvis and Eminem rights holders are suing Suno",
+   "summary_en": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
+   "pending": false,
+   "title_ru": "Судят Suno за копирование музыки Элвиса и Эминема",
+   "simple": "AI‑компания Suno обвиняется в создании музыки, похожей на произведения Элвиса Пресли и Эминема, что привело к судебным искам от правообладателей. Это поднимает вопросы о том, как ИИ может использовать защищённый контент.",
+   "term": "Генеративный ИИ в музыке — система, которая создает новые мелодии и тексты, обучаясь на существующих произведениях.",
+   "use": [
+    "Если вы музыкант, будьте осторожны при использовании AI‑инструментов, проверяйте, не нарушаете ли вы авторские права.",
+    "Следите за новостями о законодательстве в области ИИ и музыки, чтобы адаптировать свою работу.",
+    "При работе с AI‑генераторами указывайте источники и получайте лицензии, если это требуется."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "3b57d3e3ef8708",
    "date": "2026-11-08T12:00:00Z",
@@ -12961,50 +13005,6 @@
    ],
    "money": null,
    "category": "Железо",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "9b35c0bfb2f0e3",
-   "date": "2026-10-21T14:58:18Z",
-   "addedAt": "2026-10-21T18:44:43Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-   "title_en": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "Granite Speech 5.0: быстрее и точнее распознаёт, переводит и определяет речь",
-   "simple": "Новая версия Granite Speech улучшила скорость и точность транскрипции, перевода и атрибуции голоса. Это полезно для сервисов, работающих с аудио‑данными.",
-   "term": "Атрибуция речи — определение, кто именно произнёс фразу в аудиозаписи.",
-   "use": [
-    "Попробуйте интегрировать Granite Speech 5.0 в свои приложения для автоматической расшифровки звонков.",
-    "Оцените качество перевода при работе с международными клиентами.",
-    "Используйте функцию атрибуции для анализа разговоров в колл‑центрах."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "bc6b0429e7ca2d",
-   "date": "2026-10-21T14:00:10Z",
-   "addedAt": "2026-10-21T18:44:44Z",
-   "source": "BleepingComputer",
-   "sourceType": "media",
-   "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-   "title_en": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-   "summary_en": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
-   "pending": false,
-   "title_ru": "ClickFix использует подделки AI‑инсталляторов для распространения вредоносного ПО",
-   "simple": "Киберпреступники всё чаще используют фальшивые AI‑установщики и чат‑боты, чтобы заставить пользователей запустить вредоносный код. Такие атаки обходят традиционные защиты.",
-   "term": "AI‑инсталлятор — поддельная программа, выдающая себя за полезный искусственный интеллект, но содержащая вредоносный код.",
-   "use": [
-    "Будьте осторожны с загрузкой программ, обещающих AI‑функционал, проверяйте их источники.",
-    "Не доверяйте неожиданным запросам от чат‑ботов, предлагающим установить «AI‑инструменты».",
-    "Обновляйте антивирусные решения, чтобы они могли обнаруживать новые схемы AI‑мошенничества."
-   ],
-   "money": null,
-   "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
   }
  ]
