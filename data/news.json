@@ -1,7 +1,302 @@
 {
- "updated": "2026-11-10T17:57:40Z",
+ "updated": "2026-11-10T23:30:41Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "cd1dc6d6e6bd42",
+   "date": "2026-11-10T22:35:01Z",
+   "addedAt": "2026-11-10T23:29:54Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+   "title_en": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+   "summary_en": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+   "pending": false,
+   "title_ru": "Amazon запускает мобильные камеры Ring и AI‑дрон с роботом",
+   "simple": "Amazon представит в конце 2026 года мобильные камеры Ring и дрон‑робот с искусственным интеллектом. Это позволит улучшить домашнюю безопасность за счёт автономного патрулирования.",
+   "term": "AI‑powered — технология, где искусственный интеллект управляет устройством, позволяя ему принимать решения без участия человека.",
+   "use": [
+    "Следите за анонсами и планируйте интеграцию новых устройств в систему умного дома.",
+    "Оцените, насколько автономные камеры подходят для вашего района и потребностей в безопасности."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "16367edd00b635",
+   "date": "2026-11-10T22:20:19Z",
+   "addedAt": "2026-11-10T23:29:55Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+   "title_en": "Railway breach leads to $740,000 in fraudulent AI charges",
+   "summary_en": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+   "pending": false,
+   "title_ru": "Хакеры украли $740 000, используя уязвимости в Railway для фродовых AI‑запросов",
+   "simple": "Провайдер облака Railway сообщил, что злоумышленники украли данные доступа и создали фальшивые запросы к AI‑сервисам на сумму около $740 000. Это показывает риски безопасности при работе с AI в облаке.",
+   "term": "фродовые AI‑запросы — поддельные обращения к сервисам искусственного интеллекта с целью получения бесплатных ресурсов или выгоды.",
+   "use": [
+    "Проверьте настройки доступа к вашим AI‑сервисам и ограничьте их по IP.",
+    "Внедрите двухфакторную аутентификацию для всех рабочих пространств.",
+    "Регулярно мониторьте расходы на AI‑сервисы, чтобы быстро обнаружить аномалии."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b686da68349e5f",
+   "date": "2026-11-10T21:12:59Z",
+   "addedAt": "2026-11-10T23:29:54Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+   "title_en": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+   "summary_en": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+   "pending": false,
+   "title_ru": "Кодирующий агент Grok Build раскрывает конфиденциальные данные, в том числе SpaceXSI",
+   "simple": "Исследователь обнаружил, что 35 000 приложений, созданных с помощью Grok Build, открыты для всех и содержат конфиденциальную информацию. Это подчёркивает проблему утечек данных в AI‑инструментах разработки.",
+   "term": "coding agent — AI‑инструмент, автоматически генерирующий код по запросу пользователя.",
+   "use": [
+    "Не публикуйте чувствительные данные в проектах, использующих AI‑генераторы кода.",
+    "Проверьте права доступа к репозиториям, где хранится сгенерированный код.",
+    "Используйте внутренние сканеры уязвимостей для проверок AI‑созданных приложений."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "bd2a6830d8cf77",
+   "date": "2026-11-10T21:08:52Z",
+   "addedAt": "2026-11-10T23:29:55Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "title_en": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "summary_en": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+   "pending": false,
+   "title_ru": "OpenAI покупает стартап Odessia, основанный сооснователем Sonder",
+   "simple": "OpenAI приобрёл Odessia — стартап в сфере путешествий, созданный известным предпринимателем. Пока неизвестно, как ИИ будет применён в туристическом сервисе.",
+   "term": "",
+   "use": [
+    "Следите за новостями о интеграции ИИ в туристические сервисы, чтобы понять новые возможности для путешествий.",
+    "Если вы работаете в туризме, изучайте, как AI может улучшить персонализацию предложений."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "1d554c42ba6f2a",
+   "date": "2026-11-10T20:52:56Z",
+   "addedAt": "2026-11-10T23:29:54Z",
+   "source": "Microsoft Research",
+   "sourceType": "research",
+   "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+   "title_en": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+   "summary_en": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or terminal access. A triggered model could quietly download and run attacker code, […] The post Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents appeared first on Microsoft Research .",
+   "pending": false,
+   "title_ru": "Microsoft обнаружил backdoor‑технику Lazarus: переprogramming dormant neurons в AI‑моделях",
+   "simple": "Исследователи Microsoft нашли способ «перепрограммировать» спящие нейроны в модели ИИ, заставляя её выполнять скрытые команды. Это серьёзная угроза для агентов, имеющих доступ к инструментам или терминалу.",
+   "term": "Dormant neurons — нейроны в модели ИИ, которые обычно не активны, но могут быть активированы скрытым триггером.",
+   "use": [
+    "Обновляйте модели ИИ и проверяйте их на наличие скрытых триггеров перед внедрением в продакшн.",
+    "Ограничьте доступ AI‑агентов к системным инструментам и терминалам.",
+    "Внедрите мониторинг поведения моделей для обнаружения аномальных действий."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "91faed0650f0d0",
+   "date": "2026-11-10T20:52:13Z",
+   "addedAt": "2026-11-10T23:29:55Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+   "title_en": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+   "summary_en": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+   "pending": false,
+   "title_ru": "Нью‑Йорк вводит закон об обязательной регистрации и раскрытии практик безопасности для OpenAI и Anthropic",
+   "simple": "В Нью‑Йорке начали применять закон, требующий от крупных разработчиков ИИ, таких как OpenAI и Anthropic, регистрироваться, раскрывать меры безопасности и сообщать о критических инцидентах, иначе грозят штрафы. Это повышает прозрачность отрасли.",
+   "term": "регистрация и раскрытие практик безопасности — обязательные процедуры, где компании сообщают регуляторам о своих методах защиты ИИ и инцидентах.",
+   "use": [
+    "Если вы разрабатываете AI‑продукты, подготовьте документы о мерах безопасности для возможной регистрации.",
+    "Следите за требованиями закона, чтобы избежать штрафов при работе с клиентами из Нью‑Йорка.",
+    "Внедрите процесс внутреннего аудита инцидентов в AI‑системах."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c4b2e9a50337f3",
+   "date": "2026-11-10T20:30:01Z",
+   "addedAt": "2026-11-10T23:29:54Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+   "title_en": "What happens to mathematics when AI becomes an oracle?",
+   "summary_en": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
+   "pending": false,
+   "title_ru": "Что изменится в математике, если ИИ станет оракулом?",
+   "simple": "Математик Стивен Строгатц рассказывает о своей новой книге, где обсуждает, как искусственный интеллект может стать источником ответов на сложные задачи. Это интересно, потому что меняет представление о роли человека в науке.",
+   "term": "Оракул — система, дающая ответы на вопросы без объяснения процесса их получения.",
+   "use": [
+    "Подпишитесь на рассылки научных блогов, где обсуждают применение ИИ в математике.",
+    "Попробуйте простые онлайн‑инструменты ИИ для решения задач, чтобы увидеть их возможности.",
+    "Следите за новыми публикациями Строгатца, чтобы понять, как меняются подходы к исследованию."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c1fbfe2e3fcb7b",
+   "date": "2026-11-10T20:09:44Z",
+   "addedAt": "2026-11-10T23:29:55Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+   "title_en": "llm-gemini 0.36",
+   "summary_en": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5). Here are three pelicans for the low, medium and high thinking efforts (it defaults to medium). This is the pelican I got for high: Gemini pelicans have all been great for a while now, so I also tested it out using Google's Antigravity IDE with a prompt I first tried with Claude Fable 5.2 yesterday : Make a three js animation…",
+   "pending": false,
+   "title_ru": "Google выпустил новую модель Gemini 0.36 для всех",
+   "simple": "Google объявил о доступности модели Gemini 0.36, ранее предназначенной только для киберзащиты. Теперь её могут использовать любые разработчики, что открывает новые возможности для создания ИИ‑приложений.",
+   "term": "LLM (Large Language Model) — крупная языковая модель, обученная на огромных объёмах текста для генерации ответов.",
+   "use": [
+    "Зарегистрируйтесь в сервисе Gemini, чтобы протестировать её возможности в своих проектах.",
+    "Сравните результаты Gemini с другими моделями, чтобы выбрать оптимальную для задачи.",
+    "Учтите стоимость использования модели при планировании бюджета проекта."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9a5bae24e02d25",
+   "date": "2026-11-10T19:57:52Z",
+   "addedAt": "2026-11-10T23:29:55Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+   "title_en": "All 7 Anthropic founders will each cash out about $250M in IPO",
+   "summary_en": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+   "pending": false,
+   "title_ru": "Основатели Anthropic получат по $250 млн от IPO",
+   "simple": "Все семь соучредителей компании Anthropic планируют продать одинаковое количество акций в ходе IPO, получив по 250 млн долларов каждый, оставаясь при этом контролирующими компанию. Это показывает, как крупные AI‑стартапы привлекают значительные инвестиции.",
+   "term": "",
+   "use": [],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "34a6071342ff5a",
+   "date": "2026-11-10T19:31:58Z",
+   "addedAt": "2026-11-10T23:29:54Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+   "title_en": "The US is winning the AI race. Jensen Huang could have blown it",
+   "summary_en": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]",
+   "pending": false,
+   "title_ru": "США лидируют в гонке ИИ, но Дженсен Хуанг мог всё испортить",
+   "simple": "Глава Nvidia Дженсен Хуанг, контролирующий ключевые технологии ИИ, оказался в центре внимания из‑за своей публичной роли. Это подчёркивает важность лидерства в индустрии искусственного интеллекта.",
+   "term": "",
+   "use": [
+    "Следите за новостями о стратегических решениях Nvidia, чтобы предвидеть тенденции в ИИ‑технологиях.",
+    "Обратите внимание на партнерские программы Nvidia, которые могут помочь в развитии вашего проекта."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "fe6d70a1808af0",
+   "date": "2026-11-10T19:23:34Z",
+   "addedAt": "2026-11-10T23:29:55Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "title_en": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "summary_en": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+   "pending": false,
+   "title_ru": "Oura купит AI‑стартап Counsel Health за $625 млн",
+   "simple": "Компания Oura, известная своими умными браслетами, приобретает стартап Counsel Health, специализирующийся на AI‑поддержке первичной медицины. Сделка происходит после того, как Oura отложила план IPO.",
+   "term": "",
+   "use": [
+    "Изучите, как AI может улучшать сервисы телемедицины, чтобы внедрить подобные решения в свой бизнес.",
+    "Следите за новыми функциями Oura, которые могут появиться после интеграции Counsel Health."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2800935556d85c",
+   "date": "2026-11-10T19:03:52Z",
+   "addedAt": "2026-11-10T23:29:55Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+   "title_en": "PSI is trying to make a business out of AI-driven scientific discovery",
+   "summary_en": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+   "pending": false,
+   "title_ru": "PSI использует модель Anthropic для решения задачи квантовых вычислений",
+   "simple": "Компания PSI применила закрытую модель Anthropic, чтобы ответить на вопрос в квантовых вычислениях, который исследователи обсуждали почти 20 лет. Это демонстрирует потенциал ИИ в ускорении научных открытий.",
+   "term": "",
+   "use": [
+    "Следите за публикациями PSI, чтобы узнать, какие задачи ИИ может решить в вашей области.",
+    "Рассмотрите возможность использования доступных моделей ИИ для предварительного анализа сложных научных вопросов."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ac5a661efbfd50",
+   "date": "2026-11-10T19:00:00Z",
+   "addedAt": "2026-11-10T23:29:53Z",
+   "source": "Google AI",
+   "sourceType": "company",
+   "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "title_en": "Gemini Intelligence: New features, on more devices",
+   "summary_en": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+   "pending": false,
+   "title_ru": "Gemini Intelligence: новые функции на большем числе устройств",
+   "simple": "Google представил обновлённый сервис Gemini Intelligence с новыми возможностями и поддержкой большего количества гаджетов. Это расширит доступ к ИИ‑помощнику для пользователей разных устройств.",
+   "term": "",
+   "use": [],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ccdccf818b30a0",
+   "date": "2026-11-10T18:49:52Z",
+   "addedAt": "2026-11-10T23:29:55Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+   "title_en": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+   "summary_en": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+   "pending": false,
+   "title_ru": "OpenAI добавила бизнес‑профили в ChatGPT",
+   "simple": "OpenAI запустила бизнес‑профили, чтобы компании могли лучше представлять себя в ChatGPT и облегчать поиск потребителями. Это делает чат‑бот более похожим на поисковую систему.",
+   "term": "",
+   "use": [
+    "Создайте профиль своей компании в ChatGPT, если вы предоставляете онлайн‑услуги.",
+    "Оптимизируйте описание продукта, чтобы его легче находили пользователи.",
+    "Следите за отзывами в профиле и отвечайте на вопросы клиентов."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "7ac1a3b2939bf5",
    "date": "2026-11-10T17:32:47Z",
@@ -76,6 +371,27 @@
    ],
    "money": null,
    "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7396b577c72532",
+   "date": "2026-11-10T16:34:41Z",
+   "addedAt": "2026-11-10T23:29:54Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+   "title_en": "ChatGPT is getting verified AI ‘Business Agents’",
+   "summary_en": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
+   "pending": false,
+   "title_ru": "ChatGPT вводит проверенных бизнес‑агентов",
+   "simple": "ChatGPT начнёт предлагать общение с проверенными бизнес‑агентами — представителями брендов, которые помогут сравнивать товары и услуги. Функция доступна в бета‑версии для американских онлайн‑компаний.",
+   "term": "Бизнес‑агент — ИИ‑помощник, официально подтверждённый брендом для взаимодействия с клиентами.",
+   "use": [
+    "Ищите товары в ChatGPT и задавайте вопросы проверенным бизнес‑агентам для быстрых рекомендаций.",
+    "Если у вас свой онлайн‑бизнес, подайте заявку на участие в бета‑тесте, чтобы привлечь новых клиентов."
+   ],
+   "money": null,
+   "category": "Агенты",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -444,6 +760,27 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "c5e9e08f64384a",
+   "date": "2026-11-10T13:30:00Z",
+   "addedAt": "2026-11-10T23:29:55Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+   "title_en": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+   "summary_en": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+   "pending": false,
+   "title_ru": "Ring запускает домашний дрон и робот‑охранник для бизнеса",
+   "simple": "Ring, принадлежащий Amazon, представил дрон для домашней охраны и робот, который будет патрулировать офисы и магазины. Это расширяет линейку продуктов компании в сфере робототехники и безопасности.",
+   "term": "",
+   "use": [
+    "Следите за новыми моделями дронов, если планируете автоматизировать охрану своего дома.",
+    "Для малого бизнеса изучите возможности роботов‑охранников как альтернативу традиционным системам видеонаблюдения."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "155d33cae72679",
    "date": "2026-11-10T13:00:00Z",
    "addedAt": "2026-11-10T17:56:39Z",
@@ -485,6 +822,27 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ffd1be60b8ac1c",
+   "date": "2026-11-10T12:15:32Z",
+   "addedAt": "2026-11-10T23:29:54Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+   "title_en": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+   "summary_en": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+   "pending": false,
+   "title_ru": "Украинские оптоволоконные дроны конкурируют с AI‑центрами за поставки",
+   "simple": "Украина пытается обеспечить свои оптоволоконные дроны материалами, но сталкивается с конкуренцией со стороны дата‑центров, которые тоже нуждаются в оптике, в том числе из Китая. Это отражает растущий спрос на инфраструктуру для ИИ.",
+   "term": "",
+   "use": [
+    "Если вы работаете в сфере телекоммуникаций, учитывайте рост спроса на оптоволокно со стороны AI‑проектов.",
+    "Следите за новостями о поставках оптики, чтобы планировать свои проекты с учётом возможных задержек."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -617,6 +975,28 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "5ca4dc7b6d88cb",
+   "date": "2026-11-10T10:00:00Z",
+   "addedAt": "2026-11-10T23:29:53Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "title_en": "Introducing Businesses in ChatGPT",
+   "summary_en": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+   "pending": false,
+   "title_ru": "ChatGPT теперь помогает управлять бизнесом",
+   "simple": "OpenAI добавила в ChatGPT функции для управления информацией о компании и получения аналитики о её видимости. Это может помочь владельцам бизнеса лучше понимать, как их находят клиенты, и быстрее реагировать на интерес.",
+   "term": "инсайт — аналитический вывод, полученный из данных о том, как ваш бизнес отображается в поиске и чатах",
+   "use": [
+    "Попробуйте подключить свой бизнес к ChatGPT, чтобы увидеть, какие данные о вас доступны онлайн.",
+    "Используйте полученные инсайты, чтобы скорректировать описание компании и улучшить её видимость.",
+    "Настройте автоматические ответы в ChatGPT, чтобы быстро превращать интерес клиентов в действия, например, запись на встречу."
+   ],
+   "money": null,
+   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -1098,17 +1478,6 @@
    "model": "openai/gpt-oss-120b"
   },
   {
-   "id": "39befa3379491d",
-   "date": "2026-11-09T20:09:06Z",
-   "addedAt": "2026-11-10T17:56:40Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-   "title_en": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-   "summary_en": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-   "pending": true
-  },
-  {
    "id": "a98763b80c842a",
    "date": "2026-11-09T19:51:47Z",
    "addedAt": "2026-11-10T17:56:38Z",
@@ -1117,7 +1486,18 @@
    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
    "title_en": "Gemini Robotics 2.5 accelerates real-world general dexterity",
    "summary_en": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-   "pending": true
+   "pending": false,
+   "title_ru": "Gemini Robotics 2.5 повышает гибкость роботов в реальном мире",
+   "simple": "Google DeepMind представила модель Gemini Robotics 2.5, которая сочетает зрение, язык и действия, делая роботов более ловкими, надёжными и безопасными. Это важный шаг к более универсальным роботам.",
+   "term": "vision-language-action model — модель, объединяющая визуальное восприятие, понимание текста и управление действиями робота",
+   "use": [
+    "Изучите возможности модели Gemini Robotics 2.5, чтобы понять, как её можно интегрировать в ваши автоматизированные процессы.",
+    "Протестируйте модель на простых задачах, например, сортировке предметов, чтобы оценить её точность и надёжность.",
+    "Обратите внимание на требования к оборудованию и датчикам, которые нужны для работы модели в реальном времени."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "3ec2e278915eae",
@@ -1418,17 +1798,6 @@
    "model": "openai/gpt-oss-120b"
   },
   {
-   "id": "5d63754d84e9ec",
-   "date": "2026-11-09T15:23:20Z",
-   "addedAt": "2026-11-10T17:56:40Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-   "title_en": "Nvidia CEO's affair becomes a national security problem",
-   "summary_en": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
-   "pending": true
-  },
-  {
    "id": "057e22ab69c04f",
    "date": "2026-11-09T15:05:57Z",
    "addedAt": "2026-11-09T18:54:47Z",
@@ -1489,17 +1858,6 @@
    "money": null,
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "b60218929c2183",
-   "date": "2026-11-09T14:30:56Z",
-   "addedAt": "2026-11-10T17:56:41Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
-   "title_en": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
-   "summary_en": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
-   "pending": true
   },
   {
    "id": "cc49c1ae6860a6",
@@ -1588,17 +1946,6 @@
    "money": null,
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "7b1451fc786c34",
-   "date": "2026-11-09T12:34:29Z",
-   "addedAt": "2026-11-10T17:56:40Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-   "title_en": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-   "summary_en": "",
-   "pending": true
   },
   {
    "id": "bc2d9bf8826b02",
@@ -1720,17 +2067,6 @@
    },
    "category": "Применение",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "e2ef60ab4c4b60",
-   "date": "2026-11-09T08:00:00Z",
-   "addedAt": "2026-11-10T17:56:41Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
-   "title_en": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
-   "summary_en": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
-   "pending": true
   },
   {
    "id": "010d19db0cbbc5",
@@ -12673,276 +13009,6 @@
    "simple": "OpenAI начала обучать свои передовые модели в полностью офлайн‑режиме, чтобы исключить риск вмешательства в внешние системы после недавних инцидентов с хакерами. Для этого создана изолированная среда с кешированным контентом.",
    "term": "",
    "use": [],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "99c99157c7fa15",
-   "date": "2026-10-23T20:42:34Z",
-   "addedAt": "2026-10-25T12:37:44Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-   "title_en": "Google’s AI search changes upended online publishing",
-   "summary_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
-   "pending": false,
-   "title_ru": "AI‑поиск Google меняет онлайн‑издание",
-   "simple": "Google внедрил искусственный интеллект в поиск, что меняет правила игры для издателей в интернете. Теперь контент будет оцениваться и показываться по‑новому, что важно для тех, кто публикует статьи.",
-   "term": "AI‑поиск — система, использующая искусственный интеллект для понимания запросов и подбора релевантных результатов.",
-   "use": [
-    "Оцените, как ваш контент может появляться в новых результатах поиска и адаптируйте заголовки под вопросы пользователей.",
-    "Следите за рекомендациями Google по оптимизации под AI‑поиск и обновляйте статьи согласно им.",
-    "Экспериментируйте с форматами контента (видео, инфографика), которые AI‑поиск может лучше воспринимать."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "3e249e7fc631b6",
-   "date": "2026-10-23T20:19:55Z",
-   "addedAt": "2026-10-23T22:19:09Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-   "title_en": "Updated Google privacy policy says your Gmail might be used for advertising",
-   "summary_en": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-   "pending": false,
-   "title_ru": "Google может использовать ваш Gmail для рекламы через Personal Intelligence",
-   "simple": "Обновлённая политика конфиденциальности Google сообщает, что включив функцию Personal Intelligence, пользователи позволяют компании использовать данные из Gmail для более точного таргетинга рекламы. Это может повлиять на уровень персонализации рекламных объявлений.",
-   "term": "",
-   "use": [],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "2e71264ea893e4",
-   "date": "2026-10-23T19:40:54Z",
-   "addedAt": "2026-10-23T22:19:10Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
-   "title_en": "Introducing Kimi K3.1 Pro",
-   "summary_en": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same). The US dollar pricing is $2.00/million tokens for input and $10/million for output - the same as GPT-6.1 Sol and half the price of Claude Opus 5.5. Moonshot's own benchmarks show Kimi as approximately level with Opus 5.5 and GPT-6 Astra - beating them on a few benchmarks, coming close on others. Artificial Analysis scored Kimi at 55 - ahead of Claude Fable 5.1, GPT-6 Astra,…",
-   "pending": false,
-   "title_ru": "Запуск модели Kimi K3.1 Pro от Moonshot",
-   "simple": "Moonshot представила новую языковую модель Kimi K3.1 Pro, доступную через API, с обещанием открыть полные веса к ноябрю 2026 года. Есть также более быстрая версия модели, стоящая вдвое дороже за вычисления.",
-   "term": "",
-   "use": [],
-   "money": null,
-   "category": "Модели",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "f490e9c8ed30ce",
-   "date": "2026-10-23T19:32:39Z",
-   "addedAt": "2026-10-23T22:19:09Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-   "title_en": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-   "summary_en": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […]",
-   "pending": false,
-   "title_ru": "Block представил чат‑бота Dessa, обученного на человеческих диалогах",
-   "simple": "Компания Block, основанная Джеком Дорси, анонсировала модель Dessa, которая обучалась исключительно на реальных человеческих разговорах и демонстрирует иногда неловкие, но живые диалоги. Это пример попытки создать более естественное общение с ИИ.",
-   "term": "",
-   "use": [],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "0931d3afc7b71d",
-   "date": "2026-10-23T19:06:23Z",
-   "addedAt": "2026-10-23T22:19:09Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-   "title_en": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-   "summary_en": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
-   "pending": false,
-   "title_ru": "TechCrunch Founder Summit 2026: что обсудят основатели",
-   "simple": "TechCrunch совместно с Fidelity проведёт однодневный саммит, где поговорят о поиске клиентов, построении команд и лидерстве основателей. Это интересно тем, кто планирует запускать или развивать стартап, в том числе в сфере ИИ.",
-   "term": "",
-   "use": [
-    "Посетите онлайн‑трансляцию, если хотите узнать практические советы от опытных основателей.",
-    "Обратите внимание на сессии о построении команды — они помогут сформировать эффективный коллектив.",
-    "Изучите рекомендации по улучшению питча, чтобы лучше привлекать инвесторов."
-   ],
-   "money": null,
-   "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "e62f85ca100be1",
-   "date": "2026-10-23T18:54:41Z",
-   "addedAt": "2026-10-23T22:19:10Z",
-   "source": "BleepingComputer",
-   "sourceType": "media",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-   "title_en": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-   "summary_en": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
-   "pending": false,
-   "title_ru": "AI‑защита от фишинга в Microsoft Teams",
-   "simple": "Microsoft добавит в Teams искусственный интеллект, который будет автоматически определять подозрительные сообщения‑фишинг. Это повысит безопасность общения в корпоративных чатах.",
-   "term": "Фишинг — попытка обманом заставить пользователя раскрыть конфиденциальные данные, например, пароли.",
-   "use": [
-    "Включите новую функцию в настройках Teams, как только она появится, чтобы сразу получить защиту.",
-    "Обучите сотрудников распознавать фишинговые ссылки, даже если система их блокирует.",
-    "Регулярно проверяйте отчёты о заблокированных попытках, чтобы понять, какие угрозы встречаются чаще."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "298c8de07d18f4",
-   "date": "2026-10-23T17:00:00Z",
-   "addedAt": "2026-10-23T18:27:45Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-   "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-   "summary_en": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-   "pending": false,
-   "title_ru": "OpenAI ускорила чтение данных в ChatGPT в 12 раз благодаря новой архитектуре хранения",
-   "simple": "OpenAI рассказала, как улучшила онлайн‑хранилище для более чем миллиарда пользователей ChatGPT, внедрив мультиаренду, глобальный кэш и Azure Cosmos DB, что ускорило чтение в 12 раз.",
-   "term": "мультиаренда — способ организации ресурсов так, чтобы несколько клиентов использовали одну инфраструктуру без конфликтов",
-   "use": [
-    "Изучите возможности Azure Cosmos DB для масштабируемых проектов.",
-    "Примените глобальный кэш в своих веб‑приложениях, чтобы ускорить доступ к данным."
-   ],
-   "money": null,
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "55f38e2b0de99d",
-   "date": "2026-10-23T16:52:55Z",
-   "addedAt": "2026-10-23T18:27:47Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-   "title_en": "Now Google says it might use your Gmail and Google Photos data to target ads",
-   "summary_en": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]",
-   "pending": false,
-   "title_ru": "Google может использовать данные Gmail и Фото для таргетированной рекламы в AI‑фичах",
-   "simple": "Google изменил политику конфиденциальности, позволяя использовать содержимое Gmail и Google Фото для персонализированных рекламных объявлений, если вы включаете AI‑функции.",
-   "term": "таргетированная реклама — показ объявлений, подстроенных под интересы конкретного пользователя",
-   "use": [
-    "Проверьте настройки конфиденциальности в аккаунте Google, если не хотите, чтобы ваши данные использовались в рекламе.",
-    "Отключите персонализированные AI‑функции, если цените приватность выше удобства."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "d5dfb55b012918",
-   "date": "2026-10-23T16:15:50Z",
-   "addedAt": "2026-10-23T18:27:47Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/allenai/litpivot",
-   "title_en": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "LitPivot: динамическая генерация исследовательских идей в контексте литературы",
-   "simple": "Новый инструмент LitPivot помогает формировать исследовательские гипотезы, автоматически связывая их с существующей научной литературой.",
-   "term": "динамическая генерация идей — автоматический процесс создания новых исследовательских вопросов на основе анализа текущих публикаций",
-   "use": [
-    "Попробуйте LitPivot для поиска пробелов в литературе по вашей теме.",
-    "Используйте полученные идеи при написании статей или подготовке грантов."
-   ],
-   "money": null,
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "d34a3f37bdd35a",
-   "date": "2026-10-23T14:47:41Z",
-   "addedAt": "2026-10-23T18:27:47Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-   "title_en": "Meta delays new business terms after publisher pushback on AI scraping",
-   "summary_en": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow […]",
-   "pending": false,
-   "title_ru": "Meta откладывает новые условия для бизнеса после протестов издателей против скрейпинга новостей для ИИ",
-   "simple": "Meta отложила ввод новых бизнес‑условий, которые могли позволить компании собирать новости с сайтов для обучения ИИ, после возражений издателей.",
-   "term": "скрейпинг — автоматический сбор данных с веб‑страниц",
-   "use": [
-    "Следите за изменениями в политике Meta, если используете их платформу для публикаций.",
-    "Если вы издатель, подготовьте аргументы против нежелательного скрейпинга контента."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "4eed9c7e043606",
-   "date": "2026-10-23T14:00:10Z",
-   "addedAt": "2026-10-23T18:27:48Z",
-   "source": "BleepingComputer",
-   "sourceType": "media",
-   "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-   "title_en": "You gave your AI agent access, but who is giving it orders?",
-   "summary_en": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime controls that intercept dangerous act [...]",
-   "pending": false,
-   "title_ru": "AI‑агенты могут выполнять опасные команды, если их обманут",
-   "simple": "AI‑агенты могут быть подмануты через вредоносные письма, сайты и плагины, заставив их украсть данные или удалить файлы. Gen Digital предлагает Agent Trust Hub, который проверяет навыки и контролирует действия агентов.",
-   "term": "Agent Trust Hub — система, проверяющая навыки AI‑агентов и блокирующая опасные действия в реальном времени",
-   "use": [
-    "Проверьте, какие разрешения дают вашим AI‑инструментам, ограничьте их только необходимыми.",
-    "Внедрите решения по проверке и контролю действий AI‑агентов, если они используются в вашем бизнесе.",
-    "Следите за обновлениями безопасности от поставщиков AI‑технологий."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "fa80f1a6b4b706",
-   "date": "2026-10-23T13:52:15Z",
-   "addedAt": "2026-10-23T18:27:47Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-   "title_en": "Retro gaming is being overrun with AI",
-   "summary_en": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […]",
-   "pending": false,
-   "title_ru": "AI захватывает ретро‑игры: новые проекты появляются каждый день",
-   "simple": "С помощью новых AI‑инструментов появляются ретро‑игры в браузерах, на смартфонах и в смешанной реальности. Такие проекты быстро становятся вирусными.",
-   "term": "",
-   "use": [
-    "Попробуйте использовать AI‑генераторы для создания простых игровых прототипов.",
-    "Следите за сообществами, где делятся AI‑созданными игровыми проектами, чтобы вдохновиться.",
-    "Если вы разработчик, экспериментируйте с AI‑инструментами для ускорения создания контента."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "48e2274fdf2ba9",
-   "date": "2026-10-23T10:00:00Z",
-   "addedAt": "2026-10-23T22:19:08Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-   "title_en": "Securing our frontier model training environment",
-   "summary_en": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-   "pending": false,
-   "title_ru": "OpenAI усиливает безопасность обучения моделей",
-   "simple": "OpenAI рассказала, как теперь обучает и тестирует крупные модели в изолированных средах и проводит «red‑teaming» — проверку на уязвимости. Это важно для предотвращения нежелательного поведения ИИ.",
-   "term": "Red‑teaming — целенаправленное тестирование системы специалистами, пытающимися найти её слабые места.",
-   "use": [
-    "Если вы работаете с ИИ, используйте изолированные среды для обучения, чтобы избежать утечек данных.",
-    "Проводите внутренние проверки моделей, имитируя возможные атаки, чтобы выявить уязвимости.",
-    "Следите за обновлениями OpenAI, они могут дать полезные практики по безопасности."
-   ],
    "money": null,
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
