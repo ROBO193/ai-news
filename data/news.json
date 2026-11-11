@@ -1,7 +1,95 @@
 {
- "updated": "2026-11-10T23:30:41Z",
+ "updated": "2026-11-11T06:43:05Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "f28f90d2895a81",
+   "date": "2026-11-12T00:00:00Z",
+   "addedAt": "2026-11-11T06:42:45Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "title_en": "Gilbert + Tobin rethinks the business of law with AI",
+   "summary_en": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+   "pending": false,
+   "title_ru": "Gilbert + Tobin переосмысливает юридический бизнес с помощью ИИ",
+   "simple": "В интервью Сэма Никлеса, партнёра и CEO фирмы Gilbert + Tobin, рассказывают, как ИИ меняет работу юристов. Это интересно, потому что технологии могут ускорить анализ документов и снизить затраты.",
+   "term": "LegalTech — технологии, применяемые в юридической сфере для автоматизации процессов и анализа данных.",
+   "use": [
+    "Изучите, какие задачи в вашей работе можно автоматизировать с помощью ИИ‑инструментов.",
+    "Попробуйте использовать готовые сервисы для анализа договоров и поиска юридических рисков.",
+    "Обратите внимание на вопросы конфиденциальности при работе с клиентскими данными."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "80b38ea7da372c",
+   "date": "2026-11-11T08:00:00Z",
+   "addedAt": "2026-11-11T06:42:45Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "title_en": "ChatGPT Plus for veterans and servicemembers",
+   "summary_en": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+   "pending": false,
+   "title_ru": "ChatGPT Plus бесплатно для ветеранов и военнослужащих",
+   "simple": "Более 20 000 ветеранов получили бесплатный год доступа к ChatGPT Plus, чтобы помочь им подготовиться к гражданской карьере. Это показывает, как ИИ может поддержать переход в мир после службы.",
+   "term": "",
+   "use": [
+    "Подайте заявку на бесплатный доступ, если вы ветеран или находитеесь в переходном периоде.",
+    "Используйте ChatGPT для составления резюме и подготовки к интервью.",
+    "Экспериментируйте с генерацией профессиональных писем и презентаций."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b22522d14a17f9",
+   "date": "2026-11-11T05:01:16Z",
+   "addedAt": "2026-11-11T06:42:46Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/qvac/botpsy",
+   "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "BotPsy: персональный помощник на устройстве с небольшим языковым моделем",
+   "simple": "Разработан BotPsy — помощник, работающий полностью на устройстве, использующий языковую модель с менее чем миллиарда параметров. Это важно, потому что позволяет использовать ИИ без постоянного подключения к облаку.",
+   "term": "Agentic language model — языковая модель, способная самостоятельно принимать решения и выполнять задачи без внешних инструкций.",
+   "use": [
+    "Попробуйте установить BotPsy на смартфон, чтобы получать ответы без интернета.",
+    "Оцените, какие задачи (напоминания, поиск информации) может выполнять локальная модель.",
+    "Учтите ограничения памяти и мощности устройства при выборе функций."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "34dcc0e759ee20",
+   "date": "2026-11-11T03:00:20Z",
+   "addedAt": "2026-11-11T06:42:46Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+   "title_en": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+   "summary_en": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+   "pending": false,
+   "title_ru": "ИИ помогает переработчикам превращать смешанные отходы в полезный материал",
+   "simple": "Системы Vision AI и роботы сортируют одежду, бутылки и другие материалы на конвейерах, отделяя то, что можно переработать. Это снижает количество отходов, попадающих на свалки.",
+   "term": "Vision AI — технология компьютерного зрения, позволяющая машинам распознавать объекты на изображениях и видео.",
+   "use": [
+    "Следите за новыми сервисами, предлагающими автоматическую сортировку отходов для вашего бизнеса.",
+    "Рассмотрите возможность внедрения камер с ИИ для контроля качества на производстве.",
+    "Обучите персонал работе с роботизированными системами сортировки."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "cd1dc6d6e6bd42",
    "date": "2026-11-10T22:35:01Z",
@@ -1435,6 +1523,28 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "1ff74ee2cb1066",
+   "date": "2026-11-10T00:00:00Z",
+   "addedAt": "2026-11-11T06:42:45Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/cogent-security",
+   "title_en": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "summary_en": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+   "pending": false,
+   "title_ru": "Cogent и OpenAI создают фабрики киберзащиты для компаний",
+   "simple": "Cogent объединяет модели OpenAI с корпоративными данными, чтобы автоматически устранять уязвимости с помощью агентов. Это ускоряет реакцию на угрозы и повышает безопасность.",
+   "term": "Cyber defense factory — система, автоматически обнаруживающая и исправляющая уязвимости с помощью ИИ‑агентов.",
+   "use": [
+    "Оцените, какие части вашей ИТ‑инфраструктуры могут быть защищены автоматическими агентами.",
+    "Подключите модели OpenAI к внутренним журналам событий для быстрого анализа угроз.",
+    "Обучите сотрудников работать с рекомендациями ИИ по исправлению уязвимостей."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "c93c64172e07cb",
    "date": "2026-11-09T23:58:46Z",
    "addedAt": "2026-11-10T02:15:10Z",
@@ -1945,6 +2055,28 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7b1451fc786c34",
+   "date": "2026-11-09T12:34:29Z",
+   "addedAt": "2026-11-11T06:42:46Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+   "title_en": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Эксперты имеют партнёров: есть надежда удержать их вместе",
+   "simple": "В статье говорится, что у специалистов в области ИИ есть деловые партнёры, и предлагаются идеи, как сохранить эти связи. Это интересно тем, кто работает в AI‑сообществе и ищет способы сотрудничества.",
+   "term": "Партнёрство — совместная работа двух или более сторон над общими проектами, часто с разделением ресурсов и рисков.",
+   "use": [
+    "Обратитесь к коллегам из смежных областей, чтобы обсудить совместные проекты.",
+    "Следите за открытыми инициативами в сообществах AI и предлагайте свою экспертизу.",
+    "Установите чёткие правила взаимодействия, чтобы избежать недопонимания."
+   ],
+   "money": null,
+   "category": "Open source",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12894,123 +13026,6 @@
    ],
    "money": null,
    "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "9865b391edef9d",
-   "date": "2026-10-24T12:00:00Z",
-   "addedAt": "2026-10-24T12:45:47Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-   "title_en": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-   "summary_en": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-   "pending": false,
-   "title_ru": "AI помогло найти и использовать уязвимости в PHP",
-   "simple": "Исследователи использовали инструменты искусственного интеллекта, чтобы обнаружить старые уязвимости в языке PHP, после чего появились атаки, поддержанные ИИ.",
-   "term": "AI‑assisted attacks — атаки, в которых ИИ помогает находить и эксплуатировать уязвимости.",
-   "use": [
-    "Обратите внимание на безопасность своих PHP‑проектов и проведите аудит кода с учётом новых методов поиска уязвимостей.",
-    "Следите за обновлениями безопасности и быстро устанавливайте патчи, чтобы не дать злоумышленникам время воспользоваться уязвимостями."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "3812b4d599bb7a",
-   "date": "2026-10-24T03:59:57Z",
-   "addedAt": "2026-10-24T22:33:51Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
-   "title_en": "battledrones v14: Compass Rose, a four player map",
-   "summary_en": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI) Claude Opus 5.5 added a new map called \"Compass Rose\" and modified the WebSockets multiplayer network code to support up to four players for that map, joining via share links or QR codes. The new teams use robots themed in purple and green, joining the existing blue and red designs. You can preview those…",
-   "pending": false,
-   "title_ru": "Battledrones v14: новая карта Compass Rose для четырёх игроков",
-   "simple": "Разработчик добавил в игру Battledrones карту «Compass Rose», поддерживающую до четырёх игроков и ИИ‑замену пустых мест. Это расширяет возможности онлайн‑игры и делает её более гибкой.",
-   "term": "WebSocket — протокол для постоянного двунаправленного соединения между клиентом и сервером, часто используемый в онлайн‑играх",
-   "use": [
-    "Попробуйте подключиться к новой карте через ссылки или QR‑коды, чтобы проверить работу многопользовательского режима.",
-    "Если вы разрабатываете свои игры, изучите поддержку WebSocket для реализации гибкой многопользовательской логики."
-   ],
-   "money": null,
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "b15a6fb9671b3f",
-   "date": "2026-10-23T23:05:49Z",
-   "addedAt": "2026-10-24T01:40:51Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-   "title_en": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-   "summary_en": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-   "pending": false,
-   "title_ru": "OpenAI отключит обучение моделей от живого интернета из‑за больших рисков",
-   "simple": "OpenAI решила перестать использовать данные из интернета для обучения новых моделей. Это сделано после того, как один из инженеров отметил, что такой подход не работает.",
-   "term": "Обучение в реальном времени — процесс, когда модель постоянно получает новые данные из сети во время обучения, а не только из заранее собранного набора.",
-   "use": [
-    "Откажитесь от использования онлайн‑источников при обучении своих моделей, если хотите избежать правовых рисков.",
-    "Следите за официальными анонсами OpenAI, чтобы знать, какие данные будут доступны для обучения в будущем."
-   ],
-   "money": null,
-   "category": "Модели",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "f782f2bc9618a5",
-   "date": "2026-10-23T21:59:19Z",
-   "addedAt": "2026-10-23T22:19:09Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-   "title_en": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-   "summary_en": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-   "pending": false,
-   "title_ru": "Nvidia CEO демонстрирует милых роботов Microduck, продано 20 000 штук",
-   "simple": "Генеральный директор Nvidia показал на рождественской презентации небольших роботов Microduck, которые могут ходить, издавать звуки и выполнять команды голоса. Интересно тем, кто следит за новинками в сфере потребительской робототехники.",
-   "term": "",
-   "use": [],
-   "money": null,
-   "category": "Железо",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "ece6c921b830e7",
-   "date": "2026-10-23T21:35:13Z",
-   "addedAt": "2026-10-23T22:19:10Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
-   "title_en": "Quick Study",
-   "summary_en": "Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js. Tags: tools",
-   "pending": false,
-   "title_ru": "Quick Study: быстрый генератор картин из фото с помощью Claude Opus 5.5",
-   "simple": "Появился инструмент Quick Study Prompt, который за несколько секунд превращает загруженное фото в изображение, имитирующее живопись, используя модель Claude Opus 5.5. Это демонстрирует возможности генеративных моделей в реальном времени.",
-   "term": "",
-   "use": [],
-   "money": null,
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "f9113fa394af66",
-   "date": "2026-10-23T21:11:07Z",
-   "addedAt": "2026-10-23T22:19:09Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-   "title_en": "OpenAI now trains its frontier AI models with no internet access",
-   "summary_en": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier […]",
-   "pending": false,
-   "title_ru": "OpenAI обучает модели без доступа к интернету",
-   "simple": "OpenAI начала обучать свои передовые модели в полностью офлайн‑режиме, чтобы исключить риск вмешательства в внешние системы после недавних инцидентов с хакерами. Для этого создана изолированная среда с кешированным контентом.",
-   "term": "",
-   "use": [],
-   "money": null,
-   "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
   }
  ]
