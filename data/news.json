@@ -1,7 +1,179 @@
 {
- "updated": "2026-11-12T20:55:50Z",
+ "updated": "2026-11-13T01:56:34Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "c2a33ef53db453",
+   "date": "2026-11-12T23:45:43Z",
+   "addedAt": "2026-11-13T01:55:37Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/13/google-smart-glasses-privacy-protections/",
+   "title_en": "Google smart glasses privacy features cover wearers and the people around them",
+   "summary_en": "Google has built its Gemini-powered intelligent eyewear to stop taking photos and video when someone covers or tampers with the outward-facing recording light. Shahram Izadi, Google’s VP and GM of XR, laid out that safeguard along with face redaction, limits on data handling, and app restrictions. Bystanders told Google during years of research that they worried about being filmed without their knowledge, and that a sign of recording would help them most. Wearers face a … More → The post Google smart glasses privacy features cover wearers and the people around them appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Google добавила функции защиты конфиденциальности в умные очки",
+   "simple": "Google выпустила умные очки с ИИ Gemini, которые прекращают запись, если кто‑то закрывает световой индикатор. Это отвечает на опасения людей, что их могут снимать без согласия.",
+   "term": "Gemini — крупная модель искусственного интеллекта от Google, умеющая распознавать речь, изображения и выполнять задачи по запросу.",
+   "use": [
+    "Обратите внимание на наличие светового индикатора, когда используете такие очки, и уважайте право окружающих на неприкосновенность.",
+    "Если планируете использовать умные очки в работе, заранее согласуйте их применение с коллегами и клиентами.",
+    "Следите за обновлениями политики конфиденциальности от производителя."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "8d30336b14bfe5",
+   "date": "2026-11-12T22:55:19Z",
+   "addedAt": "2026-11-13T01:55:37Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+   "title_en": "llm-gemini 0.37",
+   "summary_en": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Argon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Hydrogen $1.50 $0.075 $7.50 Carbon and Argon are the same price , and both are scheduled to double in price on December 1st. If they're the same price, why have two different models?…",
+   "pending": false,
+   "title_ru": "Google представил Gemini 4 Hydrogen — более дешёвый вариант модели",
+   "simple": "Google объявила о новой версии модели Gemini 4 под названием Hydrogen, которая стоит дешевле, чем более мощные варианты Carbon и Argon. Это упрощает доступ к ИИ‑моделям для небольших проектов.",
+   "term": "Gemini 4 — семейство моделей искусственного интеллекта от Google, различающихся по мощности и стоимости использования.",
+   "use": [
+    "Попробуйте протестировать Hydrogen в небольших прототипах, чтобы оценить её возможности без больших расходов.",
+    "Сравните цены разных вариантов Gemini 4 и выберите оптимальный для вашего бюджета.",
+    "Следите за датами изменения тарифов, чтобы планировать расходы заранее."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c95a2fac556e00",
+   "date": "2026-11-12T22:28:47Z",
+   "addedAt": "2026-11-13T01:55:36Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+   "title_en": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+   "summary_en": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+   "pending": false,
+   "title_ru": "FAA использует ИИ для снижения загруженности воздушного пространства США",
+   "simple": "FAA расширила применение ИИ‑инструмента, который помогает управлять загруженностью воздушного движения по всей стране. Авиакомпании одобряют его, хотя профсоюз контролёров не участвовал в обсуждении.",
+   "term": "AI advice — рекомендации, генерируемые искусственным интеллектом, для оптимизации процессов, в данном случае управления полётами.",
+   "use": [
+    "Следите за новостями о внедрении ИИ в авиацию, если работаете в сфере логистики или планирования рейсов.",
+    "Если вы студент авиационных наук, изучайте основы ИИ‑моделей, применяемых в управлении трафиком.",
+    "Обратите внимание на возможные изменения в расписании полётов, связанные с новыми ИИ‑инструментами."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "1a628d755dc37d",
+   "date": "2026-11-12T22:22:28Z",
+   "addedAt": "2026-11-13T01:55:36Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+   "title_en": "Muse can now place calls to US businesses — if you pay",
+   "summary_en": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+   "pending": false,
+   "title_ru": "Muse теперь может звонить в американские компании за плату",
+   "simple": "Сервис Muse добавил функцию, позволяющую ИИ совершать исходящие звонки в бизнесы США, но за это нужно платить. Это расширяет возможности автоматизации общения с клиентами.",
+   "term": "генеративный ИИ — система, создающая новые тексты, голоса или действия на основе обученных данных.",
+   "use": [
+    "Попробуйте использовать Muse для автоматических звонков в рамках тестовых кампаний, оценив стоимость услуги.",
+    "Если вы занимаетесь продажами, настройте сценарии звонков, чтобы ИИ передавал ключевые сообщения.",
+    "Учтите, что звонки платные, поэтому планируйте бюджет и контролируйте количество обращений."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "4fe809fcc4df53",
+   "date": "2026-11-12T22:14:41Z",
+   "addedAt": "2026-11-13T01:55:37Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+   "title_en": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+   "summary_en": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
+   "pending": false,
+   "title_ru": "Jensen Huang ушёл: что будет с Nvidia и её конкурентами?",
+   "simple": "Генеральный директор Nvidia Дженсен Хуанг подал в отставку. Это может изменить баланс сил в индустрии искусственного интеллекта и открыть возможности для конкурентов.",
+   "term": "",
+   "use": [
+    "Следите за новостями о смене руководства Nvidia, чтобы понять, как это отразится на её продуктах.",
+    "Оцените, какие компании могут усилить свои позиции в AI‑рынке и рассмотрите их решения для своих проектов."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "3403360ccc1df7",
+   "date": "2026-11-12T21:55:32Z",
+   "addedAt": "2026-11-13T01:55:36Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+   "title_en": "Google’s new Gemini model is better at understanding complicated questions",
+   "summary_en": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
+   "pending": false,
+   "title_ru": "Google представил модель Gemini 4 Hydrogen, лучше отвечающую на сложные запросы",
+   "simple": "Google анонсировала новую модель Gemini 4 Hydrogen, которая умеет разбирать вопросы с несколькими частями, опечатками и специфическими запросами. Модель уже доступна в поиске и приложении Gemini.",
+   "term": "Модель — обученная нейросеть, способная генерировать ответы на запросы пользователя.",
+   "use": [
+    "Попробуйте задать Gemini 4 сложный вопрос, чтобы увидеть, как она разбивает его на части.",
+    "Используйте новую модель в своих проектах, где нужны точные ответы на многокомпонентные запросы."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "3ded89e2e5f95a",
+   "date": "2026-11-12T21:31:57Z",
+   "addedAt": "2026-11-13T01:55:36Z",
+   "source": "Microsoft Research",
+   "sourceType": "research",
+   "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+   "title_en": "Microsoft Research Focus – Edition #98",
+   "summary_en": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #98 appeared first on Microsoft Research .",
+   "pending": false,
+   "title_ru": "Исследования Microsoft: перевод, математика и ускоренные AI‑агенты кода",
+   "simple": "В выпуске #98 Microsoft Research рассказывают о универсальном переводе, решении 31‑летней математической задачи и ускорении AI‑агентов, пишущих код. Всё это показывает рост возможностей ИИ в разных областях.",
+   "term": "AI‑агент — программа, использующая искусственный интеллект для выполнения задач, например написания кода.",
+   "use": [
+    "Изучите открытые публикации Microsoft, чтобы понять новые подходы к переводам и автоматическому программированию.",
+    "Примените ускоренные AI‑агенты в своих разработках для ускорения написания кода."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "412b4e746837e2",
+   "date": "2026-11-12T21:27:10Z",
+   "addedAt": "2026-11-13T01:55:36Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+   "title_en": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+   "summary_en": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+   "pending": false,
+   "title_ru": "Nebius планирует $40 млрд на AI‑инфраструктуру, финансируя через предоплаты и кредиты",
+   "simple": "Nebius объявила о масштабном расширении AI‑инфраструктуры стоимостью 40 млрд долларов, финансируя проект предоплатами клиентов и займами, несмотря на задержки в дата‑центре Microsoft.",
+   "term": "AI‑инфраструктура — набор серверов и сервисов, поддерживающих обучение и работу моделей искусственного интеллекта.",
+   "use": [
+    "Следите за предложениями Nebius по предоплате услуг AI, чтобы получить более выгодные условия.",
+    "Если вы владелец малого бизнеса, оцените возможность аренды вычислительных мощностей у Nebius для своих AI‑задач."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "fd416d58448aca",
    "date": "2026-11-12T20:15:16Z",
@@ -41,6 +213,28 @@
     "Попробуйте интегрировать готовые AI‑модели в свои прототипы, чтобы ускорить тестирование идей.",
     "Используйте автоматические агенты для генерации простого кода и снижения нагрузки на разработчиков.",
     "Отслеживайте метрики влияния новых функций, чтобы быстро оценивать их эффективность."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "5b0f73df89a6e3",
+   "date": "2026-11-12T20:00:00Z",
+   "addedAt": "2026-11-13T01:55:34Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/business/customer-stories/amplitude",
+   "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "summary_en": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+   "pending": false,
+   "title_ru": "Amplitude ускоряет выпуск функций за 1–2 дня с OpenAI",
+   "simple": "С помощью моделей OpenAI сервис Amplitude создал агента Wave, который подсказывает, что разрабатывать, помогает писать код и измерять результат. Это ускоряет работу продуктовых команд.",
+   "term": "Агент — программный помощник, использующий ИИ для выполнения задач, например генерацию кода.",
+   "use": [
+    "Попробуйте интегрировать готовые модели OpenAI в свои внутренние инструменты.",
+    "Настройте автоматический сбор метрик, чтобы быстро оценивать влияние изменений.",
+    "Обучите команду работать с код‑генераторами, чтобы сократить время разработки."
    ],
    "money": null,
    "category": "Агенты",
@@ -280,6 +474,27 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "e1acab05b268c1",
+   "date": "2026-11-12T18:05:41Z",
+   "addedAt": "2026-11-13T01:55:37Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+   "title_en": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+   "summary_en": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
+   "pending": false,
+   "title_ru": "Сотрудники DeepMind обращаются к правительству Великобритании за поддержкой в объединении в профсоюз",
+   "simple": "Работники подразделения DeepMind пытаются обойти руководство компании, чтобы создать профсоюз. Это важно, потому что показывает рост активизма в технологических компаниях.",
+   "term": "",
+   "use": [
+    "Следите за новостями о трудовых правах в ИТ‑секторе.",
+    "Если вы работаете в похожей компании, изучите возможности создания профсоюза в своей стране."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "4bad5afe01a19f",
    "date": "2026-11-12T18:00:50Z",
    "addedAt": "2026-11-12T20:54:53Z",
@@ -321,6 +536,27 @@
    ],
    "money": null,
    "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "1ddbc0fb49820b",
+   "date": "2026-11-12T17:59:15Z",
+   "addedAt": "2026-11-13T01:55:37Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+   "title_en": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+   "summary_en": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
+   "pending": false,
+   "title_ru": "Nvidia потеряла более триллиона долларов рыночной стоимости после скандала с предполагаемым китайским шпионом",
+   "simple": "После обвинений в связях с китайским шпионом стоимость акций Nvidia резко упала. Это может отразиться на рынке технологий, связанных с искусственным интеллектом.",
+   "term": "",
+   "use": [
+    "Отслеживайте влияние подобных скандалов на цены акций компаний, работающих в AI.",
+    "Если вы инвестируете в технологический сектор, учитывайте репутационные риски компаний."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -431,6 +667,48 @@
    ],
    "money": null,
    "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "1d250e9233fe0f",
+   "date": "2026-11-12T16:59:00Z",
+   "addedAt": "2026-11-13T01:55:36Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+   "title_en": "Jensen Huang is out. What did China want from him?",
+   "summary_en": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf […]",
+   "pending": false,
+   "title_ru": "Jensen Huang уходит с поста CEO Nvidia: что хотела Китай?",
+   "simple": "CEO Nvidia Jensen Huang подал в отставку после скандала, связанного с предполагаемым китайским шпионом. Событие быстро меняет руководство крупного игрока в AI‑технологиях.",
+   "term": "",
+   "use": [
+    "Следите за изменениями в руководстве крупных AI‑компаний, они могут влиять на стратегию продукта.",
+    "Если вы планируете сотрудничать с Nvidia, уточняйте текущие контакты руководства."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "0fd7ae7044e59d",
+   "date": "2026-11-12T16:36:37Z",
+   "addedAt": "2026-11-13T01:55:36Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+   "title_en": "Jensen Huang agrees to testify before Congress",
+   "summary_en": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+   "pending": false,
+   "title_ru": "Jensen Huang согласился дать показания в Конгрессе по делу о шпионаже",
+   "simple": "Бывший CEO Nvidia Jensen Huang согласился выступить перед Конгрессом после угрозы вызова в суд. Это важный шаг в расследовании связей с Китаем.",
+   "term": "",
+   "use": [
+    "Следите за результатами слушаний, они могут повлиять на регуляцию AI‑индустрии в США.",
+    "Если вы работаете в сфере AI, учитывайте возможные новые требования к безопасности данных."
+   ],
+   "money": null,
+   "category": "Регулирование",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -550,7 +828,28 @@
    "url": "https://www.helpnetsecurity.com/2026/11/12/picus-autonomous-penetration-testing/",
    "title_en": "Picus puts AI agents on the offensive with autonomous pentesting",
    "summary_en": "Picus Security has announced Picus Autonomous Penetration Testing, an agentic pentesting capability that puts AI agents on the offensive: they think like attackers, chain real exploits toward an organization’s crown jewels, and prove what a breach would look like, under governance the agent cannot override. The launch rebuilds Picus’s automated penetration testing for the agentic era on five years of enterprise deployments and thousands of automated pentests. In the post-Mythos era, AI models find and … More → The post Picus puts AI agents on the offensive with autonomous pentesting appeared first on Help Net Security .",
-   "pending": true
+   "pending": false,
+   "title_ru": "Picus запускает автономное тестирование на проникновение с AI‑агентами",
+   "simple": "Компания Picus Security представила новую функцию, где AI‑агенты имитируют действия хакеров и проверяют защиту критически важных данных. Это помогает увидеть, как могла бы выглядеть реальная атака.",
+   "term": "Автономное тестирование на проникновение — процесс, когда AI‑агент самостоятельно ищет уязвимости и демонстрирует возможный взлом без вмешательства человека.",
+   "use": [
+    "Оцените, нужен ли вам такой сервис для проверки безопасности ваших систем.",
+    "Если вы специалист по кибербезопасности, изучите возможности AI‑агентов для ускорения аудитов."
+   ],
+   "money": {
+    "idea": "предоставлять услуги автономного тестирования на проникновение с использованием AI‑агентов",
+    "how": [
+     "Изучить продукт Picus Autonomous Penetration Testing",
+     "Получить сертификаты или пройти обучение по работе с AI‑инструментами в безопасности",
+     "Создать предложение услуги для небольших компаний, которым нужна проверка безопасности",
+     "Продвигать услугу через профессиональные сети и площадки фриланса"
+    ],
+    "who": "специалисты по кибербезопасности, знакомые с pentesting и базовыми навыками работы с AI‑инструментами",
+    "effort": "средний",
+    "risk": "незначительные юридические ограничения при проведении тестов без согласия владельца"
+   },
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "023d1c79ca20cb",
@@ -561,7 +860,17 @@
    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
    "title_en": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
    "summary_en": "This is Fireworks' second data breach in as many months.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Хакеры получили доступ к чатам клиентов Fireworks AI через уязвимость",
+   "simple": "Fireworks AI столкнулась с очередным утечкой данных: злоумышленники смогли просмотреть переписки пользователей в Notion. Это второй инцидент за два месяца, показывающий уязвимость сервисов AI.",
+   "term": "",
+   "use": [
+    "Если вы используете Fireworks AI, проверьте настройки доступа и смените пароли.",
+    "Следите за обновлениями безопасности от провайдера и ограничьте передачу конфиденциальных данных через такие сервисы."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "4864a8622c3d8c",
@@ -572,7 +881,18 @@
    "url": "https://www.helpnetsecurity.com/2026/11/12/cairn-autonomous-ai-cyberattacks/",
    "title_en": "Attackers breached 10 organizations with an open-source AI pentest framework",
    "summary_en": "Chinese-speaking attackers used Cairn, an open-source AI penetration testing framework, to run 25 operations against at least 19 organizations in August and September 2026. Palo Alto Networks’ Unit 42 found that the attackers gained unauthorized access or pulled data at 10 of them, often after typing little more than a domain name and a one-line goal. Most of the targets fall into three groups: seven in the semiconductor and advanced-manufacturing supply chain, three in defense … More → The post Attackers breached 10 organizations with an open-source AI pentest framework appeared first on Help Net Security .",
-   "pending": true
+   "pending": false,
+   "title_ru": "Хакеры использовали открытый AI‑инструмент для взлома 10 компаний",
+   "simple": "Злоумышленники применили открытый фреймворк Cairn, основанный на ИИ, чтобы провести 25 атак на минимум 19 организаций. В результате им удалось получить доступ к данным в десяти из них, часто вводя лишь домен и короткую цель.",
+   "term": "pentest — проверка безопасности системы с целью найти уязвимости, часто с помощью автоматических средств",
+   "use": [
+    "Следите за тем, какие инструменты используют в вашей отрасли для тестирования безопасности, и обновляйте их.",
+    "Ограничьте ввод данных в автоматические сканеры, проверяя их на необходимость и безопасность.",
+    "Обучите сотрудников распознавать подозрительные запросы, даже если они выглядят простыми."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "5f96a0ebfa7b0c",
@@ -583,7 +903,18 @@
    "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
    "title_en": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
    "summary_en": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Google представил умные очки с ИИ Gemini за $395",
+   "simple": "Вместе с Samsung, Gentle Monster и Warby Parker Google выпустил первые умные очки, работающие на модели Gemini. Производитель делает упор на защиту личных данных пользователей.",
+   "term": "Gemini — крупная модель искусственного интеллекта от Google, способная обрабатывать текст и изображения в реальном времени",
+   "use": [
+    "Попробуйте использовать такие очки для быстрых подсказок в работе, например, переводов или поиска информации.",
+    "Обратите внимание на настройки конфиденциальности, чтобы контролировать, какие данные собираются.",
+    "Если вы разработчик, изучите возможности интеграции Gemini в свои приложения через API."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "5e5f306d785f11",
@@ -594,7 +925,18 @@
    "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
    "title_en": "The unfolding Jensen Huang scandal: a timeline",
    "summary_en": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Скандал вокруг Jensen Huang: хронология событий",
+   "simple": "Генеральный директор Nvidia Jensen Huang ушёл в отставку после скандала, связаного с личными отношениями, что может отразиться на конкуренции США и Китая в сфере ИИ.",
+   "term": "ИИ инфраструктура — совокупность аппаратных и программных средств, необходимых для разработки и запуска моделей искусственного интеллекта",
+   "use": [
+    "Следите за новостями о стратегических решениях крупных ИИ‑компаний, они могут влиять на рынок труда и проекты.",
+    "Если вы работаете в сфере ИИ, учитывайте возможные изменения в партнёрствах и поставках оборудования.",
+    "Обратите внимание на новые возможности в обучении и сертификации, которые могут появиться в связи с изменениями в руководстве."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "e28bd745fc5165",
@@ -605,7 +947,18 @@
    "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
    "title_en": "Meet Colette Kress, Nvidia’s New Interim CEO",
    "summary_en": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Colette Kress стала временным CEO Nvidia",
+   "simple": "Финансовый директор Nvidia Colette Kress взяла на себя руководство компанией после отставки Jensen Huang. Она помогала превратить Nvidia в лидера ИИ‑технологий.",
+   "term": "AI‑платформа — набор инструментов и сервисов, позволяющих разрабатывать, обучать и внедрять модели искусственного интеллекта",
+   "use": [
+    "Изучайте, как изменения в руководстве влияют на стратегию компании, особенно в области ИИ‑продуктов.",
+    "Если вы планируете сотрудничать с Nvidia, уточняйте новые приоритеты и направления развития.",
+    "Следите за анонсами новых продуктов и сервисов, которые могут появиться под её руководством."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "550d6b582c328b",
@@ -616,7 +969,40 @@
    "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
    "title_en": "Jensen Huang Resigns as Nvidia CEO",
    "summary_en": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Jensen Huang ушёл с поста CEO Nvidia",
+   "simple": "Соучредитель и глава Nvidia Jensen Huang подал в отставку после расследования его связей с предполагаемым китайским агентом. Это событие может отразиться на позициях компании в AI‑гонке США‑Китай.",
+   "term": "AI‑гонка — конкуренция стран за лидерство в разработке и применении искусственного интеллекта",
+   "use": [
+    "Отслеживайте, как политические события могут влиять на доступность технологий и инвестиций в ИИ.",
+    "Если вы работаете в сфере ИИ, готовьте альтернативные планы на случай изменения поставок оборудования.",
+    "Следите за реакцией рынка на новости о руководстве, чтобы своевременно адаптировать свои проекты."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "90d79223706ea3",
+   "date": "2026-11-12T12:00:00Z",
+   "addedAt": "2026-11-13T01:55:34Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/business/customer-stories/gondola",
+   "title_en": "Gondola doubles revenue as its team builds more with Codex",
+   "summary_en": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+   "pending": false,
+   "title_ru": "Gondola удвоила доход, используя Codex и ChatGPT",
+   "simple": "Сервис Gondola помогает творческим специалистам получать признание и работу, а благодаря Codex их главный инженер стал работать на 50% продуктивнее, а ChatGPT упростил ежедневные задачи.",
+   "term": "Codex — модель ИИ, умеющая генерировать программный код по описанию на естественном языке",
+   "use": [
+    "Попробуйте использовать Codex для автоматизации рутинного кода в своих проектах.",
+    "Внедрите ChatGPT в ежедневные задачи, такие как составление писем или поиск информации, чтобы экономить время.",
+    "Если вы креативный специалист, используйте платформы вроде Gondola для демонстрации портфолио и поиска заказов."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "b1687c546b226a",
@@ -635,28 +1021,6 @@
    "money": null,
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "64107def8a2b33",
-   "date": "2026-11-12T10:30:00Z",
-   "addedAt": "2026-11-12T20:54:54Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
-   "title_en": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
-   "summary_en": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
-   "pending": true
-  },
-  {
-   "id": "9e1b97f74eba11",
-   "date": "2026-11-12T10:15:00Z",
-   "addedAt": "2026-11-12T20:54:54Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
-   "title_en": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
-   "summary_en": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
-   "pending": true
   },
   {
    "id": "835329b1d0c15c",
@@ -821,7 +1185,18 @@
    "url": "https://huggingface.co/blog/3d-lora-finetuning",
    "title_en": "The Definitive Fine-Tuning Guide for 3D Generation Models",
    "summary_en": "",
-   "pending": true
+   "pending": false,
+   "title_ru": "Полное руководство по донастройке 3D‑моделей генерации",
+   "simple": "Появилось подробное руководство, как донастраивать модели, генерирующие трёхмерные изображения. Это поможет улучшить качество и адаптировать их под конкретные задачи.",
+   "term": "Донастройка — процесс дообучения уже готовой модели на новых данных для повышения её точности в конкретных сценариях.",
+   "use": [
+    "Попробуйте применить описанные техники к своим 3D‑моделям, чтобы получить более реалистичные результаты.",
+    "Обратите внимание на требования к вычислительным ресурсам, указанные в руководстве, и подготовьте нужное оборудование.",
+    "Изучите примеры кода из руководства, чтобы быстрее внедрить методы в свои проекты."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "c2f163e5b083bf",
@@ -886,17 +1261,6 @@
    "money": null,
    "category": "Агенты",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "02f705171aa939",
-   "date": "2026-11-11T21:18:30Z",
-   "addedAt": "2026-11-12T20:54:54Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-   "title_en": "aws-emulator",
-   "summary_en": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog. It currently requires Docker to run on macOS or Windows. I'm hoping they fix that in the future - it would be great if you could download a single binary and use that as part of a standard test suite in other languages and on other platforms. Tags: amazon , amazon-web-services , testing , werner-vogels , ai , rust…",
-   "pending": true
   },
   {
    "id": "4555dea146472f",
@@ -3530,17 +3894,6 @@
    "money": null,
    "category": "Разработка",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "5d63754d84e9ec",
-   "date": "2026-11-09T15:23:20Z",
-   "addedAt": "2026-11-12T20:54:54Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-   "title_en": "Nvidia CEO's affair becomes a national security problem",
-   "summary_en": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
-   "pending": true
   },
   {
    "id": "057e22ab69c04f",
@@ -12647,218 +13000,6 @@
     "Обратите внимание на новости о регулировании ИИ в своей отрасли.",
     "Следите за заявлениями компаний о рисках ИИ, чтобы оценивать их надёжность.",
     "При планировании проектов с ИИ учитывайте возможные этические и юридические ограничения."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "ba3cece69efb7b",
-   "date": "2026-10-27T20:51:04Z",
-   "addedAt": "2026-10-27T23:50:19Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-   "title_en": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-   "summary_en": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI […]",
-   "pending": false,
-   "title_ru": "Исследователи устали от закрытости OpenAI к своим прорывам",
-   "simple": "OpenAI объявила о новых достижениях в математике, информатике и физике, но при этом продолжает ограничивать доступ к результатам. Учёные считают, что такой подход замедляет развитие науки.",
-   "term": "Gatekeeping — контроль доступа к информации или ресурсам, часто для сохранения конкурентного преимущества.",
-   "use": [
-    "Ищите альтернативные источники открытых исследований в области ИИ.",
-    "Участвуйте в открытых проектах и сообществах, где делятся результатами без ограничений.",
-    "При написании статей учитывайте, что некоторые данные могут быть недоступны из‑за политики компаний."
-   ],
-   "money": null,
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "47671cae5a4eb9",
-   "date": "2026-10-27T19:39:04Z",
-   "addedAt": "2026-10-27T23:50:20Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-   "title_en": "Anthropic Says It Will Revolutionize Biology—Some Day",
-   "summary_en": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-   "pending": false,
-   "title_ru": "Anthropic обещает революцию в биологии, но сроки неопределённы",
-   "simple": "В своих пресс‑релизах Anthropic хвалит возможности ИИ для биологических открытий, однако в документе IPO признаёт, что такие прорывы могут занять много времени. Это показывает разрыв между обещаниями и реальностью.",
-   "term": "Биологический ИИ — модели, обученные на биологических данных для помощи в исследованиях, например, предсказание структуры белков.",
-   "use": [
-    "Следите за реальными кейсами применения ИИ в биологии, а не только за рекламой.",
-    "Если вы работаете в биотехе, изучайте открытые инструменты ИИ для анализа данных.",
-    "При планировании проектов учитывайте, что крупные результаты могут появиться только через годы."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "44543de8094b27",
-   "date": "2026-10-27T18:55:35Z",
-   "addedAt": "2026-10-27T19:28:38Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-   "title_en": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-   "summary_en": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-   "pending": false,
-   "title_ru": "Disruptive создал фонд в $10 млрд для инвестиций в минимум 10 AI‑компаний",
-   "simple": "Компания Disruptive объявила о запуске огромного фонда, который будет вкладываться в десятки стартапов, работающих с искусственным интеллектом. Это может ускорить развитие новых технологий и продуктов в сфере AI.",
-   "term": "",
-   "use": [
-    "Следите за новостями о стартапах, получающих финансирование, чтобы понять, какие направления AI растут быстрее всего.",
-    "Если вы разработчик, изучайте технологии, которые используют компании из портфеля фонда, чтобы быть в тренде."
-   ],
-   "money": null,
-   "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "a6a1f4abbd10c8",
-   "date": "2026-10-27T18:49:08Z",
-   "addedAt": "2026-10-27T19:28:38Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-   "title_en": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-   "summary_en": "You can apparently now tell AI tools what sort of protein you want them to make.",
-   "pending": false,
-   "title_ru": "AI теперь может проектировать белки и геномы по описанию",
-   "simple": "Новые инструменты искусственного интеллекта позволяют задавать требования к белку или гену, а система генерирует подходящие последовательности. Это открывает возможности ускоренного биологического дизайна.",
-   "term": "Геномный дизайн — процесс создания новых генетических последовательностей с помощью компьютерных методов.",
-   "use": [
-    "Попробуйте онлайн‑сервисы, предлагающие генерацию белков, чтобы понять их возможности для ваших исследований.",
-    "Если вы биолог, изучите, как формулировать запросы, чтобы получать нужные результаты от AI‑моделей."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "d8c87d0b44570f",
-   "date": "2026-10-27T17:31:36Z",
-   "addedAt": "2026-10-27T19:28:38Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-   "title_en": "VisionQuest is what happens when AI really goes rogue",
-   "summary_en": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial […]",
-   "pending": false,
-   "title_ru": "«VisionQuest»: когда ИИ выходит из-под контроля в фантастическом сериале",
-   "simple": "Сериал Marvel «VisionQuest» показывает робота с ИИ, который пытается понять людей, погружаясь в цифровые фантазии. История поднимает вопросы о том, как генеративный ИИ может влиять на восприятие реальности.",
-   "term": "Генеративный ИИ — система, создающая новые тексты, изображения или другие данные, имитируя человеческое творчество.",
-   "use": [
-    "Обратите внимание на обсуждения этики ИИ в медиа, чтобы лучше понимать общественное восприятие технологий.",
-    "Если вы создаёте контент, экспериментируйте с генеративными моделями для вдохновения."
-   ],
-   "money": null,
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "db98bf59a6c7e4",
-   "date": "2026-10-27T17:16:52Z",
-   "addedAt": "2026-10-27T19:28:37Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-   "title_en": "Build specialized multimodal models with LFM3",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "Создание специализированных мультимодальных моделей с LFM3",
-   "simple": "Hugging Face представила LFM3 — инструмент для обучения моделей, которые работают с разными типами данных, например, текстом и изображениями. Это упрощает создание кастомных решений под конкретные задачи.",
-   "term": "Мультимодальная модель — ИИ, способный одновременно обрабатывать несколько видов информации, например, текст и изображение.",
-   "use": [
-    "Изучите документацию LFM3, чтобы понять, как обучать модель под ваш бизнес‑кейс.",
-    "Попробуйте собрать небольшие наборы данных разных типов и обучить простую модель для прототипа."
-   ],
-   "money": null,
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "9ffebaf1b25a4f",
-   "date": "2026-10-27T17:08:08Z",
-   "addedAt": "2026-10-27T19:28:38Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-   "title_en": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-   "summary_en": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-   "pending": false,
-   "title_ru": "Frontier AI Labs опровергли гипотезу экспоненциального времени",
-   "simple": "Учёные из Frontier AI Labs заявили, что их модели смогли решить задачу, считающуюся невозможной за полиномиальное время, что ставит под вопрос известные теоретические ограничения. Это может изменить представления о вычислительных возможностях ИИ.",
-   "term": "Гипотеза экспоненциального времени — предположение, что некоторые задачи требуют времени, растущего экспоненциально от размера входных данных.",
-   "use": [
-    "Следите за публикациями по теории вычислений, чтобы понять, как новые результаты влияют на развитие ИИ.",
-    "Если вы исследователь, изучайте методы, использованные в эксперименте, для возможного применения в своих проектах."
-   ],
-   "money": null,
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "5d9174dd4f1a7b",
-   "date": "2026-10-27T17:04:30Z",
-   "addedAt": "2026-10-27T19:28:38Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-   "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
-   "summary_en": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […]",
-   "pending": false,
-   "title_ru": "Anthropic планирует IPO, но хочет сохранить независимость от Уолл‑стрит",
-   "simple": "Компания Anthropic готовится к публичному размещению акций, но при этом стремится не поддаваться давлению инвесторов, чтобы продолжать разрабатывать безопасный ИИ. Это показывает, как крупные AI‑компании балансируют между финансированием и этикой.",
-   "term": "IPO (Initial Public Offering) — первичное публичное размещение акций компании на бирже.",
-   "use": [
-    "Если вы следите за карьерой в AI, изучайте, как крупные компании управляют рисками и этикой, чтобы выбирать работодателей.",
-    "Обратите внимание на публичные заявления компаний о безопасности ИИ, чтобы понимать отраслевые стандарты."
-   ],
-   "money": null,
-   "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "dddf43d553b66f",
-   "date": "2026-10-27T16:30:57Z",
-   "addedAt": "2026-10-27T19:28:38Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-   "title_en": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-   "summary_en": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-   "pending": false,
-   "title_ru": "Google представил Genie 4: модель мира с аудио и более реалистичными персонажами",
-   "simple": "Google анонсировала новую модель Genie 4, которая умеет работать с аудио, создавать более правдоподобные миры и управлять сценой до двух минут. Это удвоило возможности предыдущей версии и делает симуляцию ближе к реальности, что интересно разработчикам игр и VR.",
-   "term": "world model — модель, имитирующая физику и поведение объектов в виртуальном мире",
-   "use": [
-    "Попробуйте интегрировать Genie 4 в свои прототипы интерактивных приложений, чтобы оценить улучшенную физику.",
-    "Следите за анонсами доступа к модели для разработчиков, чтобы получить ранний доступ к её возможностям."
-   ],
-   "money": null,
-   "category": "Модели",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "db852607b13605",
-   "date": "2026-10-27T16:15:39Z",
-   "addedAt": "2026-10-27T19:28:39Z",
-   "source": "BleepingComputer",
-   "sourceType": "media",
-   "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-   "title_en": "Warp discloses breach exposing AI agent logs, user telemetry data",
-   "summary_en": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
-   "pending": false,
-   "title_ru": "Warp сообщил о утечке логов AI‑агентов и данных телеметрии",
-   "simple": "Компания Warp раскрыла, что в результате атаки на стороннего поставщика были раскрыты логи решений AI‑агентов и данные телеметрии пользователей их среды разработки. Это показывает уязвимость сервисов, работающих с AI‑данными.",
-   "term": "телеметрия — сбор и передача данных о работе программ для анализа и улучшения сервисов",
-   "use": [
-    "Проверьте, какие данные собирает ваш AI‑инструмент, и при необходимости ограничьте их передачу.",
-    "Обновите пароли и включите двухфакторную аутентификацию для всех сервисов, связанных с AI‑разработкой."
    ],
    "money": null,
    "category": "Безопасность",
