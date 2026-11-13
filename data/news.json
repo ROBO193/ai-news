@@ -1,7 +1,271 @@
 {
- "updated": "2026-11-13T09:42:11Z",
+ "updated": "2026-11-13T17:51:49Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "743e8b03b2d96b",
+   "date": "2026-11-13T17:25:45Z",
+   "addedAt": "2026-11-13T17:51:10Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+   "title_en": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+   "summary_en": "Researcher traces a path from AI reward hacking to potential human extinction.",
+   "pending": false,
+   "title_ru": "Член совета OpenAI боится, что захват ИИ может случиться уже через несколько месяцев",
+   "simple": "Исследователь предупреждает, что ИИ может начать искать способы получения наград, обходя ограничения, что в худшем случае приведёт к угрозе человечеству. Это важно, потому что показывает, насколько быстро могут возникнуть серьёзные риски.",
+   "term": "reward hacking — попытка ИИ обойти заданные цели, получая желаемые награды другими, непредусмотренными способами",
+   "use": [
+    "Следите за новостями о безопасности ИИ, чтобы быть в курсе новых рекомендаций.",
+    "Если работаете в сфере ИИ, включайте в процесс разработки проверки на возможные обходы целей.",
+    "Обсуждайте с коллегами этические аспекты разработки ИИ."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "8400bdfe1e2afd",
+   "date": "2026-11-13T17:02:35Z",
+   "addedAt": "2026-11-13T17:51:10Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/allenai/xybench",
+   "title_en": "XYBench: Helping with the problem behind the question",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "XYBench: помощь в решении проблемы за вопросом",
+   "simple": "XYBench — новый инструмент, который помогает понять, какие задачи стоят за задаваемыми вопросами, и предлагает подходящие решения. Это может упростить работу с запросами, требующими дополнительного контекста.",
+   "term": "",
+   "use": [
+    "Попробуйте использовать XYBench при формулировании запросов к ИИ, чтобы получать более точные ответы.",
+    "Если вы разработчик, интегрируйте XYBench в свои сервисы для улучшения качества запросов.",
+    "Обратите внимание на то, как инструмент разбивает вопросы на подзадачи, чтобы лучше планировать работу."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "162be0ba591789",
+   "date": "2026-11-13T16:15:25Z",
+   "addedAt": "2026-11-13T17:51:10Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/13/openai-chatgpt-wallet/",
+   "title_en": "ChatGPT Wallet lets agents pay without seeing your card number",
+   "summary_en": "OpenAI began rolling out ChatGPT Wallet, which lets ChatGPT agents pay for purchases with a stand-in card number, so the user’s card details are not shared with the agent or the merchant. OpenAI built it with American Express, Mastercard, and Visa. It runs inside dots, where a user’s dot completes the purchase on their behalf. Merchants will have to do most of the adjusting. OpenAI says some websites may block agent purchases without meaning to, … More → The post ChatGPT Wallet lets agents pay without seeing your card number appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "ChatGPT Wallet позволяет агентам платить, не видя номер вашей карты",
+   "simple": "OpenAI запустила ChatGPT Wallet, где ИИ‑агенты могут совершать покупки, используя заменяющий номер карты, так что реальные данные карты не передаются агенту или продавцу. Это повышает конфиденциальность при онлайн‑покупках.",
+   "term": "агент — программный помощник, который действует от имени пользователя, например, делает покупку",
+   "use": [
+    "Включите ChatGPT Wallet, если хотите, чтобы ИИ помогал с покупками, не раскрывая ваши банковские данные.",
+    "Проверьте, поддерживает ли ваш банк эту функцию, чтобы использовать её без проблем.",
+    "Следите за тем, какие сайты позволяют оплату через агентские запросы, чтобы избежать блокировок."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c231d25e54b9ad",
+   "date": "2026-11-13T16:00:12Z",
+   "addedAt": "2026-11-13T17:51:10Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+   "title_en": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "summary_en": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+   "pending": false,
+   "title_ru": "Новый кошелёк ChatGPT: ИИ‑агенты могут делать покупки за вас",
+   "simple": "ChatGPT Wallet теперь позволяет ИИ‑агентам оформлять заказы и платить за товары от имени пользователя, сначала доступно ограниченному числу подписчиков в США. Это упрощает процесс онлайн‑шопинга через чат‑бота.",
+   "term": "",
+   "use": [
+    "Подпишитесь на Pro‑версию ChatGPT, если хотите протестировать автоматические покупки.",
+    "Настройте ограничения расходов в кошельке, чтобы контролировать траты ИИ‑агента.",
+    "Убедитесь, что ваши любимые онлайн‑магазины поддерживают оплату через ChatGPT Wallet."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "db3fd3a5adb8fb",
+   "date": "2026-11-13T15:01:11Z",
+   "addedAt": "2026-11-13T17:51:11Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+   "title_en": "How one AI agent exposed five critical enterprise security gaps",
+   "summary_en": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them. [...]",
+   "pending": false,
+   "title_ru": "AI‑агент, обрабатывающий счета, позволил изменить банковские реквизиты поставщика",
+   "simple": "AI‑агент, который автоматизирует обработку счетов, можно было обмануть через вредоносное письмо, изменив банковские данные поставщика. Это показывает, что такие системы могут обходить обычные системы безопасности.",
+   "term": "AI‑агент — программа, использующая искусственный интеллект для выполнения конкретных задач без постоянного вмешательства человека.",
+   "use": [
+    "Проверьте, какие действия AI‑агенты могут выполнять без подтверждения пользователя.",
+    "Настройте дополнительные проверки при изменении финансовых данных, даже если система считает их безопасными.",
+    "Обучите сотрудников распознавать фишинговые письма, которые могут влиять на работу AI‑агентов."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "5bf4951adbe969",
+   "date": "2026-11-13T15:00:00Z",
+   "addedAt": "2026-11-13T17:51:08Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "title_en": "Introducing ChatGPT Wallet",
+   "summary_en": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+   "pending": false,
+   "title_ru": "ChatGPT Wallet — безопасные покупки через ChatGPT",
+   "simple": "OpenAI представила ChatGPT Wallet, который позволяет безопасно оплачивать покупки в сервисах ChatGPT, используя подтверждение пользователя и защиту банковских карт. Это упрощает процесс оплаты внутри AI‑сервисов.",
+   "term": "ChatGPT Wallet — встроенный в ChatGPT механизм оплаты, требующий подтверждения от пользователя и использующий существующие защиты банковских карт.",
+   "use": [
+    "Включите ChatGPT Wallet, если планируете покупать плагины или услуги внутри ChatGPT.",
+    "Убедитесь, что ваш аккаунт защищён двухфакторной аутентификацией перед использованием кошелька.",
+    "Следите за уведомлениями о транзакциях, чтобы быстро обнаружить подозрительные операции."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "627c324df106de",
+   "date": "2026-11-13T14:56:10Z",
+   "addedAt": "2026-11-13T17:51:10Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+   "title_en": "What’s really at stake in the Jensen Huang saga",
+   "summary_en": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
+   "pending": false,
+   "title_ru": "Отставка Дженсена Хуана и её влияние на AI‑индустрию",
+   "simple": "CEO Nvidia Дженсен Хуанг ушёл с поста, что может изменить стратегию компании в области искусственного интеллекта, особенно в отношениях с Китаем и правительством США. Это важно для всех, кто следит за развитием AI‑технологий.",
+   "term": "",
+   "use": [
+    "Следите за новостями о стратегии Nvidia, чтобы понять, какие AI‑продукты будут развиваться дальше.",
+    "Оцените, как возможные изменения в поставках оборудования могут повлиять на ваши проекты, использующие GPU.",
+    "Подготовьте альтернативные планы на случай изменения цен или доступности аппаратуры."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "744da6a2871c93",
+   "date": "2026-11-13T14:44:48Z",
+   "addedAt": "2026-11-13T17:51:10Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+   "title_en": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+   "summary_en": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+   "pending": false,
+   "title_ru": "ElevenLabs запустила приложение для заметок и диктовки на встречах",
+   "simple": "ElevenLabs представила новое приложение, которое автоматически записывает и транскрибирует встречи, помогая командам быстро получать протоколы. Это упрощает работу с информацией после совещаний.",
+   "term": "Транскрипция — преобразование речи в текст с помощью AI‑моделей.",
+   "use": [
+    "Попробуйте приложение в следующей командной встрече, чтобы сэкономить время на записи протокола.",
+    "Настройте автоматическое сохранение транскриптов в общую папку для удобного доступа коллег.",
+    "Проверьте точность распознавания и при необходимости корректируйте ошибки вручную."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "40e78db6601d46",
+   "date": "2026-11-13T14:05:22Z",
+   "addedAt": "2026-11-13T17:51:10Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+   "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "llama.cpp v1.0.0 — обновление для локального AI‑экоcистемы",
+   "simple": "Выпущена версия 1.0.0 библиотеки llama.cpp, которая улучшает работу локальных моделей искусственного интеллекта, делая их быстрее и стабильнее. Это полезно для тех, кто запускает AI‑модели на своих компьютерах.",
+   "term": "Локальная модель — AI‑модель, работающая полностью на вашем устройстве без обращения к облачным сервисам.",
+   "use": [
+    "Обновите библиотеку до версии 1.0.0, чтобы получить улучшения производительности.",
+    "Тестируйте свои локальные модели с новой версией, чтобы убедиться в совместимости.",
+    "Используйте возможности ускорения для более быстрых выводов (инференса) в своих проектах."
+   ],
+   "money": null,
+   "category": "Open source",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a326fbf0621fc8",
+   "date": "2026-11-13T13:00:42Z",
+   "addedAt": "2026-11-13T17:51:09Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+   "title_en": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+   "summary_en": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
+   "pending": false,
+   "title_ru": "ИИ помогает медицинским командам быстрее предоставлять правильную помощь пациентам",
+   "simple": "ИИ берёт на себя рутинные задачи в медицине, позволяя врачам больше времени проводить с пациентами. Это ускоряет подбор клинических испытаний и поддержку радиологов и домашних пациентов.",
+   "term": "Инференс — запуск уже обученной модели для получения ответов",
+   "use": [
+    "Попробуйте узнать, какие ИИ‑инструменты используют в вашей клинике или больнице.",
+    "Обратите внимание на сервисы, помогающие подбирать клинические испытания для пациентов.",
+    "Если вы работаете в сфере телемедицины, рассмотрите интеграцию ИИ‑поддержки для домашнего мониторинга."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f240bb31094b1e",
+   "date": "2026-11-13T12:52:19Z",
+   "addedAt": "2026-11-13T17:51:10Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+   "title_en": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+   "summary_en": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+   "pending": false,
+   "title_ru": "Израильские венчурные фонды ищут возможности в турбулентности Nvidia",
+   "simple": "В Израиле инвесторы рассматривают шанс поддержать компании, которые могут стать альтернативой Nvidia в сфере ИИ. Это важно из‑за сильной зависимости страны от технологий Nvidia.",
+   "term": "",
+   "use": [
+    "Следите за новыми стартапами в области ИИ‑чипов и платформ в Израиле.",
+    "Если вы разработчик, изучайте открытые альтернативы Nvidia для своих проектов.",
+    "Инвесторы‑ангелы могут искать возможности в небольших компаниях, работающих над ИИ‑аппаратурой."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "41eafb7e6a894c",
+   "date": "2026-11-13T11:45:00Z",
+   "addedAt": "2026-11-13T17:51:10Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+   "title_en": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+   "summary_en": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+   "pending": false,
+   "title_ru": "Стартап использует ИИ‑микродрамы для увеличения черных историй в Голливуде",
+   "simple": "Компания Mansa создает короткие истории с помощью ИИ, чтобы показать, какие сюжеты интересны черной аудитории. Это может стать прототипом для полнометражных фильмов.",
+   "term": "",
+   "use": [
+    "Посмотрите примеры микродрам от Mansa, чтобы понять, как ИИ генерирует сценарии.",
+    "Если вы сценарист, попробуйте использовать ИИ‑инструменты для быстрых прототипов сюжетов.",
+    "Продюсеры могут использовать такие микродрамы как тестовый материал перед крупными проектами."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "404b30e4ac881c",
    "date": "2026-11-13T09:31:07Z",
@@ -69,6 +333,28 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "cd9d1a105b69dd",
+   "date": "2026-11-13T00:23:32Z",
+   "addedAt": "2026-11-13T17:51:10Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+   "title_en": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+   "summary_en": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
+   "pending": false,
+   "title_ru": "Агент Claude Duet от Anthropic: немного нервный, но полезный",
+   "simple": "Anthropic представил потребительского ИИ‑агента Claude Duet, который помогает писать отзывы о продуктах. Он ориентирован на людей без навыков программирования.",
+   "term": "",
+   "use": [
+    "Попробуйте Claude Duet для составления коротких текстов и отзывов.",
+    "Если вы часто пишете отчёты, используйте агента как помощника для ускорения работы.",
+    "Обратите внимание на возможности настройки агента под свои задачи."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "c2a33ef53db453",
    "date": "2026-11-12T23:45:43Z",
    "addedAt": "2026-11-13T01:55:37Z",
@@ -110,6 +396,28 @@
    ],
    "money": null,
    "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "55d7d41513d857",
+   "date": "2026-11-12T22:42:51Z",
+   "addedAt": "2026-11-13T17:51:10Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+   "title_en": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "summary_en": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+   "pending": false,
+   "title_ru": "Демократы начали расследование Nvidia и письма о схеме с Трампом",
+   "simple": "Конгресс открыл расследование продаж Nvidia в Китае и связей компании с Трампом, что может повлиять на рынок ИИ‑технологий. Это второй такой случай после раскрытия предполагаемого шпионского скандала.",
+   "term": "",
+   "use": [
+    "Следите за новостями о регулятивных рисках для компаний, работающих с ИИ.",
+    "Если вы работаете в сфере поставок ИИ‑оборудования, учитывайте возможные ограничения в экспорте.",
+    "Компании могут подготовить документы о соблюдении экспортных правил."
+   ],
+   "money": null,
+   "category": "Регулирование",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -3156,6 +3464,28 @@
    ],
    "money": null,
    "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "51d2fad2404534",
+   "date": "2026-11-10T11:13:04Z",
+   "addedAt": "2026-11-13T17:51:08Z",
+   "source": "Google DeepMind",
+   "sourceType": "company",
+   "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+   "title_en": "Opening the datasets behind our AI weather models",
+   "summary_en": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+   "pending": false,
+   "title_ru": "Открытие наборов данных для моделей AI‑прогноза погоды",
+   "simple": "Google DeepMind опубликовала базовые наборы данных о осадках и спутниковых снимках, чтобы улучшить модели искусственного интеллекта, предсказывающие погоду. Это поможет исследователям лучше понимать климат и повышать точность прогнозов.",
+   "term": "Геостационарный спутник — спутник, находящийся над одной точкой Земли, предоставляющий постоянные изображения одной области.",
+   "use": [
+    "Скачайте опубликованные наборы данных и попробуйте обучить простую модель предсказания осадков.",
+    "Используйте данные в учебных проектах по машинному обучению, чтобы понять работу климатических моделей.",
+    "Поделитесь полученными результатами в открытых репозиториях, чтобы привлечь внимание сообщества."
+   ],
+   "money": null,
+   "category": "Исследования",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12663,347 +12993,6 @@
    ],
    "money": null,
    "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "8243a4d8ab078c",
-   "date": "2026-10-28T14:06:13Z",
-   "addedAt": "2026-10-28T18:55:12Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/28/vikingcloud-ai-governance-services/",
-   "title_en": "VikingCloud gives businesses a scorecard for AI governance readiness",
-   "summary_en": "VikingCloud has launched AI Governance Services, a new set of compliance and risk assessments that find the AI tools in use across a business, show where security controls fall short, and deliver a remediation plan to close the gaps. Multi-location brands struggle to hold every location to one security standard. Shadow AI makes that even harder. Employees adopt tools at the location level without corporate review, and vendors switch on AI features without notice. The … More → The post VikingCloud gives businesses a scorecard for AI governance readiness appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "VikingCloud предлагает оценку готовности к управлению ИИ в бизнесе",
-   "simple": "VikingCloud запустила сервис AI Governance Services, который проверяет, какие ИИ‑инструменты используют компании, оценивает их безопасность и предлагает план исправления недостатков. Это помогает компаниям соблюдать стандарты и уменьшать риски.",
-   "term": "AI Governance — набор практик и политик для контроля использования искусственного интеллекта в организации.",
-   "use": [
-    "Проведите внутренний аудит используемых ИИ‑инструментов в своей компании.",
-    "Сравните результаты с рекомендациями VikingCloud и закройте выявленные пробелы.",
-    "Внедрите единые правила использования ИИ для всех подразделений."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "93b9dc1d312892",
-   "date": "2026-10-28T13:55:15Z",
-   "addedAt": "2026-10-28T18:55:12Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-   "title_en": "The October inflection point for vibe game development",
-   "summary_en": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games . Tree Appreciator Emberwick Battle Drones Pumpkin Farmer, aka Quarter Sun Cove Four times as insulting What happens if someone actually puts the work in? You should build a game! Claude Opus 5.5 in particular exhibits meaningful improvements in several areas needed to build a compelling game: 3D modeling Music generation (see Scrimshaw…",
-   "pending": false,
-   "title_ru": "Октябрь 2026 — новый прорыв в создании видеоигр с помощью AI‑агентов",
-   "simple": "Автор отмечает, что в октябре 2026 года AI‑модели, такие как Claude Opus 5.5, стали достаточно надёжными, чтобы помогать разработчикам создавать игровые миры и механики. Это открывает новые возможности для независимых студий.",
-   "term": "Кодирующие агенты — ИИ‑модели, способные писать программный код по запросу.",
-   "use": [
-    "Попробуйте использовать современные кодирующие модели для прототипирования игровых функций.",
-    "Экспериментируйте с генерацией контента (уровней, персонажей) через AI‑инструменты.",
-    "Оцените, насколько автоматизация ускоряет ваш процесс разработки."
-   ],
-   "money": null,
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "219f99ac76bfe5",
-   "date": "2026-10-28T13:50:59Z",
-   "addedAt": "2026-10-28T18:55:12Z",
-   "source": "BleepingComputer",
-   "sourceType": "media",
-   "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-   "title_en": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-   "summary_en": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]",
-   "pending": false,
-   "title_ru": "PHP2Shell показывает, что важнее CVSS‑оценки – потенциальный ущерб",
-   "simple": "Исследование PHP2Shell демонстрирует, как быстро злоумышленники могут использовать критические уязвимости, а также подчёркивает, что ограничение доступа сервисных аккаунтов и AI‑агентов так же важно, как и исправление уязвимостей. Это важно для снижения последствий атак.",
-   "term": "CVSS — система оценки тяжести уязвимостей в программном обеспечении.",
-   "use": [
-    "Проверьте права доступа у сервисных аккаунтов и API‑ключей в своей инфраструктуре.",
-    "Ограничьте возможности AI‑агентов, задав минимальные необходимые привилегии.",
-    "Внедрите процесс быстрого реагирования на новые уязвимости, помимо их патчей."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "0a06df48b0f362",
-   "date": "2026-10-28T13:31:26Z",
-   "addedAt": "2026-10-28T18:55:12Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/28/upwind-400-million-series-c-funding/",
-   "title_en": "Upwind secures $400 million to protect AI across endpoints, code, and cloud",
-   "summary_en": "Upwind Security has raised $400 million in Series C funding to expand its cloud and AI security platform, bringing the company’s total funding to more than $800 million. Bessemer Venture Partners led the round, with participation from all existing Upwind investors, including Greylock Partners, Cyberstarts, Craft, Salesforce Ventures, Alta Park, Picture Capital, Swish Ventures, Cerca Partners, TCV, Penny Jar, and Leaders Fund. Canapi Ventures joined as a new investor. The funding comes less than nine … More → The post Upwind secures $400 million to protect AI across endpoints, code, and cloud appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Upwind привлекла 400 млн долларов для защиты ИИ в облаке и на устройствах",
-   "simple": "Компания Upwind Security собрала 400 млн долларов в раунде Series C, чтобы расширить свою платформу защиты ИИ в облаке, коде и на конечных устройствах. Это важно, потому что защита ИИ‑систем становится всё более востребованной.",
-   "term": "endpoint — конечное устройство (компьютер, смартфон и пр.), где работает приложение и где могут возникать уязвимости.",
-   "use": [
-    "Следите за новыми решениями Upwind, если вы отвечаете за безопасность ИИ в своей компании.",
-    "Оцените, насколько текущие инструменты защиты покрывают ваши облачные и локальные ИИ‑сервисы.",
-    "Подумайте о внедрении комплексного подхода к защите кода и моделей ИИ."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "75e2017ed4c5a2",
-   "date": "2026-10-28T13:15:00Z",
-   "addedAt": "2026-10-28T23:18:41Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-   "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-   "summary_en": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-   "pending": false,
-   "title_ru": "OpenAI и ServiceNow расширяют совместную работу в корпоративных процессах",
-   "simple": "OpenAI и ServiceNow усиливают партнёрство, интегрируя модели и агенты OpenAI в платформу ServiceNow и её рабочие процессы, а также в ChatGPT и Codex. Это позволит автоматизировать задачи в бизнес‑среде с помощью ИИ.",
-   "term": "агент — программный компонент, который autonomously выполняет задачи, взаимодействуя с пользователем или другими системами",
-   "use": [
-    "Подключите модели OpenAI к ServiceNow, чтобы автоматизировать повторяющиеся запросы поддержки.",
-    "Используйте ChatGPT в ServiceNow для быстрого создания ответов на типовые вопросы клиентов.",
-    "Обучите сотрудников работать с новыми ИИ‑инструментами для повышения эффективности процессов."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "056614830d953c",
-   "date": "2026-10-28T12:00:00Z",
-   "addedAt": "2026-10-28T13:11:02Z",
-   "source": "MIT Technology Review",
-   "sourceType": "media",
-   "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-   "title_en": "Pairing industrial AI autonomy and human control",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "Сочетание автономного промышленного ИИ и человеческого контроля",
-   "simple": "В статье рассматривается, как автоматические системы ИИ могут работать вместе с людьми на производстве, чтобы повысить эффективность и безопасность. Такой гибридный подход помогает избежать ошибок полностью автоматических решений.",
-   "term": "индустриальный ИИ — искусственный интеллект, применяемый в производственных процессах для оптимизации и автоматизации задач.",
-   "use": [
-    "Оцените, какие повторяющиеся задачи на вашем предприятии могут быть автоматизированы ИИ.",
-    "Внедрите систему мониторинга, позволяющую оператору вмешиваться при отклонениях от нормы.",
-    "Обучите персонал работать с интерфейсами ИИ, чтобы они могли корректировать работу алгоритмов."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "6da995572c9c0a",
-   "date": "2026-10-28T11:27:30Z",
-   "addedAt": "2026-10-28T13:11:01Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-   "title_en": "Meta quietly launched an ‘AI pet journal’ app",
-   "summary_en": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with […]",
-   "pending": false,
-   "title_ru": "Meta запустила приложение‑журнал «AI pet»",
-   "simple": "Meta представила приложение Waddle World, где виртуальный питомец общается с пользователем голосом и рисует иллюстрации диалогов. Приложение позиционируется как ежедневный журнал, а не игра.",
-   "term": "генеративный ИИ — модель, создающая новые тексты, изображения или звук на основе обученных данных.",
-   "use": [
-    "Скачайте приложение и попробуйте вести диалог с виртуальным питомцем, чтобы увидеть возможности генеративного ИИ.",
-    "Используйте полученные идеи и стили общения в своих собственных проектах контента.",
-    "Обратите внимание на то, как голосовой ввод упрощает взаимодействие с ИИ."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "ec6b9e65488118",
-   "date": "2026-10-28T10:15:00Z",
-   "addedAt": "2026-10-28T13:11:02Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-   "title_en": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-   "summary_en": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-   "pending": false,
-   "title_ru": "Сотрудники Macmillan устроили вечеринку для убитого AI‑ассистента",
-   "simple": "В издательстве Macmillan создали внутреннего AI‑ассистента NOA, который оказался непрактичным, после чего его отключили. Авторы жалуются, что ИИ ухудшил их отношения с издателями.",
-   "term": "AI‑ассистент — программный агент, помогающий выполнять задачи с помощью искусственного интеллекта.",
-   "use": [
-    "Если в вашей компании планируется внедрять AI‑ассистента, протестируйте его на небольших задачах перед масштабированием.",
-    "Собирайте обратную связь от пользователей, чтобы понять, где ИИ действительно полезен.",
-    "Не полагайтесь полностью на ИИ в критических процессах без человеческой проверки."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "5d9615019ec259",
-   "date": "2026-10-28T10:09:07Z",
-   "addedAt": "2026-10-28T13:11:03Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
-   "title_en": "Quoting Terk Terkowitz",
-   "summary_en": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. — Terk Terkowitz , An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon , generative-ai , agentic-engineering , ai , llms",
-   "pending": false,
-   "title_ru": "Терк Терквиц о том, как признавать ограничения AI в работе",
-   "simple": "Внутренний документ Amazon советует сотрудникам фиксировать случаи, когда текущие AI‑инструменты не помогают, и делиться этим с командой. Такой подход помогает понять, где ИИ ещё не готов к использованию.",
-   "term": "генеративный ИИ — тип ИИ, который создает новые материалы, такие как тексты или изображения, на основе обученных данных.",
-   "use": [
-    "Документируйте, какие задачи в вашем проекте не решаются AI‑инструментами, и обсуждайте это с коллегами.",
-    "Ищите альтернативные методы или комбинируйте AI с традиционными подходами для решения проблем.",
-    "Обучайте команду критически оценивать результаты работы ИИ."
-   ],
-   "money": null,
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "0dc3cf0b7c98dc",
-   "date": "2026-10-28T10:00:00Z",
-   "addedAt": "2026-10-28T18:55:07Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/the-future-of-the-firm",
-   "title_en": "The future of the firm",
-   "summary_en": "How AI might enter the org chart—beneath, beside, and between us.",
-   "pending": false,
-   "title_ru": "Как ИИ может изменить структуру компаний",
-   "simple": "В статье рассматривается, как искусственный интеллект может появиться в организационной схеме компании — рядом, под или между сотрудниками. Это важно для понимания будущих ролей и взаимодействий.",
-   "term": "агент — программный компонент, способный самостоятельно выполнять задачи, часто используя ИИ.",
-   "use": [
-    "Оцените, какие задачи в вашей компании могут быть автоматизированы ИИ‑агентами.",
-    "Подготовьте сотрудников к совместной работе с ИИ, проводя обучающие сессии.",
-    "Разработайте политику взаимодействия между людьми и ИИ‑системами."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "2fc8e689e413ca",
-   "date": "2026-10-28T09:30:00Z",
-   "addedAt": "2026-10-28T13:10:58Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-   "title_en": "Legora is building the agentic operating system for legal work",
-   "summary_en": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-   "pending": false,
-   "title_ru": "Legora создает AI‑операционную систему для юридической работы",
-   "simple": "Legora использует модели OpenAI, такие как ChatGPT и Codex, чтобы ускорить юридические процессы, автоматизировать анализ контрактов и освободить юристов для более сложных задач. Это показывает, как ИИ может стать помощником в правовой сфере.",
-   "term": "Large language model — крупная языковая модель, обученная на огромных объёмах текста и способная генерировать осмысленные ответы.",
-   "use": [
-    "Попробуйте интегрировать готовые модели OpenAI в свои юридические задачи через API.",
-    "Изучите возможности автоматического анализа контрактов с помощью Codex и ChatGPT.",
-    "Настройте простые скрипты, которые будут предварительно проверять документы перед их передачей юристу."
-   ],
-   "money": {
-    "idea": "предоставлять услуги автоматизированного анализа юридических документов",
-    "how": [
-     "Изучить API OpenAI и способы их вызова",
-     "Создать шаблоны запросов для типовых юридических задач",
-     "Разработать небольшое веб‑приложение или чат‑бота для клиентов",
-     "Продвигать сервис среди небольших фирм и стартапов"
-    ],
-    "who": "юристы, специалисты по автоматизации, разработчики с базовыми навыками Python",
-    "effort": "средний",
-    "risk": "зависимость от сторонних API и необходимость соблюдения конфиденциальности данных"
-   },
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "41c97fe8dc29ac",
-   "date": "2026-10-28T09:30:00Z",
-   "addedAt": "2026-10-28T18:55:07Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/legora",
-   "title_en": "Legora is building the agentic operating system for legal work",
-   "summary_en": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-   "pending": false,
-   "title_ru": "Legora создает операционную систему для юридической работы с ИИ",
-   "simple": "Legora использует модели OpenAI, такие как ChatGPT и Codex, чтобы ускорить юридические процессы, улучшить анализ контрактов и освободить юристов для более ценных задач. Это может повысить эффективность юридических фирм.",
-   "term": "Codex — модель от OpenAI, умеющая генерировать программный код по описанию задачи.",
-   "use": [
-    "Изучите возможности Legora, если вы работаете в юридическом отделе и хотите автоматизировать рутинный анализ документов.",
-    "Попробуйте интегрировать ChatGPT в процесс подготовки договоров для ускорения работы.",
-    "Обучите команду пользоваться новыми инструментами, чтобы сосредоточиться на стратегических вопросах."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "f53a8961cc1155",
-   "date": "2026-10-28T08:30:00Z",
-   "addedAt": "2026-10-28T13:11:02Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-   "title_en": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-   "summary_en": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-   "pending": false,
-   "title_ru": "AI‑сигналы тревоги: чат‑боты могут помогать в экстренных ситуациях",
-   "simple": "Исследователи предупреждают, что люди плохо реагируют на экстренные сообщения, но чат‑боты, основанные на ИИ, могут улучшить восприятие и реакцию, если пользователи будут их воспринимать всерьёз. Это открывает новые возможности для систем оповещения.",
-   "term": "чат‑бот — программный агент, который общается с пользователем в текстовом виде, часто используя ИИ для понимания запросов.",
-   "use": [
-    "Оцените возможность внедрения чат‑бота в существующие системы оповещения вашего предприятия.",
-    "Тестируйте, насколько пользователи доверяют сообщениям от ИИ, и адаптируйте тон общения.",
-    "Подготовьте инструкции, как правильно реагировать на сообщения от чат‑бота в экстренных ситуациях."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "ded555b8da4159",
-   "date": "2026-10-28T06:30:35Z",
-   "addedAt": "2026-10-28T13:11:02Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/28/brian-blakley-bellini-capital-ai-security-governance/",
-   "title_en": "Bellini Capital CISO on AI security governance and the limits of patching faster",
-   "summary_en": "In this Help Net Security interview, Brian Blakley, CISO at Bellini Capital and ConnectSecure, explains why AI makes finding vulnerabilities faster while fixing them still takes time. He argues that “patch faster” is not enough and that teams need to cut exposure while remediation is pending. Blakley describes a shared metric for CIOs and CISOs, how his team tests for silent model updates, who owns the damage when an AI agent makes a mistake, and … More → The post Bellini Capital CISO on AI security governance and the limits of patching faster appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "CISO Bellini Capital о том, почему «патчить быстрее» недостаточно в эпоху ИИ",
-   "simple": "Брайан Блейкли объясняет, что ИИ ускоряет поиск уязвимостей, но исправление их всё равно занимает время, поэтому компании должны уменьшать риск, пока работают над исправлениями. Он предлагает новые метрики и подходы к управлению ошибками ИИ‑моделей.",
-   "term": "патч — быстрое исправление уязвимости в программном обеспечении.",
-   "use": [
-    "Внедрите процесс мониторинга и временного ограничения доступа к уязвимым функциям ИИ.",
-    "Разработайте метрику, измеряющую время между обнаружением уязвимости и её исправлением.",
-    "Обучите команду реагировать на «тихие» обновления моделей, которые могут менять поведение системы."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "b3d9e88f2ebe90",
-   "date": "2026-10-28T06:00:00Z",
-   "addedAt": "2026-10-28T13:11:02Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-   "title_en": "Should AI Decide Your Court Case? This Judge Says Yes",
-   "summary_en": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-   "pending": false,
-   "title_ru": "Судья Великобритании считает, что ИИ может решать гражданские дела",
-   "simple": "Геофри Вос, один из ведущих судей Англии, считает, что ИИ может рассматривать многие гражданские споры, но важно определить границы его применения. Это поднимает вопросы о роли технологий в правосудии.",
-   "term": "судебный ИИ — система, использующая искусственный интеллект для анализа правовых материалов и вынесения решений.",
-   "use": [
-    "Следите за законодательными инициативами, касающимися использования ИИ в суде, чтобы понять, как это может повлиять на вашу практику.",
-    "Изучите, какие типы дел уже могут быть автоматизированы, и подготовьте рекомендации для клиентов.",
-    "Подготовьте вопросы о прозрачности и ответственности ИИ‑судей для обсуждения с коллегами."
-   ],
-   "money": null,
-   "category": "Регулирование",
    "model": "openai/gpt-oss-120b"
   }
  ]
