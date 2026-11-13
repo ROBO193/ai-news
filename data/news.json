@@ -1,7 +1,135 @@
 {
- "updated": "2026-11-13T17:51:49Z",
+ "updated": "2026-11-13T23:40:39Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "ec577d4c46a6d8",
+   "date": "2026-11-13T22:43:00Z",
+   "addedAt": "2026-11-13T23:40:11Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "title_en": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "summary_en": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+   "pending": false,
+   "title_ru": "Отход Дженсена Хуана ставит под угрозу финансирование AI‑стартапов",
+   "simple": "Nvidia вложила десятки миллиардов в стартапы ИИ под руководством Хуана. После его ухода инвесторы ожидают меньше денег и более низкие оценки компаний.",
+   "term": "Венчурный капитал — инвестиции в стартапы, часто в обмен на долю в компании",
+   "use": [
+    "Следите за новостями о финансировании, чтобы понять, какие стартапы могут получить поддержку.",
+    "Если вы стартап‑основатель, готовьте более скромные бюджеты и ищите альтернативные источники инвестиций."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c479f2841d4a38",
+   "date": "2026-11-13T21:20:47Z",
+   "addedAt": "2026-11-13T23:40:11Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+   "title_en": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+   "summary_en": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+   "pending": false,
+   "title_ru": "FAA использует ИИ для снижения загруженности воздушного пространства США",
+   "simple": "Американская авиационная администрация расширила применение ИИ‑инструмента, помогающего управлять загруженностью полётов по всей стране. Пилоты одобряют его, но профсоюз контролёров не участвовал в разработке.",
+   "term": "AI‑подсказка — система, предлагающая решения на основе анализа больших данных",
+   "use": [
+    "Изучите, как ИИ может оптимизировать логистику в вашем бизнесе, например, планирование маршрутов доставки.",
+    "Обратите внимание на требования к данным и согласование с регуляторами при внедрении подобных систем."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "951c84561943a9",
+   "date": "2026-11-13T20:45:10Z",
+   "addedAt": "2026-11-13T23:40:11Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+   "title_en": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "summary_en": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
+   "pending": false,
+   "title_ru": "ChatGPT Wallet: агенты Dots могут покупать за вас",
+   "simple": "OpenAI запустила кошелёк, позволяющий её AI‑агентам совершать покупки. Функция доступна подписчикам ChatGPT Pro в США, которым от 18 лет и с американскими банковскими картами.",
+   "term": "AI‑агент — программа, способная выполнять задачи от имени пользователя, используя искусственный интеллект",
+   "use": [
+    "Если вы часто используете ChatGPT, проверьте возможность автоматизации покупок через новый кошелёк.",
+    "Убедитесь, что ваши платёжные данные защищены, включив двухфакторную аутентификацию."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "645e798427f902",
+   "date": "2026-11-13T19:37:57Z",
+   "addedAt": "2026-11-13T23:40:11Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "title_en": "AI agent startup LangChain hits $3B valuation",
+   "summary_en": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+   "pending": false,
+   "title_ru": "LangChain оценили в 3 млрд долларов: 7 000 клиентов используют их платформу",
+   "simple": "Стартап, создающий инструменты для управления AI‑агентами, получил оценку в 3 млрд долларов и заявил о 7 000 клиентах. Их продукт LangSmith работает с любыми моделями и платформами.",
+   "term": "Платформенно‑агностичный — совместимый с разными технологиями и сервисами без привязки к конкретному поставщику",
+   "use": [
+    "Попробуйте интегрировать LangSmith в свои проекты, если используете разные модели ИИ.",
+    "Оцените, насколько ваш текущий стек совместим с их инструментами, чтобы упростить управление агентами."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "3dc626ea28ff3a",
+   "date": "2026-11-13T18:40:30Z",
+   "addedAt": "2026-11-13T23:40:11Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+   "summary_en": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+   "pending": false,
+   "title_ru": "Запрещённые чипы Nvidia использованы в самых мощных китайских ИИ‑моделях",
+   "simple": "Исследователи обнаружили, что передовые китайские модели ИИ обучались на чипах Nvidia, экспорт которых запрещён. Это показывает, как ограничения могут обходиться.",
+   "term": "GPU — графический процессор, используемый для ускорения вычислений в ИИ‑моделях",
+   "use": [
+    "Отслеживайте новости о санкциях, чтобы понимать риски поставок оборудования.",
+    "Если вы разрабатываете ИИ‑приложения, учитывайте возможные ограничения на импорт аппаратуры.",
+    "Подумайте о альтернативных решенияx, например о локальном обучении на доступных процессорах."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2427bacb74a96b",
+   "date": "2026-11-13T18:00:39Z",
+   "addedAt": "2026-11-13T23:40:11Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+   "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Создайте симуляцию робота‑пикапа‑плейс с готовыми ассетами SimReady",
+   "simple": "На Hugging Face появился набор готовых 3D‑моделей и сценариев для имитации работы робота, который берёт и размещает предметы. Это упрощает тестирование и обучение роботов без реального оборудования.",
+   "term": "Pick-and-Place — задача, когда робот поднимает объект и помещает его в нужное место",
+   "use": [
+    "Скачайте ассеты SimReady и попробуйте собрать простую симуляцию в Unity или Blender.",
+    "Используйте симуляцию для отработки алгоритмов управления перед реальными экспериментами.",
+    "Подключите к симуляции базовые модели ИИ, чтобы проверить их эффективность в задаче перемещения объектов."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "743e8b03b2d96b",
    "date": "2026-11-13T17:25:45Z",
@@ -88,6 +216,48 @@
    ],
    "money": null,
    "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6cf396048e28cf",
+   "date": "2026-11-13T16:00:00Z",
+   "addedAt": "2026-11-13T23:40:11Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+   "title_en": "Jensen Huang and the End of the Founder Fairy Tale",
+   "summary_en": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+   "pending": false,
+   "title_ru": "Джессен Хуанг и конец сказки о создателе компании",
+   "simple": "В статье Wired рассказывается, как бывший CEO Nvidia, известный своими рассказами, оказался в центре скандала, который ставит под вопрос его репутацию. Это важно, потому что лидер компании сильно влиял на развитие ИИ‑технологий.",
+   "term": "",
+   "use": [
+    "Следите за изменениями в руководстве Nvidia, они могут влиять на планы развития ИИ‑продуктов.",
+    "Если вы работаете с технологиями Nvidia, готовьтесь к возможным изменениям в поддержке и стратегии компании."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "59c58e3f39cc6e",
+   "date": "2026-11-13T15:58:00Z",
+   "addedAt": "2026-11-13T23:40:11Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "title_en": "The unfolding Jensen Huang scandal: a timeline",
+   "summary_en": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "pending": false,
+   "title_ru": "Хронология скандала Джессена Хуанга: от отставки до вопросов национальной безопасности",
+   "simple": "TechCrunch описывает, как отставка главы Nvidia из‑за личного скандала может отразиться на конкуренции США и Китая в области ИИ‑инфраструктуры. Это важно для понимания геополитических рисков в сфере технологий.",
+   "term": "",
+   "use": [
+    "Оцените, как политические события могут влиять на доступность ИИ‑технологий в вашем регионе.",
+    "Если вы планируете долгосрочные проекты, учитывайте возможные изменения в поставках оборудования."
+   ],
+   "money": null,
+   "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -239,6 +409,27 @@
     "Следите за новыми стартапами в области ИИ‑чипов и платформ в Израиле.",
     "Если вы разработчик, изучайте открытые альтернативы Nvidia для своих проектов.",
     "Инвесторы‑ангелы могут искать возможности в небольших компаниях, работающих над ИИ‑аппаратурой."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "025949940b1ff6",
+   "date": "2026-11-13T12:28:23Z",
+   "addedAt": "2026-11-13T23:40:11Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+   "title_en": "Jensen Huang didn’t show confidence in his successor, report says",
+   "summary_en": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+   "pending": false,
+   "title_ru": "Хуанг не уверовал в своего преемника, назвал его «олень в свете фар»",
+   "simple": "В отчёте TechCrunch говорится, что уходящий CEO Nvidia критически отозвался о своём потенциальном наследнике, сравнив его с оленем, застигнутым светом фар. Это может отразиться на восприятии стабильности компании.",
+   "term": "",
+   "use": [
+    "Следите за реакцией рынка на заявления руководства, они могут влиять на цены и доступность продуктов.",
+    "Если вы используете решения Nvidia, будьте готовы к возможным изменениям в поддержке и развитии."
    ],
    "money": null,
    "category": "Рынки и экономика",
@@ -418,6 +609,27 @@
    ],
    "money": null,
    "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c39c6000d880a6",
+   "date": "2026-11-12T22:29:43Z",
+   "addedAt": "2026-11-13T23:40:11Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+   "title_en": "Silicon Valley Is Still Defending Jensen Huang",
+   "summary_en": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
+   "pending": false,
+   "title_ru": "Силиконовая долина всё ещё защищает Джессена Хуанга после его отставки",
+   "simple": "Wired описывает, как сотрудники Nvidia и другие технологические инсайдеры отрицают факт отставки своего лидера, несмотря на его уход. Это показывает, насколько сильно привязанность к личности в индустрии ИИ.",
+   "term": "",
+   "use": [
+    "Не делайте выводы о стабильности компании только по эмоциям сотрудников; проверяйте официальные источники.",
+    "Если вы планируете сотрудничать с Nvidia, учитывайте, что внутренние конфликты могут влиять на сроки проектов."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12778,221 +12990,6 @@
    ],
    "money": null,
    "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "1739307690c34a",
-   "date": "2026-10-28T16:15:30Z",
-   "addedAt": "2026-10-28T18:55:11Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-   "title_en": "Meta says it’ll probably delay its controversial new business terms again",
-   "summary_en": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" […]",
-   "pending": false,
-   "title_ru": "Meta откладывает новые бизнес‑условия из‑за критики по обучению ИИ",
-   "simple": "Meta может перенести ввод новых условий для бизнеса, связанных с использованием контента в обучении ИИ, после возмущения издателей. Компания обещает обсудить изменения с отраслью.",
-   "term": "AI training data — материалы (текст, изображения и пр.), которые используют компании для обучения своих моделей искусственного интеллекта.",
-   "use": [
-    "Следите за обновлениями политики Meta, если используете её рекламные или аналитические сервисы.",
-    "Если вы издатель, подготовьте аргументы о важности контроля над вашими данными для обучения ИИ.",
-    "Оцените альтернативные платформы для размещения контента, если условия Meta станут менее выгодными."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "d0407e5d8c6e4e",
-   "date": "2026-10-28T15:53:52Z",
-   "addedAt": "2026-10-28T18:55:12Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-   "title_en": "AI execs may be too out of touch to build for the general public",
-   "summary_en": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-   "pending": false,
-   "title_ru": "Топ-менеджеры AI оторваны от реальности при создании продуктов для широкой публики",
-   "simple": "Технологические лидеры хвастаются тем, что используют ИИ для общения с семьей, но при этом оказываются оторваны от реальных потребностей пользователей. Это может показать, почему новые AI‑продукты часто не находят отклика у массового рынка.",
-   "term": "",
-   "use": [],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "feda3ad530f5ee",
-   "date": "2026-10-28T15:41:18Z",
-   "addedAt": "2026-10-28T18:55:12Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-   "title_en": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-   "summary_en": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-   "pending": false,
-   "title_ru": "Новая волна кибератак в финансовом секторе Южной Кореи, усиленная ИИ",
-   "simple": "Финансовые организации Южной Кореи снова стали мишенью кибератак, где злоумышленники используют возможности ИИ. Это подчеркивает рост угроз, связанных с искусственным интеллектом, в банковском деле.",
-   "term": "",
-   "use": [],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "96459ac2a29ab9",
-   "date": "2026-10-28T15:25:01Z",
-   "addedAt": "2026-10-28T18:55:12Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/28/exaforce-trust-in-ai-security/",
-   "title_en": "I underestimated how fast security teams would trust AI to act in the SOC",
-   "summary_en": "For most of my career, I have watched new security platforms work through enterprise programs at a slow pace, so when AI began showing up in security operations tools, I assumed it would follow the same path. I expected AI adoption in the SOC to lag behind almost every other category of security technology, because I’d always viewed the tension between moving quickly on innovations and satisfying strict compliance obligations as a blocker. Ultimately, AI … More → The post I underestimated how fast security teams would trust AI to act in the SOC appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Скорее, чем ожидалось, команды безопасности доверяют ИИ в SOC",
-   "simple": "Автор признался, что недооценил, как быстро специалисты по безопасности начнут полагаться на ИИ в центрах мониторинга. Это показывает, что ИИ уже стал практическим инструментом в защите корпоративных сетей.",
-   "term": "",
-   "use": [],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "f1ebb512d4e04c",
-   "date": "2026-10-28T15:00:00Z",
-   "addedAt": "2026-10-28T18:55:12Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-   "title_en": "Voice AI in vogue: Nvidia releases new open transcription model",
-   "summary_en": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
-   "pending": false,
-   "title_ru": "Nvidia выпустила бесплатную модель распознавания речи для 40 языков",
-   "simple": "Nvidia представила открытый модель, которая преобразует записанные аудио в текст на 40 языках. Она подходит для транскрипции встреч и медицинских записей, но не работает в реальном времени.",
-   "term": "Транскрипция — процесс преобразования аудио‑ или видеозаписей в письменный текст.",
-   "use": [
-    "Попробуйте загрузить запись встречи в модель и получить готовый текст.",
-    "Сравните качество транскрипции с другими сервисами, чтобы выбрать лучший вариант для вашего бизнеса.",
-    "Учтите, что модель работает только с записанными файлами, а не с живым потоком."
-   ],
-   "money": {
-    "idea": "Создать сервис транскрипции записей на основе модели Nvidia",
-    "how": [
-     "Скачайте и установите модель Nvidia на сервере или в облаке",
-     "Разработайте простой веб‑интерфейс для загрузки аудио‑файлов пользователями",
-     "Настройте автоматическую обработку файлов и выдачу готового текста",
-     "Продвигайте сервис среди компаний, которым нужны записи встреч и медицинских консультаций"
-    ],
-    "who": "Разработчики, знакомые с Python и облачными сервисами, а также навыки работы с аудио‑данными",
-    "effort": "средний",
-    "risk": "Необходимость обеспечить конфиденциальность загружаемых записей"
-   },
-   "category": "Модели",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "7ae8eb20550eee",
-   "date": "2026-10-28T14:58:17Z",
-   "addedAt": "2026-10-28T18:55:11Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-   "title_en": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "NVIDIA Nemotron 3.5 Transcribe и Granary v2: адаптивная многоязычная транскрипция",
-   "simple": "NVIDIA представила новые инструменты для многоязычной транскрипции, которые можно настраивать под конкретные задачи. Это расширяет возможности автоматического преобразования речи в текст.",
-   "term": "",
-   "use": [],
-   "money": null,
-   "category": "Модели",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "caf360dabd896f",
-   "date": "2026-10-28T14:46:55Z",
-   "addedAt": "2026-10-28T18:55:12Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/28/controlup-pulse-ai-resolve/",
-   "title_en": "ControlUp’s Pulse AI Resolve diagnoses and fixes IT issues within admin-defined controls",
-   "summary_en": "ControlUp has announced Pulse AI Resolve, the real-time investigative AI layer of the Pulse AI ecosystem. A major enhancement of ControlUp’s endpoint self-service capability, previously ControlUp Connect, Pulse Resolve brings AI-powered investigation and remediation, built-in governance controls, and proactive issue detection directly to the endpoint. It helps organizations resolve IT issues faster while reducing the volume of support tickets that require human IT intervention. For decades, enterprise IT support has followed essentially the same escalation … More → The post ControlUp’s Pulse AI Resolve diagnoses and fixes IT issues within admin-defined controls appeared first on Help Net…",
-   "pending": false,
-   "title_ru": "ControlUp Pulse AI Resolve: AI помогает быстро решать IT‑проблемы",
-   "simple": "ControlUp анонсировала Pulse AI Resolve — слой искусственного интеллекта, который автоматически диагностирует и исправляет IT‑инциденты по заданным правилам. Это ускоряет работу техподдержки и снижает количество запросов к людям.",
-   "term": "",
-   "use": [
-    "Внедрите Pulse AI Resolve в свою ИТ‑инфраструктуру, чтобы автоматизировать диагностику проблем.",
-    "Настройте правила и политики, соответствующие требованиям вашей компании.",
-    "Отслеживайте эффективность решения инцидентов и корректируйте параметры AI при необходимости."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "5283652bd524be",
-   "date": "2026-10-28T14:44:00Z",
-   "addedAt": "2026-10-28T18:55:11Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-   "title_en": "xAI is buying out homeowners who promise not to sue over data center noise",
-   "summary_en": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans […]",
-   "pending": false,
-   "title_ru": "xAI покупает дома у жителей, обещая не подавать в суд из‑за шума дата‑центра",
-   "simple": "Компания xAI предлагает выкупить дома в Миссисипи, если их владельцы согласятся не участвовать в иске против дата‑центра и электростанции компании. Это может интересовать тех, кто следит за влиянием ИИ‑компаний на местные сообщества.",
-   "term": "",
-   "use": [
-    "Следите за новостями о планах крупных ИИ‑компаний в вашем регионе.",
-    "Если вы владелец недвижимости рядом с дата‑центром, уточните условия выкупа и юридические последствия.",
-    "Оцените, насколько такие предложения влияют на стоимость недвижимости в районе."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "d3bd967b2fd09d",
-   "date": "2026-10-28T14:36:59Z",
-   "addedAt": "2026-10-28T18:55:12Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/28/digitate-ignio-hummingbird/",
-   "title_en": "Digitate adds AI agents for patch planning, service desks, and SAP operations",
-   "summary_en": "Digitate has announced ignio Hummingbird, the latest release of its agentic AIOps platform. Hummingbird introduces AI agents that bring operational expertise to specific IT tasks, move from diagnosis through approved action and verification, and operate within enterprise change, approval and audit controls. The release also enables enterprises to build their own IT operations agents and includes built-in Model Context Protocol (MCP) and Agent2Agent (A2A) servers, allowing ignio capabilities to work with the agents, assistants and … More → The post Digitate adds AI agents for patch planning, service desks, and SAP operations appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Digitate добавила AI‑агентов для управления патчами и сервис‑десками",
-   "simple": "Digitate выпустила новую версию платформы ignio Hummingbird, где появились AI‑агенты, способные выполнять задачи ИТ‑поддержки от диагностики до подтверждения действий. Это упрощает автоматизацию процессов в компаниях.",
-   "term": "AIOps — применение искусственного интеллекта для автоматизации и оптимизации ИТ‑операций.",
-   "use": [
-    "Изучите возможности платформы ignio для автоматизации рутинных ИТ‑задач.",
-    "Если вы ИТ‑специалист, попробуйте настроить AI‑агента для планирования патчей.",
-    "Оцените, как интеграция AI‑агентов может сократить время реагирования на инциденты."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "1d293d8c69b8c6",
-   "date": "2026-10-28T14:26:24Z",
-   "addedAt": "2026-10-28T18:55:12Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/28/swimlane-turbine-platform-capabilities/",
-   "title_en": "Swimlane connects custom detections to AI-led investigation and response",
-   "summary_en": "Swimlane has announced new capabilities in the Swimlane Turbine platform that allow security teams to run their own detection logic against large volumes of data and send resulting alerts directly into Swimlane AI SOC for investigation and response. The October release also adds two-way Model Context Protocol (MCP) support and new Hero AI agent that uses natural-language prompts to build applications for any use case, expanding how teams can connect tools, build workflows and operationalize … More → The post Swimlane connects custom detections to AI-led investigation and response appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Swimlane связывает пользовательские детекции с AI‑расследованием и реагированием",
-   "simple": "Swimlane добавила в платформу Turbine возможность запускать собственные правила обнаружения и автоматически передавать результаты в AI‑центр SOC для дальнейшего расследования. Это ускоряет работу команд безопасности.",
-   "term": "SOC — центр операций безопасности, где мониторятся и реагируют на угрозы.",
-   "use": [
-    "Разработайте свои правила детекции и подключите их к AI‑модулю Swimlane.",
-    "Проверьте, как автоматическое перенаправление инцидентов улучшает время реагирования.",
-    "Обучите персонал пользоваться естественным языком для создания новых сценариев через Hero AI."
-   ],
-   "money": null,
-   "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
   }
  ]
