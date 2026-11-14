@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:40:39Z",
+ "updated": "2026-11-14T06:41:45Z",
  "failedSources": [],
  "items": [
   {
@@ -477,6 +477,27 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d1318183fe1728",
+   "date": "2026-11-13T08:00:00Z",
+   "addedAt": "2026-11-14T06:41:34Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/business/customer-stories/shield",
+   "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "summary_en": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+   "pending": false,
+   "title_ru": "Shield использует OpenAI для упрощения работы с устаревшими порталами",
+   "simple": "Сервис Shield применяет технологии OpenAI, чтобы автоматизировать передачу задач в старых ИТ‑порталах. Это позволяет техникам сосредоточиться на более сложных проблемах.",
+   "term": "OpenAI — компания, разрабатывающая модели искусственного интеллекта, которые могут выполнять задачи по обработке текста и кода.",
+   "use": [
+    "Попробуйте интегрировать AI‑ассистента в свои внутренние инструменты для автоматизации рутинных действий.",
+    "Обратите внимание на возможности автоматического навигационного агента при работе с устаревшими системами."
+   ],
+   "money": null,
+   "category": "Агенты",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12968,28 +12989,6 @@
    ],
    "money": null,
    "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "c802108aab7969",
-   "date": "2026-10-28T16:32:41Z",
-   "addedAt": "2026-10-28T18:55:11Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-   "title_en": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-   "summary_en": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving […]",
-   "pending": false,
-   "title_ru": "Chrome улучшает автозаполнение с помощью Gemini и Gmail",
-   "simple": "Chrome расширил автозаполнение, используя Gemini с персональным интеллектом, чтобы предлагать данные из Gmail при заполнении форм. Это должно ускорить работу пользователей.",
-   "term": "Personal Intelligence — персонализированный ИИ, который использует ваши данные (например, письма) для более точных рекомендаций.",
-   "use": [
-    "Активируйте новую функцию в настройках Chrome, если хотите получать подсказки из Gmail.",
-    "Убедитесь, что ваши письма содержат нужную информацию (билеты, заказы), чтобы автозаполнение было полезным.",
-    "Регулярно проверяйте настройки конфиденциальности, чтобы контролировать, какие данные используются."
-   ],
-   "money": null,
-   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   }
  ]
