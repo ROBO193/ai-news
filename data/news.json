@@ -1,7 +1,95 @@
 {
- "updated": "2026-11-14T14:16:28Z",
+ "updated": "2026-11-14T19:17:42Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "7134e7e1ad670b",
+   "date": "2026-11-14T17:30:00Z",
+   "addedAt": "2026-11-14T19:17:23Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "title_en": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "summary_en": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "pending": false,
+   "title_ru": "Неудавшиеся AI‑проекты: список закрытых стартапов",
+   "simple": "В статье перечислены известные проекты в области искусственного интеллекта, которые были закрыты или не оправдали ожиданий, например Siri от Apple и попытка OpenAI создать «суперприложение». Это показывает, что даже крупные компании могут ошибаться в AI.",
+   "term": "super app — приложение, объединяющее множество функций и сервисов в одном интерфейсе",
+   "use": [
+    "Следите за новостями о запуске новых AI‑продуктов, чтобы заранее оценивать их реальную ценность.",
+    "Изучайте причины провалов, чтобы избегать похожих ошибок в своих проектах.",
+    "Оценивайте, насколько заявленные возможности AI‑продукта соответствуют реальному спросу."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "403e4bdfaeb683",
+   "date": "2026-11-14T17:27:25Z",
+   "addedAt": "2026-11-14T19:17:24Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+   "title_en": "Cursor confirms security breach led to malicious Claude Code extension",
+   "summary_en": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+   "pending": false,
+   "title_ru": "Cursor: взлом позволил распространить вредоносное расширение Claude Code",
+   "simple": "Компания Cursor сообщила о взломе, в результате которого хакеры получили доступ к учётным данным и разместили вредоносное расширение для Claude Code в их магазине. Это подчёркивает риски безопасности при работе с AI‑инструментами.",
+   "term": "security breach — несанкционированный доступ к системе, позволяющий злоумышленникам украсть данные или внедрить вредоносный код",
+   "use": [
+    "Обновляйте пароли и используйте двухфакторную аутентификацию для всех AI‑сервисов.",
+    "Проверяйте подписи и отзывы перед установкой новых расширений в AI‑инструментах.",
+    "Регулярно проверяйте логи доступа к своим AI‑аккаунтам."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "075bbfb634c2a8",
+   "date": "2026-11-14T16:34:15Z",
+   "addedAt": "2026-11-14T19:17:23Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+   "title_en": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+   "summary_en": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+   "pending": false,
+   "title_ru": "Азиатские страны реагируют на уход Дженсена Хуана из Nvidia",
+   "simple": "После ухода главы Nvidia некоторые азиатские правительства уточняют обязательства поставок чипов, а другие следят за влиянием на местные проекты и расследования. Это важно для регионального развития AI‑технологий.",
+   "term": "",
+   "use": [
+    "Следите за официальными заявлениями правительств о поставках AI‑чипов, чтобы планировать свои проекты.",
+    "Учитывайте возможные задержки в поставках оборудования при разработке AI‑решений.",
+    "Ищите альтернативные поставщики, если возникнут проблемы с доступностью чипов."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "567fa298898a17",
+   "date": "2026-11-14T15:12:19Z",
+   "addedAt": "2026-11-14T19:17:23Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+   "title_en": "Jensen Huang and the decline of the visionary showman founder CEO",
+   "summary_en": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
+   "pending": false,
+   "title_ru": "Дженсен Хуанг: конец эпохи «визионер‑шоу‑мэна» в Nvidia",
+   "simple": "На крупном мероприятии в 2025 году CEO Nvidia Дженсен Хуанг выступил перед 14 000 человек, демонстрируя свой статус лидера в AI‑индустрии. Это событие отражает изменения в имидже руководителей технологических компаний.",
+   "term": "",
+   "use": [
+    "Обратите внимание на публичные выступления лидеров AI‑компаний для понимания отраслевых трендов.",
+    "Следите за тем, как меняются стратегии компаний после смены руководства.",
+    "Используйте такие события как источник вдохновения для собственного профессионального развития."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "82ab3d6d079489",
    "date": "2026-11-14T13:00:00Z",
@@ -42,6 +130,28 @@
    ],
    "money": null,
    "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d46b516a4c8344",
+   "date": "2026-11-14T00:06:40Z",
+   "addedAt": "2026-11-14T19:17:23Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "title_en": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "summary_en": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]",
+   "pending": false,
+   "title_ru": "Бывший член совета OpenAI: нельзя полностью доверять CEO AI‑компаний",
+   "simple": "Хелен Тонер, эксперт по безопасности ИИ, говорит, что даже после увольнения Сэма Альтмана нельзя полностью полагаться на руководителей AI‑компаний. Это поднимает вопросы о надзоре и ответственности в сфере искусственного интеллекта.",
+   "term": "",
+   "use": [
+    "Изучайте мнения независимых экспертов при оценке стратегии AI‑компаний.",
+    "Учитывайте риски управленческих решений при выборе партнёров в AI‑проектах.",
+    "Следите за регуляторными инициативами, направленными на повышение ответственности руководителей AI."
+   ],
+   "money": null,
+   "category": "Регулирование",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12876,114 +12986,6 @@
    "use": [
     "Если вы используете Copilot на телевизоре, подготовьте альтернативные способы управления, например голосовые команды от самого телевизора.",
     "Следите за обновлениями от Microsoft, чтобы узнать, какие функции заменят Copilot в будущих версиях."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "e71c51112ff92f",
-   "date": "2026-10-28T18:30:00Z",
-   "addedAt": "2026-10-28T18:55:12Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
-   "title_en": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
-   "summary_en": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-   "pending": false,
-   "title_ru": "AI‑агенты управляют фантазийной футбольной командой, но пока не лучше людей",
-   "simple": "Автор эксперимента дал AI‑агенту управлять составом в фэнтези‑футболе. Изначально агент делал ошибки, но со временем начал корректировать их, хотя пока не превзошёл людей.",
-   "term": "AI‑агент — программа, способная принимать решения в определённой сфере без постоянного вмешательства человека.",
-   "use": [
-    "Попробуйте использовать простые AI‑инструменты для анализа статистики игроков, но проверяйте их рекомендации вручную.",
-    "Следите за развитием подобных агентов, чтобы в будущем автоматизировать часть выбора состава."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "0676def7896cb1",
-   "date": "2026-10-28T17:46:32Z",
-   "addedAt": "2026-10-28T18:55:12Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-   "title_en": "Google AI gets cagey when asked who won the 2020 elections",
-   "summary_en": "But the AI responses get more forthright when asked outside the US.",
-   "pending": false,
-   "title_ru": "Google AI уклоняется от ответа о результатах выборов 2020 в США",
-   "simple": "Когда спросили у Google AI, кто победил на выборах в США в 2020 году, система дала осторожный ответ, но была более откровенна по вопросам, не связанным с США. Это показывает, как ИИ может быть ограничен в политических темах.",
-   "term": "Политическая цензура ИИ — ограничение ответов модели на чувствительные политические вопросы.",
-   "use": [
-    "Будьте внимательны к тому, какие вопросы задаёте AI‑сервисам, особенно в политике.",
-    "Если нужен нейтральный факт, проверяйте информацию в нескольких источниках, а не полагайтесь только на ИИ."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "997184eddd10bc",
-   "date": "2026-10-28T17:09:14Z",
-   "addedAt": "2026-10-28T23:18:46Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/28/github-package-firewall-npm/",
-   "title_en": "GitHub’s npm package firewall can block brand-new versions before they install",
-   "summary_en": "GitHub announced a package firewall that checks npm packages against an enterprise’s policy before they install. It blocks known malware, critical vulnerabilities, and brand-new versions, and any developer can turn it on by pointing npm at the firewall. The checks run before a package reaches a laptop, a build, or a coding agent. GitHub says AI agents are helping developers build more software, faster, and the firewall is one of four security additions aimed at … More → The post GitHub’s npm package firewall can block brand-new versions before they install appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "GitHub ввёл firewall для npm‑пакетов, блокирующий новые версии",
-   "simple": "GitHub запустил firewall, который проверяет npm‑пакеты по политике компании перед установкой и может блокировать новые версии, если они подозрительны. Это помогает защитить проекты от вредоносного кода и уязвимостей.",
-   "term": "firewall — система, проверяющая и фильтрующая входящий трафик или данные по заданным правилам",
-   "use": [
-    "Включите firewall в настройках npm вашего проекта, указав адрес GitHub‑firewall.",
-    "Проверьте политику безопасности компании и настройте её правила под свои требования.",
-    "Следите за уведомлениями firewall о заблокированных пакетах и обновляйте зависимости вручную, если они безопасны."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "b0da25ea6c1a29",
-   "date": "2026-10-28T17:00:58Z",
-   "addedAt": "2026-10-28T18:55:08Z",
-   "source": "Google DeepMind",
-   "sourceType": "company",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-   "title_en": "Gemini 4 Carbon: Our next frontier model",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "Gemini 4 Carbon — новая модель от Google DeepMind",
-   "simple": "Google DeepMind анонсировала модель Gemini 4 Carbon, следующую в серии своих ИИ‑моделей. Это может означать более мощные возможности генерации текста и кода.",
-   "term": "Gemini — семейство больших языковых моделей от Google, обученных на огромных объёмах данных для выполнения разных задач.",
-   "use": [
-    "Следите за официальными анонсами, чтобы узнать, когда модель станет доступна для тестов.",
-    "Если вы разрабатываете приложения с ИИ, подготовьте инфраструктуру для быстрой интеграции новых моделей.",
-    "Изучайте возможности Gemini 4 Carbon, чтобы понять, какие задачи она решает лучше остальных."
-   ],
-   "money": null,
-   "category": "Модели",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "1e8ba9106ed897",
-   "date": "2026-10-28T17:00:00Z",
-   "addedAt": "2026-10-28T18:55:12Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-   "title_en": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-   "summary_en": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-   "pending": false,
-   "title_ru": "Google открывает Gemini и поиск для сторонних приложений",
-   "simple": "Google запустила платформу, позволяющую разработчикам подключать свои сервисы к Gemini и поиску. Это может изменить, как пользователи находят и используют приложения через ИИ‑ассистентов.",
-   "term": "AI‑агенты — программы, которые используют искусственный интеллект для выполнения задач от имени пользователя, например поиск информации или управление сервисами.",
-   "use": [
-    "Подумайте, какие сервисы вашей компании можно интегрировать в AI‑ассистенты Google.",
-    "Изучите документацию платформы, чтобы понять требования к API.",
-    "Тестируйте интеграцию в небольшом пилотном проекте перед масштабированием."
    ],
    "money": null,
    "category": "Агенты",
