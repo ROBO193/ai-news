@@ -1,7 +1,70 @@
 {
- "updated": "2026-11-15T06:46:50Z",
+ "updated": "2026-11-15T14:50:24Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "0a0eb0d9ab0ecc",
+   "date": "2026-11-15T12:00:00Z",
+   "addedAt": "2026-11-15T14:50:06Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+   "title_en": "AI DJs Completely Kill My Groove",
+   "summary_en": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+   "pending": false,
+   "title_ru": "AI‑диджеи портят настроение в плейлистах",
+   "simple": "Сервисы YouTube Music и Spotify тестируют искусственных ведущих, которые комментируют песни. Их неуклюжие реплики и выдуманные факты портят атмосферу прослушивания.",
+   "term": "synthetic host — искусственный ведущий, генерирующий речь для подбора музыки",
+   "use": [
+    "Попробуйте отключить автоматические комментарии в настройках сервиса, если они доступны.",
+    "Следите за обновлениями сервисов, чтобы вовремя отключать новые функции, если они вам не нравятся."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "fd252e616a38b9",
+   "date": "2026-11-15T11:00:00Z",
+   "addedAt": "2026-11-15T14:50:06Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+   "title_en": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+   "summary_en": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+   "pending": false,
+   "title_ru": "AI‑тамагочи оживляют обычные вещи",
+   "simple": "Студент из Carnegie Mellon создал небольшие гаджеты на E‑ink, которые превращают растения, скейтборды и гантели в виртуальных питомцев. Они подсказывают, как лучше ухаживать за вещью и формировать привычки.",
+   "term": "E Ink — технология электронных чернил, позволяющая отображать информацию без подсветки и с низким энергопотреблением",
+   "use": [
+    "Прикрепите такой гаджет к любимому предмету, чтобы получать мягкие напоминания о уходе за ним.",
+    "Используйте идеи подобных устройств для создания собственных простых напоминаний в доме."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "8e707f9e30b1d6",
+   "date": "2026-11-15T09:00:37Z",
+   "addedAt": "2026-11-15T14:50:06Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/15/week-in-review-secret-stealer-hits-github-repos-claude-code-turned-into-remote-controlled-implant/",
+   "title_en": "Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant",
+   "summary_en": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: What a security leader should tell the CEO about leaked credentials In this Help Net Security interview, Eric Fourrier, CEO of GitGuardian, talks about leaked credentials and personal liability for security leaders and boards. He explains how fear of blame pushes mistakes out of sight, and what a security leader should be ready to tell a CEO about exposed keys. … More → The post Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Обзор недели: вредоносный код и AI‑имплант",
+   "simple": "На прошлой неделе обнаружили вредоносный код, крадущий данные из репозиториев GitHub, а также эксперимент, где код Claude был превращён в управляемый имплант. Это показывает, как AI может использоваться в киберугрозах.",
+   "term": "remote-controlled implant — удалённо управляемый программный модуль, внедряемый в систему для выполнения команд",
+   "use": [
+    "Обновляйте зависимости и проверяйте репозитории на наличие подозрительных скриптов.",
+    "Следите за новостями в сфере кибербезопасности, чтобы быстро реагировать на новые типы угроз."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "2059ff8340bbc5",
    "date": "2026-11-14T23:59:28Z",
@@ -12903,93 +12966,6 @@
     "risk": "Неправильная интерпретация выводов ИИ может привести к ошибочным решениям"
    },
    "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "fc7d1d71bde9a1",
-   "date": "2026-10-28T20:03:00Z",
-   "addedAt": "2026-10-28T23:18:46Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-   "title_en": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-   "summary_en": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
-   "pending": false,
-   "title_ru": "Google представил Gemini 4 Carbon с прорывом в кибербезопасности",
-   "simple": "Google выпустил новую модель Gemini 4 Carbon, заявив о значительном улучшении в кодинге, агентных задачах и кибербезопасности, модель возглавила рейтинг AI‑моделей.",
-   "term": "агентные задачи — задачи, где ИИ действует автономно, принимая решения без постоянного вмешательства человека.",
-   "use": [
-    "Подпишитесь на Google Cloud и получите доступ к Gemini 4 Carbon.",
-    "Тестируйте модель для обнаружения уязвимостей в своих системах.",
-    "Следите за обновлениями, чтобы использовать новые возможности модели."
-   ],
-   "money": {
-    "idea": "Разработка сервисов кибербезопасности на базе Gemini 4 Carbon",
-    "how": [
-     "Зарегистрироваться в Google Cloud и включить доступ к Gemini 4 Carbon",
-     "Создать прототип инструмента обнаружения угроз с использованием модели",
-     "Провести тестирование на реальных данных",
-     "Предложить готовый сервис клиентам"
-    ],
-    "who": "Разработчики с опытом в AI и кибербезопасности, умеющие работать с облачными сервисами",
-    "effort": "высокий",
-    "risk": "Зависимость от облачной платформы и возможные ограничения доступа к модели"
-   },
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "2ede9b7f343197",
-   "date": "2026-10-28T19:19:58Z",
-   "addedAt": "2026-10-28T23:18:46Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-   "title_en": "Anthropic just launched tools to show companies what their AI spending is buying",
-   "summary_en": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-   "pending": false,
-   "title_ru": "Anthropic запустил инструменты для контроля расходов на ИИ",
-   "simple": "Anthropic представил новые инструменты, позволяющие компаниям видеть, за что они платят при использовании её моделей, что поможет оптимизировать бюджеты перед IPO.",
-   "term": "ИИ‑расходы — затраты на использование моделей искусственного интеллекта, включая оплату за запросы и вычислительные ресурсы.",
-   "use": [
-    "Подключите инструменты Anthropic к своим проектам.",
-    "Сформируйте отчёт о текущих затратах на модели ИИ.",
-    "Определите неэффективные запросы и сократите их количество."
-   ],
-   "money": {
-    "idea": "Оптимизация расходов на ИИ для компаний",
-    "how": [
-     "Подключить инструменты Anthropic к существующим сервисам",
-     "Сформировать детальный отчёт о текущих затратах",
-     "Выявить и устранить неэффективные запросы",
-     "Перепроектировать процессы для снижения расходов"
-    ],
-    "who": "Аналитики и специалисты по управлению ИИ‑ресурсами, умеющие работать с данными и бюджетированием",
-    "effort": "средний",
-    "risk": "Ограниченный доступ к деталям модели может затруднить точную оценку эффективности"
-   },
-   "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "bfd6acefc1fbf8",
-   "date": "2026-10-28T18:47:27Z",
-   "addedAt": "2026-10-28T18:55:12Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-   "title_en": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-   "summary_en": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
-   "pending": false,
-   "title_ru": "Google представил модель Gemini 4 Carbon — но её нельзя использовать",
-   "simple": "Google анонсировала новую модель ИИ Gemini 4 Carbon, которая чуть лучше предыдущей Argon, однако доступ к ней пока закрыт. Это показывает, что компании продолжают развивать более мощные модели, даже если они пока недоступны публике.",
-   "term": "Модель ИИ — обученный алгоритм, способный выполнять задачи, такие как генерация текста или анализ данных.",
-   "use": [
-    "Следите за официальными анонсами Google, чтобы узнать, когда модель станет доступна.",
-    "Изучайте текущие модели, такие как Gemini 4, чтобы подготовиться к переходу на более продвинутые версии."
-   ],
-   "money": null,
-   "category": "Модели",
    "model": "openai/gpt-oss-120b"
   }
  ]
