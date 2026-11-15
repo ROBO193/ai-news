@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-14T23:58:26Z",
+ "updated": "2026-11-15T06:46:50Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "2059ff8340bbc5",
+   "date": "2026-11-14T23:59:28Z",
+   "addedAt": "2026-11-15T06:46:33Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+   "title_en": "datasette-llm 0.1a11",
+   "summary_en": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama or llama.cpp (which just hit v1.0.0 ) you can run Datasette via uvx like this: wget https://datasette.io/content.db uvx --with datasette-agent datasette \\ --root --secret 1 \\ -s plugins.datasette-llm.default_model ' { \"model\": \"lmstudio-qwen\", \"model_name\": \"qwen/qwen3.8-27b\", \"api_base\":…",
+   "pending": false,
+   "title_ru": "Обновление плагина datasette-llm: поддержка любых OpenAI‑совместимых моделей",
+   "simple": "Вышла версия 0.1a11 плагина datasette-llm, который теперь умеет работать с любыми сервисами, поддерживающими OpenAI‑псевдостандарт. Это значит, что можно подключить локальные модели из LM Studio, Ollama или llama.cpp и использовать их в Datasette.",
+   "term": "LLM — крупная языковая модель, способная генерировать текст по запросу.",
+   "use": [
+    "Попробуйте установить datasette-llm и подключить локальную модель через OpenAI‑совместимый эндпоинт.",
+    "Настройте Datasette для работы с вашими данными и экспериментируйте с запросами к модели.",
+    "Изучите документацию по uvx, чтобы запускать Datasette в изолированном окружении."
+   ],
+   "money": null,
+   "category": "Open source",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "7134e7e1ad670b",
    "date": "2026-11-14T17:30:00Z",
@@ -12968,27 +12990,6 @@
    ],
    "money": null,
    "category": "Модели",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "d0753be868cc78",
-   "date": "2026-10-28T18:36:26Z",
-   "addedAt": "2026-10-28T18:55:11Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-   "title_en": "Microsoft is ending Copilot support on smart TVs",
-   "summary_en": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, […]",
-   "pending": false,
-   "title_ru": "Microsoft прекращает поддержку Copilot на смарт‑телевизорах",
-   "simple": "Microsoft решила отключить работу своего AI‑ассистента Copilot на телевизорах LG и Samsung. Поддержка будет прекращена в этом году, хотя официальных заявлений от производителей пока нет.",
-   "term": "Copilot — AI‑ассистент, интегрированный в продукты Microsoft для помощи пользователям.",
-   "use": [
-    "Если вы используете Copilot на телевизоре, подготовьте альтернативные способы управления, например голосовые команды от самого телевизора.",
-    "Следите за обновлениями от Microsoft, чтобы узнать, какие функции заменят Copilot в будущих версиях."
-   ],
-   "money": null,
-   "category": "Агенты",
    "model": "openai/gpt-oss-120b"
   }
  ]
