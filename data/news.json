@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-15T14:50:24Z",
+ "updated": "2026-11-15T20:26:19Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "1207b5c1c70bbc",
+   "date": "2026-11-15T19:15:43Z",
+   "addedAt": "2026-11-15T20:26:00Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+   "title_en": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+   "summary_en": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […]",
+   "pending": false,
+   "title_ru": "Конгресс хочет ужесточить экспорт правил для AI‑чипов после скандала с Nvidia",
+   "simple": "После скандала с подозреваемым шпионом в Nvidia, законодатели планируют ограничить экспорт процессоров, используемых в искусственном интеллекте. Это важно, потому что такие ограничения могут изменить рынок технологий.",
+   "term": "AI‑чипы — специализированные процессоры, ускоряющие вычисления моделей искусственного интеллекта.",
+   "use": [
+    "Следите за изменениями в законодательстве, если ваша компания работает с экспортом технологий.",
+    "Оцените, насколько ваши поставки зависят от американских AI‑чипов и ищите альтернативы.",
+    "Подготовьте документы для возможных новых требований к экспорту."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "4201db3ac6828c",
+   "date": "2026-11-15T18:29:53Z",
+   "addedAt": "2026-11-15T20:26:01Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+   "title_en": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+   "summary_en": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+   "pending": false,
+   "title_ru": "FBI предупреждает, что инструмент ARTEX AI используется в глобальных кибератаках",
+   "simple": "ФБР сообщает, что хакеры применяют AI‑инструмент ARTEX для автоматизации взломов, в том числе в недавнем инциденте с ConnectWise. Это показывает, как искусственный интеллект может усиливать киберугрозы.",
+   "term": "penetration testing — проверка безопасности системы имитацией реальных атак.",
+   "use": [
+    "Обновите антивирусные и защитные решения, учитывая новые AI‑инструменты.",
+    "Проведите аудит безопасности, особенно в цепочках поставок программного обеспечения.",
+    "Обучите сотрудников распознавать подозрительные активности, связанные с автоматизированными сканерами."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "0a0eb0d9ab0ecc",
    "date": "2026-11-15T12:00:00Z",
@@ -12911,61 +12955,6 @@
    ],
    "money": null,
    "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "90b267becbf2ea",
-   "date": "2026-10-28T21:34:30Z",
-   "addedAt": "2026-10-28T23:18:46Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-   "title_en": "Microsoft recorded $10 billion in revenue from OpenAI",
-   "summary_en": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-   "pending": false,
-   "title_ru": "Microsoft заработала $10 млрд от сотрудничества с OpenAI",
-   "simple": "Microsoft сообщила, что получила 10 миллиардов долларов от коммерческих соглашений с OpenAI, включая совместные доходы. Это подчёркивает важность партнёрства с ИИ‑компаниями.",
-   "term": "",
-   "use": [
-    "Рассмотрите возможность интеграции сервисов OpenAI в свои продукты, чтобы предложить клиентам новые функции.",
-    "Изучите условия лицензирования и API OpenAI, чтобы понять, как их использовать в проектах.",
-    "Подготовьте предложения для клиентов, где ИИ‑модели могут автоматизировать рутинные задачи."
-   ],
-   "money": null,
-   "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "5d25973f53528c",
-   "date": "2026-10-28T20:32:02Z",
-   "addedAt": "2026-10-28T23:18:46Z",
-   "source": "MIT Technology Review",
-   "sourceType": "media",
-   "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-   "title_en": "Creating AI value with enterprise context",
-   "summary_en": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
-   "pending": false,
-   "title_ru": "Создание ценности ИИ в корпоративном контексте",
-   "simple": "В компаниях одновременно работают множество AI‑платформ: чат‑боты, системы автоматизации и аналитика. Их результаты могут быть ошибочными или неполными, поэтому важно контролировать выводы ИИ.",
-   "term": "AI‑платформа — система, использующая искусственный интеллект для выполнения конкретных бизнес‑задач.",
-   "use": [
-    "Оцените, какие AI‑инструменты уже используются в вашей компании.",
-    "Внедрите процесс проверки результатов ИИ перед принятием решений.",
-    "Обучите сотрудников распознавать возможные ошибки ИИ."
-   ],
-   "money": {
-    "idea": "Консультации по проверке и оптимизации результатов ИИ в компании",
-    "how": [
-     "Оценить текущие AI‑инструменты и их задачи",
-     "Внедрить процесс валидации выводов ИИ",
-     "Обучить сотрудников проверять результаты",
-     "Настроить мониторинг качества и корректировать модели"
-    ],
-    "who": "Специалисты по бизнес‑аналитике и AI, умеющие работать с данными и процессами",
-    "effort": "средний",
-    "risk": "Неправильная интерпретация выводов ИИ может привести к ошибочным решениям"
-   },
-   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   }
  ]
