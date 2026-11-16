@@ -1,7 +1,112 @@
 {
- "updated": "2026-11-15T20:26:19Z",
+ "updated": "2026-11-16T01:07:42Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "0ea5fbe79c2f43",
+   "date": "2026-11-16T00:00:28Z",
+   "addedAt": "2026-11-16T01:07:13Z",
+   "source": "NVIDIA",
+   "sourceType": "company",
+   "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+   "title_en": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+   "summary_en": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
+   "pending": false,
+   "title_ru": "AI Day Seoul собрал лидеров индустрии, стартапы и разработчиков",
+   "simple": "На конференции в Сеуле более 2000 человек обсудили физический ИИ и ИИ‑агентов. Было интересно увидеть, как крупные компании и стартапы показывают свои разработки.",
+   "term": "",
+   "use": [
+    "Посетите онлайн‑трансляцию, если она будет доступна, чтобы узнать о новых решениях в робототехнике.",
+    "Следите за анонсами компаний‑участников, чтобы понять, какие технологии могут появиться в вашем секторе."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "fa232e2aaf8a19",
+   "date": "2026-11-15T23:30:00Z",
+   "addedAt": "2026-11-16T01:07:14Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "title_en": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "summary_en": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+   "pending": false,
+   "title_ru": "Индийский стартап Bharat Semi привлек $24 млн для AI‑сенсоров",
+   "simple": "Стартап из Индии получил инвестиции для разработки сенсоров с искусственным интеллектом и уже заключил контракты с крупными клиентами. Это открывает возможности для новых продуктов в сфере датчиков.",
+   "term": "",
+   "use": [
+    "Изучите, какие типы AI‑сенсоров могут улучшить ваши устройства или процессы.",
+    "Подумайте о сотрудничестве с поставщиками подобных сенсоров для прототипов."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "87d7014c15ee68",
+   "date": "2026-11-15T22:00:01Z",
+   "addedAt": "2026-11-16T01:07:12Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "title_en": "A step toward defining the Standard Model on a lattice",
+   "summary_en": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+   "pending": false,
+   "title_ru": "GPT‑6 помог доказать кандидатуру модели Стандартной модели на решётке",
+   "simple": "Исследователи использовали модель GPT‑6 Astra, чтобы оформить доказательство новой идеи о нелинейном определении Стандартной модели в физике. Это показывает, как ИИ может помогать в сложных теоретических задачах.",
+   "term": "GPT‑6 Astra — крупная языковая модель, обученная генерировать научные тексты и помогать в формулировании доказательств.",
+   "use": [
+    "Следите за публикациями, где ИИ используется в фундаментальных исследованиях, чтобы понять новые методы работы.",
+    "Если вы учёный, попробуйте использовать крупные языковые модели для генерации идей и проверок гипотез."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "4b0fc5b701ffd7",
+   "date": "2026-11-15T22:00:00Z",
+   "addedAt": "2026-11-16T01:07:12Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/our-new-blog-for-science",
+   "title_en": "Our new blog for science",
+   "summary_en": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+   "pending": false,
+   "title_ru": "Открыт новый блог OpenAI о науке",
+   "simple": "OpenAI запустил блог, где публикуются результаты исследований, практические методы и истории учёных, использующих ИИ для научных открытий. Это полезный ресурс для тех, кто интересуется применением ИИ в науке.",
+   "term": "",
+   "use": [
+    "Подпишитесь на блог, чтобы получать свежие идеи о том, как ИИ может ускорить исследования.",
+    "Применяйте описанные в статьях методы в своих проектах, если работаете над научными задачами."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9e3d554c6cb56d",
+   "date": "2026-11-15T21:56:35Z",
+   "addedAt": "2026-11-16T01:07:14Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "title_en": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "summary_en": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+   "pending": false,
+   "title_ru": "Падение Nvidia может отразиться на всей AI‑индустрии?",
+   "simple": "Статья обсуждает, насколько экономика зависит от Nvidia и её CEO Дженсена Хуана, и какие последствия могут быть, если компания столкнётся с проблемами. Это важно, потому что многие AI‑проекты используют её оборудование.",
+   "term": "",
+   "use": [
+    "Следите за новостями о Nvidia, чтобы оценивать риски при выборе её решений для своих проектов.",
+    "Рассмотрите альтернативные поставщики GPU, если хотите снизить зависимость от одной компании."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "1207b5c1c70bbc",
    "date": "2026-11-15T19:15:43Z",
@@ -107,6 +212,27 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "cc7b7d65085832",
+   "date": "2026-11-15T03:49:47Z",
+   "addedAt": "2026-11-16T01:07:14Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+   "title_en": "datasette-agent 0.6a0",
+   "summary_en": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datasette , llms , ai , generative-ai",
+   "pending": false,
+   "title_ru": "datasette-agent 0.6a0: агент теперь доступен на главной странице",
+   "simple": "В новой версии 0.6a0 плагина datasette-agent добавлен вводный запрос прямо на главную страницу Datasette, позволяющий задавать вопросы к данным с поддержкой упоминаний таблиц и запросов. Это упрощает работу с данными через естественный язык.",
+   "term": "LLM — крупная языковая модель, способная генерировать текст и отвечать на вопросы, обученная на больших объёмах данных.",
+   "use": [
+    "Откройте главную страницу вашего Datasette и попробуйте задать простой вопрос о данных, используя новый вводный запрос.",
+    "Используйте упоминания таблиц (#table) в запросах, чтобы быстро переключаться между разными наборами данных."
+   ],
+   "money": null,
+   "category": "Агенты",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12825,136 +12951,6 @@
    ],
    "money": null,
    "category": "Open source",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "e1c742c1d925ba",
-   "date": "2026-10-29T00:00:00Z",
-   "addedAt": "2026-10-29T19:42:48Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/announcing-project-protostar",
-   "title_en": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "Project ProtoStar: подготовка публичных научных данных к использованию ИИ",
-   "simple": "Hugging Face объявила о проекте ProtoStar, цель которого — сделать научные данные, полученные из государственных грантов, готовыми к обучению ИИ‑моделей.",
-   "term": "",
-   "use": [
-    "Следите за открытыми наборами данных в рамках ProtoStar для обучения своих моделей.",
-    "Подготовьте свои проекты к использованию готовых научных датасетов, экономя время на сборе данных."
-   ],
-   "money": null,
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "a1765f446c5b64",
-   "date": "2026-10-29T00:00:00Z",
-   "addedAt": "2026-10-29T19:42:48Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/mistral-large4",
-   "title_en": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "Mistral Large 4 теперь доступна на Hugging Face под именем Le Chonk",
-   "simple": "Hugging Face разместила большую языковую модель Mistral Large 4, получившую прозвище Le Chonk, для публичного использования.",
-   "term": "",
-   "use": [
-    "Попробуйте запустить Le Chonk через интерфейс Hugging Face для генерации текста.",
-    "Сравните её результаты с другими моделями, чтобы выбрать оптимальную для своих задач."
-   ],
-   "money": null,
-   "category": "Модели",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "6750c246141218",
-   "date": "2026-10-29T00:00:00Z",
-   "addedAt": "2026-10-30T18:39:58Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/credit-saison",
-   "title_en": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-   "summary_en": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-   "pending": false,
-   "title_ru": "Credit Saison получил 954% доход от пилотного проекта ChatGPT Enterprise",
-   "simple": "Компания Credit Saison провела пилотный проект с ChatGPT Enterprise и достигла возврата инвестиций в 954 %. Руководство и сотрудники помогли масштабировать результаты на всю компанию, что показывает потенциал ИИ в бизнесе.",
-   "term": "ROI — показатель возврата инвестиций, измеряющий, сколько прибыли получено на каждый вложенный доллар.",
-   "use": [
-    "Оцените, какие задачи в вашем отделе могут автоматизировать ИИ‑модели, чтобы повысить эффективность.",
-    "Попробуйте запустить небольшой пилотный проект с ChatGPT в своей компании и измерьте экономический эффект.",
-    "Подготовьте план масштабирования успешных ИИ‑решений на другие подразделения."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "b0fbfced4c005a",
-   "date": "2026-10-28T23:23:21Z",
-   "addedAt": "2026-10-29T05:58:22Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
-   "title_en": "Quoting Ted Sanders",
-   "summary_en": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c) have better recall of esoteric facts. As you note, our models are ordered: Luna < Terra < Sol < Astra [ ... ] These days, version number signifies a few things at once: the order of release, the relationship to other releases, and the magnitude of improvement. So something like 6.1 would indicate…",
-   "pending": false,
-   "title_ru": "Размер модели влияет на её способности и стоимость",
-   "simple": "Большие языковые модели обычно работают лучше, но стоят дороже за токен и лучше запоминают редкие факты. Это важно при выборе модели для задач, где нужна точность и надёжность.",
-   "term": "Токен — единица текста, которую модель обрабатывает за один шаг, например слово или часть слова.",
-   "use": [
-    "Сравните требования задачи с доступным бюджетом, выбирая модель подходящего размера.",
-    "Учтите, что более крупные модели могут потребовать больше вычислительных ресурсов.",
-    "Проверьте, насколько важна точность фактов для вашего проекта, и выбирайте модель соответственно."
-   ],
-   "money": null,
-   "category": "Модели",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "09f762edab0d4f",
-   "date": "2026-10-28T23:05:39Z",
-   "addedAt": "2026-10-28T23:18:46Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-   "title_en": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-   "summary_en": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
-   "pending": false,
-   "title_ru": "Негатив к ИИ усиливается, предупреждает глава Instagram",
-   "simple": "Адам Моссери, руководитель Instagram, сказал, что недовольство искусственным интеллектом растёт и будет усиливаться. Это важно, потому что отношение общества влияет на развитие и принятие новых технологий.",
-   "term": "AI (искусственный интеллект) — системы, способные выполнять задачи, требующие человеческого интеллекта, такие как распознавание речи или изображений.",
-   "use": [
-    "Обратите внимание на то, как ваши проекты используют ИИ и какие риски могут возникнуть в восприятии аудитории.",
-    "Подумайте о том, как объяснять пользу ИИ клиентам и коллегам, чтобы снизить страхи.",
-    "Следите за общественными дискуссиями о ИИ, чтобы адаптировать свою стратегию коммуникаций."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "f348c6db37d87f",
-   "date": "2026-10-28T21:48:37Z",
-   "addedAt": "2026-10-28T23:18:46Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-   "title_en": "Google expands AI Search ads globally as core ad growth slows",
-   "summary_en": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-   "pending": false,
-   "title_ru": "Google расширяет рекламу AI Search по всему миру",
-   "simple": "Google объявил о глобальном запуске рекламных объявлений в результатах поиска, генерируемых ИИ, несмотря на замедление общего роста рекламного бизнеса. Это открывает новые возможности для рекламодателей.",
-   "term": "AI Search ads — рекламные места в результатах поисковой выдачи, формируемые искусственным интеллектом на основе запросов пользователя.",
-   "use": [
-    "Изучите, как ваши рекламные кампании могут использовать AI Search ads для более точного таргетинга.",
-    "Подготовьте креативы, учитывающие контекст запросов, чтобы повысить эффективность объявлений.",
-    "Следите за аналитикой новых форматов, чтобы быстро адаптировать бюджет."
-   ],
-   "money": null,
-   "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   }
  ]
