@@ -1,7 +1,112 @@
 {
- "updated": "2026-11-16T01:07:42Z",
+ "updated": "2026-11-16T08:03:35Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "2444f82f10c4da",
+   "date": "2026-11-16T07:00:02Z",
+   "addedAt": "2026-11-16T08:03:09Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/16/cloudflare-kitesurf-open-source/",
+   "title_en": "You can now self-host Kitesurf, Cloudflare’s open-source browser for AI agents",
+   "summary_en": "Kitesurf is Cloudflare’s browser for AI agents, built to load web pages and run their JavaScript on Cloudflare Workers without starting up a full desktop browser. Cloudflare has published its source code so developers can inspect it, modify it, test it on their own machines, and deploy a copy to their Cloudflare account. A browser without Chromium Kitesurf needs no browser container, and it can return screenshots of the pages it loads. It supports the … More → The post You can now self-host Kitesurf, Cloudflare’s open-source browser for AI agents appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Cloudflare открыла исходный код Kitesurf — браузера для AI‑агентов",
+   "simple": "Cloudflare выпустила открытый код браузера Kitesurf, который позволяет AI‑агентам загружать веб‑страницы и выполнять их JavaScript на платформе Cloudflare Workers без полноценного браузера. Это упрощает интеграцию веб‑контента в задачи ИИ.",
+   "term": "Cloudflare Workers — серверless‑платформа, где код запускается в облаке без управления серверами",
+   "use": [
+    "Попробуйте развернуть Kitesurf в своём аккаунте Cloudflare, чтобы тестировать, как ИИ будет взаимодействовать с веб‑страницами.",
+    "Изучите возможности получения скриншотов страниц через Kitesurf для автоматизации отчётов.",
+    "Если вы разрабатываете AI‑агентов, замените тяжёлый браузер на лёгкий Kitesurf для экономии ресурсов."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "30914c64fd7a3b",
+   "date": "2026-11-16T05:00:22Z",
+   "addedAt": "2026-11-16T08:03:09Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/16/forescout-ai-models-vulnerability-research/",
+   "title_en": "AI uncovers flaws in discontinued devices with no vendor left to patch them",
+   "summary_en": "Forescout researchers built a tool to test if generally available AI models could find security flaws on a limited budget. They examined both open-source code and compiled software whose source code was unavailable, testing an approach attackers could also use. The team confirmed 99 vulnerabilities across 10 TCP/IP stacks, the software components that allow devices to communicate over networks. Sixty-six were previously unknown, and 52% of those newly discovered vulnerabilities were rated as high or … More → The post AI uncovers flaws in discontinued devices with no vendor left to patch them appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "AI нашёл уязвимости в устаревших устройствах без поддержки производителей",
+   "simple": "Исследователи Forescout создали инструмент, который с помощью общедоступных моделей ИИ ищет уязвимости в старых сетевых стэках, где производители уже не выпускают обновления. Было обнаружено 99 проблем, из них 66 новых, многие из них серьёзные.",
+   "term": "TCP/IP‑стек — набор протоколов, позволяющих устройствам обмениваться данными в сети",
+   "use": [
+    "Если вы отвечаете за безопасность старого оборудования, проверьте, есть ли у вас возможность использовать аналогичный ИИ‑инструмент для аудита.",
+    "Обратите внимание на необходимость изоляции устаревших устройств в сети, чтобы ограничить потенциальный ущерб.",
+    "Подготовьте план миграции или замены оборудования, у которого нет поддержки от производителя."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2f1f5cbf7ce833",
+   "date": "2026-11-16T04:17:05Z",
+   "addedAt": "2026-11-16T08:03:08Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+   "title_en": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+   "summary_en": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]",
+   "pending": false,
+   "title_ru": "Слухи о возвращении Дженсена Хуана к посту CEO Nvidia",
+   "simple": "Вокруг со‑основателя Nvidia Дженсена Хуана появились слухи, что он может попытаться вернуться на пост генерального директора компании. Новости сопровождаются другими событиями, связанными с Nvidia.",
+   "term": "",
+   "use": [],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f7214e14d1e100",
+   "date": "2026-11-16T01:47:16Z",
+   "addedAt": "2026-11-16T08:03:08Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+   "title_en": "Apple’s new study looks to improve the effectiveness of AI health tools",
+   "summary_en": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical […]",
+   "pending": false,
+   "title_ru": "Apple изучает, как люди используют AI‑инструменты в медицине",
+   "simple": "Apple запустила исследование, цель которого — понять, как пользователи взаимодействуют с разговорными AI‑инструментами для здоровья и насколько полезны их ответы. Исследование проводится совместно с платформой OpenEvidence.",
+   "term": "OpenEvidence — платформа, генерирующая медицинские ответы с помощью ИИ",
+   "use": [
+    "Подпишитесь на результаты исследования, чтобы узнать, какие AI‑инструменты могут стать полезными в личном здоровье.",
+    "Если вы работаете в медицине, оцените возможность интеграции подобных AI‑сервисов в свою практику.",
+    "Следите за новыми рекомендациями Apple по использованию AI в здоровье, чтобы адаптировать свои привычки."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "77828770ffb5c4",
+   "date": "2026-11-16T01:30:00Z",
+   "addedAt": "2026-11-16T08:03:09Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "title_en": "Apple launches new app to study how people use AI for health",
+   "summary_en": "Apple's new app for a study will answer everyday medical questions",
+   "pending": false,
+   "title_ru": "Apple выпустила приложение для изучения использования AI в здоровье",
+   "simple": "Apple представила новое приложение, которое будет использоваться в исследовании по ответам на повседневные медицинские вопросы с помощью ИИ.",
+   "term": "",
+   "use": [
+    "Скачайте приложение, если оно доступно, чтобы принять участие в исследовании и получить ответы на свои вопросы о здоровье.",
+    "Отслеживайте, какие типы вопросов задаёт приложение, чтобы понять, где AI уже может помочь в повседневной медицине."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "0ea5fbe79c2f43",
    "date": "2026-11-16T00:00:28Z",
@@ -12846,111 +12951,6 @@
    ],
    "money": null,
    "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "17185e5bddec7c",
-   "date": "2026-10-29T10:00:00Z",
-   "addedAt": "2026-10-29T13:17:41Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
-   "title_en": "I Gave My Blood to the AI Death Clock",
-   "summary_en": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
-   "pending": false,
-   "title_ru": "Сервис Death Clock обещает предсказать дату смерти",
-   "simple": "Сервис Death Clock использует ИИ, чтобы оценить, когда человек может умереть, но пользователь считает, что он негативно влияет на настроение. Такие прогнозы вызывают вопросы о их достоверности и этике.",
-   "term": "Прогностическая модель — алгоритм, предсказывающий будущие события на основе имеющихся данных.",
-   "use": [
-    "Относитесь скептически к сервисам, обещающим предсказать здоровье или продолжительность жизни.",
-    "Проверяйте источники данных и методики, используемые в подобных приложениях, перед тем как доверять им."
-   ],
-   "money": null,
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "d28967fce9c692",
-   "date": "2026-10-29T09:00:00Z",
-   "addedAt": "2026-10-29T19:42:44Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-   "title_en": "How we detect frontier model misalignment",
-   "summary_en": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-   "pending": false,
-   "title_ru": "OpenAI объясняет, как обнаруживает несоответствия моделей‑пограничников",
-   "simple": "OpenAI рассказала о многоуровневом мониторинге, который позволяет выявлять отклонения поведения моделей и несанкционированные действия агентов, чтобы вовремя вмешаться.",
-   "term": "модель‑пограничник — крупная ИИ‑модель, работающая на границе возможностей и рисков",
-   "use": [
-    "Следите за новостями о методах мониторинга, чтобы применять лучшие практики в своих проектах.",
-    "Разработайте простые правила для автоматического оповещения о подозрительном поведении ИИ."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "2d9928289658e9",
-   "date": "2026-10-29T07:00:00Z",
-   "addedAt": "2026-10-29T19:42:44Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/ropes-gray-ai-diligence",
-   "title_en": "How Ropes & Gray is developing AI for transactional diligence",
-   "summary_en": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-   "pending": false,
-   "title_ru": "Ropes & Gray используют ИИ от OpenAI для юридической проверки сделок",
-   "simple": "Юридическая фирма Ropes & Gray совместно с OpenAI разрабатывает ИИ, который помогает группировать документы, создавать их резюме и готовить отчёты перед советами клиентам.",
-   "term": "транзакционная проверка — процесс анализа документов и данных при заключении сделок",
-   "use": [
-    "Изучите, как ИИ может автоматически резюмировать юридические документы.",
-    "Внедрите инструменты для предварительного анализа договоров, чтобы ускорить работу с клиентами."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "e417a2d85675ac",
-   "date": "2026-10-29T06:30:04Z",
-   "addedAt": "2026-10-29T13:17:41Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/10/29/nathan-smolenski-qualys-ai-vulnerability-management/",
-   "title_en": "Qualys CISO on what security teams can do as exploit campaigns grow",
-   "summary_en": "In this Help Net Security interview, Nathan Smolenski, CISO at Qualys, talks about how security teams can handle the growing volume of AI-discovered vulnerabilities. He explains why CISOs should track the average window of exposure instead of standard MTTR, and why only a small share of disclosed flaws, under one percent in 2025, pose active risk. Smolenski also covers how teams can build trust in autonomous remediation through asset tiering, human review, and rollback processes, … More → The post Qualys CISO on what security teams can do as exploit campaigns grow appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "CISO Qualys советует как бороться с ростом AI‑уязвимостей",
-   "simple": "Руководитель безопасности Qualys объясняет, как команды могут управлять большим количеством уязвимостей, найденных ИИ, используя новые метрики и процессы проверки. Это помогает сосредоточиться на действительно опасных проблемах.",
-   "term": "MTTR — среднее время восстановления после инцидента, измеряющее, как быстро устраняется проблема.",
-   "use": [
-    "Пересмотрите метрики безопасности, добавив измерение окна экспозиции вместо только MTTR.",
-    "Внедрите процесс человеческой проверки и отката для автоматических исправлений уязвимостей."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "85d975255b4f9d",
-   "date": "2026-10-29T00:00:00Z",
-   "addedAt": "2026-10-29T13:17:40Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/anydecisionmodel",
-   "title_en": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "AnySpeechRecognizer и AnyDecisionModel — открытые модели для iOS",
-   "simple": "Выпущены открытые модели AnySpeechRecognizer и AnyDecisionModel, которые работают на платформах Apple и позволяют распознавать речь и принимать решения без закрытых лицензий. Это упрощает разработку приложений с AI‑функциями.",
-   "term": "Open model — модель, доступная для свободного использования, модификации и распространения.",
-   "use": [
-    "Попробуйте интегрировать AnySpeechRecognizer в свои iOS‑приложения для улучшения голосового ввода.",
-    "Изучите документацию AnyDecisionModel, чтобы добавить автоматическое принятие решений в свои сервисы."
-   ],
-   "money": null,
-   "category": "Open source",
    "model": "openai/gpt-oss-120b"
   }
  ]
