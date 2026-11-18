@@ -1,9 +1,266 @@
 {
- "updated": "2026-11-17T21:05:19Z",
- "failedSources": [
-  "Microsoft Research"
- ],
+ "updated": "2026-11-18T02:57:45Z",
+ "failedSources": [],
  "items": [
+  {
+   "id": "19bce111d0ee60",
+   "date": "2026-11-18T01:48:18Z",
+   "addedAt": "2026-11-18T02:56:59Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+   "title_en": "Satya Nadella says he’s AGI-pilled now",
+   "summary_en": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at […]",
+   "pending": false,
+   "title_ru": "Satya Nadella признает важность AGI для экономики и политики",
+   "simple": "Генеральный директор Microsoft заявил, что он убеждён в значительном влиянии искусственного общего интеллекта (AGI) на структуру экономики и политические процессы. Это может изменить подходы к регулированию и бизнес‑моделям.",
+   "term": "AGI — искусственный общий интеллект, способный выполнять любые интеллектуальные задачи, как человек.",
+   "use": [
+    "Следите за заявлениями Microsoft о планах в области AGI, чтобы понять, какие новые сервисы могут появиться.",
+    "Обратите внимание на обучение навыкам, связанным с разработкой и внедрением AGI, если вы работаете в ИТ.",
+    "Учитывайте возможные изменения в политике регулирования ИИ при планировании проектов."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d652f478feeed9",
+   "date": "2026-11-18T01:44:21Z",
+   "addedAt": "2026-11-18T02:57:00Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "title_en": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "summary_en": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+   "pending": false,
+   "title_ru": "Инвестиции Nvidia в стартапы выросли до $65 млрд",
+   "simple": "За девять месяцев стоимость частных инвестиций Nvidia почти утроилась благодаря активной сделочной стратегии Дженсена Хуана и росту оценок портфельных компаний. Это показывает растущий интерес к AI‑технологиям.",
+   "term": "",
+   "use": [
+    "Изучайте стартапы, получающие финансирование от Nvidia, чтобы понять, какие AI‑решения набирают популярность.",
+    "Подумайте о сотрудничестве с компаниями из портфеля Nvidia, если ваш бизнес может интегрировать их технологии.",
+    "Следите за новыми инвестиционными раундами, чтобы предвидеть тренды в AI‑рынке."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ab50b7af668be0",
+   "date": "2026-11-18T00:27:29Z",
+   "addedAt": "2026-11-18T02:57:00Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+   "title_en": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+   "summary_en": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+   "pending": false,
+   "title_ru": "Copilot стал новой ОС для работы: Office теперь внутри него",
+   "simple": "Microsoft интегрировала Word, Excel и PowerPoint в Copilot, сделав их частью единой AI‑платформы. Планируется добавить постоянно работающих помощников‑агентов.",
+   "term": "Copilot — AI‑ассистент, который помогает выполнять задачи в приложениях Microsoft.",
+   "use": [
+    "Попробуйте использовать новые функции Office внутри Copilot для ускорения работы с документами.",
+    "Обратите внимание на возможности автоматизации задач с помощью встроенных AI‑агентов.",
+    "Обучите сотрудников работе с Copilot, чтобы повысить эффективность офисных процессов."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "83a48772429ae1",
+   "date": "2026-11-18T00:16:50Z",
+   "addedAt": "2026-11-18T02:57:00Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "title_en": "Nvidia promises that revenue will keep soaring — for now",
+   "summary_en": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+   "pending": false,
+   "title_ru": "Nvidia обещает дальнейший рост доходов несмотря на уход Хуана",
+   "simple": "Компания Nvidia заявила, что её рекордный рост выручки продолжится, даже после ухода основателя и CEO Дженсена Хуана. Это свидетельствует о сильных позициях в AI‑рынке.",
+   "term": "",
+   "use": [
+    "Следите за финансовыми отчётами Nvidia, чтобы оценить стабильность поставок AI‑чипов.",
+    "Учитывайте надёжность Nvidia при выборе оборудования для AI‑проектов.",
+    "Обратите внимание на альтернативные поставщики, если вам важна диверсификация."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "28509d8a3a743a",
+   "date": "2026-11-17T23:37:48Z",
+   "addedAt": "2026-11-18T02:57:00Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+   "title_en": "Nvidia is abandoning China after Jensen Huang’s ouster",
+   "summary_en": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+   "pending": false,
+   "title_ru": "Nvidia прекращает продажи чипов в Китай после отставки Хуана",
+   "simple": "Временный CEO Nvidia объявил, что компания больше не будет продавать свои процессоры в Китай, что может повлиять на глобальные цепочки поставок. Вопрос — какие последствия это принесёт.",
+   "term": "",
+   "use": [
+    "Проверьте наличие альтернативных поставщиков чипов, если ваш бизнес зависит от продукции Nvidia.",
+    "Оцените риски задержек в проектах, связанных с поставками из Китая.",
+    "Следите за новостями о новых партнёрах Nvidia в других регионах."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "3feac09277102c",
+   "date": "2026-11-17T23:04:35Z",
+   "addedAt": "2026-11-18T02:57:00Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+   "title_en": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+   "summary_en": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+   "pending": false,
+   "title_ru": "Nvidia сохраняет открытый AI‑подход и планирует купить Hugging Face",
+   "simple": "Временный CEO подтвердил, что стратегия открытого кода в AI остаётся в силе, и компания намерена приобрести Hugging Face, несмотря на уход Хуана. Это укрепит позиции в открытых моделях.",
+   "term": "Open source — открытый исходный код, доступный для свободного использования и модификации.",
+   "use": [
+    "Изучайте открытые модели от Hugging Face для внедрения в свои проекты без больших затрат.",
+    "Подготовьте навыки работы с открытым кодом, чтобы быстро адаптировать новые решения.",
+    "Следите за обновлениями интеграции Nvidia и Hugging Face для получения новых возможностей."
+   ],
+   "money": null,
+   "category": "Open source",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "acdaad578a36b2",
+   "date": "2026-11-17T22:52:29Z",
+   "addedAt": "2026-11-18T02:57:00Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+   "title_en": "External sandboxes for coding agents",
+   "summary_en": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Radiant , the AI research lab behind Superpowers and other projects . My post on the Prime Radiant blog introduces the external sandbox pattern, where code executed by the agent runs inside a dedicated sandbox while the agent itself lives outside of that sandbox. To demonstrate this pattern we've released three sandbox server implementations: external-sandbox-v86 runs a Node.js…",
+   "pending": false,
+   "title_ru": "Внешние песочницы для выполнения кода агентами",
+   "simple": "Разработчики создали способ запускать код, генерируемый ИИ‑агентами, в отдельной изолированной среде. Это помогает безопасно тестировать локальные модели без риска вредных действий.",
+   "term": "sandbox — изолированная среда, где код может выполняться без доступа к основной системе",
+   "use": [
+    "Попробуйте настроить отдельный контейнер для запуска скриптов, генерируемых ИИ.",
+    "Следите, чтобы агент работал вне этой среды и только передавал задачи в неё.",
+    "Проверяйте логи изолированной среды, чтобы быстро обнаружить нежелательные действия."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7465bbc4c96325",
+   "date": "2026-11-17T22:50:29Z",
+   "addedAt": "2026-11-18T02:56:59Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+   "title_en": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+   "summary_en": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang […]",
+   "pending": false,
+   "title_ru": "Nvidia объявила квартальные результаты без упоминания Дженсена Хуана",
+   "simple": "Временный CEO Nvidia представила финансовый отчёт за третий квартал, не говоря о бывшем руководителе. Это показывает, что компания сосредоточена на текущих показателях, а не на смене руководства.",
+   "term": "",
+   "use": [
+    "Отслеживайте новости о финансовых результатах Nvidia, чтобы понять, как меняется рынок графических процессоров.",
+    "Обратите внимание на новые продукты компании, которые могут влиять на спрос на ИИ‑технологии."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f8045fa626e2c0",
+   "date": "2026-11-17T22:42:27Z",
+   "addedAt": "2026-11-18T02:57:00Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+   "title_en": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+   "summary_en": "The former CEO offered to return to his top role at the company after his resignation last week.",
+   "pending": false,
+   "title_ru": "Nvidia не планирует возвращать Дженсена Хуана на пост CEO",
+   "simple": "Совет директоров Nvidia официально заявил, что не собирается переappointировать бывшего CEO после его отставки. Это подтверждает стабильность текущего руководства.",
+   "term": "",
+   "use": [
+    "Следите за заявлениями совета директоров, чтобы предвидеть возможные стратегические изменения в компании.",
+    "Учтите, что стабильность руководства может влиять на долгосрочные планы разработки ИИ‑аппаратуры."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2a139dc941fac1",
+   "date": "2026-11-17T22:38:52Z",
+   "addedAt": "2026-11-18T02:57:00Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+   "title_en": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+   "summary_en": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80% of the price of 6 Astra - $8/MTok input and $40/MTok output, the same price as Claude Fable 5.2 (which was also 80% of its predecessor). 6 Astra and Fable 5 were both $10/$50. The cached price is an even bigger discount - $0.40/million compared to $1/million for the older model. This is great news for longer running agentic sessions. GPT-6.2 Sol is the same $2/$10 price as…",
+   "pending": false,
+   "title_ru": "OpenAI представила модели GPT‑6.2 Astra и Sol",
+   "simple": "OpenAI анонсировала две новые модели: мощную Astra для сложных задач и более экономичную Sol для повседневных задач. Обе доступны через API.",
+   "term": "API — программный интерфейс, позволяющий приложениям взаимодействовать с моделью удалённо",
+   "use": [
+    "Подключите новые модели к своим сервисам через API, чтобы улучшить качество ответов.",
+    "Тестируйте Astra для проектов, требующих высокой точности, а Sol — для задач с ограниченным бюджетом."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6908e71926e8ed",
+   "date": "2026-11-17T22:29:05Z",
+   "addedAt": "2026-11-18T02:57:00Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+   "title_en": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "summary_en": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+   "pending": false,
+   "title_ru": "Amazon и Google получат почти 30% Anthropic после IPO",
+   "simple": "После выхода Anthropic на биржу Amazon получит чуть меньше 15% акций, а Google — почти 14%. Это усиливает их позиции в сфере ИИ.",
+   "term": "",
+   "use": [
+    "Следите за продуктами Anthropic, которые могут стать частью сервисов Amazon и Google.",
+    "Учтите, что сотрудничество может привести к новым интеграциям ИИ в облачные платформы."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6a740dd42e07ef",
+   "date": "2026-11-17T22:19:19Z",
+   "addedAt": "2026-11-18T02:57:00Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+   "title_en": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+   "summary_en": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+   "pending": false,
+   "title_ru": "Совет Nvidia не планирует возвращать Дженсена Хуана",
+   "simple": "Несмотря на давление со стороны известных фигур, совет директоров Nvidia подтвердил, что не собирается возвращать бывшего CEO. Это указывает на продолжение текущей стратегии.",
+   "term": "",
+   "use": [
+    "Отмечайте стабильность руководства при оценке будущих продуктов Nvidia.",
+    "Следите за заявлениями совета, чтобы понять, какие направления развития ИИ‑технологий будут приоритетными."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "859fe7425ca083",
    "date": "2026-11-17T21:00:55Z",
@@ -294,6 +551,24 @@
    ],
    "money": null,
    "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "23b0b78bf30603",
+   "date": "2026-11-17T16:52:17Z",
+   "addedAt": "2026-11-18T02:56:59Z",
+   "source": "Microsoft Research",
+   "sourceType": "research",
+   "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+   "title_en": "Can AI help build a healthier future?",
+   "summary_en": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist Eric Topol of Scripps Research explore these questions and more. The post Can AI help build a healthier future? appeared first on Microsoft Research .",
+   "pending": false,
+   "title_ru": "AI может помочь построить более здоровое будущее",
+   "simple": "Эксперты Microsoft и врач-учёный обсуждают, как искусственный интеллект может улучшить медицину и какие шаги нужны для этого. Это важно для развития здравоохранения.",
+   "term": "Инференс — запуск уже обученной модели для получения ответов",
+   "use": [],
+   "money": null,
+   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -680,6 +955,28 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c6c361c53bc4ce",
+   "date": "2026-11-17T08:00:00Z",
+   "addedAt": "2026-11-18T02:56:59Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "title_en": "Introducing ChatGPT for Sales",
+   "summary_en": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+   "pending": false,
+   "title_ru": "ChatGPT теперь помогает в продажах",
+   "simple": "OpenAI добавил в ChatGPT плагин для продаж и более 30 новых партнёрских плагинов. Они позволяют искать информацию о клиентах, готовить предложения, обновлять CRM и продвигать сделки.",
+   "term": "Плагин — небольшая программа, расширяющая возможности основной системы, в данном случае ChatGPT, позволяя ей взаимодействовать с другими сервисами.",
+   "use": [
+    "Подключите Sales‑plugin в настройках ChatGPT, чтобы автоматизировать поиск данных о потенциальных клиентах.",
+    "Используйте плагины‑партнёры для быстрой генерации коммерческих предложений и их загрузки в вашу CRM.",
+    "Настройте автоматическое обновление статусов сделок через плагин, чтобы экономить время на рутине."
+   ],
+   "money": null,
+   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -2124,17 +2421,6 @@
    "model": "openai/gpt-oss-120b"
   },
   {
-   "id": "128a04bf78b6cc",
-   "date": "2026-11-15T23:58:36Z",
-   "addedAt": "2026-11-17T21:04:20Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-   "title_en": "datasette-maplibre 0.1a0",
-   "summary_en": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Look at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at ~/dev/tools/openfreemap-demo.html - then build a brand new Datasette plugin that uses maplibreGL and openfreemap and combines the features of those other two plugins - but be creative and think outside the box for other useful features the plugin might have \"Be creative and think outside the box\"…",
-   "pending": true
-  },
-  {
    "id": "fa232e2aaf8a19",
    "date": "2026-11-15T23:30:00Z",
    "addedAt": "2026-11-16T01:07:14Z",
@@ -2154,17 +2440,6 @@
    "money": null,
    "category": "Железо",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "67eb98ac1cd8e0",
-   "date": "2026-11-15T23:20:27Z",
-   "addedAt": "2026-11-17T21:04:20Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/15/datasette/",
-   "title_en": "datasette 1.0a43",
-   "summary_en": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new Response.stream() method. There are a couple of security fixes, one of which I deemed deserving of a GitHub advisory : private stored queries could be exposed, granting access to the title and SQL of the query (but not allowing that query to be executed). There are dozens of smaller improvements. The row…",
-   "pending": true
   },
   {
    "id": "87d7014c15ee68",
@@ -2335,17 +2610,6 @@
    "money": null,
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "968e4ab4d9bb9e",
-   "date": "2026-11-15T04:02:45Z",
-   "addedAt": "2026-11-17T21:04:20Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-   "title_en": "datasette-apps 0.4a0",
-   "summary_en": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plus supported URL schemes are reported back to Datasette Agent so it can help write apps that link to each other. This means you can have e.g. an app that shows details about a specific record, and a completely separate app that searches those records and links to their representations in the first app. Tags: datasette-agent , datasette-apps , datasette , urls",
-   "pending": true
   },
   {
    "id": "cc7b7d65085832",
@@ -2625,17 +2889,6 @@
    "money": null,
    "category": "Агенты",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "1876ce8bb4f476",
-   "date": "2026-11-13T19:08:57Z",
-   "addedAt": "2026-11-17T21:04:19Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-   "title_en": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-   "summary_en": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
-   "pending": true
   },
   {
    "id": "3dc626ea28ff3a",
@@ -4524,17 +4777,6 @@
    "money": null,
    "category": "Агенты",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "02f705171aa939",
-   "date": "2026-11-11T21:18:30Z",
-   "addedAt": "2026-11-17T21:04:20Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-   "title_en": "aws-emulator",
-   "summary_en": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog. It currently requires Docker to run on macOS or Windows. I'm hoping they fix that in the future - it would be great if you could download a single binary and use that as part of a standard test suite in other languages and on other platforms. Tags: amazon , amazon-web-services , testing , werner-vogels , ai , rust…",
-   "pending": true
   },
   {
    "id": "4555dea146472f",
@@ -12792,204 +13034,6 @@
    ],
    "money": null,
    "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "ed4b5825368264",
-   "date": "2026-11-02T09:00:00Z",
-   "addedAt": "2026-11-02T23:55:17Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/lifeval",
-   "title_en": "LifeVal",
-   "summary_en": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-   "pending": false,
-   "title_ru": "LifeVal: новый способ измерять, как ИИ помогает в повседневных задачах",
-   "simple": "OpenAI представила LifeVal — показатель, оценивающий, насколько искусственный интеллект упрощает такие задачи, как поиск детского сада или оформление документов. Это поможет понять реальную пользу ИИ в жизни людей.",
-   "term": "Benchmark — измеритель эффективности, позволяющий сравнивать результаты разных систем.",
-   "use": [
-    "Оцените, какие задачи в вашей работе или бизнесе можно автоматизировать с помощью ИИ и сравните их эффективность.",
-    "Следите за появлением публичных результатов LifeVal, чтобы выбирать инструменты с лучшими показателями.",
-    "Используйте полученные данные для обоснования инвестиций в ИИ‑решения."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "25d58d631aa5de",
-   "date": "2026-11-02T06:30:36Z",
-   "addedAt": "2026-11-02T17:12:46Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/02/vinay-thakker-kloudstax-ai-agent-access-control/",
-   "title_en": "The first ten lines of a command policy for AI coding agents",
-   "summary_en": "In this Help Net Security interview, Vinay Thakker, CTO of KloudStax, explains how to set identity, credentials, and network limits for AI agents. He argues that agents should run under their own identity, with the person’s identity attached when acting on someone’s behalf. He covers where credential proxies go wrong, what the first ten lines of a command policy for a coding agent should say, and how to stop data from leaving through package installs … More → The post The first ten lines of a command policy for AI coding agents appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Как написать первые 10 строк политики команд для AI‑агентов‑программистов",
-   "simple": "В интервью Vinay Thakker из KloudStax рассказал, какие правила нужно задать AI‑агенту, чтобы он работал под отдельной учётной записью, использовал нужные креденшалы и не мог скачивать лишние пакеты. Это помогает контролировать безопасность и расход ресурсов.",
-   "term": "кредитный прокси — сервис, который передаёт учётные данные от пользователя к приложению, скрывая их от конечного кода",
-   "use": [
-    "Определите минимальный набор прав, которые нужен вашему AI‑агенту, и задайте их в политике команд.",
-    "Разделите идентичности: агент работает под своей учёткой, а ваши данные передаются только при необходимости.",
-    "Настройте мониторинг установок пакетов, чтобы сразу видеть нежелательные загрузки."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "af20a6eef9a285",
-   "date": "2026-11-02T06:00:33Z",
-   "addedAt": "2026-11-02T06:23:45Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/02/byoky-open-source-ai-api-key-wallet/",
-   "title_en": "Byoky: Open-source wallet for AI API keys",
-   "summary_en": "Byoky is an open-source wallet for AI API keys, available as a Chrome and Firefox extension and as iOS and Android apps. Users store their keys for OpenAI, Anthropic, Google Gemini and other providers in it, encrypted on their own device. Apps that want those keys ask the wallet for access, and the wallet sends each request to the provider itself. The app gets a session token. The key stays in the wallet. Byoky goes … More → The post Byoky: Open-source wallet for AI API keys appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Byoky — открытый кошелёк для ключей AI‑сервисов",
-   "simple": "Byoky — это бесплатное приложение‑кошелёк, где можно хранить ключи доступа к сервисам ИИ, например OpenAI, Anthropic и Google Gemini. Ключи шифруются на устройстве, а приложения получают только токен доступа, а не сам ключ.",
-   "term": "API‑ключ — уникальный код, позволяющий приложению обращаться к сервису и получать его функции.",
-   "use": [
-    "Скачайте расширение Byoky для браузера или мобильное приложение и импортируйте свои ключи ИИ‑сервисов.",
-    "Настройте приложения так, чтобы они запрашивали доступ к ключу через Byoky, а не хранили его напрямую.",
-    "Проверьте, что ваш кошелёк защищён паролем или биометрией, чтобы предотвратить кражу ключей."
-   ],
-   "money": null,
-   "category": "Open source",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "519e423872b85c",
-   "date": "2026-11-02T05:00:46Z",
-   "addedAt": "2026-11-02T06:23:45Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/02/aur0ra-ransomware-ai-agents/",
-   "title_en": "Ransomware gang talked AI agents into doing much of its dirty work",
-   "summary_en": "The group behind the Aur0ra ransomware has been using AI agents to move through victim networks, collect credentials and work its way up to domain administrator access, according to Sophos. AI-assisted intrusion workflow (Source: Sophos) The company, which tracks the group as GOLD OGRE, recovered artifacts from the Cursor AI coding assistant in late August that show the attackers handing the agents VPN logins, proxy access, targets and objectives. The agents then mapped the network … More → The post Ransomware gang talked AI agents into doing much of its dirty work appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Группа ransomware использует AI‑агентов для взлома сетей",
-   "simple": "Исследователи обнаружили, что преступники из группы GOLD OGRE заставляют AI‑агентов искать учётные данные и повышать привилегии в сетях жертв. Это ускоряет их работу и делает атаки более автоматизированными.",
-   "term": "AI‑агент — программа, использующая искусственный интеллект для самостоятельного выполнения задач, например поиска данных в сети.",
-   "use": [
-    "Будьте внимательны к необычным запросам к внешним сервисам, которые могут быть инициированы AI‑агентами.",
-    "Обновляйте системы обнаружения вторжений, чтобы они учитывали автоматизированные действия скриптов.",
-    "Ограничьте привилегии сервисных учётных записей, чтобы AI‑агенты не могли быстро получить администраторский доступ."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "598c6194c0d34c",
-   "date": "2026-11-02T00:00:00Z",
-   "addedAt": "2026-11-02T23:55:17Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/qodo-codex-plugin",
-   "title_en": "Qodo builds context into AI code review with Codex",
-   "summary_en": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-   "pending": false,
-   "title_ru": "Qodo улучшает проверку кода ИИ, добавляя контекст с помощью Codex",
-   "simple": "Компания Qodo интегрировала в Codex (модель ИИ от OpenAI) знания о компании и стандарты кодирования, чтобы автоматически находить серьёзные ошибки до создания pull‑request. Это ускоряет процесс ревью кода.",
-   "term": "Codex — модель ИИ, обученная писать и проверять программный код.",
-   "use": [
-    "Подключите Qodo к своим репозиториям, чтобы получать автоматические предупреждения о критических ошибках.",
-    "Обучите команду пользоваться новым инструментом для ускорения проверки кода.",
-    "Настройте правила качества в Qodo в соответствии со стандартами вашего проекта."
-   ],
-   "money": null,
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "ff138f709a7e7c",
-   "date": "2026-11-02T00:00:00Z",
-   "addedAt": "2026-11-03T06:57:56Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/dan-driscoll-joins-openai",
-   "title_en": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "summary_en": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-   "pending": false,
-   "title_ru": "OpenAI назначил советника по модернизации национальной безопасности",
-   "simple": "OpenAI нанял Дэна Дрисколла в качестве старшего советника по вопросам ответственного использования ИИ в национальной безопасности и киберустойчивости, а также сотрудничеству с союзниками США.",
-   "term": "",
-   "use": [
-    "Следите за публикациями OpenAI о новых рекомендациях по использованию ИИ в обороне, чтобы быть в курсе нормативов.",
-    "Если вы работаете в сфере кибербезопасности, изучите подходы к ответственной интеграции ИИ в государственные проекты.",
-    "Обратите внимание на возможности сотрудничества с международными партнёрами, если ваш бизнес связан с безопасностью."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "33c086ca1438f5",
-   "date": "2026-11-01T21:55:23Z",
-   "addedAt": "2026-11-01T23:41:17Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-   "title_en": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-   "summary_en": "Data centers are deeply unpopular. But what if we called them something else?",
-   "pending": false,
-   "title_ru": "OpenAI может переименовать дата‑центры в «AI compute campuses»",
-   "simple": "OpenAI рассматривает возможность назвать свои дата‑центры не просто центрами обработки данных, а «AI compute campuses». Это может изменить восприятие таких объектов, делая их более привлекательными.",
-   "term": "AI compute campus — термин, подразумевающий комплекс вычислительных ресурсов, специально предназначенных для работы искусственного интеллекта.",
-   "use": [
-    "Обратить внимание на то, как в описании инфраструктуры компании используют новые названия, чтобы улучшить имидж.",
-    "Следить за тем, как переименование может влиять на восприятие клиентов и партнёров.",
-    "При подготовке собственных презентаций использовать более «технологичные» названия для инфраструктурных проектов."
-   ],
-   "money": null,
-   "category": "Железо",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "0ae10264665c48",
-   "date": "2026-11-01T20:57:58Z",
-   "addedAt": "2026-11-01T23:41:17Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-   "title_en": "AI can make tech CEOs’ lives easier. What about everyone else?",
-   "summary_en": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-   "pending": false,
-   "title_ru": "AI облегчает работу техноло­гических CEO, а что с остальными?",
-   "simple": "В статье обсуждается, как инструменты искусственного интеллекта помогают руководителям технологических компаний, но часто их заявления кажутся оторванными от реальности обычных сотрудников.",
-   "term": "",
-   "use": [
-    "Проанализировать, какие AI‑инструменты уже применяются в вашей компании и насколько они доступны всем сотрудникам.",
-    "Внедрить простые AI‑сервисы (например, автоподбор текста) в ежедневные задачи, чтобы повысить эффективность.",
-    "Обсудить с руководством, как сделать использование ИИ более открытым и понятным для всех уровней персонала."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "835fd1406315e6",
-   "date": "2026-11-01T16:49:04Z",
-   "addedAt": "2026-11-01T19:45:54Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-   "title_en": "Quoting Kyle Kingsbury",
-   "summary_en": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? — Kyle Kingsbury , Jepsen results for ParticleDB 1.1.4 Tags: kyle-kingsbury , llms , ai , generative-ai , ai-misuse",
-   "pending": false,
-   "title_ru": "LLM подрывают доверие к документации и софту",
-   "simple": "Большие языковые модели могут подделывать сигналы качества кода и документации, из‑за чего инженеры могут начать сомневаться в новых проектах. Автор задаёт вопрос, как поддерживать надёжность и показывать её пользователям.",
-   "term": "LLM — крупная языковая модель, способная генерировать текст, в том числе код и документацию.",
-   "use": [
-    "Пересматривайте критически автоматические описания и проверяйте их вручную.",
-    "Внедряйте независимые проверки кода, не полагаясь только на выводы ИИ.",
-    "Документируйте процесс проверки, чтобы показать пользователям, как вы гарантируете качество."
-   ],
-   "money": null,
-   "category": "Разработка",
    "model": "openai/gpt-oss-120b"
   }
  ]
