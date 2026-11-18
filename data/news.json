@@ -1,7 +1,150 @@
 {
- "updated": "2026-11-18T02:57:45Z",
+ "updated": "2026-11-18T11:55:11Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "996c920e2c0636",
+   "date": "2026-11-18T11:30:00Z",
+   "addedAt": "2026-11-18T11:54:42Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+   "title_en": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+   "summary_en": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+   "pending": false,
+   "title_ru": "Humyn Labs собирает $47 млн для поставки данных робототехнике США",
+   "simple": "Компания Humyn Labs, основанная в феврале, собирает данные, нужные робототехническим фирмам в США. Большая часть доходов уже идёт от американских клиентов, что делает её интересной для стартапов в сфере роботов.",
+   "term": "Фундаментальная модель — базовая AI‑модель, обучаемая на огромных объёмах данных и используемая как основа для дальнейших задач.",
+   "use": [
+    "Исследуйте, какие типы датчиков и данных нужны вашим роботам, и предложите их поставку.",
+    "Наладьте контакты с Humyn Labs для получения доступа к их набору данных.",
+    "Разработайте сервис по предобработке этих данных под конкретные задачи вашего проекта."
+   ],
+   "money": {
+    "idea": "Предоставлять услуги по подготовке и аннотированию данных для робототехники",
+    "how": [
+     "Определите, какие данные требуются клиентам в робототехнике",
+     "Создайте процесс сбора и разметки этих данных",
+     "Наладьте автоматизацию с помощью существующих AI‑инструментов",
+     "Предложите готовый набор данных клиентам"
+    ],
+    "who": "Инженеры по данным, специалисты по робототехнике, навыки работы с Python и инструментами разметки",
+    "effort": "средний",
+    "risk": "Низкий спрос, если данные уже доступны у конкурентов"
+   },
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "da6c827addce47",
+   "date": "2026-11-18T11:16:53Z",
+   "addedAt": "2026-11-18T11:54:42Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+   "title_en": "Suno now lets you make AI videos for your AI music",
+   "summary_en": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals […]",
+   "pending": false,
+   "title_ru": "Suno добавил генерацию видео к AI‑музыке",
+   "simple": "Платформа Suno теперь умеет создавать видеоклипы и изображения, синхронные с музыкой, генерируя их по текстовым запросам. Это расширяет возможности музыкантов и создателей контента без необходимости в видеоредакторах.",
+   "term": "Липсинк — автоматическое совпадение движений губ персонажа с аудио‑текстом.",
+   "use": [
+    "Попробуйте загрузить свою композицию в Suno и создать к ней видеоклип для соцсетей.",
+    "Используйте сгенерированные изображения как обложки альбомов или превью на YouTube.",
+    "Экспериментируйте с разными текстовыми запросами, чтобы получить уникальные визуалы."
+   ],
+   "money": {
+    "idea": "Создавать и продавать AI‑сгенерированные видеоклипы для музыкантов",
+    "how": [
+     "Зарегистрируйтесь в Suno и изучите функцию Visuals",
+     "Подготовьте набор музыкальных треков и запросов для визуалов",
+     "Сгенерируйте видеоклипы и отредактируйте их при необходимости",
+     "Предложите готовый контент независимым музыкантам или лейблам"
+    ],
+    "who": "Креативные продюсеры, базовые навыки работы с AI‑инструментами и видеомонтажом",
+    "effort": "низкий",
+    "risk": "Качество генерации может не соответствовать ожиданиям клиента"
+   },
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d1dd49b4f83d7a",
+   "date": "2026-11-18T10:20:30Z",
+   "addedAt": "2026-11-18T11:54:43Z",
+   "source": "MIT Technology Review",
+   "sourceType": "media",
+   "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+   "title_en": "This smell startup says its AI nose is as good as a human’s",
+   "summary_en": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
+   "pending": false,
+   "title_ru": "Стартап Osmo создал AI‑носовой датчик, сравнимый с человеком",
+   "simple": "Команда в Нью-Джерси собирает запахи со всего мира, фиксируя их описания и химический состав, чтобы обучить AI распознавать запахи так же, как человек. Это может открыть новые возможности в пищевой, медицинской и экологической сферах.",
+   "term": "Фондовая модель запахов — базовая AI‑модель, обученная на большом наборе данных о запахах и их химии.",
+   "use": [
+    "Следите за выпуском API от Osmo для интеграции в свои продукты.",
+    "Подумайте, как сенсоры запаха могут улучшить контроль качества в вашем производстве.",
+    "Исследуйте возможности применения AI‑носа в диагностике заболеваний по запаху."
+   ],
+   "money": {
+    "idea": "Разрабатывать сервисы мониторинга запахов для предприятий",
+    "how": [
+     "Подпишитесь на доступ к данным Osmo или аналогичным сервисам",
+     "Разработайте приложение, получающее сигналы от сенсоров и сравнивающее их с моделью",
+     "Тестируйте решение в небольших пилотных проектах (например, в ресторанах)",
+     "Предлагайте сервис как подписку клиентам в пищевой или фармацевтической отрасли"
+    ],
+    "who": "Разработчики программного обеспечения, знакомые с API и обработкой сенсорных данных",
+    "effort": "средний",
+    "risk": "Точность модели может быть ограничена в специфических условиях"
+   },
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "fb5cecfd17b131",
+   "date": "2026-11-18T08:47:50Z",
+   "addedAt": "2026-11-18T11:54:43Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/18/ubuntu-ai-security-patches-edge-archive/",
+   "title_en": "Ubuntu AI security patches are here, if you’re willing to test them yourself",
+   "summary_en": "Canonical is letting Ubuntu Pro customers install security patches written by AI agents before its engineers finish reviewing and testing them. The patches come from Surge, a system Canonical built to fix known vulnerabilities in Ubuntu’s userspace software, meaning everything outside the operating system’s kernel. They ship through a new opt-in channel called the Edge archive. If you leave Edge switched off, nothing changes in how your updates are checked: Ubuntu’s regular security updates still … More → The post Ubuntu AI security patches are here, if you’re willing to test them yourself appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Ubuntu предлагает AI‑созданные патчи безопасности для тестирования",
+   "simple": "Canonical позволяет клиентам Ubuntu Pro установить патчи, сгенерированные AI‑агентом Surge, ещё до их окончательной проверки инженерами. Это ускоряет закрытие уязвимостей, но требует готовности к тестированию новых исправлений.",
+   "term": "Edge‑архив — отдельный канал обновлений, где находятся экспериментальные или предварительные версии пакетов.",
+   "use": [
+    "Включите Edge‑архив в настройках Ubuntu, если хотите опробовать новые патчи раньше остальных.",
+    "Тестируйте работу критически важных приложений после установки AI‑патчей.",
+    "Отправляйте обратную связь Canonical о найденных проблемах, чтобы улучшить процесс."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "bc658e73accea2",
+   "date": "2026-11-18T05:01:00Z",
+   "addedAt": "2026-11-18T11:54:43Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+   "title_en": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+   "summary_en": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+   "pending": false,
+   "title_ru": "Исследование: более трети Gen Z используют AI как друга",
+   "simple": "По данным Gallup, молодёжь, общающаяся с AI‑собеседниками или имеющая онлайн‑друзей, чаще ощущает одиночество. Это показывает, как AI влияет на социальные отношения и психическое здоровье.",
+   "term": "",
+   "use": [
+    "Обратите внимание на то, как вы используете AI‑чатботы, и старайтесь сочетать их с живым общением.",
+    "Если вы работаете в сфере психологии, изучите возможности AI‑поддержки для клиентов.",
+    "Следите за новыми сервисами, которые предлагают безопасные и этичные AI‑социальные функции."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "19bce111d0ee60",
    "date": "2026-11-18T01:48:18Z",
@@ -88,6 +231,27 @@
    ],
    "money": null,
    "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6cab9c8cd38347",
+   "date": "2026-11-18T00:00:00Z",
+   "addedAt": "2026-11-18T11:54:40Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "title_en": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "summary_en": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+   "pending": false,
+   "title_ru": "Figaro и OpenAI подключат статьи Le Figaro к ChatGPT",
+   "simple": "Le Groupe Figaro и OpenAI договорились, что материалы Le Figaro будут доступны в ChatGPT в виде кратких выдержек с ссылками на оригиналы. Это позволит быстро получать новости из французской прессы через чат-бота.",
+   "term": "",
+   "use": [
+    "Проверьте, как в ChatGPT выводятся выдержки из статей Le Figaro, чтобы экономить время на чтение.",
+    "При работе с информацией проверяйте ссылки на оригинальные материалы для полной картины."
+   ],
+   "money": null,
+   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12906,134 +13070,6 @@
    ],
    "money": null,
    "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "869219a7f13345",
-   "date": "2026-11-02T13:57:53Z",
-   "addedAt": "2026-11-02T17:12:45Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-   "title_en": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-   "summary_en": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-   "pending": false,
-   "title_ru": "OpenAI объединит вкладки Chat и Work в ChatGPT",
-   "simple": "OpenAI объявила, что вкладки Chat и Work будут использовать общий пул ресурсов. Это упростит работу с чат-ботом и кодом в одном месте.",
-   "term": "Пул ресурсов — общий набор вычислительных мощностей, который делится между разными функциями сервиса.",
-   "use": [
-    "Попробуйте переключаться между чатами и кодом без потери контекста.",
-    "Следите за обновлениями, чтобы использовать новые возможности в своих проектах."
-   ],
-   "money": null,
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "6bf0704cb5e2b6",
-   "date": "2026-11-02T13:31:26Z",
-   "addedAt": "2026-11-02T17:12:46Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-   "title_en": "The U.S. Census Bureau and “Super Intelligence”",
-   "summary_en": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis , and then to experiment with Claude's new Code Interpreter . I decided to try running those numbers again to see what had changed over the past year, and in doing so learned that the Bureau has fallen foul of Executive Order 14434 , aka the asinine Super Intelligence one. First, the updated chart Every two weeks the U.S. Census Bureau runs a survey called the Business…",
-   "pending": false,
-   "title_ru": "Бюро переписи США и «Суперинтеллект»: замедление внедрения ИИ в крупных компаниях",
-   "simple": "Автор заметил, что данные переписи показывают снижение темпов внедрения ИИ в больших фирмах, возможно из‑за нового исполнительного указа. Это интересует тех, кто следит за трендами ИИ в бизнесе.",
-   "term": "Суперинтеллект — гипотетический ИИ, превосходящий человеческий интеллект во всех областях.",
-   "use": [
-    "Изучите, как новые регуляции могут влиять на ваш бизнес.",
-    "Следите за изменениями в законодательстве, чтобы адаптировать стратегии внедрения ИИ."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "728c21b3deeb61",
-   "date": "2026-11-02T13:10:32Z",
-   "addedAt": "2026-11-02T17:12:45Z",
-   "source": "MIT Technology Review",
-   "sourceType": "media",
-   "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-   "title_en": "Stop counting tokens, start counting what ships",
-   "summary_en": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
-   "pending": false,
-   "title_ru": "Перестаньте считать токены, считайте, что реально доставляется",
-   "simple": "Разработчики AI‑агентов тратят в 10–50 раз больше токенов, чем при обычном чате, потому что агент планирует, пишет код, тестирует и исправляет ошибки. Это важно учитывать при оценке стоимости работы агента.",
-   "term": "Токен — единица измерения объёма текста, который обрабатывает модель ИИ.",
-   "use": [
-    "Оптимизируйте запросы к агенту, чтобы уменьшить количество повторных вызовов.",
-    "Планируйте бюджет, учитывая, что сложные задачи требуют больше токенов."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "b38643a4092963",
-   "date": "2026-11-02T12:00:00Z",
-   "addedAt": "2026-11-02T17:12:46Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-   "title_en": "When You Should—and Shouldn’t—Use AI to Search the Web",
-   "summary_en": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
-   "pending": false,
-   "title_ru": "Когда стоит, а когда не стоит использовать ИИ для поиска в интернете",
-   "simple": "Чат‑боты часто умеют находить нужную информацию, но иногда обычный поисковик выдаёт более точные результаты. Выбор инструмента зависит от задачи.",
-   "term": "",
-   "use": [
-    "Пробуйте сначала задать вопрос ИИ, а если ответ неубедителен — переключитесь на поисковик.",
-    "Сравнивайте ответы ИИ и результаты поиска, чтобы выбрать лучший вариант."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "865143ca1ce886",
-   "date": "2026-11-02T10:00:00Z",
-   "addedAt": "2026-11-02T17:12:46Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-   "title_en": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-   "summary_en": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
-   "pending": false,
-   "title_ru": "Сотни обычных AI‑приложений скрывают функции создания сексуального контента",
-   "simple": "WIRED нашёл около 400 приложений и сайтов от китайских разработчиков, которые выглядят как обычные AI‑инструменты, но умеют генерировать насильственные и сексуальные deepfake‑изображения. Это показывает, как скрытые функции могут использоваться в злых целях.",
-   "term": "deepfake — искусственно созданные изображения или видео, имитирующие реальных людей, часто с изменённым содержанием",
-   "use": [
-    "Будьте осторожны, проверяя функции новых AI‑приложений, особенно если они бесплатные и малоизвестные.",
-    "Если вы разрабатываете AI‑продукт, включите прозрачный список возможностей и механизмы блокировки нежелательного контента.",
-    "Следите за новостями о регулировании и рекомендациями платформ по борьбе с нелегальным контентом."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "e49f46b109f680",
-   "date": "2026-11-02T09:35:19Z",
-   "addedAt": "2026-11-02T17:12:45Z",
-   "source": "MIT Technology Review",
-   "sourceType": "media",
-   "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-   "title_en": "The agentic web is here",
-   "summary_en": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…",
-   "pending": false,
-   "title_ru": "Появилась «агентная» версия интернета — Semantic Web",
-   "simple": "Тим Бернерс‑Ли и коллеги предложили идею Semantic Web — сеть, где автономные программные агенты могут самостоятельно искать и обрабатывать информацию. Это может изменить то, как мы взаимодействуем с данными в интернете.",
-   "term": "Semantic Web — концепция интернета, где данные помечены так, чтобы их могли понимать и использовать программы без человеческого вмешательства",
-   "use": [
-    "Изучите основы семантических технологий, если работаете с большими данными или поисковыми системами.",
-    "Подумайте, как автоматизировать сбор и обработку информации в вашем проекте с помощью простых скриптов‑агентов.",
-    "Следите за появлением инструментов, поддерживающих семантическую разметку, чтобы улучшить видимость вашего контента."
-   ],
-   "money": null,
-   "category": "Агенты",
    "model": "openai/gpt-oss-120b"
   }
  ]
