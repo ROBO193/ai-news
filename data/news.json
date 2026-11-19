@@ -1,7 +1,282 @@
 {
- "updated": "2026-11-18T20:41:37Z",
+ "updated": "2026-11-19T02:39:44Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "a8022fb06095c4",
+   "date": "2026-11-19T00:42:56Z",
+   "addedAt": "2026-11-19T02:38:58Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+   "title_en": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "summary_en": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+   "pending": false,
+   "title_ru": "Наделла предложил 60 000 сотрудникам уйти добровольно из‑за ИИ",
+   "simple": "Генеральный директор Microsoft Сатья Наделла объяснил, что предложил выкупить контракты 60 000 работников, чтобы сократить штат без массовых увольнений. Причина — рост искусственного интеллекта, меняющий требования к персоналу.",
+   "term": "AI‑агенты — программы, которые автоматически выполняют задачи, имитируя человеческое поведение.",
+   "use": [
+    "Пересмотрите свои навыки: изучите основы работы с ИИ‑инструментами.",
+    "Если вы руководите командой, подумайте, какие роли могут быть автоматизированы и как переобучить сотрудников."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "44255eb49d7ccc",
+   "date": "2026-11-18T23:45:00Z",
+   "addedAt": "2026-11-19T02:38:58Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+   "title_en": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "summary_en": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+   "pending": false,
+   "title_ru": "Наделла: часть критической инфраструктуры нельзя защитить от ИИ‑угроз",
+   "simple": "Гендиректор Microsoft отметил, что ИИ открывает новые возможности, но и создает проблемы для защиты сетей. Он сказал, что часть важной инфраструктуры «неподдаётся патч‑защите».",
+   "term": "патч‑защита — обновление программного обеспечения, устраняющее уязвимости.",
+   "use": [
+    "Следите за обновлениями безопасности в своей компании и проверяйте, какие системы уже защищены от ИИ‑угроз.",
+    "Подготовьте план реагирования на инциденты, учитывая возможность новых типов атак.",
+    "Обучайте сотрудников распознавать подозрительные действия, связанные с ИИ."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b429cb510b6987",
+   "date": "2026-11-18T23:18:35Z",
+   "addedAt": "2026-11-19T02:38:58Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+   "title_en": "The nation’s largest school districts consider ditching Google Search",
+   "summary_en": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice […]",
+   "pending": false,
+   "title_ru": "Крупнейшие школьные округа США могут отказаться от Google Search",
+   "simple": "Школы в Нью‑Йорке, Лос‑Анджелесе и Чикаго рассматривают альтернативы Google, потому что компания планирует отключать поиск только вместе с ИИ‑функциями. Учреждения не смогут отключить ИИ‑модели без потери поиска.",
+   "term": "Gemini — ИИ‑модель Google, интегрированная в поиск.",
+   "use": [
+    "Ищите альтернативные поисковые сервисы, которые позволяют отключать ИИ‑функции без потери доступа.",
+    "Если вы работаете в образовании, обсудите с руководством политику использования ИИ‑инструментов.",
+    "Оцените, какие учебные ресурсы зависят от Google, и подготовьте план перехода."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ebee197c44b51a",
+   "date": "2026-11-18T23:17:28Z",
+   "addedAt": "2026-11-19T02:38:58Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+   "title_en": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+   "summary_en": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+   "pending": false,
+   "title_ru": "Наделла уверен в Nvidia после ухода Хуана, поддерживает нового руководителя",
+   "simple": "Сатья Наделла выразил уверенность в будущей работе Nvidia под руководством временно исполняющего обязанности С. Кресс, несмотря на уход Дженсена Хуана. Он считает, что компания продолжит развитие ИИ‑технологий.",
+   "term": "",
+   "use": [
+    "Следите за новостями о продуктах Nvidia, они могут стать основой новых ИИ‑решений.",
+    "Если вы разработчик, изучайте SDK и инструменты Nvidia для ускорения ИИ‑вычислений."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f7885a7f892bd8",
+   "date": "2026-11-18T22:58:11Z",
+   "addedAt": "2026-11-19T02:38:58Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+   "title_en": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+   "summary_en": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+   "pending": false,
+   "title_ru": "Наделла: ИИ‑агенты изменят экономику интернета и рекламные модели",
+   "simple": "Гендиректор Microsoft предсказал, что ИИ‑агенты смогут менять способы привлечения клиентов, заставив такие компании, как Amazon, переосмыслить свои рекламные стратегии. Это может привести к перестройке бизнес‑моделей, основанных на рекламе.",
+   "term": "AI‑агент — программный помощник, который самостоятельно взаимодействует с пользователями и сервисами.",
+   "use": [
+    "Изучите, как ИИ‑агенты могут автоматизировать клиентскую поддержку в вашем бизнесе.",
+    "Подумайте о новых способах привлечения клиентов без традиционной рекламы, используя персонализированные ИИ‑инструменты."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d0d45b2248dd79",
+   "date": "2026-11-18T22:18:53Z",
+   "addedAt": "2026-11-19T02:38:58Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+   "title_en": "Nvidia’s rise, visualized",
+   "summary_en": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of […]",
+   "pending": false,
+   "title_ru": "Рост Nvidia в цифрах: прибыль в $8 300 каждую секунду",
+   "simple": "Компания Nvidia зарабатывает огромные суммы каждую секунду, что показывает её лидирующее положение в сфере искусственного интеллекта. Это интересно, потому что такие доходы свидетельствуют о большом спросе на её технологии.",
+   "term": "GPU — графический процессор, используемый для ускорения вычислений в ИИ‑моделях",
+   "use": [
+    "Обратите внимание на то, какие задачи в вашей работе могут требовать ускорения вычислений и рассмотрите использование облачных сервисов с GPU.",
+    "Если вы разрабатываете ИИ‑приложения, планируйте бюджет с учётом стоимости аренды мощных видеокарт.",
+    "Следите за новостями Nvidia, чтобы знать о новых возможностях их оборудования."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "25e810fd0ee0eb",
+   "date": "2026-11-18T22:16:23Z",
+   "addedAt": "2026-11-19T02:38:58Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/guys-really-we-got-this/",
+   "title_en": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+   "summary_en": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
+   "pending": false,
+   "title_ru": "Временный CEO Nvidia уверяет: всё под контролем",
+   "simple": "Временный глава Nvidia Колетт Кресс неоднократно заявляла, что компания справляется со всеми вызовами. Это важно, потому что стабильность лидера влияет на развитие ИИ‑технологий компании.",
+   "term": "",
+   "use": [
+    "Следите за официальными заявлениями Nvidia, чтобы оценивать надёжность их продуктов для ваших проектов.",
+    "Если вы планируете использовать решения Nvidia, учитывайте их способность поддерживать стабильную работу даже при смене руководства."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6b4b11d8558c17",
+   "date": "2026-11-18T22:11:15Z",
+   "addedAt": "2026-11-19T02:38:58Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "title_en": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "summary_en": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+   "pending": false,
+   "title_ru": "Anthropic планирует IPO по цене $83 за акцию, оценка $1,5 трлн",
+   "simple": "Компания Anthropic, разрабатывающая крупные языковые модели, готовится к публичному размещению акций по цене выше ожидаемой, что ставит её стоимость в полтора триллиона долларов. Это показывает растущий интерес инвесторов к ИИ‑стартапам.",
+   "term": "IPO — первичное публичное размещение акций, когда компания впервые продаёт их на бирже",
+   "use": [
+    "Изучайте публичные отчёты новых ИИ‑компаний, чтобы понять, какие технологии востребованы.",
+    "Если вы работаете в сфере ИИ, следите за тем, какие модели и сервисы предлагают такие компании, чтобы адаптировать свои навыки."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "4544035da65a5f",
+   "date": "2026-11-18T21:57:40Z",
+   "addedAt": "2026-11-19T02:38:58Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+   "title_en": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+   "summary_en": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+   "pending": false,
+   "title_ru": "Nvidia не подала обычный квартальный отчёт 10‑Q, вызвав удивление",
+   "simple": "Компания Nvidia решила отложить подачу стандартного финансового отчёта 10‑Q, что привлекло внимание аналитиков. Это может указывать на изменения в её стратегии, важные для рынка ИИ‑технологий.",
+   "term": "10‑Q — квартальный отчёт, который публичные компании обязаны подавать в SEC, раскрывающий финансовые результаты",
+   "use": [
+    "Следите за изменениями в финансовой отчётности Nvidia, чтобы оценивать её стабильность для ваших ИИ‑проектов.",
+    "Если вы планируете использовать продукты Nvidia, учитывайте возможные задержки в официальных данных о компании."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "0c3c8b23c6caec",
+   "date": "2026-11-18T21:35:43Z",
+   "addedAt": "2026-11-19T02:38:56Z",
+   "source": "Google DeepMind",
+   "sourceType": "company",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "title_en": "Introducing Gemini 4 Neon",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Google DeepMind представил Gemini 4 Neon",
+   "simple": "Google DeepMind анонсировала новую версию своей модели Gemini под названием Neon. Это очередной шаг в развитии больших языковых моделей, которые становятся всё более способными.",
+   "term": "",
+   "use": [],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "48feb3ab27c887",
+   "date": "2026-11-18T21:34:13Z",
+   "addedAt": "2026-11-19T02:38:58Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+   "title_en": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+   "summary_en": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+   "pending": false,
+   "title_ru": "AI‑атаки опережают защиту, предупреждает Палмер Лаки",
+   "simple": "Соучредитель Anduril заявил, что кибератаки, использующие искусственный интеллект, уже быстрее, чем современные системы защиты. Старое оборудование делает сети уязвимыми.",
+   "term": "Deepfake — подделка медиа с помощью ИИ, создающая правдоподобные изображения и звук.",
+   "use": [
+    "Обновите антивирусные решения, выбирая те, что используют ИИ‑анализ.",
+    "Проведите аудит используемого программного обеспечения на предмет устаревших компонентов.",
+    "Обучите сотрудников распознавать подозрительные сообщения и ссылки."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d1d45343ebee71",
+   "date": "2026-11-18T21:15:00Z",
+   "addedAt": "2026-11-19T02:38:58Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+   "title_en": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+   "summary_en": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+   "pending": false,
+   "title_ru": "США усиливают ограничения на AI‑чипы для Китая",
+   "simple": "Администрация Трампа объявила о новых мерах, ограничивающих поставки чипов, используемых в искусственном интеллекте, в Китай. Это часть технологической конкуренции между странами.",
+   "term": "",
+   "use": [
+    "Следите за изменениями экспортных правил, если работаете с поставками электроники.",
+    "Ищите альтернативные поставщики чипов, не подпадающих под ограничения."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ede0adf4c57802",
+   "date": "2026-11-18T20:49:32Z",
+   "addedAt": "2026-11-19T02:38:58Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+   "title_en": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+   "summary_en": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
+   "pending": false,
+   "title_ru": "Coinbase заблокировал 4,7 млн $ в схеме с deepfake‑муском",
+   "simple": "Криптобиржа Coinbase остановила перевод миллионов долларов, направленных мошенникам, которые использовали ИИ‑созданный поддельный образ Илона Маска в прямом эфире. Это показывает рост финансовых мошенничеств с AI.",
+   "term": "Deepfake — подделка медиа с помощью ИИ, создающая правдоподобные изображения и звук.",
+   "use": [
+    "Будьте осторожны с предложениями «выиграть» деньги от известных личностей в соцсетях.",
+    "Проверяйте ссылки и адреса кошельков перед переводом средств.",
+    "Используйте двухфакторную аутентификацию на криптовалютных платформах."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "93ec3dad35d6b3",
    "date": "2026-11-18T19:56:39Z",
@@ -729,6 +1004,50 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "9fa731b0ef6c1d",
+   "date": "2026-11-18T08:00:00Z",
+   "addedAt": "2026-11-19T02:38:56Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "title_en": "Research acceleration: The jagged frontier",
+   "summary_en": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+   "pending": false,
+   "title_ru": "Ускорение исследований: как кодирующие агенты влияют на развитие ИИ",
+   "simple": "OpenAI изучает, как специальные программы‑агенты, пишущие код, ускоряют исследования в области искусственного интеллекта, но их эффективность пока разнится. Это важно, потому что такие агенты могут стать ключом к более быстрому прогрессу.",
+   "term": "рекурсивное самосовершенствование — процесс, когда система улучшает себя, используя собственные улучшения как основу для дальнейшего развития",
+   "use": [
+    "Отслеживайте публикации OpenAI о производительности кодирующих агентов, чтобы понять, какие задачи они уже решают эффективно.",
+    "Подумайте, какие рутинные задачи в вашей работе можно автоматизировать с помощью генерации кода, и протестируйте простые скрипты.",
+    "Следите за изменениями в инструментах, которые используют такие агенты, чтобы своевременно адаптировать свои процессы."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "b527b6f0ddceaf",
+   "date": "2026-11-18T08:00:00Z",
+   "addedAt": "2026-11-19T02:38:56Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/business/customer-stories/sumitomo-life",
+   "title_en": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "summary_en": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+   "pending": false,
+   "title_ru": "Как Sumitomo Life внедряет ChatGPT Enterprise в страховой бизнес",
+   "simple": "Страховая компания Sumitomo Life использует корпоративную версию ChatGPT для поиска информации, подготовки предложений и написания кода аналитики инвестиций. Руководство начало пользоваться сервисом, что ускорило его распространение внутри компании.",
+   "term": "ChatGPT Enterprise — платформа на базе ИИ, адаптированная для корпоративного использования с повышенной безопасностью и возможностями интеграции",
+   "use": [
+    "Попробуйте в своей компании протестировать ChatGPT Enterprise для автоматизации подготовки аналитических отчётов.",
+    "Используйте ИИ для быстрой генерации черновиков предложений и документов, экономя время сотрудников.",
+    "Обучите команду базовым навыкам работы с запросами к ИИ, чтобы повысить эффективность внедрения."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "8b6ac2940fdc0d",
    "date": "2026-11-18T06:00:00Z",
    "addedAt": "2026-11-18T20:40:36Z",
@@ -1170,7 +1489,18 @@
    "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
    "title_en": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
    "summary_en": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
-   "pending": true
+   "pending": false,
+   "title_ru": "Критика в адрес Дженсена Хуана: обвинения в связях с Трампом и извинения Nvidia",
+   "simple": "Глава Nvidia Дженсен Хуанг извинился, когда в СМИ появились обвинения в его связях с бывшим президентом США и усилилась проверка компании. Это привлекло внимание к политическим рискам в сфере технологий.",
+   "term": "Nvidia — крупнейший производитель графических процессоров, используемых для обучения и работы ИИ‑моделей",
+   "use": [
+    "Следите за новостями о регуляторных проверках крупных технологических компаний, чтобы оценивать риски для партнёрских проектов.",
+    "Если вы используете оборудование Nvidia, проверяйте обновления драйверов и совместимости с вашими ИИ‑решениями.",
+    "Учитывайте политический контекст при планировании долгосрочных инвестиций в инфраструктуру ИИ."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "d9a047affb0281",
@@ -1570,17 +1900,6 @@
    "money": null,
    "category": "Железо",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "86f07be892b022",
-   "date": "2026-11-17T14:39:46Z",
-   "addedAt": "2026-11-18T20:40:39Z",
-   "source": "MIT Technology Review",
-   "sourceType": "media",
-   "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-   "title_en": "Research Reports",
-   "summary_en": "To access a report, click on the corresponding image below.",
-   "pending": true
   },
   {
    "id": "697ff91b93402f",
@@ -3322,17 +3641,6 @@
    "model": "openai/gpt-oss-120b"
   },
   {
-   "id": "128a04bf78b6cc",
-   "date": "2026-11-15T23:58:36Z",
-   "addedAt": "2026-11-18T20:40:39Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-   "title_en": "datasette-maplibre 0.1a0",
-   "summary_en": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Look at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at ~/dev/tools/openfreemap-demo.html - then build a brand new Datasette plugin that uses maplibreGL and openfreemap and combines the features of those other two plugins - but be creative and think outside the box for other useful features the plugin might have \"Be creative and think outside the box\"…",
-   "pending": true
-  },
-  {
    "id": "fa232e2aaf8a19",
    "date": "2026-11-15T23:30:00Z",
    "addedAt": "2026-11-16T01:07:14Z",
@@ -3352,17 +3660,6 @@
    "money": null,
    "category": "Железо",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "67eb98ac1cd8e0",
-   "date": "2026-11-15T23:20:27Z",
-   "addedAt": "2026-11-18T20:40:39Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/15/datasette/",
-   "title_en": "datasette 1.0a43",
-   "summary_en": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new Response.stream() method. There are a couple of security fixes, one of which I deemed deserving of a GitHub advisory : private stored queries could be exposed, granting access to the title and SQL of the query (but not allowing that query to be executed). There are dozens of smaller improvements. The row…",
-   "pending": true
   },
   {
    "id": "87d7014c15ee68",
@@ -3533,17 +3830,6 @@
    "money": null,
    "category": "Безопасность",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "968e4ab4d9bb9e",
-   "date": "2026-11-15T04:02:45Z",
-   "addedAt": "2026-11-18T20:40:39Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-   "title_en": "datasette-apps 0.4a0",
-   "summary_en": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plus supported URL schemes are reported back to Datasette Agent so it can help write apps that link to each other. This means you can have e.g. an app that shows details about a specific record, and a completely separate app that searches those records and links to their representations in the first app. Tags: datasette-agent , datasette-apps , datasette , urls",
-   "pending": true
   },
   {
    "id": "cc7b7d65085832",
@@ -12756,255 +13042,6 @@
    ],
    "money": null,
    "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "dde5f3bd6293e9",
-   "date": "2026-11-03T15:52:53Z",
-   "addedAt": "2026-11-03T21:49:45Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-   "title_en": "Apple is all in on AI — its own and everyone else’s",
-   "summary_en": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter. iPhone revenue rose 17.5% from a […]",
-   "pending": false,
-   "title_ru": "Apple полностью вкладывается в ИИ: свои разработки и сторонние решения",
-   "simple": "Apple показала, что продолжает использовать искусственный интеллект, не тратя огромные бюджеты на инфраструктуру, как конкуренты. Это помогает компании увеличить доходы и укрепить позиции на рынке.",
-   "term": "Large Language Model — крупная языковая модель, обученная на огромных объёмах текста для генерации ответов.",
-   "use": [
-    "Обратите внимание на новые функции iPhone и Mac, использующие ИИ, и попробуйте их в работе.",
-    "Следите за обновлениями приложений Apple, где ИИ может ускорять задачи.",
-    "Если вы разработчик, изучайте интеграцию сторонних ИИ‑моделей в экосистему Apple."
-   ],
-   "money": null,
-   "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "f9c0c715eee223",
-   "date": "2026-11-03T15:38:27Z",
-   "addedAt": "2026-11-03T21:49:46Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-   "title_en": "Apple restricts dating apps and AI companions to users 18 and up",
-   "summary_en": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-   "pending": false,
-   "title_ru": "Apple ограничивает приложения знакомств и ИИ‑компаньонов 18+",
-   "simple": "Apple ввела новое правило, согласно которому приложения знакомств и ИИ‑компаньоны с романтическим контентом могут быть в App Store только для пользователей старше 18 лет. Это связано с желанием защитить младшую аудиторию.",
-   "term": "",
-   "use": [
-    "Если вы разрабатываете приложение с ИИ‑компаньоном, подготовьте отдельную версию для взрослых.",
-    "Проверьте, соответствует ли ваш продукт новым требованиям App Store, чтобы избежать отклонения.",
-    "Учтите возрастные ограничения при планировании маркетинга и рекламных кампаний."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "32791f69eb2c32",
-   "date": "2026-11-03T15:00:44Z",
-   "addedAt": "2026-11-03T15:18:14Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-   "title_en": "OpenAI is quietly renaming data centers ‘compute campuses’",
-   "summary_en": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what about \"compute campuses\"? Those sound lovely, right? OpenAI seems to be gambling that a quiet rebrand could be all it takes to defuse the growing […]",
-   "pending": false,
-   "title_ru": "OpenAI переименовывает дата‑центры в «вычислительные кампусы»",
-   "simple": "OpenAI решила назвать свои дата‑центры «вычислительные кампусы», надеясь, что новое название уменьшит негативное отношение к этим объектам.",
-   "term": "Дата‑центр — большое помещение, где размещаются серверы и оборудование для обработки и хранения данных.",
-   "use": [
-    "Обратите внимание на то, как названия продуктов влияют восприятие клиентов.",
-    "Следите за реакцией общественности и регулирующих органов на такие ребрендинги."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "f6282e8c323a6b",
-   "date": "2026-11-03T15:00:10Z",
-   "addedAt": "2026-11-03T15:18:15Z",
-   "source": "BleepingComputer",
-   "sourceType": "media",
-   "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-   "title_en": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-   "summary_en": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure management. [...]",
-   "pending": false,
-   "title_ru": "К 2028 году в SOC будет на 50 % больше инженеров, чем аналитиков",
-   "simple": "По прогнозу Gartner, к 2028 году в центрах безопасности будет вдвое больше инженеров, потому что ИИ‑агенты возьмут на себя рутину обработки оповещений.",
-   "term": "SOC (Security Operations Center) — центр, где специалисты следят за безопасностью ИТ‑инфраструктуры.",
-   "use": [
-    "Изучите основы работы ИИ‑агентов в сфере кибербезопасности.",
-    "Подготовьте команду к переходу от аналитики к инженерным задачам."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "e93df968a0ea99",
-   "date": "2026-11-03T14:45:08Z",
-   "addedAt": "2026-11-03T15:18:15Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-   "title_en": "Here's Why You Shouldn't Use AI to Vote",
-   "summary_en": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
-   "pending": false,
-   "title_ru": "Почему нельзя использовать ИИ для голосования",
-   "simple": "ИИ‑чатботы могут давать неверные ответы и проявлять политическую предвзятость, поэтому их нельзя использовать при выборах.",
-   "term": "Галлюцинация ИИ — ситуация, когда модель генерирует неправдоподобную или вымышленную информацию.",
-   "use": [
-    "Не полагайтесь на ИИ при принятии важных политических решений.",
-    "Проверяйте информацию из ИИ через независимые источники."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "cbb96e663e0c96",
-   "date": "2026-11-03T14:00:26Z",
-   "addedAt": "2026-11-03T15:18:15Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/03/novee-external-surface-testing/",
-   "title_en": "Novee puts forgotten internet-facing assets through penetration testing",
-   "summary_en": "Novee’s External Surface Testing is a new capability in its AI penetration testing platform that helps security teams discover internet-facing assets and validate exploitable vulnerabilities. It tests newly disclosed CVEs and findings imported from third-party external attack surface management (EASM) tools. “Attackers don’t limit themselves to the applications you’re already testing. They look for anything exposed to the internet – forgotten subdomains, staging servers left online, and infrastructure your team may not even know exists. … More → The post Novee puts forgotten internet-facing assets through penetration testing appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Novee проверяет забытые интернет‑ресурсы на уязвимости",
-   "simple": "Платформа Novee добавила функцию, которая ищет забытые публичные ресурсы и проверяет их на известные уязвимости с помощью ИИ.",
-   "term": "Pen‑testing (penetration testing) — проверка систем на наличие уязвимостей, имитируя действия злоумышленника.",
-   "use": [
-    "Проверьте свои публичные субдомены и тестовые серверы на наличие уязвимостей.",
-    "Внедрите автоматический мониторинг новых CVE в своих системах."
-   ],
-   "money": {
-    "idea": "Предлагать услуги внешнего тестирования уязвимостей с помощью Novee",
-    "how": [
-     "Изучить работу платформы Novee и её AI‑модуль",
-     "Создать список клиентских интернет‑ресурсов для проверки",
-     "Запустить автоматический скан и собрать отчёт о найденных уязвимостях",
-     "Предложить клиенту план по устранению найденных проблем"
-    ],
-    "who": "Специалисты по кибербезопасности, умеющие работать с автоматизированными сканерами",
-    "effort": "средний",
-    "risk": "Неправильная интерпретация результатов может привести к ложным тревогам"
-   },
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "c136875d05ca54",
-   "date": "2026-11-03T14:00:00Z",
-   "addedAt": "2026-11-03T15:18:15Z",
-   "source": "BleepingComputer",
-   "sourceType": "media",
-   "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-   "title_en": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-   "summary_en": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
-   "pending": false,
-   "title_ru": "Школы в Великобритании атакованы вымогателем 3AM с помощью ИИ",
-   "simple": "Хакеры использовали ransomware 3AM, поддержанный ИИ, и зашифровали почти все компьютеры в школьном комплексе. Это показывает, как ИИ может ускорять кибератаки.",
-   "term": "Ransomware — вредоносное ПО, которое шифрует данные и требует выкуп за их расшифровку.",
-   "use": [
-    "Проверьте, какие устройства в вашей сети не управляются централизованно и подключите их к системе мониторинга.",
-    "Обновляйте антивирус и патчи на всех компьютерах, особенно в образовательных учреждениях.",
-    "Регулярно делайте резервные копии важных данных и храните их отдельно от основной сети."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "d7cae2dc808751",
-   "date": "2026-11-03T12:31:59Z",
-   "addedAt": "2026-11-03T15:18:15Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/03/ai-powered-cyberattacks-artex-cyberstrikeai/",
-   "title_en": "AI agents scale and speed up Chinese-linked attacks",
-   "summary_en": "A China-nexus espionage group used AI agents to attack more than 200 organizations in 11 days, CrowdStrike said last week. On Monday, Kaspersky published details of a separate campaign against educational institutions in Africa and Latin America, mounted by Chinese-speaking operators. Though the campaigns don’t appear to be connected, they are executed the same way: a human picks the targets and sets the goals, and a large language model (LLM) decides which commands to run … More → The post AI agents scale and speed up Chinese-linked attacks appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "AI‑агенты ускоряют кибератаки, связанные с Китаем",
-   "simple": "Китайская шпионская группа использовала AI‑агенты, чтобы за 11 дней атаковать более 200 организаций. Человек задаёт цель, а большая языковая модель выбирает команды.",
-   "term": "LLM (Large Language Model) — крупная языковая модель, способная генерировать текст и предлагать действия на основе запросов.",
-   "use": [
-    "Будьте внимательны к подозрительным запросам к облачным сервисам, особенно от новых пользователей.",
-    "Обучайте сотрудников распознавать фишинговые письма, которые могут инициировать AI‑поддерживаемые атаки.",
-    "Внедрите ограничения на автоматическое выполнение скриптов, генерируемых ИИ."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "26c6032e1d2677",
-   "date": "2026-11-03T12:00:00Z",
-   "addedAt": "2026-11-03T21:49:41Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-   "title_en": "Accelerating engineering for the physical world",
-   "summary_en": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-   "pending": false,
-   "title_ru": "ChatGPT и Codex ускоряют инженерные задачи в CAD и PCB",
-   "simple": "OpenAI показала, как их модели ChatGPT и Codex помогают инженерам быстрее создавать чертежи, схемы и проводить симуляции. Это делает процесс разработки физического продукта более эффективным.",
-   "term": "Codex — модель, обученная писать код по описанию на естественном языке, упрощая программирование.",
-   "use": [
-    "Попробуйте использовать ChatGPT для генерации описаний требований к деталям в CAD.",
-    "Примените Codex, чтобы автоматически писать скрипты для проверки PCB‑дизайнов.",
-    "Внедрите ИИ‑подсказки в рабочие процессы, чтобы сократить время рутинных расчётов."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "81203220187f5b",
-   "date": "2026-11-03T11:00:00Z",
-   "addedAt": "2026-11-03T15:18:15Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
-   "title_en": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
-   "summary_en": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
-   "pending": false,
-   "title_ru": "Мэр Нью‑Йорка обсуждает ИИ в школах и дата‑центрах",
-   "simple": "В интервью мэр Нью‑Йорка рассказал о планах по использованию ИИ в школах и о роли дата‑центров для обработки данных. Тема актуальна перед выборами.",
-   "term": "",
-   "use": [
-    "Следите за инициативами местных властей по внедрению ИИ в образование и участвуйте в обсуждениях.",
-    "Если вы работаете в ИТ‑секторе, изучите требования к энергоэффективности дата‑центров.",
-    "Подумайте, как ИИ может улучшить учебные процессы в вашей школе или вузе."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "c7a94f8b7c585c",
-   "date": "2026-11-03T10:43:41Z",
-   "addedAt": "2026-11-03T15:18:15Z",
-   "source": "MIT Technology Review",
-   "sourceType": "media",
-   "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-   "title_en": "How “reverse game theory” could keep AI agents in check",
-   "summary_en": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
-   "pending": false,
-   "title_ru": "«Обратная теория игр» для контроля AI‑агентов",
-   "simple": "Учёные предлагают новый метод «обратной теории игр», который заставляет мощные AI‑модели следовать правилам, а не нарушать их. Это попытка сделать ИИ безопаснее.",
-   "term": "Обратная теория игр — подход, где система награждает ИИ за соблюдение заданных правил, а не за достижение цели любой ценой.",
-   "use": [
-    "При разработке ИИ‑систем учитывайте механизмы поощрения за соблюдение этических правил.",
-    "Тестируйте модели в условиях, где они могут получить как вознаграждение, так и штраф за действия.",
-    "Следите за исследованиями в области AI‑alignment (выравнивание целей ИИ с человеческими)."
-   ],
-   "money": null,
-   "category": "Исследования",
    "model": "openai/gpt-oss-120b"
   }
  ]
