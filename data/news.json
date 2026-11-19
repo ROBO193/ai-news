@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-19T02:39:44Z",
+ "updated": "2026-11-19T11:52:44Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "f26a40aa350ac1",
+   "date": "2026-11-19T10:23:41Z",
+   "addedAt": "2026-11-19T11:52:17Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/19/palo-alto-networks-acquires-applied-compute/",
+   "title_en": "Palo Alto Networks to acquire Applied Compute for $4.5 billion",
+   "summary_en": "Palo Alto Networks will acquire Applied Compute, a platform for post-training and inference of open-weight AI models. The all-stock transaction is valued at $4.5 billion, subject to adjustments. The acquisition will bring Applied Compute’s platform and world-class AI research team to Palo Alto Networks to help enterprises adopt AI securely, whether they choose open-weight models, closed frontier models, or both. Palo Alto Networks believes the future of enterprise AI is hybrid, and that a large … More → The post Palo Alto Networks to acquire Applied Compute for $4.5 billion appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Palo Alto Networks покупает Applied Compute за $4,5 млрд",
+   "simple": "Компания Palo Alto Networks объявила о покупке платформы Applied Compute, которая помогает запускать открытые модели ИИ. Это позволит клиентам безопасно использовать как открытые, так и закрытые модели.",
+   "term": "Инференс — запуск уже обученной модели для получения ответов",
+   "use": [
+    "Оцените, какие открытые модели ИИ могут быть полезны в вашем бизнесе.",
+    "Следите за новостями Palo Alto Networks о новых инструментах безопасности для ИИ.",
+    "Подумайте о внедрении гибридных решений, комбинирующих открытые и закрытые модели."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "1bcc132f92bd71",
+   "date": "2026-11-19T05:00:37Z",
+   "addedAt": "2026-11-19T11:52:17Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/19/ai-agents-employee-credentials-nudge-security-report/",
+   "title_en": "AI agents inherit employee access, and nobody’s watching how they use it",
+   "summary_en": "AI agents that employees build inside project trackers, CRMs and automation tools often run on the credentials of the person who created them and carry that person’s access to company data, according to Nudge Security. Source: Nudge Security The AI Adoption in Practice 2026 report draws on anonymized, aggregated telemetry from Nudge Security customer environments. It tracks which AI tools show up in organizations, what those tools connect to, which agents are running and how … More → The post AI agents inherit employee access, and nobody’s watching how they use it appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "AI‑агенты используют доступ сотрудников без контроля",
+   "simple": "AI‑агенты, созданные внутри корпоративных систем, работают под учётными данными их создателей и получают тот же доступ к данным. Никакой отдельный мониторинг их действий не предусмотрен.",
+   "term": "AI‑агент — программный помощник, который автоматически выполняет задачи, используя права пользователя, создавшего его",
+   "use": [
+    "Проверьте, какие права имеют ваши сотрудники в системах автоматизации.",
+    "Внедрите отдельный контроль и аудит действий AI‑агентов.",
+    "Ограничьте доступ AI‑агентов только к необходимым данным."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "a8022fb06095c4",
    "date": "2026-11-19T00:42:56Z",
@@ -21,6 +65,28 @@
    ],
    "money": null,
    "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "fd1897fc7619b2",
+   "date": "2026-11-18T23:59:20Z",
+   "addedAt": "2026-11-19T11:52:18Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+   "title_en": "llm-gemini 0.38",
+   "summary_en": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the same price , and Hydrogen was 3/4 of that price now but will be 1/4 of that price when the other two double an 1st December once their initial discount pricing expires. The Neon announcement pretends that Argon doesn't exist. Here's their new image explaining the model line-up: So the lineup now, from most to least expensive, is Carbon, Neon, Hydrogen. Except Carbon is currently half price, so right now Neon…",
+   "pending": false,
+   "title_ru": "Google представил Gemini 4 Neon с новой ценовой схемой",
+   "simple": "Google анонсировала новую версию модели Gemini 4 под названием Neon, изменив при этом структуру цен. Теперь линейка моделей выглядит иначе, а цены стали менее прозрачными.",
+   "term": "Ценообразование моделей — система определения стоимости использования конкретной ИИ‑модели",
+   "use": [
+    "Изучите, какие модели Gemini подходят под ваши задачи и бюджет.",
+    "Сравните цены новых моделей с предыдущими версиями перед покупкой.",
+    "Следите за официальными анонсами, чтобы понять, какие функции входят в каждый тариф."
+   ],
+   "money": null,
+   "category": "Модели",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -174,6 +240,28 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "66a7c55dd51c0b",
+   "date": "2026-11-18T22:00:00Z",
+   "addedAt": "2026-11-19T11:52:17Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+   "title_en": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+   "summary_en": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+   "pending": false,
+   "title_ru": "Официальные лица считают, что поездка Трампа в Китай не ускорит развитие ИИ",
+   "simple": "После скандала вокруг Nvidia официальные лица считают, что визит Трампа в Китай вряд ли поможет в переговорах по искусственному интеллекту.",
+   "term": "AI‑политика — государственная стратегия и регулирование в сфере искусственного интеллекта",
+   "use": [
+    "Отслеживайте официальные заявления о международных ИИ‑инициативах.",
+    "Не рассчитывайте на быстрые изменения в отрасли из‑за политических визитов.",
+    "Подготовьте план развития ИИ‑проектов, учитывая возможные регуляторные ограничения."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "4544035da65a5f",
    "date": "2026-11-18T21:57:40Z",
    "addedAt": "2026-11-19T02:38:58Z",
@@ -192,6 +280,28 @@
    ],
    "money": null,
    "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "66574755f6b392",
+   "date": "2026-11-18T21:44:01Z",
+   "addedAt": "2026-11-19T11:52:17Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+   "title_en": "Trump’s latest land grab is an AI hub in the Philippines",
+   "summary_en": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls in traditional […]",
+   "pending": false,
+   "title_ru": "Трамп объявил о создании AI‑центра на Филиппинах",
+   "simple": "Во время визита в Филиппины Дональд Трамп объявил о планах открыть центр по искусственному интеллекту, сопровождая событие яркой церемонией.",
+   "term": "",
+   "use": [
+    "Следите за новостями о международных AI‑центрах, чтобы понять новые возможности.",
+    "Если вы работаете в сфере ИИ, изучите, какие программы поддержки могут появиться в Филиппинах.",
+    "Рассмотрите возможность сотрудничества с местными партнёрами при появлении новых проектов."
+   ],
+   "money": null,
+   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -275,6 +385,27 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "89dc61422b3576",
+   "date": "2026-11-18T20:07:01Z",
+   "addedAt": "2026-11-19T11:52:17Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+   "title_en": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+   "summary_en": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+   "pending": false,
+   "title_ru": "Сам Альтман спокойно относится к предстоящему фильму о себе с Эндрю Гарфилдом",
+   "simple": "Генеральный директор OpenAI Сэм Альтман сказал, что его жизнь уже настолько странная, что роль в фильме с Эндрю Гарфилдом его не удивляет. Он считает, что это не одно из самых странных событий в его жизни.",
+   "term": "",
+   "use": [
+    "Следите за новостями о фильме, если интересуетесь публичным имиджем AI‑лидеров.",
+    "Подумайте, как такие медийные проекты могут влиять на восприятие искусственного интеллекта в обществе."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -533,6 +664,27 @@
    ],
    "money": null,
    "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "25233b116d91ff",
+   "date": "2026-11-18T17:09:59Z",
+   "addedAt": "2026-11-19T11:52:18Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+   "title_en": "datasette-arrows 0.1a0",
+   "summary_en": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those two file formats support streaming data in chunks. The register_output_renderer() plugin hook can now be used to implement the same pattern for other formats. I've learned never to release a new plugin feature without accompanying it with a plugin that uses it. Claude Fable 5.2 suggested the Apache Arrow streaming format as a good option, and built this plugin in almost a single shot. Add the plugin to Datasette (…",
+   "pending": false,
+   "title_ru": "Выпущен datasette‑arrows 0.1a0: поддержка потоковой выгрузки в Apache Arrow",
+   "simple": "Новый плагин для Datasette добавляет возможность экспортировать данные в формат Apache Arrow потоково, то есть без загрузки всей таблицы в память. Это упрощает работу с большими наборами данных.",
+   "term": "Apache Arrow — формат колонкового хранения данных, позволяющий быстро передавать их между системами без преобразования.",
+   "use": [
+    "Попробуйте установить плагин, если работаете с большими CSV‑файлами.",
+    "Используйте потоковую выгрузку, чтобы экономить оперативную память при экспорте данных."
+   ],
+   "money": null,
+   "category": "Open source",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -3641,6 +3793,27 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "128a04bf78b6cc",
+   "date": "2026-11-15T23:58:36Z",
+   "addedAt": "2026-11-19T11:52:18Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+   "title_en": "datasette-maplibre 0.1a0",
+   "summary_en": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Look at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at ~/dev/tools/openfreemap-demo.html - then build a brand new Datasette plugin that uses maplibreGL and openfreemap and combines the features of those other two plugins - but be creative and think outside the box for other useful features the plugin might have \"Be creative and think outside the box\"…",
+   "pending": false,
+   "title_ru": "datasette‑maplibre 0.1a0: новый гео‑плагин с MapLibre GL и OpenFreeMap",
+   "simple": "Вышел плагин для Datasette, который соединяет библиотеку MapLibre GL и бесплатный векторный сервер OpenFreeMap, позволяя визуализировать геоданные прямо в интерфейсе. Плагин создан с помощью ИИ‑подсказок.",
+   "term": "MapLibre GL — открытая библиотека для отображения интерактивных карт в браузере.",
+   "use": [
+    "Установите плагин, если нужно быстро добавить карты в свои данные.",
+    "Проверьте совместимость с вашими текущими геоданными перед использованием."
+   ],
+   "money": null,
+   "category": "Open source",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "fa232e2aaf8a19",
    "date": "2026-11-15T23:30:00Z",
    "addedAt": "2026-11-16T01:07:14Z",
@@ -3659,6 +3832,27 @@
    ],
    "money": null,
    "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "67eb98ac1cd8e0",
+   "date": "2026-11-15T23:20:27Z",
+   "addedAt": "2026-11-19T11:52:18Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+   "title_en": "datasette 1.0a43",
+   "summary_en": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new Response.stream() method. There are a couple of security fixes, one of which I deemed deserving of a GitHub advisory : private stored queries could be exposed, granting access to the title and SQL of the query (but not allowing that query to be executed). There are dozens of smaller improvements. The row…",
+   "pending": false,
+   "title_ru": "datasette 1.0a43: потоковая поддержка CSV/TSV и исправления безопасности",
+   "simple": "Обновление Datasette вводит потоковую выгрузку CSV и TSV, позволяя экспортировать миллионы строк без полной загрузки в память. Также исправлены уязвимости, связанные с приватными запросами.",
+   "term": "Потоковая выгрузка — процесс передачи данных частями, а не целиком, что снижает нагрузку на память.",
+   "use": [
+    "Обновите Datasette до версии 1.0a43, чтобы выгружать большие таблицы эффективно.",
+    "Проверьте настройки безопасности после обновления, чтобы убедиться, что приватные запросы защищены."
+   ],
+   "money": null,
+   "category": "Open source",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12841,204 +13035,6 @@
     "Пробуйте новые темы в вкладке AI Discover, чтобы находить контент, соответствующий вашему настроению.",
     "Обратите внимание, как ИИ подбирает предложения, и используйте их для планирования семейных просмотров.",
     "Экспериментируйте с разными темами, чтобы понять, какие из них лучше всего соответствуют вашим предпочтениям."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "a55665cf48953a",
-   "date": "2026-11-03T17:15:21Z",
-   "addedAt": "2026-11-03T21:49:45Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/allenai/statebench",
-   "title_en": "StateBench: Testing how language models track state changes over long documents",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "StateBench: проверка способности моделей отслеживать изменения в длинных текстах",
-   "simple": "Hugging Face представила StateBench — набор тестов, который измеряет, насколько языковые модели могут помнить и учитывать изменения состояния в больших документах.",
-   "term": "state tracking — отслеживание состояния, способность модели помнить и использовать информацию о предыдущих событиях в тексте",
-   "use": [
-    "Попробуйте запустить StateBench на своих моделях, чтобы оценить их способности к работе с длинными документами.",
-    "Сравните результаты разных моделей, чтобы выбрать более подходящую для ваших задач.",
-    "Учтите ограничения моделей в долгосрочной памяти при проектировании приложений, работающих с большими текстами."
-   ],
-   "money": null,
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "7edcdb24a88ec7",
-   "date": "2026-11-03T17:14:38Z",
-   "addedAt": "2026-11-03T21:49:45Z",
-   "source": "Microsoft Research",
-   "sourceType": "research",
-   "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
-   "title_en": "Learn the rules: The hacker mindset",
-   "summary_en": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rules: The hacker mindset appeared first on Microsoft Research .",
-   "pending": false,
-   "title_ru": "Уроки хакерского мышления: доверие, команда и любопытство в AI",
-   "simple": "Mike Walker из Microsoft Research делится опытом о том, как хакерская культура, доверие и любопытство помогают решать сложные задачи в области ИИ и кибербезопасности.",
-   "term": "hacker mindset — подход к решению проблем, основанный на любопытстве, экспериментировании и поиске уязвимостей",
-   "use": [
-    "Развивайте навык задавать «что если» вопросы, чтобы находить новые решения в работе с ИИ.",
-    "Сотрудничайте с коллегами, делясь находками и проверяя идеи в команде.",
-    "Практикуйте быстрые прототипы и тесты, чтобы быстро проверять гипотезы в проектах AI."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "2437af63b2f85a",
-   "date": "2026-11-03T17:07:01Z",
-   "addedAt": "2026-11-03T21:49:46Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-   "title_en": "Anthropic is still grappling with the economics of compute",
-   "summary_en": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-   "pending": false,
-   "title_ru": "Anthropic сталкивается с ростом расходов на вычисления",
-   "simple": "Компания Anthropic отмечает, что её затраты на вычисления растут, хотя ожидалось их снижение. Это важно для понимания финансовой устойчивости AI‑стартапов.",
-   "term": "Compute margins — разница между доходами от использования вычислительных ресурсов и их стоимостью.",
-   "use": [
-    "Следите за новостями о ценах на облачные вычисления.",
-    "Оцените, как рост расходов может влиять на цены сервисов AI.",
-    "Если вы планируете использовать Anthropic, учитывайте возможное увеличение стоимости."
-   ],
-   "money": null,
-   "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "7b04a568c5adcc",
-   "date": "2026-11-03T17:01:49Z",
-   "addedAt": "2026-11-03T21:49:41Z",
-   "source": "Google DeepMind",
-   "sourceType": "company",
-   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-   "title_en": "Agentic cheminformatics with Google Antigravity",
-   "summary_en": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-   "pending": false,
-   "title_ru": "Google Antigravity ускоряет поиск лекарств",
-   "simple": "Google представил Antigravity, инструмент, который помогает искать соединения и предлагать новые макроциклы для разработки лекарств. Это может ускорить процесс создания новых препаратов.",
-   "term": "Cheminformatics — использование компьютерных методов для анализа химических данных.",
-   "use": [
-    "Изучите возможности Antigravity для ускорения исследований в фармацевтике.",
-    "Применяйте инструмент для поиска новых соединений в своих проектах.",
-    "Обратите внимание на интеграцию с существующими рабочими процессами лаборатории."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "5b7b48c647c507",
-   "date": "2026-11-03T16:42:02Z",
-   "addedAt": "2026-11-09T08:06:24Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/3/hn-50354278/",
-   "title_en": "AI is destroying my CS degree",
-   "summary_en": "My comment on AI is destroying my CS degree — Hacker News. I don't envy educators right now. AI clearly means you need to change how you teach and evaluate students. We are only a few years in though, and it's still extremely unclear what effective teaching with these tools looks like. The worst part is that the evaluation loop is measured in multiple years! If you start trying some new education mechanism today you won't get a robust idea of how well it works until your current cohort graduate in 3-6 years time. Students effectively all become guinea pigs for untested new ways of learning and teaching. Tags: education , hacker-news , ai , ai-ethics",
-   "pending": false,
-   "title_ru": "AI меняет обучение в компьютерных науках",
-   "simple": "AI заставляет переосмыслить, как преподавать и проверять знания студентов. Сейчас сложно понять, какие новые методы работают, потому что результаты появятся только через несколько лет.",
-   "term": "генеративный ИИ — тип искусственного интеллекта, который создаёт новые тексты, код или изображения, имитируя человеческое творчество.",
-   "use": [
-    "Пересмотрите задания, позволяя студентам использовать AI как помощника, а не как замену.",
-    "Внедрите оценку процесса, а не только конечного результата, чтобы увидеть, как AI помогает обучаться.",
-    "Следите за реакцией студентов и корректируйте подходы по мере получения обратной связи."
-   ],
-   "money": null,
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "bc4177032a04e2",
-   "date": "2026-11-03T16:35:36Z",
-   "addedAt": "2026-11-03T21:49:45Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-   "title_en": "Palette: teaching a small model to build decks in your design language",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "Palette обучает небольшую модель создавать дизайн‑декки",
-   "simple": "Hugging Face выпустил Palette — модель, которая учится генерировать дизайн‑элементы в заданном стиле. Это упрощает создание визуального контента без больших ресурсов.",
-   "term": "Deck — набор слайдов или карточек, используемых в презентациях или дизайне.",
-   "use": [
-    "Попробуйте использовать Palette для быстрого создания макетов в вашем фирменном стиле.",
-    "Экспериментируйте с небольшими моделями, если у вас ограничены вычислительные мощности.",
-    "Внедрите генерацию дизайна в процесс подготовки материалов для клиентов."
-   ],
-   "money": null,
-   "category": "Open source",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "410d5c941f71a7",
-   "date": "2026-11-03T16:30:34Z",
-   "addedAt": "2026-11-03T21:49:46Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-   "title_en": "Google will let schools disable its AI tools, but not without sacrificing Search",
-   "summary_en": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-   "pending": false,
-   "title_ru": "Школы могут отключить AI‑инструменты Google, но потеряют поиск",
-   "simple": "Google объявил, что если школы отключат AI‑функции, они также потеряют доступ к обычному поиску, так как AI уже встроен в поиск. Это важный выбор для образовательных учреждений.",
-   "term": "AI‑инструменты — функции, использующие искусственный интеллект, например автодополнение или ответы на запросы.",
-   "use": [
-    "Оцените, насколько важны AI‑функции для учебного процесса в вашей школе.",
-    "Если решите отключить AI, подготовьте альтернативные способы поиска информации.",
-    "Обсудите с учителями плюсы и минусы интеграции AI в образовательные сервисы."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "6857dc224a419f",
-   "date": "2026-11-03T16:29:48Z",
-   "addedAt": "2026-11-03T21:49:46Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-   "title_en": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "summary_en": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a text description of the model containing a bunch of floating point numbers. I've been playing with one of the examples from the paper and I'm delighted to share that Qwen 3.8 27B running on my laptop can do this as well! Weight-Space Programming Here's the highlight from their abstract, describing…",
-   "pending": false,
-   "title_ru": "Qwen 3.8 27B может читать и менять веса моделей на ноутбуке",
-   "simple": "Исследователи показали, что модель Qwen 3.8 27B способна интерпретировать и изменять внутренние параметры (веса) других моделей прямо на обычном ноутбуке. Это открывает новые возможности для работы с ИИ без мощных серверов.",
-   "term": "Веса модели — численные параметры, определяющие поведение нейронной сети.",
-   "use": [
-    "Экспериментируйте с Qwen 3.8 для изучения внутренней структуры моделей.",
-    "Используйте возможность менять веса для настройки небольших моделей под свои задачи.",
-    "Следите за обновлениями, чтобы понять ограничения работы на ноутбуке."
-   ],
-   "money": null,
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "c90cd6cc0c02e3",
-   "date": "2026-11-03T16:00:45Z",
-   "addedAt": "2026-11-03T21:49:45Z",
-   "source": "NVIDIA",
-   "sourceType": "company",
-   "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-   "title_en": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-   "summary_en": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]",
-   "pending": false,
-   "title_ru": "AI ускоряет работу инженеров полупроводников",
-   "simple": "Искусственный интеллект помогает инженерам быстрее оценивать изменения процессов и находить причины дефектов в производстве микросхем. Это важно из‑за растущего спроса и сложности технологий.",
-   "term": "Фабрика полупроводников — завод, где изготавливаются микросхемы.",
-   "use": [
-    "Изучите AI‑инструменты для анализа процессов в полупроводниковой отрасли.",
-    "Применяйте модели для предсказания влияния новых материалов.",
-    "Внедряйте автоматический поиск причин дефектов в рабочие процедуры."
    ],
    "money": null,
    "category": "Применение",
