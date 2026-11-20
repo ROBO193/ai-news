@@ -1,7 +1,117 @@
 {
- "updated": "2026-11-20T02:24:11Z",
+ "updated": "2026-11-20T11:53:28Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "e9069e703ad1ae",
+   "date": "2026-11-20T08:52:29Z",
+   "addedAt": "2026-11-20T11:53:09Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/20/european-commission-ai-generated-cyberattack-publicly-available-tool/",
+   "title_en": "European Commission confirms AI-generated cyberattack disrupted its systems",
+   "summary_en": "The European Commission has confirmed it was hit by a cyberattack that misused a publicly available AI tool and forced the institution to take several of its applications offline. Commission spokesperson Thomas Regnier gave the confirmation at Thursday’s midday press briefing in Brussels. Politico was the first to report the attack, in an exclusive published earlier that day. Reporters used the Q&A session to press Regnier on which systems were hit, whether staff data was … More → The post European Commission confirms AI-generated cyberattack disrupted its systems appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "AI‑сгенерированная кибератака вывела из строя сервисы ЕС",
+   "simple": "Европейская комиссия подтвердила, что её системы пострадали от кибератаки, использующей публичный ИИ‑инструмент. Атака заставила отключить несколько приложений.",
+   "term": "Prompt injection — метод, когда в запрос к ИИ вставляют скрытые команды, заставляющие его выполнять нежелательные действия.",
+   "use": [
+    "Проверьте, какие ИИ‑инструменты используют в вашей компании, и ограничьте их доступ к конфиденциальным данным.",
+    "Внедрите мониторинг запросов к ИИ, чтобы выявлять подозрительные команды.",
+    "Обучите сотрудников распознавать признаки использования ИИ в фишинговых письмах."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a7839ae95affd3",
+   "date": "2026-11-20T07:00:00Z",
+   "addedAt": "2026-11-20T11:53:09Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+   "title_en": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+   "summary_en": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+   "pending": false,
+   "title_ru": "16‑летний создал стартап по AI‑ракетам с целью снижения стоимости удара",
+   "simple": "Подросток Хенрийс Дандзберг бросил школу и запустил стартап в Y Combinator, разрабатывающий ракеты, управляемые ИИ, чтобы сделать их более экономичными для военных.",
+   "term": "AI‑управление ракетой — использование искусственного интеллекта для навигации и выбора целей в реальном времени.",
+   "use": [
+    "Следите за новыми технологиями в оборонной сфере, если работаете в смежных отраслях.",
+    "Изучайте основы AI‑управления, чтобы быть готовыми к появлению новых требований к специалистам.",
+    "Если вы в сфере поставок, оцените, как такие разработки могут изменить спрос на комплектующие."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "8b38735d044ef4",
+   "date": "2026-11-20T06:30:20Z",
+   "addedAt": "2026-11-20T11:53:09Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/20/ai-prompt-injection-red-team/",
+   "title_en": "Your AI red team may be finding the same prompt injection thousands of times",
+   "summary_en": "AI agents retrained on a bigger pile of prompt injection attacks came out easier to hijack in three of four tests run by researchers at the University of Waterloo, Zhejiang University and KTH Royal Institute of Technology. The automated red-teaming tool that found more working attacks produced the weaker defense. Prompt injection purple-teaming workflow (Source: Research paper) Someone hides instructions in an email, a web page or a tool’s output, and the AI agent that … More → The post Your AI red team may be finding the same prompt injection thousands of times appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Красные команды AI находят одни и те же уязвимости тысячами раз",
+   "simple": "Исследователи обнаружили, что автоматические тесты на уязвимости AI‑агентов часто находят одинаковые «prompt injection»‑атаки, что делает защиту слабее.",
+   "term": "Red teaming — проверка систем безопасностью с помощью имитации атак.",
+   "use": [
+    "Не полагайтесь только на автоматические тесты, добавьте ручные проверки уязвимостей.",
+    "Разнообразьте набор тестовых сценариев, чтобы охватить разные типы атак.",
+    "Внедрите процесс постоянного обновления защитных правил на основе новых находок."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "09866cb18e2f41",
+   "date": "2026-11-20T05:30:11Z",
+   "addedAt": "2026-11-20T11:53:09Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/20/ai-agent-api-security-production/",
+   "title_en": "AI agent API security hasn’t caught up with agents already running in production",
+   "summary_en": "Postman asked nearly 9,000 developers, architects and executives how they’re handling AI agents, and the answers tell a familiar story. Companies put the new thing to work first and left the question of who holds the keys for later. A quarter of the organizations that answered already have agents calling their APIs in production. Source: Postman The keys are where it gets uncomfortable. About four in ten respondents haven’t worked out how credentials and identity … More → The post AI agent API security hasn’t caught up with agents already running in production appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Безопасность API AI‑агентов отстаёт от их внедрения в продакшн",
+   "simple": "Опрос среди почти 9 000 специалистов показал, что компании уже используют AI‑агенты в продуктивных системах, но почти половина не решила, как управлять их доступом к API и учётными данными.",
+   "term": "API‑ключ — уникальный код, позволяющий приложению обращаться к внешнему сервису.",
+   "use": [
+    "Определите, какие API‑ключи используют ваши AI‑агенты, и храните их в безопасных хранилищах.",
+    "Внедрите систему ротации ключей, чтобы регулярно менять их значения.",
+    "Обучите команду правилам минимального доступа к внешним сервисам."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f32d5bea8abf85",
+   "date": "2026-11-20T02:49:57Z",
+   "addedAt": "2026-11-20T11:53:10Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+   "title_en": "Token fraud is here and it’s BAD (YouTube)",
+   "summary_en": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire describes the flood of token fraud she has seen from groups abusing the product's free trial, sometimes just to get free AI usage but often to resell tokens or run other commercial enterprises on top of the ChatPRD agent. I am funding a international Roblox and Fortnite map studio. They run a loop of free trials and promo codes and then tunnel to my agent and use it to build…",
+   "pending": false,
+   "title_ru": "Рост токен‑мошенничества в AI‑платформах",
+   "simple": "Создатель платформы ChatPRD рассказал о всплеске злоупотреблений бесплатными токенами: пользователи берут их бесплатно, а затем перепродают или используют в коммерческих целях.",
+   "term": "Токен‑мошенничество — незаконное получение и использование цифровых токенов, часто для обхода платных ограничений.",
+   "use": [
+    "Если вы предлагаете бесплатный доступ к AI, внедрите проверку личности пользователей.",
+    "Ограничьте количество токенов, выдаваемых за один аккаунт, и отслеживайте аномалии.",
+    "Разработайте систему мониторинга повторных запросов от одних и тех же IP‑адресов."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "8f4728ffc5b95b",
    "date": "2026-11-20T00:56:01Z",
@@ -12976,111 +13086,6 @@
    ],
    "money": null,
    "category": "Open source",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "026e4ebd4085d3",
-   "date": "2026-11-04T17:24:49Z",
-   "addedAt": "2026-11-04T18:41:30Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-   "title_en": "ChatGPT will now make you animated GIFs",
-   "summary_en": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single […]",
-   "pending": false,
-   "title_ru": "ChatGPT теперь умеет создавать анимированные GIF‑изображения",
-   "simple": "ChatGPT получил возможность генерировать GIF‑анимации по текстовому запросу или загруженному фото, а также редактировать их кадры и скорость.",
-   "term": "GIF — графический формат, поддерживающий анимацию из последовательных кадров.",
-   "use": [
-    "Экспериментируйте с генерацией GIF‑картинок для соцсетей и презентаций.",
-    "Используйте функцию редактирования кадров, чтобы подгонять анимацию под нужный ритм."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "58f69099baa4e2",
-   "date": "2026-11-04T16:51:35Z",
-   "addedAt": "2026-11-04T18:41:30Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-   "title_en": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-   "summary_en": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
-   "pending": false,
-   "title_ru": "Siri Recaps: полезные, но слегка тревожные резюме от Apple",
-   "simple": "Apple представила Siri Recaps — функцию, которая автоматически подводит итоги ваших действий. Пользователям понравилось, хотя есть опасения по поводу конфиденциальности.",
-   "term": "Recap — автоматическое резюмирование ваших действий и запросов с помощью ИИ.",
-   "use": [
-    "Попробуйте включить Siri Recaps в настройках iPhone, чтобы получать ежедневные сводки.",
-    "Обратите внимание на разрешения доступа к данным и при необходимости ограничьте их в настройках конфиденциальности."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "eeaf8afe464ebd",
-   "date": "2026-11-04T16:17:22Z",
-   "addedAt": "2026-11-04T18:41:30Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-   "title_en": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-   "summary_en": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
-   "pending": false,
-   "title_ru": "Google планирует отключать поиск в школах, ограничивающих ИИ — вызвал критику",
-   "simple": "Google хочет блокировать доступ к поиску для школ, которые запрещают использование ИИ. На это политики ответили обвинениями в монополии.",
-   "term": "Монополия — доминирующее положение компании на рынке, позволяющее ей контролировать условия.",
-   "use": [
-    "Следите за политикой вашей школы относительно ИИ, чтобы понять, будет ли доступ к Google Search ограничен.",
-    "Если вы работаете в образовании, рассмотрите альтернативные поисковые сервисы для учеников."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "0c9cbd4df150e7",
-   "date": "2026-11-04T16:05:39Z",
-   "addedAt": "2026-11-04T18:41:30Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-   "title_en": "Data centers lost the midterms",
-   "summary_en": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 […]",
-   "pending": false,
-   "title_ru": "Выборы усложнили развитие дата‑центров, важного для ИИ",
-   "simple": "После выборов в США многие кандидаты поддерживают ограничения на строительство дата‑центров. Это может замедлить рост инфраструктуры, необходимой для ИИ‑приложений.",
-   "term": "Дата‑центр — крупный объект, где размещаются серверы для обработки и хранения данных.",
-   "use": [
-    "Если вы планируете запуск ИИ‑сервисов, учитывайте возможные ограничения на размещение серверов в вашем регионе.",
-    "Исследуйте варианты облачных провайдеров, которые могут предложить ресурсы вне ограниченных зон."
-   ],
-   "money": null,
-   "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "e818c1486ecfa2",
-   "date": "2026-11-04T16:05:06Z",
-   "addedAt": "2026-11-04T18:41:30Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-   "title_en": "Uber only fulfilled 4 rides from AI agents last quarter",
-   "summary_en": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during […]",
-   "pending": false,
-   "title_ru": "AI‑агенты заказали лишь 4 поездки в Uber за квартал",
-   "simple": "За третий квартал 2026 года только четыре поездки были оформлены сторонними AI‑агентами, а заказов Uber Eats — около 500. ИИ пока не заменит водителей.",
-   "term": "AI‑агент — программный помощник, способный выполнять задачи без прямого участия человека.",
-   "use": [
-    "Не рассчитывайте на автоматизацию заказов через AI‑агенты в текущий момент.",
-    "Если вы разработчик, изучите API Uber для интеграции более надёжных решений."
-   ],
-   "money": null,
-   "category": "Агенты",
    "model": "openai/gpt-oss-120b"
   }
  ]
