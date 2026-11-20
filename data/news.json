@@ -1,7 +1,293 @@
 {
- "updated": "2026-11-20T11:53:28Z",
+ "updated": "2026-11-20T20:31:16Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "340614cb1d4599",
+   "date": "2026-11-20T19:53:41Z",
+   "addedAt": "2026-11-20T20:30:30Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+   "title_en": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+   "summary_en": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+   "pending": false,
+   "title_ru": "Дэниел Эк инвестирует в стартап по термоядерному синтезу от исследователя ИИ",
+   "simple": "Основатель Spotify Дэниел Эк поддержал компанию Europa Fusion, основанную исследователем в области искусственного интеллекта. Стартап разрабатывает технологию термоядерного синтеза, обещающую новый источник энергии.",
+   "term": "Термоядерный синтез — процесс объединения лёгких атомных ядер с выделением огромного количества энергии.",
+   "use": [
+    "Следите за новостями о проектах термоядерного синтеза, они могут открыть новые возможности в энергетике.",
+    "Если вы работаете в сфере энергетики, изучите, как ИИ применяется в исследованиях синтеза.",
+    "Подумайте о сотрудничестве с стартапами, использующими ИИ для научных разработок."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d6bff5841b5a64",
+   "date": "2026-11-20T19:32:08Z",
+   "addedAt": "2026-11-20T20:30:30Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "title_en": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+   "summary_en": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+   "pending": false,
+   "title_ru": "ИИ предложил решение гипотезы Римана, но человек тоже нашёл ответ",
+   "simple": "Недавно искусственный интеллект выдал решение знаменитой 167‑летней гипотезы Римана, однако математики также представили собственное доказательство. Это показывает, что ИИ может участвовать в решении сложных математических задач, но человеческий вклад остаётся важным.",
+   "term": "Гипотеза Римана — предположение о распределении нулей дзета‑функции, важное для теории чисел.",
+   "use": [
+    "Изучайте, как ИИ применяется в математических исследованиях, это может открыть новые карьерные пути.",
+    "Если вы студент‑математик, попробуйте использовать ИИ‑инструменты для проверки гипотез."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "3a0cb236fd3220",
+   "date": "2026-11-20T18:50:19Z",
+   "addedAt": "2026-11-20T20:30:30Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+   "title_en": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+   "summary_en": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
+   "pending": false,
+   "title_ru": "Трамп обещает «огромный налог» компаниям, строящим ИИ‑центры за рубежом",
+   "simple": "Президент Дональд Трамп заявил, что компании, размещающие дата‑центры для искусственного интеллекта за пределами США, будут обложены высоким налогом. Это может изменить планы по размещению инфраструктуры ИИ в разных странах.",
+   "term": "Дата‑центр — крупный объект, где размещаются серверы и оборудование для обработки и хранения данных, в том числе для ИИ.",
+   "use": [
+    "Если вы планируете открыть дата‑центр, учитывайте возможные налоговые ограничения в разных странах.",
+    "Следите за законодательными инициативами, они могут влиять на стоимость размещения ИИ‑инфраструктуры."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "01449c61c8b86a",
+   "date": "2026-11-20T18:15:15Z",
+   "addedAt": "2026-11-20T20:30:30Z",
+   "source": "MIT Technology Review",
+   "sourceType": "media",
+   "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+   "title_en": "The most misunderstood graph in AI just got a major update",
+   "summary_en": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+   "pending": false,
+   "title_ru": "Обновлённый график развития ИИ показывает ускоренный рост возможностей",
+   "simple": "Новый отчёт nonprofit METR обновил известный график, показывающий, что некоторые способности ИИ продолжают расти экспоненциально. При этом модели всё ещё хуже справляются с задачами, требующими суждения, чем с программированием.",
+   "term": "Экспоненциальный рост — увеличение показателя в геометрической прогрессии, когда каждый шаг в несколько раз больше предыдущего.",
+   "use": [
+    "Следите за обновлениями METR, чтобы понимать, какие задачи ИИ уже решает хорошо, а какие ещё нет.",
+    "Если вы обучаете персонал, уделяйте больше времени развитию навыков критического мышления, а не только программирования."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "079373956374b3",
+   "date": "2026-11-20T17:40:01Z",
+   "addedAt": "2026-11-20T20:30:30Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+   "title_en": "Chips can survive the space environment — can their financing?",
+   "summary_en": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+   "pending": false,
+   "title_ru": "Чипы могут работать в космосе, но их финансируют с опаской",
+   "simple": "Кредиторы не хотят, чтобы SpaceX отправлял их залог в орбиту, и это ставит под вопрос финансирование космических дата‑центров. Проблема в том, что инвесторы опасаются рисков, связанных с космической инфраструктурой.",
+   "term": "",
+   "use": [
+    "Если вы планируете проекты с космическими технологиями, заранее уточняйте условия финансирования у потенциальных инвесторов.",
+    "Оценивайте альтернативные источники финансирования, например гранты или государственные программы, которые менее чувствительны к рискам полётов."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "0abe4221510a96",
+   "date": "2026-11-20T17:30:00Z",
+   "addedAt": "2026-11-20T20:30:30Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+   "title_en": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+   "summary_en": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+   "pending": false,
+   "title_ru": "Хакеры использовали AI‑инструмент Cairn для поиска нулевого дня",
+   "simple": "Злоумышленники применили открытый фреймворк Cairn, основанный на ИИ, чтобы обнаружить неизвестную уязвимость в медицинском приложении и захватить сервер. Это показывает, что AI может ускорять поиск уязвимостей.",
+   "term": "Нулевой день — уязвимость в программном обеспечении, о которой ещё не знают разработчики и пока нет патча.",
+   "use": [
+    "Проверьте свои системы на наличие известных уязвимостей, используя автоматические сканеры безопасности.",
+    "Изучите возможности открытых AI‑инструментов для тестирования безопасности, но применяйте их только к своим ресурсам или с разрешения владельца."
+   ],
+   "money": {
+    "idea": "Предоставление услуг AI‑поддерживаемого тестирования безопасности",
+    "how": [
+     "Освойте работу с фреймворком Cairn или аналогичными инструментами",
+     "Создайте портфолио из тестов на собственных проектах",
+     "Найдите клиентов среди небольших компаний, которым нужны быстрые проверки",
+     "Предлагайте услуги по подписке или разовым аудитом"
+    ],
+    "who": "Специалисты по кибербезопасности, знакомые с Python и базовыми концепциями ИИ",
+    "effort": "средний",
+    "risk": "Неправильное использование инструмента может нарушить закон о несанкционированном доступе"
+   },
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "859ee3ec8c206b",
+   "date": "2026-11-20T16:57:47Z",
+   "addedAt": "2026-11-20T20:30:30Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "title_en": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "summary_en": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
+   "pending": false,
+   "title_ru": "Учёный утверждает, что с помощью Claude доказал гипотезу Римана",
+   "simple": "Исследователь из Anthropic заявил, что совместно с ИИ Claude смог доказать одну из самых сложных математических проблем — гипотезу Римана. Если подтвердится, это будет крупным достижением ИИ в математике.",
+   "term": "",
+   "use": [
+    "Следите за публикациями, чтобы понять, какие задачи в науке могут решаться с помощью ИИ.",
+    "Если вы студент‑математик, попробуйте использовать большие языковые модели для генерации идей и проверок гипотез."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9e188d65b5accd",
+   "date": "2026-11-20T16:30:48Z",
+   "addedAt": "2026-11-20T20:30:30Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+   "title_en": "Quoting Levent Alpöge",
+   "summary_en": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one dawn across science of something far greater. [...] Claude and I have had a great time together with such breadth in recent months, but this time Claude far outpaced me near the finish line. No,…",
+   "pending": false,
+   "title_ru": "Цитата Levent Alpöge о доказательстве гипотезы Римана с Claude",
+   "simple": "Levent Alpöge поделился, что совместно с ИИ Claude они, по его словам, нашли доказательство гипотезы Римана и её обобщений, считая это важным научным прорывом.",
+   "term": "",
+   "use": [
+    "Читайте интервью и блоги учёных, работающих с ИИ, чтобы понять, как такие инструменты меняют исследовательскую практику.",
+    "Если вы работаете в научных проектах, обсудите с командой возможность привлечения ИИ для генерации и проверки гипотез."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "92c1cc867c0142",
+   "date": "2026-11-20T14:55:44Z",
+   "addedAt": "2026-11-20T20:30:30Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+   "title_en": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "summary_en": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
+   "pending": false,
+   "title_ru": "Nvidia продолжает рост, но прекращает продажи H200 в Китае",
+   "simple": "После скандала с уходом Дженсена Хуана Nvidia опубликовала хорошие финансовые результаты и обещала дальнейший рост, но объявила о прекращении поставок чипов H200 в Китай.",
+   "term": "",
+   "use": [
+    "Если вы разрабатываете решения на базе GPU, учитывайте возможные ограничения поставок в определённые регионы.",
+    "Следите за новостями Nvidia, чтобы планировать обновление оборудования в соответствии с доступностью моделей."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "779ccf54081cfd",
+   "date": "2026-11-20T14:36:42Z",
+   "addedAt": "2026-11-20T20:30:30Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+   "title_en": "Signal is blocking Gemini and Siri AI from reading your screen",
+   "summary_en": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
+   "pending": false,
+   "title_ru": "Signal блокирует Gemini и Siri AI от чтения экрана",
+   "simple": "Signal ограничил возможность делать скриншоты на Android и iOS, чтобы AI‑агенты не могли считывать сообщения пользователей. Это сделано для усиления защиты приватности в мессенджере.",
+   "term": "агентный ИИ — система, которая автоматически анализирует информацию на экране устройства и реагирует на неё",
+   "use": [
+    "Проверьте настройки конфиденциальности в Signal и включите запрет скриншотов.",
+    "Если используете другие мессенджеры, обратите внимание на их политику по защите от AI‑чтения экрана."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7d8981ef547621",
+   "date": "2026-11-20T14:00:00Z",
+   "addedAt": "2026-11-20T20:30:30Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+   "title_en": "Six AI-powered gadgets that could make your home office smarter",
+   "summary_en": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+   "pending": false,
+   "title_ru": "Шесть AI‑гаджетов для умного домашнего офиса",
+   "simple": "Представлены шесть устройств с искусственным интеллектом, от умных записных блоков до камер, которые делают работу из дома удобнее. Они помогают автоматизировать рутину и повышают продуктивность.",
+   "term": "AI‑гаджет — устройство, использующее искусственный интеллект для выполнения задач без прямого вмешательства пользователя",
+   "use": [
+    "Подберите AI‑записную систему, чтобы автоматически конвертировать голосовые заметки в текст.",
+    "Установите умную веб‑камеру с автокоррекцией изображения для видеозвонков.",
+    "Используйте AI‑подсказки в редакторах кода для ускорения написания скриптов."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a64a68044c39ab",
+   "date": "2026-11-20T12:00:00Z",
+   "addedAt": "2026-11-20T20:30:30Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+   "title_en": "Muse Is Unleashing a World of Pettiness on Instagram",
+   "summary_en": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+   "pending": false,
+   "title_ru": "Meta запустила AI‑ассистента, который отписывается от непоследователей в Instagram",
+   "simple": "AI‑ассистент от Meta может отслеживать, кто не подписался обратно, и автоматически отписываться от таких аккаунтов. Это упрощает управление подписками в соцсетях.",
+   "term": "AI‑ассистент — программа, использующая искусственный интеллект для выполнения задач по запросу пользователя",
+   "use": [
+    "Включите функцию AI‑ассистента в настройках Instagram, если хотите автоматизировать отписку от непоследователей.",
+    "Следите за тем, какие аккаунты вы отписываете, чтобы не потерять полезные контакты."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "3ea993db7e3c60",
+   "date": "2026-11-20T10:00:00Z",
+   "addedAt": "2026-11-20T20:30:27Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "title_en": "Combatting adversarial distillation",
+   "summary_en": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+   "pending": false,
+   "title_ru": "OpenAI борется с adversarial distillation",
+   "simple": "OpenAI представила многоуровневый подход к защите от «adversarial distillation» — техники, позволяющей извлекать возможности модели. Это помогает предотвратить несанкционированное использование ИИ.",
+   "term": "adversarial distillation — метод, при котором злоумышленник пытается вывести скрытые способности модели, обучая её на её собственных ответах",
+   "use": [
+    "Следите за обновлениями политик использования ИИ, если вы разрабатываете собственные модели.",
+    "При работе с внешними API проверяйте, не допускаете ли вы утечки данных, которые могут быть использованы для distillation."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "e9069e703ad1ae",
    "date": "2026-11-20T08:52:29Z",
@@ -153,6 +439,69 @@
    ],
    "money": null,
    "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f4784c30400364",
+   "date": "2026-11-20T00:00:00Z",
+   "addedAt": "2026-11-20T20:30:27Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/introducing-medchembench",
+   "title_en": "Can AI help scientists identify promising drug candidates?",
+   "summary_en": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+   "pending": false,
+   "title_ru": "AI помогает искать новые лекарства",
+   "simple": "Исследователи проверяют, насколько модели ИИ могут понимать молекулы, анализировать эксперименты и выбирать перспективные соединения в ранних этапах разработки препаратов. Это важно, потому что ускорит поиск эффективных лекарств.",
+   "term": "Моделирование молекул — использование ИИ для предсказания свойств и поведения химических соединений.",
+   "use": [
+    "Попробуйте изучить открытые наборы данных о молекулах и поэкспериментировать с бесплатными моделями ИИ.",
+    "Следите за публикациями о новых инструментах AI в фармацевтике, чтобы применять их в учебных проектах."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "80d31a6dee298b",
+   "date": "2026-11-20T00:00:00Z",
+   "addedAt": "2026-11-20T20:30:30Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/inkling2mini",
+   "title_en": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Inkling 2 Mini — быстрый локальный ИИ",
+   "simple": "Hugging Face представил компактный сервер Inkling 2 Mini, обещающий высокую производительность для запуска ИИ‑моделей на собственных компьютерах. Это удобно для тех, кто хочет работать с ИИ без облака.",
+   "term": "Inference — запуск уже обученной модели для получения ответов.",
+   "use": [
+    "Установите Inkling 2 Mini, чтобы тестировать небольшие модели ИИ локально без задержек сети.",
+    "Сравните скорость работы своих скриптов на новом устройстве и на обычном ПК."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "211fbe8009a45e",
+   "date": "2026-11-20T00:00:00Z",
+   "addedAt": "2026-11-20T20:30:30Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+   "title_en": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Harness adapters — улучшаем ИИ‑модели",
+   "simple": "Hugging Face анонсировал адаптеры harness, позволяющие подгонять популярные модели под свои задачи, повышая эффективность и снижая затраты. Это упрощает настройку моделей под конкретные нужды.",
+   "term": "Adapter — небольшая надстройка, которая меняет поведение большой модели без полного переобучения.",
+   "use": [
+    "Подберите готовый adapter для вашей задачи и подключите его к модели через библиотеку Hugging Face.",
+    "Оцените, насколько изменились метрики качества и затраты после применения адаптера."
+   ],
+   "money": null,
+   "category": "Open source",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12740,352 +13089,6 @@
    ],
    "money": null,
    "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "48d8c1552d58be",
-   "date": "2026-11-04T22:42:15Z",
-   "addedAt": "2026-11-05T00:25:33Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-   "title_en": "Qualcomm is betting big on data centers as smartphone sales sink",
-   "summary_en": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]",
-   "pending": false,
-   "title_ru": "Qualcomm ставит на дата‑центры из‑за падения продаж смартфонов",
-   "simple": "Снижение продаж смартфонов заставило Qualcomm переключить внимание на рынок дата‑центров для ИИ, объявив о партнёрствах с Amazon и Meta. Это может открыть новые возможности для компании в сфере облачных вычислений.",
-   "term": "",
-   "use": [
-    "Изучите, какие сервисы облачных провайдеров используют чипы Qualcomm, чтобы подобрать оптимальные решения для своих задач.",
-    "Если вы разработчик, попробуйте оптимизировать модели под архитектуру Qualcomm для повышения эффективности.",
-    "Следите за новыми продуктами Qualcomm в области ИИ‑инфраструктуры, чтобы быть в курсе возможностей."
-   ],
-   "money": null,
-   "category": "Железо",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "90248c1ffce43a",
-   "date": "2026-11-04T22:13:16Z",
-   "addedAt": "2026-11-05T00:25:34Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-   "title_en": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-   "summary_en": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-   "pending": false,
-   "title_ru": "Nothing анонсирует AI‑устройство для повышения продуктивности",
-   "simple": "Глава стартапа Nothing сообщил, что в следующем месяце появится новый продукт, использующий ИИ для улучшения продуктивности, хотя детали пока неизвестны. Это может привлечь внимание к новым способам работы с ИИ в потребительской электронике.",
-   "term": "",
-   "use": [
-    "Подпишитесь на новости компании, чтобы первыми узнать о характеристиках устройства.",
-    "Оцените, как такие AI‑функции могут улучшить ваш рабочий процесс, например, автоматизируя рутинные задачи.",
-    "Если вы разработчик приложений, подготовьте идеи интеграции с потенциальным API устройства."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "f3f4f568585b6d",
-   "date": "2026-11-04T21:56:01Z",
-   "addedAt": "2026-11-05T00:25:34Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-   "title_en": "Almost no one uses AI agents to book their Uber, company says",
-   "summary_en": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-   "pending": false,
-   "title_ru": "Лишь четыре поездки в Uber заказали через AI‑агента",
-   "simple": "В самой загруженной неделе прошлого квартала Uber сообщил, что только четыре пользователя воспользовались AI‑агентом для заказа такси. Это показывает, что технология пока не получила широкого распространения среди клиентов.",
-   "term": "AI‑агент — программный помощник, использующий искусственный интеллект для выполнения задач, например, заказа услуги через чат или голосовой интерфейс.",
-   "use": [
-    "Попробуйте использовать AI‑агенты в собственных сервисах, чтобы оценить их удобство для клиентов.",
-    "Следите за улучшениями в интерфейсе Uber, возможно, в будущем появятся более удобные функции.",
-    "Если вы разрабатываете чат‑боты, изучите, какие сценарии работают лучше всего в реальных заказах."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "6050c43be029e7",
-   "date": "2026-11-04T21:25:44Z",
-   "addedAt": "2026-11-05T00:25:34Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-   "title_en": "OpenAI is already trying to shape the 2028 election",
-   "summary_en": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-   "pending": false,
-   "title_ru": "OpenAI хочет влиять на выборы 2028 года",
-   "simple": "OpenAI предлагает использовать искусственный интеллект для формирования новых правил выборов 2028 года, сочетая интересы американцев и свои бизнес‑цели.",
-   "term": "социальный контракт — набор взаимных обязательств между государством и гражданами, здесь предлагаемый в контексте ИИ.",
-   "use": [
-    "Следите за инициативами OpenAI, чтобы понять, как ИИ может менять политические процессы.",
-    "Обсудите в профессиональном сообществе возможные этические последствия использования ИИ в выборах."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "70e60e39b2082f",
-   "date": "2026-11-04T21:10:56Z",
-   "addedAt": "2026-11-05T00:25:34Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-   "title_en": "Meta acquires AI coding startup Conductor",
-   "summary_en": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-   "pending": false,
-   "title_ru": "Meta купила стартап Conductor, создающий AI‑агенты для кода",
-   "simple": "Meta приобрела компанию Conductor, которая позволяет разработчикам запускать группы ИИ‑агентов, работающих над разными частями проекта одновременно.",
-   "term": "агенты — автономные программы, которые выполняют конкретные задачи без постоянного вмешательства человека.",
-   "use": [
-    "Попробуйте использовать подобные инструменты для автоматизации рутинных задач в разработке.",
-    "Оцените, как распределение работы между несколькими агентами может ускорить ваш проект."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "e5cb2e6663b2cf",
-   "date": "2026-11-04T20:55:50Z",
-   "addedAt": "2026-11-05T00:25:33Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-   "title_en": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-   "summary_en": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
-   "pending": false,
-   "title_ru": "Техногиганты считают, что backlash против ИИ — «анти‑Трамп», а не «анти‑технологии»",
-   "simple": "После голосования за ограничения ИИ и дата‑центров крупные технологические компании утверждают, что критика направлена против Трампа, а не против технологий.",
-   "term": "",
-   "use": [
-    "Следите за изменениями в законодательстве, чтобы адаптировать свои ИИ‑проекты к новым требованиям.",
-    "Учитывайте политический контекст при планировании внедрения ИИ в бизнесе."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "375e8d830db912",
-   "date": "2026-11-04T20:41:29Z",
-   "addedAt": "2026-11-05T00:25:34Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
-   "title_en": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
-   "summary_en": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
-   "pending": false,
-   "title_ru": "Pro‑AI Super PAC с $100 млн не изменил результаты выборов",
-   "simple": "Суперкомитет «Leading the Future», поддержанный крупными инвесторами, потратил 100 млн долларов на поддержку ИИ, но это мало повлияло на результаты midterm‑выборов.",
-   "term": "",
-   "use": [
-    "Изучите, как политические фонды используют ИИ для таргетинга избирателей.",
-    "Оцените, насколько эффективны крупные бюджеты в политических кампаниях с ИИ."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "b6ceabf91c4935",
-   "date": "2026-11-04T20:23:24Z",
-   "addedAt": "2026-11-05T00:25:33Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-   "title_en": "Gemini for Home now plugs into AT&T’s smart security system",
-   "summary_en": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide […]",
-   "pending": false,
-   "title_ru": "Gemini for Home теперь работает с системой умного дома AT&T",
-   "simple": "Система умного дома AT&T подключила Gemini for Home, позволяя использовать ИИ для суммирования событий, поиска в видеозаписях и других функций.",
-   "term": "Gemini for Home — ИИ‑ассистент от Google, интегрированный в домашние устройства для анализа и управления данными.",
-   "use": [
-    "Подключите Gemini for Home к вашему умному дому, чтобы получать быстрые сводки происходящего.",
-    "Используйте поиск по видеозаписям через ИИ, чтобы быстро находить нужные моменты.",
-    "Настройте автоматические уведомления, основанные на анализе ИИ, для повышения безопасности дома."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "d6e23a6b838c0a",
-   "date": "2026-11-04T20:06:21Z",
-   "addedAt": "2026-11-05T00:25:34Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-   "title_en": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-   "summary_en": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
-   "pending": false,
-   "title_ru": "Google заставляет использовать ИИ‑резюме в школах, вызывая протесты",
-   "simple": "Google добавил автоматические ответы ИИ к обычному поиску в учебных заведениях. Родители и учителя боятся, что ученики будут получать готовые ответы без самостоятельного мышления.",
-   "term": "ИИ‑резюме — короткие ответы, сгенерированные искусственным интеллектом, вместо самостоятельного поиска информации.",
-   "use": [
-    "Обсудите с учителями возможность отключения ИИ‑резюме в школьных браузерах.",
-    "Ищите альтернативные поисковые системы без встроенного ИИ, если хотите контролировать источники информации.",
-    "Обучайте детей проверять полученные ответы и искать подтверждения в разных источниках."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "604513e69c2ae4",
-   "date": "2026-11-04T19:30:04Z",
-   "addedAt": "2026-11-05T00:25:34Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-   "title_en": "Open source AI is booming. Hugging Face explains who profits.",
-   "summary_en": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
-   "pending": false,
-   "title_ru": "Open source ИИ растёт: кто и как извлекает прибыль",
-   "simple": "Открытые модели ИИ становятся популярными среди компаний и правительств из‑за низкой стоимости и гибкости. Возникает вопрос, как разработчики могут зарабатывать на таких моделях.",
-   "term": "Open source ИИ — модели искусственного интеллекта с открытым исходным кодом, доступные для свободного использования и модификации.",
-   "use": [
-    "Следите за новыми открытыми моделями, чтобы использовать их в своих проектах без лицензий.",
-    "Разрабатывайте сервисы вокруг открытых моделей, предлагая настройку под конкретные задачи.",
-    "Изучайте лицензии открытых моделей, чтобы правильно управлять правами и ограничениями."
-   ],
-   "money": null,
-   "category": "Open source",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "add91e24e3212a",
-   "date": "2026-11-04T19:29:52Z",
-   "addedAt": "2026-11-05T00:25:34Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-   "title_en": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-   "summary_en": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-   "pending": false,
-   "title_ru": "DuckDuckGo предлагает школам альтернативу Google с отключаемым ИИ",
-   "simple": "DuckDuckGo рекламирует свою поисковую систему школам, которые недовольны ограничениями ИИ от Google. Сервис позволяет полностью отключить функции ИИ.",
-   "term": "Отключаемый ИИ — возможность полностью выключить генерацию ответов искусственным интеллектом в сервисе.",
-   "use": [
-    "Перейдите на DuckDuckGo в школьных компьютерах, если хотите полностью избавиться от ИИ‑ответов.",
-    "Настройте браузер так, чтобы поисковые запросы шли только через DuckDuckGo без трекеров.",
-    "Обучайте учеников проверять информацию из разных источников, а не полагаться только на ИИ."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "5c83259af9283a",
-   "date": "2026-11-04T19:16:25Z",
-   "addedAt": "2026-11-05T00:25:34Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
-   "title_en": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-   "summary_en": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-   "pending": false,
-   "title_ru": "Генеральный директор Hugging Face: риск от закрытых ИИ‑проектов почти нулевой",
-   "simple": "Глава Hugging Face считает, что основные угрозы ИИ исходят от небольшого числа компаний, работающих в закрытом режиме. Он призывает к открытости в разработке ИИ.",
-   "term": "Closed‑door AI — разработки искусственного интеллекта, проводимые без публичного доступа к коду и моделям.",
-   "use": [
-    "Поддерживайте открытые проекты ИИ, участвуя в их сообществе и внося свой вклад.",
-    "Отдавайте предпочтение сервисам, основанным на открытых моделях, для большей прозрачности.",
-    "Следите за новостями о закрытых ИИ‑проектах, чтобы оценивать потенциальные риски."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "2550523e2a0eb1",
-   "date": "2026-11-04T18:50:55Z",
-   "addedAt": "2026-11-05T00:25:34Z",
-   "source": "MIT Technology Review",
-   "sourceType": "media",
-   "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-   "title_en": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-   "summary_en": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
-   "pending": false,
-   "title_ru": "Техас может потерять статус лидера по строительству ИИ‑центров данных",
-   "simple": "Техас был главным регионом для строительства дата‑центров, обслуживающих ИИ, но политические изменения могут поставить под угрозу этот рост. Это важно для компаний, планирующих размещать ИИ‑инфраструктуру.",
-   "term": "Дата‑центр ИИ — крупный серверный комплекс, оптимизированный для вычислений искусственного интеллекта.",
-   "use": [
-    "Отслеживайте законодательные инициативы в Техасе, если планируете открывать ИИ‑инфраструктуру там.",
-    "Рассмотрите альтернативные регионы с более стабильной политической обстановкой для размещения серверов.",
-    "Оцените возможности гибридных облаков, чтобы не зависеть от одного географического места."
-   ],
-   "money": null,
-   "category": "Железо",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "089b0efaf055aa",
-   "date": "2026-11-04T18:44:57Z",
-   "addedAt": "2026-11-05T00:25:34Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-   "title_en": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-   "summary_en": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
-   "pending": false,
-   "title_ru": "Политика Hugging Face о стоимости и рисках открытого ИИ",
-   "simple": "В интервью руководитель Hugging Face рассказывает о том, как открытые модели ИИ могут снизить затраты, но также несут определённые риски и требуют баланса. Это важно для компаний, выбирающих между открытыми и закрытыми решениями.",
-   "term": "Open source AI policy — правила и рекомендации по использованию открытых моделей ИИ в бизнесе.",
-   "use": [
-    "Изучите политику Hugging Face, чтобы понять, как правильно внедрять открытые модели в свои продукты.",
-    "Оцените риски использования открытых моделей, такие как безопасность данных, и планируйте меры защиты.",
-    "Внедряйте открытые модели постепенно, начиная с небольших пилотных проектов."
-   ],
-   "money": null,
-   "category": "Open source",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "d0178f35064d57",
-   "date": "2026-11-04T18:26:07Z",
-   "addedAt": "2026-11-04T18:41:30Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-   "title_en": "Nothing teases a screen-free AI device ahead of launch next month",
-   "summary_en": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature […]",
-   "pending": false,
-   "title_ru": "Nothing готовит первый AI‑устройство без экрана к декабрю",
-   "simple": "Компания Nothing объявила, что в декабре выпустит своё первое устройство с искусственным интеллектом, которое не будет иметь экрана. Пока детали неизвестны, но это продолжает их план по созданию AI‑нативных продуктов.",
-   "term": "",
-   "use": [
-    "Следите за анонсами компании, чтобы понять, какие функции могут появиться в таком устройстве.",
-    "Подумайте, как безэкранный AI‑гаджет может вписаться в ваш рабочий процесс или домашнюю автоматизацию."
-   ],
-   "money": null,
-   "category": "Железо",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "5afc49da7bd405",
-   "date": "2026-11-04T17:50:10Z",
-   "addedAt": "2026-11-04T18:41:30Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-   "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "Dharma Field Extractor: из документа в JSON‑поля",
-   "simple": "Новый инструмент от Hugging Face позволяет загружать любой документ и получать из него структурированные данные в формате JSON. Это упрощает работу с неструктурированным текстом.",
-   "term": "JSON — формат обмена данными, где информация представлена в виде пар «ключ‑значение».",
-   "use": [
-    "Попробуйте использовать инструмент для быстрой обработки отчетов и контрактов.",
-    "Интегрируйте его в свои скрипты, чтобы автоматически извлекать нужные поля из больших текстов."
-   ],
-   "money": null,
-   "category": "Open source",
    "model": "openai/gpt-oss-120b"
   }
  ]
