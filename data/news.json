@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:27:55Z",
+ "updated": "2026-11-21T11:23:05Z",
  "failedSources": [],
  "items": [
   {
@@ -85,6 +85,27 @@
    ],
    "money": null,
    "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "cd728ceea7675e",
+   "date": "2026-11-20T19:52:21Z",
+   "addedAt": "2026-11-21T11:22:47Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+   "title_en": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+   "summary_en": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+   "pending": false,
+   "title_ru": "Скандал вокруг Дженсена Хуана заставил совет директоров Nvidia насторожиться",
+   "simple": "Совет Nvidia обеспокоен тем, что бывший CEO, Дженсен Хуанг, не был откровенен о своих личных связях. Это может повлиять на репутацию компании, известной своими AI‑чипами.",
+   "term": "",
+   "use": [
+    "Обратите внимание на новости о руководстве компаний, работающих с AI, при выборе партнёров.",
+    "Следите за заявлениями советов директоров, чтобы оценивать риски сотрудничества с их продуктами."
+   ],
+   "money": null,
+   "category": "Железо",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -13064,28 +13085,6 @@
    ],
    "money": null,
    "category": "Железо",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "1f9981de570064",
-   "date": "2026-11-05T00:45:15Z",
-   "addedAt": "2026-11-06T03:28:43Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/ads/customers/flipsnack",
-   "title_en": "Flipsnack grows product signups with conversion optimization",
-   "summary_en": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-   "pending": false,
-   "title_ru": "Flipsnack увеличил регистрации с помощью рекламных кампаний ChatGPT",
-   "simple": "Flipsnack запустил рекламу, ориентированную на ChatGPT, чтобы привлечь людей к пробному использованию сервиса. Это привело к росту регистраций и снижению стоимости привлечения.",
-   "term": "ChatGPT Ads — рекламные кампании, использующие возможности ChatGPT для создания текста объявлений.",
-   "use": [
-    "Попробуйте настроить рекламные объявления, используя генерацию текста от ChatGPT, чтобы сделать их более привлекательными.",
-    "Отслеживайте стоимость привлечения одного пользователя и оптимизируйте кампанию для её снижения.",
-    "Тестируйте разные варианты текста, чтобы понять, какие сообщения лучше конвертируют."
-   ],
-   "money": null,
-   "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   }
  ]
