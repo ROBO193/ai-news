@@ -1,7 +1,70 @@
 {
- "updated": "2026-11-20T20:31:16Z",
+ "updated": "2026-11-21T02:27:55Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "5a49fd4a2d776c",
+   "date": "2026-11-20T21:58:29Z",
+   "addedAt": "2026-11-21T02:27:27Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+   "title_en": "Google rolls out new search homepage with AI chat history and no search button",
+   "summary_en": "Google search is making it even easier to access AI tools on the search page.",
+   "pending": false,
+   "title_ru": "Google убрал кнопку поиска, добавил чат‑бот с историей запросов",
+   "simple": "На главной странице Google теперь нет отдельной кнопки «Поиск», а рядом появился чат‑бот, который сохраняет историю запросов. Это упрощает быстрый доступ к ИИ‑инструментам.",
+   "term": "AI‑чат — интерактивный помощник, работающий на основе искусственного интеллекта и отвечающий на вопросы в режиме диалога.",
+   "use": [
+    "Попробуйте задавать вопросы в новом чате, чтобы быстрее находить ответы без отдельного поиска.",
+    "Обратите внимание, что история запросов сохраняется, и при необходимости очистите её в настройках."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c4b0222f29f2f6",
+   "date": "2026-11-20T21:47:10Z",
+   "addedAt": "2026-11-21T02:27:27Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+   "title_en": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+   "summary_en": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+   "pending": false,
+   "title_ru": "Meta пересматривает цель нулевого выброса к 2030‑му из‑за ИИ‑центров",
+   "simple": "Компания Meta заявила, что переоценивает свои планы по нулевому углеродному следу к 2030 году, потому что дата‑центры для ИИ потребляют много энергии. Вопрос, последуют ли другие компании, остаётся открытым.",
+   "term": "Дата‑центр — большое помещение с серверами, где обрабатываются данные и работают модели ИИ, требующее значительных энергоресурсов.",
+   "use": [
+    "Следите за новостями о энергоэффективных решениях для серверов, если планируете работать с ИИ.",
+    "Если у вас небольшая ИТ‑инфраструктура, рассмотрите переход на облачные сервисы с зелёной энергетикой."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "99727b65c29013",
+   "date": "2026-11-20T20:59:08Z",
+   "addedAt": "2026-11-21T02:27:27Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+   "title_en": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+   "summary_en": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+   "pending": false,
+   "title_ru": "Исследователь внедрил 2 млн «канареек» в цепочку поставок ИИ, обнаружив утечку данных",
+   "simple": "Учёный разместил в запросах к ИИ уникальные «канарейки»‑секреты, чтобы проверить, сохраняется ли конфиденциальность. Оказалось, данные просачиваются наружу, что ставит под вопрос приватность.",
+   "term": "промпт — текстовый запрос, который пользователь вводит в модель ИИ для получения ответа.",
+   "use": [
+    "Если вы используете ИИ‑модели, проверяйте, какие данные передаёте в запросах, избегайте конфиденциальной информации.",
+    "Внедрите внутренние правила проверки запросов к внешним ИИ‑сервисам, чтобы снизить риск утечки."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "340614cb1d4599",
    "date": "2026-11-20T19:53:41Z",
@@ -502,6 +565,28 @@
    ],
    "money": null,
    "category": "Open source",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d15c45643214b4",
+   "date": "2026-11-20T00:00:00Z",
+   "addedAt": "2026-11-21T02:27:25Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/business/customer-stories/hebbia",
+   "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "summary_en": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+   "pending": false,
+   "title_ru": "Hebbia тестирует GPT‑6 Astra для финансовых исследований",
+   "simple": "Компания Hebbia провела предварительные испытания новой модели GPT‑6 Astra и отметила улучшения в охвате источников, релевантности цитат и качестве представления данных. Это может повысить эффективность аналитики в финансах.",
+   "term": "GPT‑6 Astra — крупная языковая модель, оптимизированная для работы с финансовыми данными и исследованиями.",
+   "use": [
+    "Попробуйте использовать крупные языковые модели для автоматизации сбора финансовой информации.",
+    "Обратите внимание на инструменты, позволяющие проверять релевантность полученных цитат.",
+    "Экспериментируйте с генерацией отчётов, чтобы ускорить подготовку аналитических материалов."
+   ],
+   "money": null,
+   "category": "Исследования",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -13001,94 +13086,6 @@
    ],
    "money": null,
    "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "89209ab642b10e",
-   "date": "2026-11-05T00:00:00Z",
-   "addedAt": "2026-11-05T16:31:34Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/phonon-tts",
-   "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "Phonon TTS: высококачественный голосовой движок на устройстве",
-   "simple": "Hugging Face представила Phonon TTS — технологию синтеза речи, работающую прямо на устройстве и показывающую лучшие результаты в тестах. Это значит, что голосовые приложения могут стать быстрее и безопаснее.",
-   "term": "TTS (Text‑to‑Speech) — преобразование текста в звучащую речь с помощью нейронных сетей.",
-   "use": [
-    "Попробуйте интегрировать Phonon TTS в мобильные приложения, чтобы обеспечить офлайн‑работу голосовых функций.",
-    "Сравните качество звучания с другими решениями, чтобы выбрать оптимальный вариант для вашего продукта.",
-    "Учтите требования к вычислительным ресурсам устройства при планировании внедрения."
-   ],
-   "money": null,
-   "category": "Open source",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "c0d7b0808284d1",
-   "date": "2026-11-05T00:00:00Z",
-   "addedAt": "2026-11-06T03:28:43Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/franklin-templeton",
-   "title_en": "Franklin Templeton uses OpenAI to support investment research",
-   "summary_en": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-   "pending": false,
-   "title_ru": "Franklin Templeton применяет OpenAI для инвестиционных исследований",
-   "simple": "Финансовая компания начала использовать инструменты OpenAI в анализе акций, чтобы помочь менеджерам сравнивать мнения и оценивать риски. Это ускоряет процесс исследования рынка.",
-   "term": "AI‑workflow — последовательность действий, автоматизированных с помощью искусственного интеллекта, для выполнения задачи.",
-   "use": [
-    "Изучите возможности API OpenAI для автоматизации анализа данных в своей работе.",
-    "Внедрите простые скрипты, которые будут собирать и сравнивать аналитические отчёты.",
-    "Проверяйте результаты ИИ вручную, чтобы убедиться в их корректности."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "88d1bdb9c1605f",
-   "date": "2026-11-04T23:13:14Z",
-   "addedAt": "2026-11-05T00:25:34Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-   "title_en": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-   "summary_en": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-   "pending": false,
-   "title_ru": "Технологические компании ищут места для дата‑центров в космосе",
-   "simple": "После победы демократов в Техасе и других регионах, где развивают ИИ‑инфраструктуру, компании начали рассматривать низкую орбиту как новое место для дата‑центров. Это может изменить подход к размещению вычислительных мощностей.",
-   "term": "Data center in low Earth orbit — дата‑центр, размещённый на орбите Земли, где оборудование работает в условиях микрогравитации и низкой задержки связи.",
-   "use": [
-    "Следите за новостями о космических проектах, чтобы понять, когда появятся коммерческие услуги.",
-    "Оцените, как облачные сервисы могут использовать такие решения для ускорения ИИ‑вычислений.",
-    "Подумайте о партнёрстве с компаниями, разрабатывающими орбитальные решения, если ваш бизнес связан с обработкой больших данных."
-   ],
-   "money": null,
-   "category": "Железо",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "33a7076609087f",
-   "date": "2026-11-04T22:45:09Z",
-   "addedAt": "2026-11-05T00:25:34Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-   "title_en": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-   "summary_en": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-   "pending": false,
-   "title_ru": "AI‑PAC потратили миллионы на выборы, результаты смешанные",
-   "simple": "Политические комитеты индустрии ИИ вложили значительные суммы в кампанию за 2026‑е выборы, но их влияние оказалось неоднозначным. Это показывает, насколько активно отрасль пытается влиять на регулирование.",
-   "term": "",
-   "use": [
-    "Отслеживайте законодательные инициативы, связанные с ИИ, чтобы заранее адаптировать свои проекты.",
-    "Участвуйте в публичных обсуждениях, чтобы влиять на политику в своей сфере.",
-    "Подготовьте материалы о пользе ИИ для бизнеса, чтобы использовать их в диалоге с регуляторами."
-   ],
-   "money": null,
-   "category": "Регулирование",
    "model": "openai/gpt-oss-120b"
   }
  ]
