@@ -1,7 +1,95 @@
 {
- "updated": "2026-11-21T11:23:05Z",
+ "updated": "2026-11-21T19:27:43Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "01945f6a907c76",
+   "date": "2026-11-21T17:00:00Z",
+   "addedAt": "2026-11-21T19:27:16Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "title_en": "Here are the top AI agents that can live in your text messages",
+   "summary_en": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "pending": false,
+   "title_ru": "Топ AI‑агентов, которые могут работать в ваших сообщениях",
+   "simple": "Мы собрали список самых заметных AI‑агентов, которые можно использовать прямо в чатах. Они помогают в работе, путешествиях, семье и просто отвечают на вопросы.",
+   "term": "AI‑агент — программа, использующая искусственный интеллект для выполнения задач в диалоговом режиме",
+   "use": [
+    "Попробуйте подключить одного из перечисленных агентов к своему мессенджеру, чтобы автоматизировать ответы.",
+    "Сравните функции разных агентов и выберите тот, который лучше подходит к вашим ежедневным задачам.",
+    "Настройте агента под свои нужды, задав ему персональные команды или сценарии."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "89298d3b7fb057",
+   "date": "2026-11-21T16:00:00Z",
+   "addedAt": "2026-11-21T19:27:16Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "title_en": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "summary_en": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+   "pending": false,
+   "title_ru": "Актёр продал своё лицо стартапу: будущее Голливуда?",
+   "simple": "Актёр разрешил использовать своё лицо в микродраме, как это уже делают в Китае. Эксперты опасаются, что такая практика может изменить киноиндустрию.",
+   "term": "цифровой двойник — виртуальная копия реального человека, созданная с помощью ИИ",
+   "use": [
+    "Следите за новыми сервисами, где можно лицензировать свой образ, если интересуетесь медиа‑проекты.",
+    "Обратите внимание на юридические аспекты использования своего лица в цифровом виде.",
+    "Если работаете в рекламе, изучите возможности создания цифровых персонажей для кампаний."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "a9f34b76fcc6d5",
+   "date": "2026-11-21T13:29:45Z",
+   "addedAt": "2026-11-21T19:27:16Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "title_en": "Can Anthropic afford to put safety first?",
+   "summary_en": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
+   "pending": false,
+   "title_ru": "Можно ли Anthropic ставить безопасность выше прибыли?",
+   "simple": "В интервью обсуждается IPO компании Anthropic, создателя модели Claude, и её подход к безопасности ИИ. Вопрос в том, насколько компания может инвестировать в безопасность, не теряя доходов.",
+   "term": "IPO — первичное публичное размещение акций компании на бирже",
+   "use": [
+    "Изучите, как компании в сфере ИИ балансируют между безопасностью и коммерцией, чтобы понять тенденции рынка.",
+    "Если интересует работа в ИИ, обратите внимание на навыки, связанные с безопасностью моделей.",
+    "Следите за новостями о новых правилах и стандартах безопасности ИИ."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9dd04be51f1df2",
+   "date": "2026-11-21T13:00:00Z",
+   "addedAt": "2026-11-21T19:27:17Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+   "title_en": "The Outages Are Just Getting Started",
+   "summary_en": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+   "pending": false,
+   "title_ru": "AI ускоряет появление новых уязвимостей и простои в интернете",
+   "simple": "Искусственный интеллект заставляет компании быстрее выпускать патчи, пока хакеры используют новые уязвимости. Это приводит к росту частоты интернет‑отключений.",
+   "term": "уязвимость — ошибка в программном обеспечении, позволяющая злоумышленникам получить несанкционированный доступ",
+   "use": [
+    "Обновляйте программное обеспечение и системы защиты сразу после выхода патчей.",
+    "Внедрите мониторинг аномалий в сети, чтобы быстро обнаруживать атаки, использующие ИИ.",
+    "Обучите сотрудников базовым принципам кибербезопасности, учитывая новые угрозы от ИИ."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "5a49fd4a2d776c",
    "date": "2026-11-20T21:58:29Z",
@@ -458,6 +546,28 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d63c6404d469aa",
+   "date": "2026-11-20T03:01:57Z",
+   "addedAt": "2026-11-21T19:27:17Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+   "title_en": "llm-gemini 0.38.1",
+   "summary_en": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a significant difference. I updated my Gemini 4 comparison grid - note how Hydrogen at high used 5,311 output tokens and cost 3.99 cents, but the same model at xhigh used 31,477 output tokens, cost 23.61 cents, and produced a pelican that's competitive with Gemini 4 Neon: Tags: gemini , llm , llm-reasoning , pelican-riding-a-bicycle , ai , llms , google , generative-ai",
+   "pending": false,
+   "title_ru": "Обновление llm‑gemini 0.38.1: новые уровни рассуждений",
+   "simple": "Выпущена новая версия плагина llm‑gemini, добавившая поддержку уровня xhigh для моделей Gemini 4 Hydrogen и Neon, что повышает качество генерации текста. Это важно для разработчиков, использующих большие языковые модели.",
+   "term": "xhigh — повышенный уровень рассуждения модели, позволяющий генерировать более детализированные ответы.",
+   "use": [
+    "Попробуйте включить уровень xhigh в своих запросах к Gemini 4, чтобы получить более развернутый результат.",
+    "Сравните стоимость и количество токенов при разных уровнях, чтобы оптимизировать расходы.",
+    "Обновите ваш llm‑gemini плагин до версии 0.38.1, чтобы воспользоваться исправлениями и новыми функциями."
+   ],
+   "money": null,
+   "category": "Модели",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12976,115 +13086,6 @@
    ],
    "money": null,
    "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "fc3bb545d92aeb",
-   "date": "2026-11-05T05:30:14Z",
-   "addedAt": "2026-11-05T07:57:35Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/dnsfilter-shadow-ai-cost-report/",
-   "title_en": "Companies are spending more on AI governance and getting less control",
-   "summary_en": "Companies are increasing their cybersecurity budgets, with AI security and governance the top priority for additional spending, followed by cloud security, according to DNSFilter’s The Cost of Shadow AI report. Some 74.5% of respondents reported a larger cybersecurity budget than 12 months earlier. Asked where their next incremental security dollar would go, 40.3% named AI security and governance, followed by cloud security at 25.5%. One reason to prioritize it is that employees grant AI tools … More → The post Companies are spending more on AI governance and getting less control appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Бюджеты на AI‑управление растут, но контроль падает",
-   "simple": "Компании увеличивают расходы на кибербезопасность, делая AI‑безопасность и управление приоритетом, однако контроль над AI‑инструментами снижается. Сотрудники часто дают доступ AI без достаточного надзора.",
-   "term": "AI‑управление — процесс контроля и регулирования использования искусственного интеллекта в организации",
-   "use": [
-    "Определите чёткие политики доступа к AI‑инструментам.",
-    "Внедрите автоматические проверки прав доступа к AI‑сервисам.",
-    "Обучайте сотрудников рискам неконтролируемого использования AI."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "4d0aa265ccf366",
-   "date": "2026-11-05T05:00:30Z",
-   "addedAt": "2026-11-05T07:57:35Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/okta-ai-customer-experiences-report/",
-   "title_en": "Most consumers aren’t ready to let AI agents shop unsupervised",
-   "summary_en": "Customer control, account security and ease of use are influencing the adoption of AI agents that make purchases, book services and access personal information, according to Okta’s 2026 Customer Identity Trends Report. Consumers’ willingness to delegate depends on what an agent can do, the consequences of a mistake and their ability to approve or reverse its actions. Businesses introducing these services must meet new requirements for verifying agents and managing their permissions. Only 37% of … More → The post Most consumers aren’t ready to let AI agents shop unsupervised appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Потребители не готовы доверять AI‑агентам покупки без контроля",
-   "simple": "Люди сомневаются в том, чтобы позволять AI‑агентам самостоятельно делать покупки, из‑за опасений за безопасность и возможность ошибок. Это требует от компаний новых методов проверки и управления правами агентов.",
-   "term": "AI‑агент покупок — система, автоматически совершающая покупки или бронирования от имени пользователя",
-   "use": [
-    "Предоставляйте пользователям возможность одобрять каждую покупку.",
-    "Разрабатывайте прозрачные механизмы отмены действий AI‑агента.",
-    "Информируйте клиентов о том, какие данные использует агент."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "f93567576105c7",
-   "date": "2026-11-05T02:00:00Z",
-   "addedAt": "2026-11-05T16:31:31Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-   "title_en": "Setting a new standard for responsible AI infrastructure",
-   "summary_en": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-   "pending": false,
-   "title_ru": "OpenAI представила план ответственной инфраструктуры ИИ",
-   "simple": "OpenAI выпустила документ, в котором описывает, как защищать местные ресурсы, создавать рабочие места и развивать инфраструктуру для искусственного интеллекта. Это важно для компаний, которые планируют строить дата‑центры под ИИ.",
-   "term": "Compute Campus — концепция размещения вычислительных мощностей в специально подготовленных площадках с учётом экологических и социальных факторов.",
-   "use": [
-    "Оцените, как новые требования могут влиять на планы по открытию дата‑центров в вашем регионе.",
-    "Учтите рекомендации по защите местных ресурсов при проектировании ИИ‑инфраструктуры.",
-    "Следите за появлением локальных программ поддержки рабочих мест в сфере ИИ."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "1c7da4acfcdd25",
-   "date": "2026-11-05T01:26:22Z",
-   "addedAt": "2026-11-05T07:57:35Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-   "title_en": "Apple is reportedly cutting budgets for its internal AI usage",
-   "summary_en": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-   "pending": false,
-   "title_ru": "Apple сокращает бюджеты на внутреннее использование AI",
-   "simple": "Apple, по сообщениям, значительно уменьшает расходы на AI‑технологии для своих инженерных команд. Это может означать переориентацию ресурсов внутри компании.",
-   "term": "",
-   "use": [
-    "Следите за новостями о внутренних проектах Apple, чтобы понять, какие AI‑инструменты могут стать доступными внешним разработчикам.",
-    "Если вы разрабатываете приложения для Apple, учитывайте возможные изменения в поддержке AI‑функций.",
-    "Изучайте альтернативные AI‑платформы, если планируете интеграцию в продукты Apple."
-   ],
-   "money": null,
-   "category": "Железо",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "2c368bf7ce9212",
-   "date": "2026-11-05T01:02:14Z",
-   "addedAt": "2026-11-06T12:13:18Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-   "title_en": "After the midterms, a bigger clash over data centers could be coming",
-   "summary_en": "Data center opposition crossed party lines in Tuesday’s midterms.",
-   "pending": false,
-   "title_ru": "После выборов может обостриться конфликт вокруг дата‑центров",
-   "simple": "На выборах появилось единое сопротивление дата‑центрам, что может привести к новым ограничениям их размещения. Это важно для компаний, использующих большие вычислительные мощности.",
-   "term": "Дата‑центр — помещение, где размещаются серверы и оборудование для обработки и хранения данных.",
-   "use": [
-    "Следите за местными нормативами при планировании новых серверных мощностей.",
-    "Рассмотрите варианты распределённой обработки данных, чтобы снизить зависимость от крупных дата‑центров."
-   ],
-   "money": null,
-   "category": "Железо",
    "model": "openai/gpt-oss-120b"
   }
  ]
