@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-22T16:24:19Z",
+ "updated": "2026-11-22T22:32:12Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "716c53fa8fcebb",
+   "date": "2026-11-22T21:14:07Z",
+   "addedAt": "2026-11-22T22:31:45Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "title_en": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "summary_en": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+   "pending": false,
+   "title_ru": "Учёный OpenAI предлагает ограничить скорость развития ИИ",
+   "simple": "Главный учёный OpenAI говорит, что чтобы замедлить развитие ИИ, нужно сначала согласовать, как измерять эту скорость. Это важно, потому что без общих критериев нельзя установить ограничения.",
+   "term": "Скорость развития ИИ — показатель, отражающий темпы создания и улучшения моделей искусственного интеллекта.",
+   "use": [
+    "Обсудите с коллегами, какие метрики могут отражать прогресс ИИ в вашей сфере.",
+    "Следите за публикациями OpenAI о методах измерения скорости ИИ.",
+    "Внедрите в проекты простые индикаторы, позволяющие оценивать темпы развития используемых моделей."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "265c68ec3a4cc7",
+   "date": "2026-11-22T17:25:20Z",
+   "addedAt": "2026-11-22T22:31:45Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+   "title_en": "Binding of Isaac developer removes AI music from Repentance Plus",
+   "summary_en": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
+   "pending": false,
+   "title_ru": "Разработчик The Binding of Isaac убрал AI‑музыку из обновления",
+   "simple": "В игре The Binding of Isaac: Repentance Plus обнаружили музыкальные треки, созданные ИИ, что вызвало волну негативных отзывов. После критики разработчики удалили эти треки.",
+   "term": "AI‑музыка — аудиоматериалы, сгенерированные искусственным интеллектом без участия человека‑композитора.",
+   "use": [
+    "Если вы создаёте контент, проверяйте, какие части генерируются ИИ, чтобы избежать конфликтов с аудиторией.",
+    "Следите за реакцией игроков на AI‑элементы в играх, чтобы своевременно корректировать продукт.",
+    "Изучайте лицензии и правила использования AI‑генерированного контента в своих проектах."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "2361e0929a29e0",
    "date": "2026-11-22T15:15:25Z",
@@ -44,6 +88,28 @@
    ],
    "money": null,
    "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "de5cd1a6d51dc9",
+   "date": "2026-11-22T00:00:00Z",
+   "addedAt": "2026-11-22T22:31:43Z",
+   "source": "OpenAI",
+   "sourceType": "company",
+   "url": "https://openai.com/index/perplexity-and-intelligence",
+   "title_en": "Perplexity and Intelligence",
+   "summary_en": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+   "pending": false,
+   "title_ru": "Перплексия как показатель прогресса ИИ‑моделей",
+   "simple": "В статье рассказывается, как метрика перплексия измеряет качество языковых моделей и может стать общим способом оценки новых возможностей ИИ. Это поможет разработчикам сравнивать свои модели между собой.",
+   "term": "Перплексия — статистический показатель, отражающий, насколько хорошо модель предсказывает следующий элемент последовательности; чем ниже значение, тем лучше.",
+   "use": [
+    "Включайте измерение перплексии в процесс тестирования ваших языковых моделей.",
+    "Сравнивайте полученные значения с открытыми бенчмарк‑результатами, чтобы понять конкурентоспособность.",
+    "Обучайте команду понимать, как интерпретировать перплексию при оценке моделей."
+   ],
+   "money": null,
+   "category": "Исследования",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -259,6 +325,28 @@
    ],
    "money": null,
    "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "0f50037c76f25f",
+   "date": "2026-11-20T21:30:59Z",
+   "addedAt": "2026-11-22T22:31:45Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+   "title_en": "The vibe-coding revolution is coming to all the gadgets",
+   "summary_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not […]",
+   "pending": false,
+   "title_ru": "Революция «vibe‑coding»: настройка гаджетов под настроение",
+   "simple": "В выпуске The Stepback обсуждается новое направление — «vibe‑coding», когда устройства адаптируются к эмоциональному состоянию пользователя с помощью ИИ. Это может изменить взаимодействие с техникой в повседневной жизни.",
+   "term": "Vibe‑coding — технология, позволяющая устройствам менять свои функции или интерфейс в зависимости от эмоционального состояния пользователя, определяемого ИИ‑моделями.",
+   "use": [
+    "Попробуйте настроить свои умные колонки на режимы, реагирующие на ваш голос и настроение.",
+    "Следите за обновлениями приложений, которые используют vibe‑coding для персонализации.",
+    "Изучайте базовые принципы работы ИИ‑моделей, определяющих настроение, чтобы лучше понимать их возможности."
+   ],
+   "money": null,
+   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12996,94 +13084,6 @@
     "effort": "высокий",
     "risk": "Требуется глубокая экспертиза и может не привести к победе"
    },
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "e734c883e54f40",
-   "date": "2026-11-05T13:00:00Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-   "title_en": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-   "summary_en": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
-   "pending": false,
-   "title_ru": "AI-стартап ускоряет поиск новых лекарств без лаборатории",
-   "simple": "Стартап Potential Sciences использует искусственный интеллект, обученный на синтетических биохимических данных, чтобы ускорить процесс разработки препаратов. Это может сократить время и затраты на лабораторные эксперименты.",
-   "term": "Генеративные модели — тип ИИ, который создаёт новые данные, похожие на обучающие, например, химические соединения.",
-   "use": [
-    "Изучите возможности генеративных моделей для создания химических структур.",
-    "Следите за открытыми публикациями стартапа, чтобы понять новые подходы к исследованию лекарств.",
-    "Если вы работаете в фармацевтике, обсудите с командой внедрение ИИ‑инструментов для предварительного скрининга соединений."
-   ],
-   "money": null,
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "f050bc895e36e2",
-   "date": "2026-11-05T12:00:41Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
-   "title_en": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-   "summary_en": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
-   "pending": false,
-   "title_ru": "Humanoid‑роботы выходят на Nasdaq: Agility Robotics IPO",
-   "simple": "Компания Agility Robotics, лидер в области гуманоидных роботов, разместила акции на бирже Nasdaq. Это первый случай, когда чисто робототехническая фирма стала публичной, что привлекает внимание к рынку подобных технологий.",
-   "term": "Гуманоидный робот — робот, построенный с формой и движениями, похожими на человеческие.",
-   "use": [
-    "Следите за новостями о применении гуманоидных роботов в логистике и обслуживании.",
-    "Если вы занимаетесь автоматизацией, изучите, какие задачи уже решают такие роботы.",
-    "Подумайте, как интегрировать роботов в свои бизнес‑процессы для повышения эффективности."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "956cb223c580c4",
-   "date": "2026-11-05T12:00:00Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-   "title_en": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-   "summary_en": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
-   "pending": false,
-   "title_ru": "Agility Robotics — первая публичная компания по чисто гуманоидной робототехнике",
-   "simple": "Сегодня Agility Robotics стала первой компанией, полностью сосредоточенной на гуманоидных роботах, и вышла на биржу Nasdaq. Это событие может ускорить развитие и инвестиции в эту область.",
-   "term": "",
-   "use": [
-    "Изучите, какие отрасли (например, складская логистика) уже используют гуманоидных роботов.",
-    "Если вы студент технического направления, рассмотрите специализацию в робототехнике и управлении ИИ.",
-    "Следите за появлением новых сервисов, основанных на таких роботах, для возможного партнёрства."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "b8ffbccf0ff97a",
-   "date": "2026-11-05T12:00:00Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
-   "title_en": "AI’s Next Trick? Speaking Dolphin",
-   "summary_en": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
-   "pending": false,
-   "title_ru": "AI помогает «разговаривать» с дельфинами",
-   "simple": "Дениз Херзэн из проекта Wild Dolphin Project применяет искусственный интеллект для анализа аудио‑ и видеозаписей дельфинов, пытаясь понять их коммуникацию. Это открывает новые возможности в изучении морских млекопитающих.",
-   "term": "Обучение на основе аудио‑видео данных — процесс, когда ИИ учится распознавать звуки и образы из записей, чтобы делать выводы о поведении.",
-   "use": [
-    "Посмотрите открытые наборы данных о звуках дельфинов, чтобы попробовать свои модели распознавания.",
-    "Если вы занимаетесь экологией, рассмотрите ИИ‑инструменты для мониторинга животных.",
-    "Подпишитесь на исследования в области биологии и ИИ, чтобы быть в курсе новых методов."
-   ],
-   "money": null,
    "category": "Исследования",
    "model": "openai/gpt-oss-120b"
   }
