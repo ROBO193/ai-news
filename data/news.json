@@ -1,7 +1,70 @@
 {
- "updated": "2026-11-21T19:27:43Z",
+ "updated": "2026-11-22T00:25:49Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "8d54d4add32f2f",
+   "date": "2026-11-21T21:37:10Z",
+   "addedAt": "2026-11-22T00:25:31Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "title_en": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "summary_en": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+   "pending": false,
+   "title_ru": "Signal ограничивает скриншоты из‑за угрозы AI‑наблюдения",
+   "simple": "Signal теперь запрещает делать скриншоты в своих мобильных приложениях. Это сделано, чтобы усложнить использование мессенджера для слежки с помощью искусственного интеллекта.",
+   "term": "AI‑наблюдение — использование технологий искусственного интеллекта для автоматического анализа и отслеживания пользовательских данных.",
+   "use": [
+    "Обратите внимание, что конфиденциальные разговоры в Signal теперь труднее зафиксировать скриншотом.",
+    "Если вам важно сохранять доказательства переписки, используйте функции экспорта чатов вместо скриншотов."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "127326b87b53e7",
+   "date": "2026-11-21T21:07:42Z",
+   "addedAt": "2026-11-22T00:25:31Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "title_en": "A tale of two Nvidias",
+   "summary_en": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+   "pending": false,
+   "title_ru": "Разные картины Nvidia: отчёт о доходах vs призывы к возвращению Хуана",
+   "simple": "В новостях сравнивают финансовый отчёт Nvidia с мнениями руководителей, требующих вернуть Дженсена Хуана. Это показывает, насколько компания важна для индустрии искусственного интеллекта.",
+   "term": "",
+   "use": [
+    "Следите за новостями о Nvidia, если работаете с AI‑технологиями, чтобы понимать, какие инструменты могут стать доступнее.",
+    "Если вы разрабатываете AI‑приложения, учитывайте возможные изменения в поддержке оборудования от Nvidia."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "234da3fc18675a",
+   "date": "2026-11-21T20:03:37Z",
+   "addedAt": "2026-11-22T00:25:30Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "title_en": "The UN fails to agree on rules regulating ‘killer robots’",
+   "summary_en": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
+   "pending": false,
+   "title_ru": "ООН не смогла согласовать правила для «убийц‑роботов»",
+   "simple": "Дипломаты ООН не пришли к единому решению по регулированию автономного оружия, известного как «убийцы‑роботы». Они лишь договорились продолжить обсуждения. Это важно, потому что такие системы могут использовать ИИ для принятия решений о применении силы.",
+   "term": "убийцы‑роботы — автономные вооружённые системы, способные самостоятельно выбирать и поражать цели с помощью искусственного интеллекта.",
+   "use": [
+    "Следите за международными инициативами, если ваша работа связана с разработкой или использованием автономных систем.",
+    "Если вы изучаете право или этику в сфере ИИ, включите в программу вопросы регулирования автономного оружия."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "01945f6a907c76",
    "date": "2026-11-21T17:00:00Z",
@@ -13021,71 +13084,6 @@
    ],
    "money": null,
    "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "300d91101f21ec",
-   "date": "2026-11-05T08:00:00Z",
-   "addedAt": "2026-11-06T03:28:43Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/merge-builds-with-openai",
-   "title_en": "Merge builds product and business tools with OpenAI technology",
-   "summary_en": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-   "pending": false,
-   "title_ru": "Merge использует технологии OpenAI для продуктов и бизнеса",
-   "simple": "Компания Merge применяет GPT‑6 Astra, ChatGPT и Codex для проверки кода, поддержки маркетинга и планирования деловых мероприятий. AI помогает автоматизировать как технические, так и управленческие задачи.",
-   "term": "GPT‑6 Astra — продвинутая языковая модель от OpenAI, используемая для генерации текста и кода.",
-   "use": [
-    "Изучите, как AI может проверять ваш код и ускорять разработку.",
-    "Применяйте AI‑инструменты для подготовки маркетинговых материалов и планов."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "eeeae62d983b8e",
-   "date": "2026-11-05T06:45:07Z",
-   "addedAt": "2026-11-05T07:57:35Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/zohaib-ahmed-resemble-ai-detecting-ai-agent-traffic/",
-   "title_en": "AI agent detection signals that still work when agents look human",
-   "summary_en": "Bots follow a script. AI agents work toward a goal and choose their own steps, which makes them harder to catch. In this Help Net Security interview, Zohaib Ahmed, CEO of Resemble AI explains how agents arrive as declared, undeclared or disguised traffic, and why binary bot detection misses the last two groups. Ahmed walks through the signals that give agents away, like click timing or a batch of sessions all chasing one goal. For … More → The post AI agent detection signals that still work when agents look human appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Как обнаружить AI‑агентов, которые выглядят как люди",
-   "simple": "AI‑агенты действуют самостоятельно, а не по готовому скрипту, поэтому их сложнее поймать. В интервью объясняются сигналы, такие как время кликов и одновременные сессии, которые помогают их выявить.",
-   "term": "AI‑агент — программа, которая самостоятельно выбирает шаги для достижения цели, а не просто исполняет заранее заданный сценарий",
-   "use": [
-    "Отслеживайте аномальное время между кликами пользователей.",
-    "Проверяйте группы сеансов, которые одновременно стремятся к одной цели.",
-    "Настройте системы мониторинга на выявление подобных паттернов поведения."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "915c0b58aca6a7",
-   "date": "2026-11-05T06:11:25Z",
-   "addedAt": "2026-11-05T07:57:35Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/healthcare-ai-governance-patient-data/",
-   "title_en": "Healthcare can’t govern the AI tools it hasn’t found yet",
-   "summary_en": "Nearly nine in ten healthcare leaders say security or compliance staff always or usually review AI-written code that touches patient data before it goes live, and seven in ten have still found an AI-built tool handling that data without IT or security knowing, according to Paubox. Source: Paubox These are the scripts, automations, and integrations staff put together with AI coding assistants. Here’s the catch: a code review only covers what someone submits, and a … More → The post Healthcare can’t govern the AI tools it hasn’t found yet appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Медицинские организации не могут контролировать скрытые AI‑инструменты",
-   "simple": "Большинство руководителей в здравоохранении проверяют AI‑код, но часто обнаруживают инструменты, о которых IT‑службы не знают. Это происходит из‑за использования AI‑помощников для написания скриптов без надзора.",
-   "term": "AI‑помощник по коду — система, генерирующая программный код по запросу пользователя, часто без полного контроля со стороны IT",
-   "use": [
-    "Внедрите обязательный журнал всех AI‑генерируемых скриптов.",
-    "Проводите регулярные аудиты кода, созданного AI, даже если он не был официально заявлен.",
-    "Обучайте персонал правилам безопасного использования AI‑помощников."
-   ],
-   "money": null,
-   "category": "Регулирование",
    "model": "openai/gpt-oss-120b"
   }
  ]
