@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-22T08:07:53Z",
+ "updated": "2026-11-22T16:24:19Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "2361e0929a29e0",
+   "date": "2026-11-22T15:15:25Z",
+   "addedAt": "2026-11-22T16:24:01Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+   "title_en": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+   "summary_en": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+   "pending": false,
+   "title_ru": "Signal блокирует захват чатов Siri и Gemini AI",
+   "simple": "Signal добавил защиту, которая не позволяет делать скриншоты на iOS 27 и запрещает AI‑ассистентам записывать разговоры на Android. Это повышает конфиденциальность ваших сообщений.",
+   "term": "скриншот — снимок экрана, сохраняющий то, что видно на дисплее устройства",
+   "use": [
+    "Включите новые настройки защиты в Signal, если они доступны в вашем приложении.",
+    "Проверьте, отключены ли функции записи разговоров у голосовых помощников на Android.",
+    "Используйте Signal для конфиденциальных переписок, полагаясь на новую блокировку захвата данных."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "31c3365412387b",
+   "date": "2026-11-22T11:00:00Z",
+   "addedAt": "2026-11-22T16:24:00Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+   "title_en": "Banks Have Had It Up to Here With Your AI Agent",
+   "summary_en": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+   "pending": false,
+   "title_ru": "Банки запрещают сторонним ботам доступ к аккаунтам",
+   "simple": "Крупные американские банки запретили сторонним программам входить в клиентские аккаунты и предупредили, что любые ошибки ботов будут их проблемой. Это меняет правила использования автоматических сервисов для финансов.",
+   "term": "бот — программа, автоматически выполняющая задачи, часто через интерфейсы веб‑сайтов",
+   "use": [
+    "Откажитесь от использования сторонних ботов для входа в банковские сервисы.",
+    "Настройте двухфакторную аутентификацию, чтобы повысить безопасность без автоматизации.",
+    "Если нужен автоматический мониторинг, ищите официальные API банков, а не сторонние решения."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "0ceef4b235ec12",
    "date": "2026-11-21T23:56:28Z",
@@ -13041,50 +13085,6 @@
    ],
    "money": null,
    "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "398b9af75035b7",
-   "date": "2026-11-05T11:45:00Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-   "title_en": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-   "summary_en": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
-   "pending": false,
-   "title_ru": "Тролль‑инфлюенсер привлёк внимание AI‑гигантов",
-   "simple": "Хаск, известный тем, что раскрывает слабости чат‑ботов, стал объектом интереса со стороны OpenAI, Anthropic и SpaceXSI, которые хотят с ним сотрудничать. Это показывает, как критика может стать ресурсом для компаний.",
-   "term": "",
-   "use": [
-    "Если вы занимаетесь тестированием ИИ, изучите методы, которыми Хаск выявляет ошибки.",
-    "Следите за публичными обсуждениями слабых мест ИИ, чтобы улучшать свои проекты.",
-    "Подумайте, как использовать обратную связь от пользователей для повышения надёжности своих систем."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "b8c0e66ba85503",
-   "date": "2026-11-05T10:35:19Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-   "title_en": "Big Tech’s big AI buildout will not end until someone stops it",
-   "summary_en": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also […]",
-   "pending": false,
-   "title_ru": "Крупные технологические компании продолжают инвестировать в AI‑центры данных",
-   "simple": "Крупные игроки в сфере ИИ продолжают тратить рекордные суммы на строительство дата‑центров, но пока не видят быстрых финансовых результатов. Это свидетельствует о долгосрочной стратегии развития инфраструктуры ИИ.",
-   "term": "Дата‑центр — крупный объект, где размещаются серверы для обработки и хранения данных, в том числе для ИИ‑моделей.",
-   "use": [
-    "Следите за ростом спроса на облачные вычисления и планируйте масштабировать свои ИТ‑ресурсы.",
-    "Если вы предоставляете услуги в облаке, изучите возможности оптимизации под ИИ‑нагрузки.",
-    "Обратите внимание на энергоэффективность при выборе инфраструктуры для ИИ‑проектов."
-   ],
-   "money": null,
-   "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   }
  ]
