@@ -1,7 +1,49 @@
 {
- "updated": "2026-11-22T22:32:12Z",
+ "updated": "2026-11-23T03:46:23Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "04504f1c4726c3",
+   "date": "2026-11-23T01:25:53Z",
+   "addedAt": "2026-11-23T03:45:57Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "title_en": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "summary_en": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+   "pending": false,
+   "title_ru": "Инвесторы вложили миллиарды в Anthropic перед IPO",
+   "simple": "Три крупных фонда рассказали, почему решили инвестировать в компанию Anthropic, разрабатывающую ИИ. Их уверенность основана на потенциале технологий компании.",
+   "term": "LLM — крупная языковая модель, обученная на огромных объёмах текста для генерации текста и ответов.",
+   "use": [
+    "Следите за новостями о запуске продуктов Anthropic, чтобы понять их возможности.",
+    "Изучайте основы работы LLM, чтобы быть готовыми к их применению в проектах."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9b531e94180b1d",
+   "date": "2026-11-23T00:27:25Z",
+   "addedAt": "2026-11-23T03:45:57Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/23/google-semantic-governance-policies/",
+   "title_en": "Google’s semantic governance policies can block an AI agent’s tool call before it runs",
+   "summary_en": "Google lets enterprises put a checkpoint in front of an AI agent‘s actions. Semantic governance policies, in Preview on the Gemini platform, look at each tool call the agent’s model proposes and block it before it runs if the call doesn’t match the user’s request or breaks a company rule. The check sits outside the agent, at an enforcement point such as Agent Gateway. Permissions list the actions an agent is able to take and … More → The post Google’s semantic governance policies can block an AI agent’s tool call before it runs appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Google вводит проверку действий ИИ‑агентов перед их выполнением",
+   "simple": "Google позволяет компаниям ставить контрольную точку перед действиями ИИ‑агента. Политики семантического управления проверяют каждый запрос к инструменту и блокируют его, если он не соответствует правилам.",
+   "term": "Семантическое управление — система правил, проверяющих смысл запросов ИИ перед их выполнением.",
+   "use": [
+    "Настройте политики семантического управления в своих проектах, чтобы избежать нежелательных действий ИИ.",
+    "Проверьте, какие инструменты могут вызывать у вашего ИИ, и задайте ограничения."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "716c53fa8fcebb",
    "date": "2026-11-22T21:14:07Z",
@@ -13030,61 +13072,6 @@
    "use": [],
    "money": null,
    "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "57050d5cfd2a20",
-   "date": "2026-11-05T13:29:28Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/sysdig-ai-defense/",
-   "title_en": "Sysdig AI Defense puts runtime guardrails on AI agents",
-   "summary_en": "Sysdig has announced the general availability of Sysdig AI Defense, giving organizations tools to monitor and control AI agent activity across endpoints and cloud environments. The platform checks agent actions against company policies to allow them, hold them for user approval or block them before completion. It also records agent activity and policy decisions for investigations and audits. Enterprises are deploying AI faster than they can govern it. In a recent IBM survey, 77% of … More → The post Sysdig AI Defense puts runtime guardrails on AI agents appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Sysdig AI Defense вводит контроль за действиями AI‑агентов",
-   "simple": "Sysdig представил платформу AI Defense, которая мониторит и ограничивает действия AI‑агентов в облаке и на конечных устройствах согласно политике компании. Это помогает предотвратить нежелательные или опасные операции.",
-   "term": "Runtime guardrails — ограничения, применяемые к работе программ в реальном времени для обеспечения безопасности.",
-   "use": [
-    "Если вы управляете облачными сервисами, настройте политики в Sysdig AI Defense для контроля AI‑агентов.",
-    "Регулярно проверяйте журналы действий агентов, чтобы выявлять аномалии.",
-    "Обучите сотрудников реагировать на запросы подтверждения от системы, когда агент требует разрешения."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "b06af2d45cd2ab",
-   "date": "2026-11-05T13:00:00Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-   "title_en": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-   "summary_en": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
-   "pending": false,
-   "title_ru": "YC‑стартап Discovered Materials предлагает $200 000 за решения задач материаловедения",
-   "simple": "Стартап Discovered Materials, использующий ИИ для поиска новых материалов, объявил конкурс с призовым фондом в $200 000 за каждое решение пяти открытых задач в материаловедении. Это шанс применить AI‑модели к реальным научным проблемам.",
-   "term": "Materials science — область, изучающая свойства и структуры материалов для создания новых изделий.",
-   "use": [
-    "Изучите опубликованные задачи на сайте Discovered Materials, чтобы понять требования.",
-    "Сформируйте команду из специалистов по ИИ и материаловедению для совместной работы.",
-    "Подготовьте прототип решения и отправьте его в конкурс до дедлайна."
-   ],
-   "money": {
-    "idea": "Разработка решений для открытых задач в материаловедении",
-    "how": [
-     "Соберите команду с навыками машинного обучения и химии",
-     "Изучите детали каждой задачи и доступные данные",
-     "Создайте модель, предсказывающую свойства материалов",
-     "Отправьте готовое решение в конкурс Discovered Materials"
-    ],
-    "who": "Data scientist, химик/материаловед, программист",
-    "effort": "высокий",
-    "risk": "Требуется глубокая экспертиза и может не привести к победе"
-   },
-   "category": "Исследования",
    "model": "openai/gpt-oss-120b"
   }
  ]
