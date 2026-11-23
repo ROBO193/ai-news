@@ -1,7 +1,208 @@
 {
- "updated": "2026-11-23T03:46:23Z",
+ "updated": "2026-11-23T14:54:20Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "38eb59f15c2727",
+   "date": "2026-11-23T13:11:48Z",
+   "addedAt": "2026-11-23T14:53:42Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+   "title_en": "Nvidia Is Powering Brain-Computer Interfaces Now",
+   "summary_en": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+   "pending": false,
+   "title_ru": "Nvidia поддерживает развитие мозгово‑компьютерных интерфейсов",
+   "simple": "Компания Paradromics использует графические процессоры и программное обеспечение Nvidia для обработки данных мозга. Это ускоряет развитие технологий прямого соединения мозг‑компьютер.",
+   "term": "Мозгово‑компьютерный интерфейс — технология, позволяющая передавать сигналы между мозгом и компьютером для чтения или управления.",
+   "use": [
+    "Изучите базовые принципы работы нейронных сигналов, чтобы понять, как такие интерфейсы обрабатывают данные.",
+    "Следите за новостями о доступных SDK от Nvidia, которые могут упростить разработку подобных проектов.",
+    "Если вы студент или исследователь, попробуйте подключиться к открытым датасетам мозговой активности для практики."
+   ],
+   "money": {
+    "idea": "Разработать сервис по обработке мозговых данных для исследовательских лабораторий",
+    "how": [
+     "Изучить API и инструменты Nvidia для нейронных вычислений",
+     "Создать прототип обработки сигналов с использованием их GPU",
+     "Предложить услугу лабораториям, которые собирают мозговые данные",
+     "Наладить процесс передачи и защиты данных"
+    ],
+    "who": "Нужны навыки программирования, работы с GPU и базовые знания нейрофизиологии",
+    "effort": "средний",
+    "risk": "Требуется соблюдение строгих этических и правовых норм при работе с биологическими данными"
+   },
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "70a4447641e06e",
+   "date": "2026-11-23T12:00:00Z",
+   "addedAt": "2026-11-23T14:53:42Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+   "title_en": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+   "summary_en": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+   "pending": false,
+   "title_ru": "Обзор ноутбука Asus ProArt P16 с локальными AI‑агентами",
+   "simple": "Ноутбук Asus ProArt P16 может запускать несколько AI‑агентов прямо на устройстве. Это интересно тем, кто хочет использовать ИИ без облака.",
+   "term": "локальные AI‑агенты — программы искусственного интеллекта, работающие полностью на вашем компьютере без обращения к внешним серверам.",
+   "use": [
+    "Попробуйте установить локальные модели ИИ на мощный ноутбук для работы без интернета.",
+    "Обратите внимание на требования к видеокарте и оперативной памяти при выборе ноутбука для AI‑задач."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "92effb5a3302d9",
+   "date": "2026-11-23T12:00:00Z",
+   "addedAt": "2026-11-23T14:53:42Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+   "title_en": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+   "summary_en": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
+   "pending": false,
+   "title_ru": "Эксперты обсуждают, кто защитит нас от опасного ИИ",
+   "simple": "Эксперты считают, что ИИ представляет реальную угрозу и задаются вопросом, что индустрия сделает для защиты. Приглашают задать вопросы на прямом эфире 2 декабря.",
+   "term": "AI‑угроза — потенциальный риск, связанный с неконтролируемым или вредным использованием искусственного интеллекта.",
+   "use": [
+    "Следите за датой и присоединяйтесь к онлайн‑вебинару, чтобы задать свои вопросы.",
+    "Запишите основные рекомендации экспертов для обсуждения в своей команде или сообществе."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "106e5d1cffec64",
+   "date": "2026-11-23T11:49:21Z",
+   "addedAt": "2026-11-23T14:53:42Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+   "title_en": "Meta Muse can do your Black Friday shopping at Walmart",
+   "summary_en": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without […]",
+   "pending": false,
+   "title_ru": "Meta Muse будет делать покупки на Walmart за вас",
+   "simple": "Walmart позволит AI‑агенту Meta Muse искать и покупать товары в день Черной пятницы. Это демонстрирует, как ИИ может автоматизировать онлайн‑шопинг.",
+   "term": "AI‑агент — программный помощник, способный выполнять задачи, такие как поиск и покупка товаров, от имени пользователя.",
+   "use": [
+    "Подключите свой аккаунт к сервису Meta Muse, если он доступен, чтобы экономить время на поиске скидок.",
+    "Проверьте настройки безопасности и ограничения расходов перед автоматической покупкой."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c82dcfbd0de1cf",
+   "date": "2026-11-23T11:00:00Z",
+   "addedAt": "2026-11-23T14:53:42Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+   "title_en": "States Sue SpaceX Over Grok Deepfakes",
+   "summary_en": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
+   "pending": false,
+   "title_ru": "Штаты подали в суд на SpaceX из‑за Deepfake‑контента",
+   "simple": "Губернаторы Орегона и Вирджинии обвиняют компании Илона Маска в слабой защите от создания сексуализированных дипфейков реальных людей, в том числе детей. Это поднимает вопросы ответственности за AI‑контент.",
+   "term": "дипфейк — поддельное медиа‑изображение, созданное с помощью ИИ, которое выглядит как реальное.",
+   "use": [
+    "Следите за новостями о законодательных инициативах, чтобы понять, как меняются правила использования ИИ.",
+    "Если работаете с пользовательским контентом, внедрите более строгие проверки на подделки."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ade3122cc9bd6d",
+   "date": "2026-11-23T10:49:38Z",
+   "addedAt": "2026-11-23T14:53:42Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/23/cairn-ai-agents-autonomous-attacks/",
+   "title_en": "Open-source AI pentesting framework Cairn keeps turning up in real-world attacks",
+   "summary_en": "Autonomous AI agents run by a Chinese-nexus threat actor spent nearly a full day failing to break into university servers, then found and exploited a zero-day in an open-source medical imaging AI application and gained a foothold. The agents ran on Cairn, an open-source AI penetration testing framework, with little human direction, Amazon Threat Intelligence says. The operator simply gave them a list of target IP addresses and a goal: “obtain shell access.” How the … More → The post Open-source AI pentesting framework Cairn keeps turning up in real-world attacks appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Открытый фреймворк Cairn используется в реальных кибератаках",
+   "simple": "Хакеры применяют открытый инструмент Cairn для автоматизированного взлома серверов и поиска уязвимостей в медицинском AI‑приложении. Это показывает, как открытый код может стать оружием в киберпреступности.",
+   "term": "pentesting — проверка системы на уязвимости с целью их обнаружения и исправления.",
+   "use": [
+    "Обновляйте и патчите все AI‑приложения, особенно в медицине, чтобы закрыть известные уязвимости.",
+    "Проведите собственный аудит безопасности с использованием проверенных инструментов, избегая открытых фреймворков, если нет достаточного контроля."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "770ea247b2496e",
+   "date": "2026-11-23T10:00:00Z",
+   "addedAt": "2026-11-23T14:53:42Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+   "title_en": "Goodbye, World: The End of Programmers",
+   "summary_en": "The last thing you should ever read—and the last thing I may ever write—about the craft of coding.",
+   "pending": false,
+   "title_ru": "Прощай, мир: конец программистов?",
+   "simple": "Автор рассуждает, что развитие ИИ может привести к исчезновению традиционной роли программиста. Это заставляет задуматься о будущем профессии разработки.",
+   "term": "генеративный ИИ — система, способная создавать код, тексты или другие материалы на основе обученных данных.",
+   "use": [
+    "Начните изучать инструменты генеративного ИИ, чтобы оставаться конкурентоспособным в разработке.",
+    "Сфокусируйтесь на задачах, требующих креативного мышления и архитектурного проектирования, где ИИ пока ограничен."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6f784865c53c73",
+   "date": "2026-11-23T08:53:49Z",
+   "addedAt": "2026-11-23T14:53:42Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/23/signal-blocks-ai-assistants-screenshots/",
+   "title_en": "Signal blocks AI assistants from peeking at your private messages",
+   "summary_en": "Signal, the encrypted messaging app, is restricting AI assistants built into mobile operating systems from capturing the content of users’ conversations. The protections target Siri AI on iOS 27 and AI assistants on supported Android devices, including Google’s Gemini. These assistants can read the phone’s screen to answer questions and carry out tasks. According to Signal, the process can capture message text and make it accessible to a local database or remote server used by … More → The post Signal blocks AI assistants from peeking at your private messages appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Signal блокирует доступ ИИ‑ассистентов к вашим личным сообщениям",
+   "simple": "Приложение Signal ограничило возможность встроенных в смартфоны ИИ‑ассистентов читать содержимое переписок. Защита касается Siri на iOS 27 и аналогичных помощников на Android, включая Gemini от Google.",
+   "term": "Экранный скриншот‑чтение — способ, когда приложение захватывает изображение экрана, чтобы извлечь текст для обработки ИИ.",
+   "use": [
+    "Проверьте настройки конфиденциальности в Signal и отключите доступ к экрану для сторонних приложений.",
+    "Если вы используете Siri или Google‑ассистент, ограничьте их доступ к сообщениям в настройках телефона."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "f62ca0879191e1",
+   "date": "2026-11-23T06:30:08Z",
+   "addedAt": "2026-11-23T14:53:42Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/23/xalgorix-ai-penetration-testing-tool/",
+   "title_en": "Xalgorix: Open-source AI penetration testing tool",
+   "summary_en": "Xalgorix, an open-source AI penetration testing tool, checks its work before it reports anything. When its main agent finds a bug, a second agent has to exploit that bug again. If the second agent can’t prove the bug is real or rule it out, Xalgorix keeps the finding and flags it for a person to review. The check targets false positives, findings that look like vulnerabilities and turn out to be harmless. Krishna Kumar, the … More → The post Xalgorix: Open-source AI penetration testing tool appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Xalgorix — открытый инструмент ИИ‑тестирования на уязвимости",
+   "simple": "Xalgorix — бесплатный проект, который использует два ИИ‑агента для проверки найденных уязвимостей: один обнаруживает баг, второй пытается его воспроизвести. Если второй не подтверждает проблему, находка помечается для ручной проверки, что снижает количество ложных тревог.",
+   "term": "Ложный положительный результат — ошибка в сканировании, когда система считает безопасный элемент уязвимым.",
+   "use": [
+    "Попробуйте установить Xalgorix в тестовую среду, чтобы проверить свои веб‑приложения на реальные уязвимости.",
+    "Обучите сотрудников отличать реальные баги от ложных, используя отчёты Xalgorix как пример."
+   ],
+   "money": null,
+   "category": "Open source",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "04504f1c4726c3",
    "date": "2026-11-23T01:25:53Z",
@@ -42,6 +243,27 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "6fd4c32fe34a4c",
+   "date": "2026-11-23T00:00:00Z",
+   "addedAt": "2026-11-23T14:53:42Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/agentic-evals",
+   "title_en": "How to build and maintain an agentic evaluation",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Как создать и поддерживать агентную оценку",
+   "simple": "В статье рассматриваются методы построения и поддержания систем, которые способны самостоятельно оценивать свои действия и результаты.",
+   "term": "Агентная оценка — процесс, когда ИИ‑система самостоятельно измеряет эффективность своих решений и корректирует их.",
+   "use": [
+    "Изучите подходы к агентной оценке, если разрабатываете автономные системы.",
+    "Включите метрики самоконтроля в свои проекты, чтобы улучшать качество работы ИИ."
+   ],
+   "money": null,
+   "category": "Агенты",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12854,222 +13076,6 @@
     "Если вы подписаны на SoundCloud Artist Pro, используйте три бесплатных месяца интеграции.",
     "Проверьте качество загружаемых AI‑треков перед публикацией, чтобы избежать нежелательных ошибок."
    ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "0f2052ea73f7a4",
-   "date": "2026-11-05T14:42:00Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-   "title_en": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
-   "summary_en": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-   "pending": false,
-   "title_ru": "Умное кольцо Aina с экраном, джойстиком и микрофоном для общения с ИИ‑агентами",
-   "simple": "Кольцо Aina теперь может принимать звонки и диктовать заметки на компьютере, используя встроенный микрофон и экран. Это делает взаимодействие с ИИ‑ассистентами более мобильным и удобным.",
-   "term": "",
-   "use": [
-    "Подключите кольцо к вашему Mac и используйте его для диктовки заметок без клавиатуры.",
-    "Используйте джойстик кольца для навигации в приложениях ИИ‑ассистентов.",
-    "Проверьте совместимость кольца с вашими текущими сервисами перед покупкой."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "a2de14054cb4b1",
-   "date": "2026-11-05T14:37:00Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/vercel-security-review-session-hijacking/",
-   "title_en": "Vercel ties login sessions to devices, rolls out AI security reviews in public beta",
-   "summary_en": "Vercel, the popular cloud platform for building and hosting websites and web applications, has announced the rollout of Device Bound Session Credentials (DBSC) and the launch of Vercel Security Review in public beta. Making stolen session cookies worthless Device Bound Session Credentials is a security technology designed to limit the consequences of an infostealer infection and to thwart attackers’ session hijacking attempts. Aside from stealing authentication credentials, modern info-stealing malware such as Lumma, RedLine, and … More → The post Vercel ties login sessions to devices, rolls out AI security reviews in public beta appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Vercel привязывает сессии к устройствам и запускает AI‑проверку безопасности в бета‑версии",
-   "simple": "Vercel внедряет технологию Device Bound Session Credentials, которая делает украденные куки бесполезными, и открывает публичный бета‑тест AI‑обзоров безопасности. Это повышает защиту веб‑приложений от кражи сессий.",
-   "term": "Device Bound Session Credentials — метод привязки сессии к конкретному устройству, чтобы украденные данные не работали на другом устройстве.",
-   "use": [
-    "Включите новую функцию привязки сессий в настройках Vercel для всех ваших проектов.",
-    "Протестируйте AI‑обзор безопасности в бета‑режиме, чтобы выявить уязвимости.",
-    "Обучите команду реагировать на предупреждения, получаемые от AI‑обзора."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "b422fe9089ae2f",
-   "date": "2026-11-05T14:33:02Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/arkose-agent-trust-manager/",
-   "title_en": "Arkose Labs expands Agent Trust Manager to govern agent sessions",
-   "summary_en": "Arkose Labs has expanded Arkose Agent Trust Manager to help businesses control agentic traffic. Companies can classify agent sessions, apply allow, monitor or block policies at each step of the customer journey, and track the same agent across multiple networks. The need is urgent given Arkose Labs’ State of Agentic AI Trust Q3 report found that personal AI agents identify themselves less than 3% of the time. Rules that wait for an agent to announce … More → The post Arkose Labs expands Agent Trust Manager to govern agent sessions appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Arkose Labs расширила Agent Trust Manager для управления сессиями ИИ‑агентов",
-   "simple": "Arkose Labs добавила возможности классификации и контроля сессий ИИ‑агентов, позволяя компаниям применять политики разрешения, мониторинга или блокировки на каждом этапе взаимодействия с клиентом. Это важно, поскольку большинство агентов не объявляют себя.",
-   "term": "",
-   "use": [
-    "Настройте правила классификации агентских сессий в системе Arkose для вашего сайта.",
-    "Включите мониторинг подозрительных действий ИИ‑агентов и блокируйте их при необходимости.",
-    "Регулярно проверяйте отчёты о работе агентов, чтобы улучшать политику безопасности."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "a2aaec48b5e5e2",
-   "date": "2026-11-05T14:25:34Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/box-architect/",
-   "title_en": "Box pairs agentic workflow plans with new threat protections",
-   "summary_en": "Box has announced new capabilities to transform how organizations put agents to work across their most critical business processes. Box unveiled Box Architect for autonomously building, managing, and optimizing agentic workflows, redefining how organizations deploy AI on their most critical processes. With Architect, teams will be able to leverage frontier AI to create new workflows and apps, configure agents, connect to Box tools, and manage workflows at scale – all built on their trusted content … More → The post Box pairs agentic workflow plans with new threat protections appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Box представила Box Architect для создания и защиты агентных рабочих процессов",
-   "simple": "Box запустила Box Architect, инструмент для автономного построения, управления и оптимизации AI‑рабочих процессов, с интеграцией защиты от угроз. Это позволяет компаниям масштабировать использование ИИ в критических бизнес‑процессах.",
-   "term": "",
-   "use": [
-    "Изучите возможности Box Architect и попробуйте создать простой AI‑рабочий процесс в тестовой среде.",
-    "Подключите существующие инструменты Box к новым агентным сценариям для автоматизации задач.",
-    "Обратите внимание на встроенные функции защиты при развертывании AI‑процессов."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "56c190950731d7",
-   "date": "2026-11-05T14:03:27Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-   "title_en": "The hidden supply chain costs of the AI boom",
-   "summary_en": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through […]",
-   "pending": false,
-   "title_ru": "Скрытые издержки цепочек поставок из‑за бума роста ИИ",
-   "simple": "Экономист Уилли Ших обсуждает, как быстрый рост ИИ увеличивает скрытые затраты в глобальных цепочках поставок, влияя на цены и доступность товаров. Это важно для понимания экономических последствий AI‑бумa.",
-   "term": "",
-   "use": [
-    "Следите за новостями о ценах на комплектующие, которые могут подорожать из‑за спроса на ИИ‑оборудование.",
-    "Оцените влияние возможных задержек поставок на ваш бизнес‑план и запаситесь критически важными ресурсами.",
-    "Изучите альтернативные поставщики, чтобы снизить риски, связанные с ростом спроса на AI‑технологии."
-   ],
-   "money": null,
-   "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "d050786c603e8a",
-   "date": "2026-11-05T14:00:34Z",
-   "addedAt": "2026-11-05T16:31:34Z",
-   "source": "NVIDIA",
-   "sourceType": "company",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-   "title_en": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-   "summary_en": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions […]",
-   "pending": false,
-   "title_ru": "Hogwarts Legacy получит улучшение NVIDIA DLSS 5 в GeForce NOW",
-   "simple": "Игра Hogwarts Legacy будет поддерживать технологию DLSS 5, которая улучшит освещение и материалы в облачном сервисе GeForce NOW. Это сделает графику более реалистичной и плавной, что понравится игрокам.",
-   "term": "DLSS 5 — технология от NVIDIA, использующая нейронные сети для повышения разрешения и качества изображения в реальном времени.",
-   "use": [
-    "Попробуйте запустить Hogwarts Legacy через GeForce NOW, если у вас медленное соединение, чтобы увидеть улучшенную графику.",
-    "Обратите внимание, что для DLSS 5 нужен совместимый графический процессор или подписка на GeForce NOW.",
-    "Если вы разрабатываете игры, изучите возможности DLSS для повышения визуального качества без потери производительности."
-   ],
-   "money": null,
-   "category": "Железо",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "d51f62aa0d3ca8",
-   "date": "2026-11-05T14:00:00Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-   "title_en": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-   "summary_en": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-   "pending": false,
-   "title_ru": "Box использует Nvidia Nemotron для ускоренного поиска контента",
-   "simple": "Box внедряет модель Nemotron от Nvidia в новую систему поиска, которая отвечает в четыре раза быстрее и с меньшим числом ошибок. Это может ускорить работу с документами и данными в облаке.",
-   "term": "Nemotron — крупная языковая модель от Nvidia, предназначенная для обработки запросов и генерации текста.",
-   "use": [
-    "Настройте интеграцию новой системы в ваш аккаунт Box, чтобы ускорить поиск нужных файлов.",
-    "Проверьте, как уменьшилось количество ошибок в результатах поиска, и адаптируйте рабочие процессы.",
-    "Если вы администратор, оцените экономию токенов и ресурсов при использовании модели."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "7587b1572e755f",
-   "date": "2026-11-05T14:00:00Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/aina-smart-ring/",
-   "title_en": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-   "summary_en": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
-   "pending": false,
-   "title_ru": "Умное кольцо Aina будет управлять вашими AI‑ассистентами",
-   "simple": "Стартап Aina разрабатывает кольцо, позволяющее управлять виртуальными помощниками одним нажатием, без телефона. Это упрощает взаимодействие с AI‑агентами в повседневных задачах.",
-   "term": "AI‑агент — программный помощник, способный выполнять задачи по голосовым или другим командам.",
-   "use": [
-    "Подпишитесь на новости Aina, чтобы узнать, когда появятся первые образцы кольца.",
-    "Если вы часто используете голосовых помощников, попробуйте заменить телефонные команды на жесты кольца.",
-    "Следите за совместимостью кольца с вашими текущими сервисами (Google Assistant, Siri и др.)."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "76cbbd24b030b9",
-   "date": "2026-11-05T13:48:16Z",
-   "addedAt": "2026-11-05T16:31:35Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/05/portswigger-burp-at-enterprises/",
-   "title_en": "PortSwigger’s Burp AT lets enterprises delegate pentests with defined limits",
-   "summary_en": "PortSwigger has announced the availability of Burp AT for enterprises, an agentic pentesting solution that helps security teams investigate important applications more deeply and more often. Burp AT combines specialist Burp tools, purpose-built pentesting skills developed with PortSwigger Research, and relevant application context. Agents plan their testing approach, use Burp’s web security testing tools, and adapt as they learn. For AppSec leaders balancing testing priorities with limited expert capacity, Burp AT helps teams pursue investigations … More → The post PortSwigger’s Burp AT lets enterprises delegate pentests with defined limits appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "PortSwigger выпустил Burp AT для автоматизированного пентеста",
-   "simple": "PortSwigger представил Burp AT — решение, позволяющее компаниям делегировать тестирование безопасности с помощью AI‑агентов, которые планируют и проводят проверки приложений. Это помогает покрыть больше уязвимостей при ограниченных ресурсах.",
-   "term": "Pentest (пентест) — проверка программного обеспечения на наличие уязвимостей, обычно проводимая специалистами по безопасности.",
-   "use": [
-    "Если вы отвечаете за безопасность, оцените возможность интеграции Burp AT в ваш процесс тестирования.",
-    "Определите, какие приложения требуют более глубокого анализа, и назначьте их агентам Burp AT.",
-    "Обучите команду работе с отчетами, которые генерирует система, чтобы быстро реагировать на найденные проблемы."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "4dac3d0c60c651",
-   "date": "2026-11-05T13:31:36Z",
-   "addedAt": "2026-11-05T22:42:25Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-   "title_en": "Grimes is going to star in an AI movie that’s coming to theaters",
-   "summary_en": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of AI films, and it releases on […]",
-   "pending": false,
-   "title_ru": "Поп-звезда Grimes появится в первом AI‑фильме в кинотеатрах",
-   "simple": "В научно‑фантастическом фильме, полностью сгенерированном ИИ, появится поп‑артист Grimes. Это первый случай, когда AI‑фильм выходит в обычные кинотеатры, что показывает коммерческий потенциал таких проектов.",
-   "term": "",
-   "use": [],
    "money": null,
    "category": "Применение",
    "model": "openai/gpt-oss-120b"
