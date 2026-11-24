@@ -1,7 +1,153 @@
 {
- "updated": "2026-11-24T02:19:57Z",
+ "updated": "2026-11-24T13:56:52Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "e94ac3e9d5200e",
+   "date": "2026-11-24T13:34:23Z",
+   "addedAt": "2026-11-24T13:56:07Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+   "title_en": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+   "summary_en": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
+   "pending": false,
+   "title_ru": "Shirudo: открытый инструмент защищает необновлённые Linux‑системы с помощью ИИ",
+   "simple": "OpenAI и Cisco выпустили бесплатный инструмент Shirudo, который использует ИИ для временной защиты Linux‑серверов от атак, пока администраторы готовят патчи. Защита работает без перезапуска сервисов.",
+   "term": "runtime protection — защита, работающая в процессе выполнения программы, а не в виде отдельного патча",
+   "use": [
+    "Попробуйте установить Shirudo на свои Linux‑серверы, если вы не успеваете сразу ставить обновления.",
+    "Настройте автоматический запуск инструмента при старте системы, чтобы он постоянно мониторил уязвимости.",
+    "Следите за обновлениями проекта, чтобы получать новые правила защиты."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ca1277f0d63972",
+   "date": "2026-11-24T12:34:02Z",
+   "addedAt": "2026-11-24T13:56:06Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/24/bedrock-data-agent-dlp/",
+   "title_en": "Bedrock Data enhances AI agent governance with intent-aware DLP",
+   "summary_en": "Bedrock Data has announced that Agent DLP, its runtime data loss prevention for AI agents, now infers a user’s intent (the business purpose behind the task) and evaluates the agent’s behavior (the sum of its actions across every tool and LLM call) against that intent and the organization’s policy. By weighing both intent and behavior, Agent DLP lets employees keep working with AI agents while sensitive data stays protected. Agent DLP adds support for off-the-shelf … More → The post Bedrock Data enhances AI agent governance with intent-aware DLP appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Bedrock Data добавила DLP, учитывающее намерения при работе с ИИ‑агентами",
+   "simple": "Компания Bedrock Data улучшила свой продукт Agent DLP, который теперь оценивает, зачем сотрудник использует ИИ‑агента и сравнивает его действия с политикой компании. Это помогает защищать конфиденциальные данные, не ограничивая работу с ИИ.",
+   "term": "DLP (Data Loss Prevention) — система, предотвращающая утечку данных, контролируя их перемещение и использование",
+   "use": [
+    "Проверьте, поддерживает ли ваш текущий DLP‑инструмент анализ намерений, и при необходимости обновите его.",
+    "Обучите сотрудников формулировать чёткие бизнес‑цели при работе с ИИ‑агентами, чтобы система могла их правильно оценивать.",
+    "Настройте правила, блокирующие действия, не соответствующие заявленным целям, чтобы избежать утечек."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "21c67f84759f6d",
+   "date": "2026-11-24T12:30:05Z",
+   "addedAt": "2026-11-24T13:56:06Z",
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+   "title_en": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+   "summary_en": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+   "pending": false,
+   "title_ru": "Хакеры использовали ИИ‑агенты для эксплуатации нулевого дня с минимумом вмешательства",
+   "simple": "Исследователи обнаружили, что в рамках проекта Cairn AI злоумышленники смогли автоматизировать поиск и использование уязвимости нулевого дня, почти без участия человека. Это показывает, как ИИ может ускорять как защиту, так и атаки.",
+   "term": "ноль‑день (0‑day) — уязвимость, о которой ещё не знают разработчики и нет патча",
+   "use": [
+    "Усилите мониторинг аномалий в своей инфраструктуре, так как автоматические атаки могут происходить быстро.",
+    "Обновляйте системы и приложения как можно чаще, чтобы сократить окно уязвимости.",
+    "Проведите обучение персонала по распознаванию признаков автоматических атак."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c717d04d5f559b",
+   "date": "2026-11-24T12:27:45Z",
+   "addedAt": "2026-11-24T13:56:06Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/24/elastic-security-9-6-features/",
+   "title_en": "Elastic puts AI agents to work on the SOC alert backlog",
+   "summary_en": "Elastic announced Elastic Security 9.6, which introduces AlertZero, a set of AI agents that triage alerts, hunt threats and tune detection rules in the background. The release also adds ransomware protection for Linux, expanded entity resolution and an expanded set of 143 detection rules covering AI agents and large language model platforms. AlertZero takes on the alert queue AlertZero organizes its agents, called Workers, into four teams known as Watches: triage, threat hunting, detection engineering … More → The post Elastic puts AI agents to work on the SOC alert backlog appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Elastic внедряет AI‑агенты для автоматической обработки тревог SOC",
+   "simple": "Elastic выпустила версию Security 9.6 с набором AI‑агентов AlertZero, которые автоматически сортируют, исследуют и настраивают правила реагирования на инциденты. Это помогает сократить нагрузку аналитиков SOC и быстрее реагировать на угрозы.",
+   "term": "SOC (Security Operations Center) — центр мониторинга и реагирования на киберугрозы",
+   "use": [
+    "Подключите модуль AlertZero к своей системе мониторинга, если вы уже используете Elastic Security.",
+    "Настройте правила приоритезации, чтобы агенты фокусировались на самых критичных тревогах.",
+    "Регулярно проверяйте отчёты агентов, чтобы убедиться в корректности их действий."
+   ],
+   "money": null,
+   "category": "Агенты",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "1a4db0a69568f7",
+   "date": "2026-11-24T10:15:00Z",
+   "addedAt": "2026-11-24T13:56:06Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+   "title_en": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+   "summary_en": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+   "pending": false,
+   "title_ru": "ИИ решил гипотезу Римана, но учёным понадобится время, чтобы понять решение",
+   "simple": "Исследователь Anthropic с помощью ИИ создал 17‑миллионную строку кода, решающую гипотезу Римана — одну из самых известных задач математики. Учёным предстоит долго разбирать полученный «инопланетный» результат.",
+   "term": "гипотеза Римана — предположение о распределении нулей дзета‑функции, важное для теории чисел",
+   "use": [
+    "Следите за публикациями по этому решению, чтобы понять, как ИИ может помогать в сложных математических задачах.",
+    "Если вы изучаете математику, попробуйте использовать ИИ‑инструменты для генерации гипотез и проверок.",
+    "Участвуйте в обсуждениях научных сообществ, где обсуждают влияние ИИ на фундаментальные исследования."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d0b87a53ea5742",
+   "date": "2026-11-24T09:02:02Z",
+   "addedAt": "2026-11-24T13:56:06Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/24/anthropic-claude-ship-beta/",
+   "title_en": "Claude Ship gives AI a seat on both sides of code review",
+   "summary_en": "Anthropic launched Claude Ship in beta, a suite of agents that reviews pull requests, fixes issues and approves changes permitted by a team’s policy. Teams decide where it runs and which changes require human approval. Anthropic said Claude writes most of the code on its Claude Code team. With Claude Ship, the company aims to help teams “ship code as fast as teams write it.” How Claude Ship works Claude Ship combines Code Review, which … More → The post Claude Ship gives AI a seat on both sides of code review appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Claude Ship: ИИ помогает проверять и одобрять код",
+   "simple": "Anthropic запустила в бета‑тесте Claude Ship — набор агентов, которые проверяют pull‑request'ы, исправляют ошибки и одобряют изменения согласно политике команды. Команды выбирают, где запускать ИИ и какие правки требуют человеческого подтверждения.",
+   "term": "агент — программный модуль, автоматически выполняющий задачи, например проверку кода, без постоянного вмешательства человека",
+   "use": [],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "d305226424f3c5",
+   "date": "2026-11-24T07:00:16Z",
+   "addedAt": "2026-11-24T13:56:06Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/24/chris-betz-google-agentic-ai-security/",
+   "title_en": "Google Cloud CISO talks agentic AI security and the future of the SOC",
+   "summary_en": "In this interview with Help Net Security, Chris Betz, CISO of Google Cloud, answers five questions about security as AI agents spread. He says the old belief that human-led workflows would stay the norm has aged badly, since attackers use automation to move through networks in minutes. Betz explains how agents could change the junior analyst role, why espionage groups can be hard to spot, which controls companies should drop, and what boards should ask … More → The post Google Cloud CISO talks agentic AI security and the future of the SOC appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "CISO Google Cloud о безопасности агентного ИИ и будущем SOC",
+   "simple": "В интервью CISO Google Cloud Крис Бетц рассказывает, как рост автоматизированных ИИ‑агентов меняет подход к кибербезопасности, ускоряя атаки и требуя новых методов защиты. Он обсуждает, какие роли могут измениться и какие контрольные меры стоит пересмотреть.",
+   "term": "SOC — центр оперативного реагирования на инциденты, где специалисты мониторят и реагируют на угрозы",
+   "use": [],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "efc98a45d93182",
    "date": "2026-11-23T23:40:49Z",
@@ -664,17 +810,6 @@
    "model": "openai/gpt-oss-120b"
   },
   {
-   "id": "5f7392aa1315ab",
-   "date": "2026-11-23T00:37:20Z",
-   "addedAt": "2026-11-24T02:19:03Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
-   "title_en": "datasette-charts 0.1a0",
-   "summary_en": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin. You can try it out in Datasette Lite here . It looks like this: The new charts plugin works against any table or arbitrary SQL query in Datasette. It defines several different chart types (using vendored D3 , Observable Plot , and topojson-client ), each with a set of heuristics for identifying when they might be a good match for a specific set of rows. Those suggestion thumbnails at the top are actual visualizations driven by the data, and selecting one pulls up…",
-   "pending": true
-  },
-  {
    "id": "9b531e94180b1d",
    "date": "2026-11-23T00:27:25Z",
    "addedAt": "2026-11-23T03:45:57Z",
@@ -747,7 +882,18 @@
    "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
    "title_en": "Select Styling Specimens",
    "summary_en": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser After some experimentation I've decided my favorite CSS for select boxes is this: select { appearance : none ; color : # 1f2933 ; padding : 0.5 em 2.25 em 0.5 em 0.75 em ; border : 1 px solid # c4cbd3 ; border-radius : 6 px ; background : # fff url ( \"data:image/svg+xml,%3Csvg…",
-   "pending": true
+   "pending": false,
+   "title_ru": "Как стилизовать HTML‑элементы с помощью Claude AI",
+   "simple": "Claude AI помог создать страницу, показывающую все варианты оформления выпадающих списков. Это удобно, если хотите увидеть, как они выглядят в разных браузерах.",
+   "term": "appearance — CSS‑свойство, позволяющее отключить стандартный вид элемента и задать свой стиль.",
+   "use": [
+    "Скачайте готовый HTML‑пример и откройте его в разных браузерах, чтобы сравнить внешний вид.",
+    "Экспериментируйте с параметрами padding, border и color, меняя их под ваш дизайн.",
+    "Используйте полученные скриншоты как референс для собственного проекта."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "265c68ec3a4cc7",
@@ -1011,17 +1157,6 @@
    "model": "openai/gpt-oss-120b"
   },
   {
-   "id": "a7d20c80270e4a",
-   "date": "2026-11-20T23:24:02Z",
-   "addedAt": "2026-11-24T02:19:03Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
-   "title_en": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
-   "summary_en": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
-   "pending": true
-  },
-  {
    "id": "5a49fd4a2d776c",
    "date": "2026-11-20T21:58:29Z",
    "addedAt": "2026-11-21T02:27:27Z",
@@ -1169,17 +1304,6 @@
    "money": null,
    "category": "Исследования",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "6a73fdd651f90d",
-   "date": "2026-11-20T19:21:49Z",
-   "addedAt": "2026-11-24T02:19:03Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-   "title_en": "Quoting Ravi Vakil",
-   "summary_en": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft. — Ravi Vakil , Hurried Announcement: Alessandro Masullo GRH Tags: mathematics",
-   "pending": true
   },
   {
    "id": "3a0cb236fd3220",
@@ -1788,17 +1912,6 @@
    "money": null,
    "category": "Агенты",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "7339d690dfb602",
-   "date": "2026-11-19T20:43:57Z",
-   "addedAt": "2026-11-24T02:19:03Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-   "title_en": "PostgreSQL 19 Released",
-   "summary_en": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys, PostgreSQL 19 adds \"read-your-writes\" consistency with the new WAIT FOR LSN command. A session on a standby can use WAIT FOR LSN to wait until the standby has replayed the write-ahead log (WAL) up to a specific log sequence number (LSN) before running a query, so the application can read data it just…",
-   "pending": true
   },
   {
    "id": "b0341a0ae37508",
@@ -4502,17 +4615,6 @@
    "money": null,
    "category": "Железо",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "86f07be892b022",
-   "date": "2026-11-17T14:39:46Z",
-   "addedAt": "2026-11-24T02:19:03Z",
-   "source": "MIT Technology Review",
-   "sourceType": "media",
-   "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-   "title_en": "Research Reports",
-   "summary_en": "To access a report, click on the corresponding image below.",
-   "pending": true
   },
   {
    "id": "697ff91b93402f",
@@ -12968,48 +13070,6 @@
    "use": [
     "Если вы обучаете AI‑модели для биологии, используйте BioBasicsBench для оценки их практической пригодности.",
     "Студентам и исследователям стоит ознакомиться с задачами набора, чтобы понять, какие навыки ещё нужно развивать у моделей."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "01af2f668adeb8",
-   "date": "2026-11-05T22:40:55Z",
-   "addedAt": "2026-11-05T22:42:25Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-   "title_en": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-   "summary_en": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-   "pending": false,
-   "title_ru": "Airbnb запустит AI‑агента для путешествий в 2027 году",
-   "simple": "Airbnb объявила, что к первой половине 2027 года представит собственного искусственного помощника, который будет помогать планировать поездки, сравнивать варианты, управлять бронированиями и поддерживать гостей во время отдыха.",
-   "term": "AI‑агент — программный помощник, использующий искусственный интеллект для выполнения задач, например, подбора отелей и ответов на вопросы путешественников.",
-   "use": [
-    "Следите за анонсами Airbnb, чтобы заранее протестировать нового помощника, когда он появится.",
-    "Если вы работаете в туристическом бизнесе, подготовьте сценарии взаимодействия с AI‑агентом, чтобы быстро адаптироваться к новому сервису."
-   ],
-   "money": null,
-   "category": "Агенты",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "8e75ec02fc50e9",
-   "date": "2026-11-05T22:26:50Z",
-   "addedAt": "2026-11-05T22:42:25Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-   "title_en": "Perplexity launches its own take on AI agents for work",
-   "summary_en": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]",
-   "pending": false,
-   "title_ru": "Perplexity представила AI‑агентов «Teammates» для работы",
-   "simple": "Perplexity выпустила постоянных AI‑агентов, которые могут выполнять разные роли в рабочем пространстве, используя уже существующие проекты и инструменты компании.",
-   "term": "always‑on AI agents — постоянно работающие искусственные помощники, которые могут помнить контекст и выполнять задачи без повторного запуска.",
-   "use": [
-    "Попробуйте интегрировать новых «Teammates» в свои текущие рабочие процессы, чтобы автоматизировать рутинные задачи.",
-    "Изучите, какие функции Perplexity Computer доступны, и настройте их под свои нужды."
    ],
    "money": null,
    "category": "Агенты",
