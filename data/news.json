@@ -1,7 +1,73 @@
 {
- "updated": "2026-11-24T23:32:24Z",
+ "updated": "2026-11-25T08:49:52Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "1dcff8c3a6af7d",
+   "date": "2026-11-25T06:00:00Z",
+   "addedAt": "2026-11-25T08:49:24Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/25/gputaskman-open-source-gpu-task-manager/",
+   "title_en": "gputaskman: Open-source task manager for GPUs",
+   "summary_en": "gputaskman is an open-source task manager for GPUs that runs in a terminal on Windows, Linux, WSL, and Apple Silicon Macs. It shows which process is holding a machine’s GPU memory, how busy each process keeps the card, and which AI model sits behind the numbers, where it can find evidence for one. Windows Task Manager can report a figure like 15 GB used. It cannot say whether those bytes are model weights, KV cache … More → The post gputaskman: Open-source task manager for GPUs appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "gputaskman — открытый менеджер задач для видеокарт",
+   "simple": "Появилась утилита gputaskman, которая в терминале показывает, какие процессы используют память GPU и какие модели ИИ запущены. Это удобно для контроля нагрузки на видеокарту в Windows, Linux и macOS.",
+   "term": "GPU — графический процессор, специализированный чип для вычислений, часто используемый в обучении и работе ИИ‑моделей.",
+   "use": [
+    "Установите gputaskman, если часто работаете с ИИ‑моделями на видеокарте, чтобы видеть, какие процессы её загружают.",
+    "Проверяйте, какие процессы занимают большую часть памяти GPU, и при необходимости завершайте их, чтобы освободить ресурсы для новых задач.",
+    "Используйте вывод программы для оптимизации распределения моделей и уменьшения простоя видеокарты."
+   ],
+   "money": null,
+   "category": "Open source",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "05f887d0221c3a",
+   "date": "2026-11-25T00:12:02Z",
+   "addedAt": "2026-11-25T08:49:23Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "title_en": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+   "summary_en": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+   "pending": false,
+   "title_ru": "Соненфельд: Nvidia может стать угрозой для промышленности США",
+   "simple": "Профессор Йельского университета предупреждает, что возвращение Дженсена Хуана в Nvidia может создать юридические риски и способствовать передаче передовых чипов конкурентам. Это важный сигнал о политических и экономических последствиях крупных ИИ‑компаний.",
+   "term": "",
+   "use": [
+    "Следите за новостями о регулировании ИИ, чтобы понимать, как меняются требования к компаниям в сфере технологий.",
+    "Если вы работаете в сфере поставок чипов, учитывайте возможные ограничения на экспорт передовых решений.",
+    "Обратите внимание на юридические аспекты сотрудничества с крупными ИИ‑компаниями, чтобы избежать рисков."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c380f1e9589a23",
+   "date": "2026-11-24T23:39:04Z",
+   "addedAt": "2026-11-25T08:49:23Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+   "title_en": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+   "summary_en": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+   "pending": false,
+   "title_ru": "Возврат Хуана показывает, что Nvidia слишком велика для контроля",
+   "simple": "Эксперты считают, что влияние Nvidia на американскую экономику настолько велико, что его руководство сложно регулировать, даже учитывая связи с Китаем. Это поднимает вопросы о балансе между инновациями и безопасностью.",
+   "term": "",
+   "use": [
+    "Изучайте, как крупные ИИ‑компании влияют на рынок, чтобы лучше планировать свою карьеру в отрасли.",
+    "Если вы разрабатываете ИИ‑продукты, учитывайте возможные ограничения со стороны регуляторов.",
+    "Следите за изменениями в политике компаний, чтобы своевременно адаптировать свои проекты."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "8caf92805426b7",
    "date": "2026-11-24T23:02:07Z",
@@ -129,6 +195,28 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "32af257829de96",
+   "date": "2026-11-24T20:52:19Z",
+   "addedAt": "2026-11-25T08:49:23Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "title_en": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "summary_en": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]",
+   "pending": false,
+   "title_ru": "Хуанг опроверг слухи о помощи Белого дома в его возвращении",
+   "simple": "Генеральный директор Nvidia в первом собрании после возвращения заявил, что слухи о вмешательстве Белого дома в его назначение не соответствуют действительности. Это важно для понимания внутренней политики компании.",
+   "term": "",
+   "use": [
+    "Следите за официальными заявлениями руководителей ИИ‑компаний, чтобы отделять факты от спекуляций.",
+    "Если вы работаете в сфере PR или коммуникаций, учитывайте такие заявления при формировании имиджа компании.",
+    "Обратите внимание на внутренние изменения в управлении, которые могут влиять на проекты и команды."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "30d256445c7cbe",
    "date": "2026-11-24T20:34:53Z",
    "addedAt": "2026-11-24T23:31:26Z",
@@ -211,6 +299,28 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9336a8c017b0a1",
+   "date": "2026-11-24T17:44:53Z",
+   "addedAt": "2026-11-25T08:49:23Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+   "title_en": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+   "summary_en": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
+   "pending": false,
+   "title_ru": "Хуанг извинился перед сотрудниками Nvidia после возвращения",
+   "simple": "CEO Nvidia Дженсен Хуанг в первом общем собрании после возвращения открылся о личных вопросах, защитил своё назначение и признал, что его стиль управления иногда был слишком жёстким. Это важно для понимания корпоративной культуры компании.",
+   "term": "",
+   "use": [
+    "Если вы работаете в ИИ‑компаниях, учитывайте, что стиль руководства может влиять на атмосферу в команде.",
+    "Обратите внимание на открытость руководства к обратной связи, это помогает улучшать рабочие процессы.",
+    "Следите за изменениями в управлении, чтобы адаптировать свои ожидания и планы развития."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -814,17 +924,6 @@
    "model": "openai/gpt-oss-120b"
   },
   {
-   "id": "99b93f3e109849",
-   "date": "2026-11-24T00:00:00Z",
-   "addedAt": "2026-11-24T23:31:24Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
-   "title_en": "Clay helps sales teams win with Codex and ChatGPT",
-   "summary_en": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
-   "pending": true
-  },
-  {
    "id": "efc98a45d93182",
    "date": "2026-11-23T23:40:49Z",
    "addedAt": "2026-11-24T02:19:03Z",
@@ -845,28 +944,6 @@
    "money": null,
    "category": "Модели",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "049542555c2cb3",
-   "date": "2026-11-23T22:34:20Z",
-   "addedAt": "2026-11-24T23:31:26Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-   "title_en": "Trump engineered a risky comeback for Jensen Huang",
-   "summary_en": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]",
-   "pending": true
-  },
-  {
-   "id": "8ab70d6f89cfc9",
-   "date": "2026-11-23T22:21:36Z",
-   "addedAt": "2026-11-24T23:31:26Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-   "title_en": "Welcome to elite impunity, Jensen Huang",
-   "summary_en": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might […]",
-   "pending": true
   },
   {
    "id": "27065c561fbc5a",
@@ -1096,17 +1173,6 @@
    "model": "openai/gpt-oss-120b"
   },
   {
-   "id": "9aeab8bbf1eab4",
-   "date": "2026-11-23T17:52:56Z",
-   "addedAt": "2026-11-24T23:31:27Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
-   "title_en": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
-   "summary_en": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
-   "pending": true
-  },
-  {
    "id": "02839082ff9ffa",
    "date": "2026-11-23T17:36:08Z",
    "addedAt": "2026-11-24T02:19:03Z",
@@ -1217,18 +1283,29 @@
    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
    "title_en": "Finding faster quantum algorithms with agents and formal verification",
    "summary_en": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-   "pending": true
-  },
-  {
-   "id": "e09aa9a8dd8048",
-   "date": "2026-11-23T15:46:18Z",
-   "addedAt": "2026-11-24T23:31:26Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-   "title_en": "Jensen Huang reinstated as Nvidia CEO, board chair",
-   "summary_en": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
-   "pending": true
+   "pending": false,
+   "title_ru": "Новые квантовые алгоритмы с помощью агентных команд и формальной верификации",
+   "simple": "Исследователи используют группы программных агентов и формальную верификацию, чтобы ускорить разработку квантовых алгоритмов для задач синтеза и химии.",
+   "term": "формальная верификация — математический метод проверки корректности алгоритма без запуска кода",
+   "use": [
+    "Изучите основы агентных систем, чтобы понять их роль в оптимизации алгоритмов.",
+    "Попробуйте простые инструменты формальной верификации на небольших квантовых задачах.",
+    "Следите за публикациями в области квантовых вычислений, чтобы применять новые методы в своих проектах."
+   ],
+   "money": {
+    "idea": "предоставлять услуги по оптимизации квантовых алгоритмов для исследовательских и промышленных проектов",
+    "how": [
+     "Сформировать команду из специалистов по квантовым вычислениям и программированию агентов",
+     "Освоить инструменты формальной верификации и интегрировать их в процесс разработки",
+     "Найти заказчиков в научных институтах или компаниях, работающих над химией и материалами",
+     "Предлагать готовые решения или консалтинг по ускорению их квантовых расчётов"
+    ],
+    "who": "нужны навыки квантового программирования, знание агентных систем и формальной верификации",
+    "effort": "высокий",
+    "risk": "требуется высокий уровень экспертизы и ограниченный рынок заказчиков"
+   },
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
   },
   {
    "id": "594a8d6fa69747",
@@ -1273,17 +1350,6 @@
    "money": null,
    "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "8425a12bb07203",
-   "date": "2026-11-23T14:27:35Z",
-   "addedAt": "2026-11-24T23:31:27Z",
-   "source": "Wired",
-   "sourceType": "media",
-   "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
-   "title_en": "Jensen Huang Is Back as Nvidia CEO",
-   "summary_en": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
-   "pending": true
   },
   {
    "id": "38eb59f15c2727",
@@ -1550,17 +1616,6 @@
    "money": null,
    "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "5f7392aa1315ab",
-   "date": "2026-11-23T00:37:20Z",
-   "addedAt": "2026-11-24T23:31:27Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
-   "title_en": "datasette-charts 0.1a0",
-   "summary_en": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin. You can try it out in Datasette Lite here . It looks like this: The new charts plugin works against any table or arbitrary SQL query in Datasette. It defines several different chart types (using vendored D3 , Observable Plot , and topojson-client ), each with a set of heuristics for identifying when they might be a good match for a specific set of rows. Those suggestion thumbnails at the top are actual visualizations driven by the data, and selecting one pulls up…",
-   "pending": true
   },
   {
    "id": "9b531e94180b1d",
@@ -2057,17 +2112,6 @@
    "money": null,
    "category": "Исследования",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "6a73fdd651f90d",
-   "date": "2026-11-20T19:21:49Z",
-   "addedAt": "2026-11-24T23:31:27Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-   "title_en": "Quoting Ravi Vakil",
-   "summary_en": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft. — Ravi Vakil , Hurried Announcement: Alessandro Masullo GRH Tags: mathematics",
-   "pending": true
   },
   {
    "id": "3a0cb236fd3220",
@@ -2676,17 +2720,6 @@
    "money": null,
    "category": "Агенты",
    "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "7339d690dfb602",
-   "date": "2026-11-19T20:43:57Z",
-   "addedAt": "2026-11-24T23:31:27Z",
-   "source": "Simon Willison",
-   "sourceType": "expert",
-   "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-   "title_en": "PostgreSQL 19 Released",
-   "summary_en": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys, PostgreSQL 19 adds \"read-your-writes\" consistency with the new WAIT FOR LSN command. A session on a standby can use WAIT FOR LSN to wait until the standby has replayed the write-ahead log (WAL) up to a specific log sequence number (LSN) before running a query, so the application can read data it just…",
-   "pending": true
   },
   {
    "id": "b0341a0ae37508",
