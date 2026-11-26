@@ -1,7 +1,113 @@
 {
- "updated": "2026-11-25T19:26:02Z",
+ "updated": "2026-11-26T02:54:52Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "2c33c3cedb6545",
+   "date": "2026-11-25T23:26:32Z",
+   "addedAt": "2026-11-26T02:54:25Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+   "title_en": "Quoting Scott Aaronson",
+   "summary_en": "It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo first training his telescope on the stars. That might give you some idea of how our resolution into the complexity-theoretic universe, and the whole universe of mathematical truth beyond it, has now improved. — Scott Aaronson Tags: mathematics , llms , ai , generative-ai",
+   "pending": false,
+   "title_ru": "Скотт Ааронсон о новой эпохе математических открытий с помощью ИИ",
+   "simple": "Учёный Скотт Ааронсон сравнил недавний прогресс в теории сложности с открытием микроскопа и телескопа. Он считает, что ИИ открывает целый континент новых математических истин.",
+   "term": "LLM — крупная языковая модель, обученная на огромных объёмах текста и способная генерировать ответы и идеи.",
+   "use": [
+    "Следите за публикациями в области ИИ‑математики, чтобы узнавать о новых методах решения задач.",
+    "Попробуйте использовать доступные онлайн‑модели для генерации гипотез в своих исследованиях."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "ceecf9e348f1c1",
+   "date": "2026-11-25T21:51:26Z",
+   "addedAt": "2026-11-26T02:54:25Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+   "title_en": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "summary_en": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
+   "pending": false,
+   "title_ru": "Google планирует персонализированные видеопотоки от ИИ",
+   "simple": "Google подал патент на систему «My Channel», которая будет создавать видеопотоки и рекламу, подстроенные под интересы пользователя с помощью ИИ. Патент отклонили, но компания может подать апелляцию.",
+   "term": "Персонализация — адаптация контента под конкретного пользователя на основе его данных.",
+   "use": [
+    "Обратите внимание на то, как меняются рекламные форматы, и подготовьте свои маркетинговые материалы к более целевому показу.",
+    "Если вы создаёте видеоконтент, подумайте о том, как использовать ИИ‑инструменты для быстрой генерации вариантов под разные аудитории."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "dc85126b0ac717",
+   "date": "2026-11-25T20:03:27Z",
+   "addedAt": "2026-11-26T02:54:25Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "title_en": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "summary_en": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+   "pending": false,
+   "title_ru": "OpenAI объединит ChatGPT и Work, вводя единый счётчик использования",
+   "simple": "OpenAI собирается объединить функции ChatGPT и Work, введя один общий измеритель использования. Пользователи, активно работающие с чат‑ботом, могут быстрее достигать лимитов.",
+   "term": "Лимит использования — ограничение количества запросов к сервису за определённый период.",
+   "use": [
+    "Следите за своим потреблением запросов, чтобы не превысить лимит в рабочие часы.",
+    "Если вам нужен больший объём запросов, рассмотрите переход на платный план с более высоким лимитом."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "00d3c793baf99b",
+   "date": "2026-11-25T19:44:24Z",
+   "addedAt": "2026-11-26T02:54:25Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "title_en": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "summary_en": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+   "pending": false,
+   "title_ru": "CEO Anthropic опровергает обвинения в передаче контроля ИИ людям",
+   "simple": "Глава Anthropic Дарио Амодей отверг обвинения конкурентов в том, что он поддерживает передачу человеческого контроля ИИ, хотя компании всё больше автоматизируют исследования и разработку моделей.",
+   "term": "Автоматизация исследований — использование ИИ для самостоятельного проведения экспериментов и разработки новых моделей без человеческого вмешательства.",
+   "use": [
+    "Следите за тем, как автоматизация меняет процесс разработки ИИ, и изучайте инструменты, позволяющие ускорить собственные исследования.",
+    "Если вы работаете в сфере ИИ, подумайте о том, как интегрировать автоматизированные пайплайны в ваш workflow."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "63da0c2dc0919f",
+   "date": "2026-11-25T19:39:31Z",
+   "addedAt": "2026-11-26T02:54:25Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+   "title_en": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+   "summary_en": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+   "pending": false,
+   "title_ru": "Италия и Швейцария предупреждают об автоматических кибератаках с ИИ",
+   "simple": "В Италии и Швейцарии кибербезопасные службы сообщили о росте автоматических кибератак, управляемых ИИ‑агентами, на объекты критической инфраструктуры. Это важно, потому что такие атаки могут происходить без участия человека и быть очень быстрыми.",
+   "term": "AI‑агент — программный модуль, способный самостоятельно выполнять задачи, в том числе атаковать системы, используя искусственный интеллект.",
+   "use": [
+    "Следите за обновлениями рекомендаций по кибербезопасности от национальных агентств.",
+    "Укрепляйте защиту своих сетей, особенно если вы работаете в сфере энергетики, транспорта или коммуникаций.",
+    "Проводите регулярные тесты на проникновение, учитывая возможность автоматических атак."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "37b5c9ba932667",
    "date": "2026-11-25T18:52:55Z",
@@ -2077,6 +2183,28 @@
    ],
    "money": null,
    "category": "Рынки и экономика",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "5f7392aa1315ab",
+   "date": "2026-11-23T00:37:20Z",
+   "addedAt": "2026-11-26T02:54:25Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+   "title_en": "datasette-charts 0.1a0",
+   "summary_en": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin. You can try it out in Datasette Lite here . It looks like this: The new charts plugin works against any table or arbitrary SQL query in Datasette. It defines several different chart types (using vendored D3 , Observable Plot , and topojson-client ), each with a set of heuristics for identifying when they might be a good match for a specific set of rows. Those suggestion thumbnails at the top are actual visualizations driven by the data, and selecting one pulls up…",
+   "pending": false,
+   "title_ru": "Плагин datasette-charts 0.1a0 для визуализации данных",
+   "simple": "Вышел новый плагин datasette-charts, созданный с помощью Claude Fable 5.2. Он позволяет строить графики из любой таблицы или SQL‑запроса в Datasette, используя D3, Observable Plot и topojson-client.",
+   "term": "",
+   "use": [
+    "Попробуйте установить плагин в своей инстанции Datasette и построить простую диаграмму из существующей таблицы.",
+    "Экспериментируйте с разными типами графиков, чтобы понять, какие визуализации лучше подходят вашим данным.",
+    "Обратите внимание на автоматические подсказки плагина, они помогут выбрать подходящий тип графика без глубоких знаний визуализации."
+   ],
+   "money": null,
+   "category": "Open source",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12916,149 +13044,6 @@
    ],
    "money": null,
    "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "23b94c69762250",
-   "date": "2026-11-09T08:00:00Z",
-   "addedAt": "2026-11-10T02:15:07Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/coderabbit-codex-daybreak",
-   "title_en": "CodeRabbit scales agentic software development and ships 20x more",
-   "summary_en": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-   "pending": false,
-   "title_ru": "CodeRabbit ускоряет разработку с помощью OpenAI и повышает доверие к коду",
-   "simple": "CodeRabbit использует модели OpenAI и систему Codex, чтобы автоматизировать написание кода и увеличить выпуск программ в 20 раз без увеличения команды. Это показывает, как ИИ может повысить продуктивность разработчиков.",
-   "term": "Codex — модель ИИ, способная генерировать программный код по описанию задачи.",
-   "use": [
-    "Попробуйте интегрировать CodeRabbit в ваш процесс разработки, чтобы автоматизировать рутинные задачи.",
-    "Проверьте генерируемый код на соответствие стандартам качества, чтобы поддерживать доверие к результату.",
-    "Обучите команду работать с ИИ‑генераторами кода, чтобы быстрее адаптироваться к новым инструментам."
-   ],
-   "money": null,
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "932fe34bad728f",
-   "date": "2026-11-09T08:00:00Z",
-   "addedAt": "2026-11-10T02:15:07Z",
-   "source": "OpenAI",
-   "sourceType": "company",
-   "url": "https://openai.com/index/kuken",
-   "title_en": "Kuken Industries searches 70 years of drawings in minutes",
-   "summary_en": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-   "pending": false,
-   "title_ru": "Kuken Industries ищет 70 лет чертежей за несколько минут",
-   "simple": "Компания Kuken Industries использует API OpenAI, чтобы быстро находить нужные чертежи охлаждающих башен. Поиск, который раньше занимал почти час, теперь занимает 4,5 минуты, что ускоряет ремонтные работы.",
-   "term": "API — интерфейс программирования приложений, позволяющий разным программам взаимодействовать друг с другом.",
-   "use": [
-    "Попробуйте подключить OpenAI API к своим внутренним базам данных для ускоренного поиска документов.",
-    "Настройте запросы так, чтобы искать по ключевым словам и датам, как делают инженеры Kuken Industries.",
-    "Обучите сотрудников пользоваться новым инструментом, чтобы они могли быстро находить нужные материалы."
-   ],
-   "money": {
-    "idea": "Предложить сервис ускоренного поиска технической документации на основе AI",
-    "how": [
-     "Изучите OpenAI API и возможности поиска по тексту",
-     "Разработайте простой интерфейс для загрузки и индексации документов клиента",
-     "Настройте запросы, позволяющие находить нужные файлы за секунды",
-     "Продвигайте сервис среди компаний, работающих с большим объёмом чертежей и инструкций"
-    ],
-    "who": "Технические специалисты, разработчики с опытом работы с API и базами данных",
-    "effort": "средний",
-    "risk": "Требуется обеспечить конфиденциальность и безопасность клиентских данных"
-   },
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "010d19db0cbbc5",
-   "date": "2026-11-09T06:00:12Z",
-   "addedAt": "2026-11-09T08:06:24Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/09/wirken-open-source-ai-agent-gateway/",
-   "title_en": "Wirken: Open-source AI agent gateway",
-   "summary_en": "Wirken is an open-source gateway that sits between messaging apps and AI agents. It assumes any agent can be turned against its owner and limits what a compromised one can reach. Take an agent that reads your chats and email, holds the keys to your accounts and can run commands. One hidden instruction in a message or a shared document could talk it into leaking a secret or rewriting files. Wirken connects Signal, WhatsApp, Telegram, … More → The post Wirken: Open-source AI agent gateway appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Wir Wirken — открытый шлюз между мессенджерами и AI‑агентами",
-   "simple": "Wirken — это бесплатный инструмент, который ставится между чат‑приложениями и искусственными агентами, ограничивая их доступ к вашим данным. Он защищает от случаев, когда скомпрометированный агент может украсть информацию или изменить файлы.",
-   "term": "AI‑агент — программа, использующая искусственный интеллект для выполнения задач, например, чтения сообщений и выполнения команд.",
-   "use": [
-    "Установите Wirken, если вы используете AI‑агенты в мессенджерах, чтобы ограничить их доступ к личным данным.",
-    "Настройте правила доступа в Wirken, чтобы агент мог работать только с необходимой информацией.",
-    "Проверяйте логи Wirken, чтобы видеть, какие действия агент пытается выполнить."
-   ],
-   "money": null,
-   "category": "Open source",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "5f43a571e58226",
-   "date": "2026-11-09T06:00:05Z",
-   "addedAt": "2026-11-09T08:06:24Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/09/barracuda-msp-cybersecurity-services-expectations-report/",
-   "title_en": "Companies seeking an MSP doubt their ability to spot cyberattacks",
-   "summary_en": "Businesses looking to outsource cybersecurity want providers that can help them recover from attacks, manage AI risks, and explain what security problems mean for their operations, according to Barracuda What MSP Customers Need Next report. What MSP customers need next (Source: Barracuda Networks) 66% of surveyed organizations already outsource security services to a managed service provider (MSP), while another 29% are considering or evaluating providers. Recovery remains a weak spot Organizations considering an MSP are … More → The post Companies seeking an MSP doubt their ability to spot cyberattacks appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "Компании сомневаются в способности MSP обнаружить кибератаки",
-   "simple": "Бизнесы, передающие кибербезопасность провайдерам (MSP), хотят, чтобы те помогали восстанавливаться после атак, управляли рисками ИИ и объясняли последствия угроз. Опрос показывает, что многие не уверены в способности MSP выявлять атаки.",
-   "term": "MSP (Managed Service Provider) — компания, предоставляющая управляемые услуги, в том числе по кибербезопасности.",
-   "use": [
-    "При выборе MSP проверяйте их опыт в обнаружении и реагировании на кибератаки, включая ИИ‑угрозы.",
-    "Запрашивайте у провайдера отчёты о том, как они будут объяснять вам последствия инцидентов.",
-    "Убедитесь, что у MSP есть план восстановления после атак и поддержка 24/7."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "fdfdfd60876dfd",
-   "date": "2026-11-09T05:26:29Z",
-   "addedAt": "2026-11-09T08:06:23Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-   "title_en": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-   "summary_en": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-   "pending": false,
-   "title_ru": "Судьба Дженсена Хуана в Nvidia: 50‑50 шанс остаться CEO",
-   "simple": "Совет директоров Nvidia рассматривает отстранение генерального директора Дженсена Хуана из‑за его связей с подозреваемым китайским шпионом. Эксперт считает, что шансы на его сохранение в компании примерно равны.",
-   "term": "CEO — главный исполнительный директор, руководитель компании.",
-   "use": [
-    "Следите за новостями о руководстве Nvidia, если вы инвестируете в их технологии или используете их продукты.",
-    "Оцените, как возможные изменения в руководстве могут повлиять на стратегии компании в области ИИ.",
-    "Подготовьте альтернативные планы, если ваша работа зависит от решений Nvidia."
-   ],
-   "money": null,
-   "category": "Рынки и экономика",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "dc742b2cbd8fb9",
-   "date": "2026-11-09T05:00:40Z",
-   "addedAt": "2026-11-09T08:06:23Z",
-   "source": "NVIDIA",
-   "sourceType": "company",
-   "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
-   "title_en": "Korea Advances Physical AI Across Industries With NVIDIA",
-   "summary_en": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]",
-   "pending": false,
-   "title_ru": "NVIDIA помогает Корее развивать физический ИИ в промышленности",
-   "simple": "NVIDIA сотрудничает с корейскими компаниями, внедряя ускоренные вычисления, ИИ и симуляцию в производство полупроводников, робототехнику и автономные машины. Это ускоряет переход от разработки к реальному использованию технологий.",
-   "term": "Физический ИИ — применение искусственного интеллекта к управлению реальными объектами, например, роботами или производственными процессами.",
-   "use": [
-    "Изучите, какие инструменты NVIDIA доступны для симуляции и ускорения вычислений в вашей отрасли.",
-    "Подумайте о внедрении AI‑моделей в производственные процессы для повышения эффективности.",
-    "Сотрудничайте с локальными партнёрами, чтобы адаптировать решения NVIDIA под свои задачи."
-   ],
-   "money": null,
-   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   }
  ]
