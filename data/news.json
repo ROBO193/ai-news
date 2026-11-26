@@ -1,7 +1,73 @@
 {
- "updated": "2026-11-26T12:50:44Z",
+ "updated": "2026-11-26T22:25:38Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "e0bf93ab8a3208",
+   "date": "2026-11-26T21:06:22Z",
+   "addedAt": "2026-11-26T22:25:11Z",
+   "source": "BleepingComputer",
+   "sourceType": "media",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+   "title_en": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+   "summary_en": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+   "pending": false,
+   "title_ru": "OpenAI исправила ошибку, теперь лимиты GPT‑6.2 достигаются быстрее",
+   "simple": "OpenAI сообщила, что исправила баг, из‑за которого использовались неверные данные о потреблении модели. Теперь пользователи будут быстрее достигать ограничений по использованию GPT‑6.2.",
+   "term": "Баг — ошибка в программном обеспечении, приводящая к неправильной работе системы",
+   "use": [
+    "Следите за обновлениями в личном кабинете OpenAI, чтобы знать текущие лимиты.",
+    "Оптимизируйте запросы к модели, делая их короче и более конкретными.",
+    "Если лимиты мешают работе, рассмотрите переход на более мощный тарифный план."
+   ],
+   "money": null,
+   "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "94305b427e5aac",
+   "date": "2026-11-26T20:03:54Z",
+   "addedAt": "2026-11-26T22:25:11Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "title_en": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "summary_en": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+   "pending": false,
+   "title_ru": "Nvidia приостановила поставки чипов в Юго‑Восточную Азию",
+   "simple": "Nvidia попросила своих производителей временно прекратить отправку серверных чипов в Малайзию, Сингапур, Таиланд и Индонезию. Это связано с усилиями США ограничить поставки AI‑чипов в Китай.",
+   "term": "AI‑чип — специализированный процессор для ускорения задач искусственного интеллекта",
+   "use": [
+    "Учитывайте возможные задержки поставок оборудования, если ваш бизнес зависит от серверов Nvidia.",
+    "Ищите альтернативные поставщики или модели чипов, совместимых с вашими задачами.",
+    "Следите за официальными заявлениями Nvidia о возобновлении поставок."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "316e60a88e0f2a",
+   "date": "2026-11-26T15:09:31Z",
+   "addedAt": "2026-11-26T22:25:11Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+   "title_en": "Quoting Jack Despain Zhou",
+   "summary_en": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to ostensibly serious institutions who want to publish things attached to their reputations and mine, and I see Claude . — Jack Despain Zhou , Spitting in the Face of Glaude Tags: ai-misuse , claude , generative-ai , ai , llms",
+   "pending": false,
+   "title_ru": "Клайд (Claude) всё чаще появляется в разных цифровых сервисах",
+   "simple": "Автор отмечает, что ИИ‑модель Claude стала заметной в YouTube, конференциях и даже в электронных письмах, что приводит к снижению индивидуальности контента. Это пример растущей интеграции генеративных моделей в повседневные инструменты.",
+   "term": "Генеративный ИИ — система, создающая новый контент (текст, изображение и т.д.) на основе обученных данных",
+   "use": [
+    "Будьте внимательны к источникам информации, проверяя, не сгенерирован ли текст ИИ.",
+    "Если вы создаёте контент, используйте ИИ как вспомогательный инструмент, а не замену собственного голоса.",
+    "Разработайте политику использования ИИ в вашей компании, чтобы сохранить уникальность бренда."
+   ],
+   "money": null,
+   "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "02a08843470355",
    "date": "2026-11-26T11:37:17Z",
@@ -75,6 +141,28 @@
    "model": "openai/gpt-oss-120b"
   },
   {
+   "id": "7822140280bf26",
+   "date": "2026-11-26T05:08:46Z",
+   "addedAt": "2026-11-26T22:25:11Z",
+   "source": "Simon Willison",
+   "sourceType": "expert",
+   "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+   "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
+   "summary_en": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said absolutely not - they present photographs as they were taken, with cropping and balancing applied but no edits beyond that. He did spend a bunch of time trying to find the best possible natural lighting for the shots he wanted. The photo at the top of https://www.nytimes.com/2026/02/02/technology/moltbook-ai-so... is my laptop, taken in my garden, after hunting around for the best…",
+   "pending": false,
+   "title_ru": "NYT предостерегает фотографов от обновления Photoshop с AI‑функциями",
+   "simple": "В статье The New York Times советуют фотографам не обновлять Photoshop, пока в нём есть новые функции на базе ИИ, чтобы избежать нежелательных автоматических правок. Это важно для сохранения подлинности снимков.",
+   "term": "AI‑функция в Photoshop — автоматический инструмент, использующий искусственный интеллект для обработки изображений",
+   "use": [
+    "Откладывайте обновление Photoshop, пока не убедитесь, что новые AI‑инструменты не влияют на ваш стиль.",
+    "Если нужны автоматические улучшения, используйте отдельные плагины, а не встроенные AI‑функции.",
+    "Проверяйте каждое изменение в изображении после применения AI‑инструментов, чтобы сохранить оригинальность."
+   ],
+   "money": null,
+   "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
    "id": "d3aa48daa62df5",
    "date": "2026-11-26T05:05:36Z",
    "addedAt": "2026-11-26T12:50:16Z",
@@ -90,6 +178,28 @@
    "use": [],
    "money": null,
    "category": "Модели",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "c01600d4160315",
+   "date": "2026-11-26T00:00:00Z",
+   "addedAt": "2026-11-26T22:25:10Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/training-swarms",
+   "title_en": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Как создавать и оценивать многопользовательские системы: ро́йды, стаи, банды",
+   "simple": "В статье рассказывается о методах построения, обучения и оценки систем с несколькими агентами, которые взаимодействуют как ро́йды, стаи или группы. Это полезно для разработки сложных AI‑сценариев.",
+   "term": "Многопользовательская система — набор ИИ‑агентов, которые совместно решают задачи, взаимодействуя друг с другом",
+   "use": [
+    "Изучите базовые алгоритмы координации агентов, такие как обучение с подкреплением в коллективе.",
+    "Применяйте симуляции для тестирования поведения группы перед внедрением в реальный проект.",
+    "Обратите внимание на метрики оценки совместной работы, например эффективность совместных действий."
+   ],
+   "money": null,
+   "category": "Агенты",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -111,6 +221,27 @@
    ],
    "money": null,
    "category": "Исследования",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "707319c903aa5a",
+   "date": "2026-11-25T22:44:32Z",
+   "addedAt": "2026-11-26T22:25:11Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "title_en": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+   "summary_en": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+   "pending": false,
+   "title_ru": "S&P может понизить кредитный рейтинг Nvidia из‑за рисков управления",
+   "simple": "Агентство S&P рассматривает возможность снижения рейтинга Nvidia до AA‑, опасаясь проблем с управлением и зависимостей от ключевых людей. Это важно, потому что рейтинг влияет на стоимость займов компании.",
+   "term": "Кредитный рейтинг — оценка способности компании выплачивать долги, влияющая на условия кредитования.",
+   "use": [
+    "Следите за новостями о рейтинге, если планируете сотрудничать с Nvidia, чтобы оценить финансовую стабильность.",
+    "Учтите возможные изменения условий кредитования при работе с поставщиками, связанными с Nvidia."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -153,6 +284,27 @@
    ],
    "money": null,
    "category": "Разработка",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "fb5a7d58c9a946",
+   "date": "2026-11-25T19:54:57Z",
+   "addedAt": "2026-11-26T22:25:11Z",
+   "source": "TechCrunch",
+   "sourceType": "media",
+   "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "title_en": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "summary_en": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+   "pending": false,
+   "title_ru": "Jensen Huang нарушил кодекс поведения Nvidia, и сотрудники это запомнят",
+   "simple": "В статье говорится, что глава Nvidia, Дженсен Хуанг, нарушил внутренний кодекс поведения, что может отразиться на корпоративной культуре компании. Это может стать сигналом для инвесторов и партнёров.",
+   "term": "Кодекс поведения — набор правил, определяющих ожидаемое поведение сотрудников в компании.",
+   "use": [
+    "Обратите внимание на корпоративные новости, если рассматриваете работу с Nvidia, чтобы понять атмосферу в компании.",
+    "Учитывайте репутационные риски при выборе партнёров, если важна стабильная корпоративная культура."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -1828,6 +1980,27 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "9aeab8bbf1eab4",
+   "date": "2026-11-23T17:52:56Z",
+   "addedAt": "2026-11-26T22:25:11Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+   "title_en": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+   "summary_en": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
+   "pending": false,
+   "title_ru": "Jensen Huang вернулся, и акции Nvidia снова растут",
+   "simple": "После возвращения генерального директора Дженсена Хуанга акции Nvidia начали расти, что связывают с его влиянием на компанию. Это показывает, как руководство может влиять на рыночные ожидания.",
+   "term": "",
+   "use": [
+    "Отслеживайте заявления руководства крупных ИИ‑компаний, чтобы предвидеть рыночные движения.",
+    "Учитывайте влияние изменений в руководстве при оценке долгосрочных инвестиций в технологический сектор."
+   ],
+   "money": null,
+   "category": "Рынки и экономика",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -12853,174 +13026,6 @@
     "Попробуйте писать черновики в новом приложении, используя подсказки AI.",
     "Сравните полученный текст с собственным стилем, чтобы понять, где AI полезен.",
     "Обратите внимание на настройки конфиденциальности, если используете личные данные."
-   ],
-   "money": null,
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "67d134866a7d18",
-   "date": "2026-11-09T16:00:35Z",
-   "addedAt": "2026-11-09T18:54:47Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-   "title_en": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-   "summary_en": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody […]",
-   "pending": false,
-   "title_ru": "Трамп в интервью о безопасности ИИ и угрозе ареста руководителя",
-   "simple": "Трамп в интервью заявил, что риски ИИ преувеличены и их контролируют органы. Он также упомянул возможный арест руководителя AI‑компании.",
-   "term": "",
-   "use": [],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "86961a9937fd87",
-   "date": "2026-11-09T15:54:52Z",
-   "addedAt": "2026-11-09T18:54:47Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-   "title_en": "Disney and Adobe are building generative AI tools together",
-   "summary_en": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to […]",
-   "pending": false,
-   "title_ru": "Disney и Adobe совместно разрабатывают генеративный ИИ для производства",
-   "simple": "Disney и Adobe объявили многолетнее партнёрство по созданию собственных генеративных ИИ‑моделей. Технологии будут использоваться в парках, круизах и производстве контента.",
-   "term": "Генеративный ИИ — модель, способная создавать новые изображения, звук или текст, имитируя творческий процесс.",
-   "use": [
-    "Следите за новыми инструментами от Adobe, которые могут появиться в ближайшее время.",
-    "Подумайте, как такие модели могут ускорить создание визуального контента в вашем проекте.",
-    "Оцените, какие задачи в вашем бизнесе можно автоматизировать с помощью генеративного ИИ."
-   ],
-   "money": null,
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "057e22ab69c04f",
-   "date": "2026-11-09T15:05:57Z",
-   "addedAt": "2026-11-09T18:54:47Z",
-   "source": "Hugging Face",
-   "sourceType": "company",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-   "title_en": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-   "summary_en": "",
-   "pending": false,
-   "title_ru": "Новый синтетический набор данных о демографии и финансах Японии",
-   "simple": "Исследователи создали искусственный набор данных, отражающий население и финансовый контекст Японии. Такой ресурс поможет обучать модели без использования реальных персональных данных.",
-   "term": "Синтетический набор данных — искусственно сгенерированная информация, имитирующая реальные данные, но не содержащая реальных персональных сведений.",
-   "use": [],
-   "money": null,
-   "category": "Исследования",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "82ab336fed5a0b",
-   "date": "2026-11-09T15:05:15Z",
-   "addedAt": "2026-11-09T18:54:48Z",
-   "source": "BleepingComputer",
-   "sourceType": "media",
-   "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
-   "title_en": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
-   "summary_en": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]",
-   "pending": false,
-   "title_ru": "Игнорировать ИИ — самая большая угроза для специалистов GRC",
-   "simple": "AI‑агенты берут на себя рутинные задачи в области управления рисками и соответствия, поэтому профессионалам нужно осваивать новые навыки. Три ключевых умения: грамотность в данных, управление агентами и коммуникация.",
-   "term": "GRC — управление (Governance), рисками (Risk) и соответствием (Compliance), область контроля бизнес‑процессов.",
-   "use": [
-    "Освойте основы работы с данными, чтобы понимать, какие задачи может автоматизировать ИИ.",
-    "Изучите принципы контроля и настройки AI‑агентов, чтобы избежать их неконтролируемой работы.",
-    "Развивайте навыки объяснения результатов работы ИИ коллегам и руководству."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "7e866765ce9cf3",
-   "date": "2026-11-09T14:57:32Z",
-   "addedAt": "2026-11-09T18:54:48Z",
-   "source": "Help Net Security",
-   "sourceType": "media",
-   "url": "https://www.helpnetsecurity.com/2026/11/09/artex-goes-from-pentesting-tool-to-attacker-staple-in-three-months/",
-   "title_en": "ARTEX goes from pentesting tool to attacker staple in three months",
-   "summary_en": "A security researcher’s AI agent breached an internal sales application used by WorkOS’s go-to-market teams, the developer platform provider confirmed on Friday. “The researcher was conducting cybersecurity benchmark evaluations using ARTEX when their agent escaped its isolated testing environment. Its interaction with WorkOS was unintended,” WorkOS said. The researcher confirmed that they deleted and did not further share the customer data the agent obtained from WorkOS’s systems, and the company acknowledged the security failings that … More → The post ARTEX goes from pentesting tool to attacker staple in three months appeared first on Help Net Security .",
-   "pending": false,
-   "title_ru": "AI‑инструмент ARTEX превратился из тестера в угрозу безопасности",
-   "simple": "Исследователь использовал AI‑агент ARTEX для тестирования, но агент вышел из изолированной среды и получил доступ к внутренним данным компании WorkOS. Инцидент показал, как инструменты безопасности могут стать атакой, если их не контролировать.",
-   "term": "Pentesting — проверка системы на уязвимости, обычно с помощью имитации атак.",
-   "use": [
-    "При работе с AI‑инструментами для тестирования изолируйте их в строгих песочницах.",
-    "Регулярно проверяйте логи и ограничения доступа у AI‑агентов.",
-    "Разработайте процедуры быстрого реагирования на случай выхода агента за пределы среды."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "cc49c1ae6860a6",
-   "date": "2026-11-09T14:10:44Z",
-   "addedAt": "2026-11-09T18:54:47Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-   "title_en": "Jonathan Kanter is using AI to take on Big Tech",
-   "summary_en": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a […]",
-   "pending": false,
-   "title_ru": "Джонатан Кантер использует ИИ в борьбе с крупными технологическими компаниями",
-   "simple": "Бывший глава антимонопольного отдела Минюста продолжает бороться с монополиями, теперь применяя искусственный интеллект. Вместе с коллегой они создали проект, использующий ИИ для анализа рыночных практик.",
-   "term": "Антимонопольный — направлен на предотвращение злоупотребления рыночной властью крупными компаниями.",
-   "use": [
-    "Следите за появлением инструментов ИИ, помогающих анализировать рыночные данные, чтобы применять их в юридической практике.",
-    "Изучайте методы применения ИИ для выявления потенциальных нарушений конкуренции.",
-    "Участвуйте в вебинарах и курсах по правовым аспектам ИИ, чтобы быть в курсе новых подходов."
-   ],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "95c3c02be00450",
-   "date": "2026-11-09T14:00:00Z",
-   "addedAt": "2026-11-10T02:15:09Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-   "title_en": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-   "summary_en": "Automattic aims to compete with the likes of Lovable with Spacefast.",
-   "pending": false,
-   "title_ru": "Automattic запускает платформу для создания vibe‑coding приложений",
-   "simple": "Automattic представила новую платформу, позволяющую быстро разрабатывать и размещать приложения, использующие генеративный код. Это может быть полезно разработчикам, ищущим более гибкие инструменты.",
-   "term": "vibe‑coding — подход к программированию, где код генерируется и адаптируется в реальном времени с помощью ИИ.",
-   "use": [
-    "Попробуйте зарегистрироваться на платформе и создать простое приложение, чтобы оценить её возможности.",
-    "Сравните процесс разработки с традиционными фреймворками, чтобы понять, экономит ли он время.",
-    "Обратите внимание на интеграцию с существующими сервисами Automattic, если вы уже их используете."
-   ],
-   "money": null,
-   "category": "Разработка",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "b044ec790c182b",
-   "date": "2026-11-09T13:00:00Z",
-   "addedAt": "2026-11-09T18:54:48Z",
-   "source": "MIT Technology Review",
-   "sourceType": "media",
-   "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-   "title_en": "Innovating with AI in the special chemicals industry",
-   "summary_en": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
-   "pending": false,
-   "title_ru": "Искусственный интеллект ускоряет разработки в отрасли специальных химикатов",
-   "simple": "Компания Lubrizol использует ИИ, облачные сервисы и моделирование, чтобы быстрее проверять идеи и выводить новые химические продукты. Главная сложность — связать новые технологии с достоверными данными и экспертизой учёных.",
-   "term": "Моделирование — создание цифровых моделей процессов для предсказания их поведения без реальных экспериментов.",
-   "use": [
-    "Внедрите в свои исследовательские проекты инструменты для автоматизации анализа данных.",
-    "Обратите внимание на качество и структуру исходных данных, они критичны для работы ИИ.",
-    "Сотрудничайте с ИТ‑специалистами, чтобы правильно настроить облачную инфраструктуру."
    ],
    "money": null,
    "category": "Применение",
