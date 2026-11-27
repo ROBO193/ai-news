@@ -1,7 +1,91 @@
 {
- "updated": "2026-11-27T05:08:12Z",
+ "updated": "2026-11-27T15:15:32Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "62401e0e429c10",
+   "date": "2026-11-27T11:06:57Z",
+   "addedAt": "2026-11-27T15:15:13Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/27/artex-ai-pentest-framework-china-north-korea-state-hackers/",
+   "title_en": "Chinese and North Korean state hackers add ARTEX AI framework to their arsenal",
+   "summary_en": "State-sponsored hacking groups tied to Beijing and Pyongyang have started running the ARTEX pentesting tool in attacks, Microsoft Threat Intelligence warned this week. Published on GitHub in July 2026 by a user going by Autumn-27, ARTEX is an LLM-driven open-source penetration testing framework that runs attacks largely on its own, with the operator setting a goal and AI agents planning and carrying out the steps needed to reach it. In November, China-based cybersecurity company ThreatBook … More → The post Chinese and North Korean state hackers add ARTEX AI framework to their arsenal appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Государственные хакеры Китая и Северной Кореи используют AI‑инструмент ARTEX",
+   "simple": "Группы, связанные с Пекином и Пхеньяном, начали применять открытый фреймворк ARTEX, который управляется большими языковыми моделями, для автоматизированного тестирования безопасности. Это показывает, как ИИ упрощает проведение кибератак.",
+   "term": "Penetration testing — проверка систем на уязвимости, часто с помощью имитации атак.",
+   "use": [
+    "Отслеживайте появление новых AI‑инструментов в репозиториях GitHub, чтобы своевременно обновлять защитные правила.",
+    "Укрепляйте мониторинг поведения сетевого трафика, так как автоматизированные атаки могут иметь характерные шаблоны."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "3c1d86a5491601",
+   "date": "2026-11-27T07:00:00Z",
+   "addedAt": "2026-11-27T15:15:13Z",
+   "source": "Wired",
+   "sourceType": "media",
+   "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+   "title_en": "A New Breed of Chip Runs AI Models Using Waves of Light",
+   "summary_en": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+   "pending": false,
+   "title_ru": "Немецкая компания Q.ANT создала чип, вычисляющий ИИ‑модели светом",
+   "simple": "Q.ANT разрабатывает микрочип, который использует свет вместо электроэнергии для выполнения тяжёлых вычислений ИИ. Это может значительно снизить энергопотребление при работе моделей.",
+   "term": "Оптические вычисления — использование фотонов для выполнения математических операций вместо электронов.",
+   "use": [
+    "Следите за новостями о прототипах оптических чипов, чтобы оценить их готовность к коммерческому использованию.",
+    "Если вы разрабатываете энерго‑емкие ИИ‑приложения, изучите возможности перехода на более эффективные вычислительные платформы."
+   ],
+   "money": null,
+   "category": "Железо",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "7398662a36a555",
+   "date": "2026-11-27T06:30:14Z",
+   "addedAt": "2026-11-27T15:15:13Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/27/sailpoint-2027-ai-identity-security-predictions-report/",
+   "title_en": "In 2027, “the agent did it” stops being an excuse",
+   "summary_en": "Enterprises will come under growing pressure to establish accountability for autonomous AI agents in 2027, with regulators, corporate boards and insurers demanding evidence of how organizations govern automated decisions, manage access privileges and prevent operational disruption, according to SailPoint’s 2027 Identity Security Predictions. The company’s Horizons of Identity Security 2026–2027 research found that 79% of enterprises have deployed AI agents in production, while just 2% have implemented identity security controls designed for them, creating what … More → The post In 2027, “the agent did it” stops being an excuse appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "К 2027 году компании должны отвечать за действия автономных ИИ‑агентов",
+   "simple": "К 2027 году регуляторы и страховщики потребуют от компаний доказательства контроля над автоматическими решениями ИИ, их доступом и предотвращением сбоев. Сейчас большинство фирм уже используют такие агенты, но почти не защищают их идентификацию.",
+   "term": "Identity security — меры по управлению доступом и проверке подлинности пользователей и сервисов.",
+   "use": [
+    "Внедрите процедуры аудита прав доступа для всех ИИ‑агентов, чтобы соответствовать будущим требованиям.",
+    "Разработайте политику мониторинга действий автономных систем и фиксируйте их решения для последующего анализа."
+   ],
+   "money": null,
+   "category": "Регулирование",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "e1ccd20a1f2efd",
+   "date": "2026-11-27T06:00:59Z",
+   "addedAt": "2026-11-27T15:15:13Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/27/product-showcase-norton-claude-scam-detection/",
+   "title_en": "Product showcase: Norton helps Claude users uncover the telltale signs of fraud",
+   "summary_en": "The Norton connector for Claude brings the company’s Genie AI-powered scam detection capabilities into the chatbot. Users can submit suspicious emails, text messages, screenshots, and links for analysis, as well as ask questions about cybersecurity, privacy, and identity protection. The integration does not require a Norton account or a separate application. Setting up the connector I tested the Norton connector using Claude on an iPhone. The integration provides three tools. The first checks links, messages, … More → The post Product showcase: Norton helps Claude users uncover the telltale signs of fraud appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "Norton добавил в Claude проверку сообщений на мошенничество",
+   "simple": "Norton интегрировал свой AI‑инструмент для обнаружения мошенничества в чат‑бот Claude, позволяя пользователям проверять ссылки, письма и скриншоты без отдельного аккаунта. Это упрощает защиту от фишинга и других угроз.",
+   "term": "Scam detection — автоматическое определение попыток обмана, например фишинговых сообщений, с помощью ИИ.",
+   "use": [
+    "При работе с подозрительными письмами используйте интегрированный в Claude анализатор Norton вместо ручного поиска угроз.",
+    "Подключите эту функцию в корпоративные чаты, чтобы быстро проверять ссылки и файлы, получаемые от клиентов."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "ca0dc6333c1169",
    "date": "2026-11-27T05:00:32Z",
@@ -21,6 +105,27 @@
    ],
    "money": null,
    "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "2d7f8b4f8454af",
+   "date": "2026-11-27T00:00:00Z",
+   "addedAt": "2026-11-27T15:15:12Z",
+   "source": "Hugging Face",
+   "sourceType": "company",
+   "url": "https://huggingface.co/blog/video-trainium3",
+   "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+   "summary_en": "",
+   "pending": false,
+   "title_ru": "Trainium3 генерирует видео с помощью модели LTX‑2.5",
+   "simple": "Новый процессор Trainium3 от Amazon позволяет создавать видеоконтент, используя модель LTX‑2.5, которая генерирует кадры на основе текста. Это упрощает производство визуального контента без традиционных студийных ресурсов.",
+   "term": "Generative video — создание видеоматериалов автоматически с помощью ИИ, где модель генерирует последовательность кадров.",
+   "use": [
+    "Экспериментируйте с генерацией коротких рекламных роликов, задавая текстовые подсказки модели LTX‑2.5.",
+    "Используйте полученные видеоматериалы как прототипы для дальнейшего профессионального монтажа."
+   ],
+   "money": null,
+   "category": "Разработка",
    "model": "openai/gpt-oss-120b"
   },
   {
@@ -281,6 +386,28 @@
    "use": [
     "Обратите внимание на то, как меняются рекламные форматы, и подготовьте свои маркетинговые материалы к более целевому показу.",
     "Если вы создаёте видеоконтент, подумайте о том, как использовать ИИ‑инструменты для быстрой генерации вариантов под разные аудитории."
+   ],
+   "money": null,
+   "category": "Применение",
+   "model": "openai/gpt-oss-120b"
+  },
+  {
+   "id": "24644713102c0e",
+   "date": "2026-11-25T21:43:14Z",
+   "addedAt": "2026-11-27T15:15:12Z",
+   "source": "The Verge",
+   "sourceType": "media",
+   "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+   "title_en": "Android’s DIY widgets are a bit of vibe-coding fun",
+   "summary_en": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+   "pending": false,
+   "title_ru": "Виджет для Android, показывающий прибытие автобуса в реальном времени",
+   "simple": "Автор хочет виджет, который будет подсказывать, успеет ли он на автобус, показывая актуальное время прибытия. Это удобно, потому что избавит от постоянного открывания приложений.",
+   "term": "Виджет — небольшое приложение на экране телефона, которое показывает информацию без необходимости открывать полное приложение.",
+   "use": [
+    "Установите приложение, позволяющее создавать пользовательские виджеты, и настройте его на отображение расписания вашего маршрута.",
+    "Подключите к виджету сервис, предоставляющий данные о реальном времени движения общественного транспорта в вашем городе.",
+    "Проверьте, правильно ли обновляются данные, и при необходимости скорректируйте частоту обновления."
    ],
    "money": null,
    "category": "Применение",
@@ -12902,132 +13029,6 @@
    ],
    "money": null,
    "category": "Модели",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "20ff528b54959b",
-   "date": "2026-11-09T18:09:52Z",
-   "addedAt": "2026-11-09T18:54:48Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-   "title_en": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-   "summary_en": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-   "pending": false,
-   "title_ru": "Скандал вокруг Дженсена Хуана ставит под вопрос планы Nvidia в Китае",
-   "simple": "Утверждается, что у главы Nvidia был роман с подозреваемой в шпионаже. Это может осложнить попытки компании ослабить американские ограничения на экспорт чипов в Китай.",
-   "term": "",
-   "use": [],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "9d5aee5d27ee26",
-   "date": "2026-11-09T18:07:23Z",
-   "addedAt": "2026-11-09T18:54:47Z",
-   "source": "The Verge",
-   "sourceType": "media",
-   "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-   "title_en": "Instagram’s Effect Builder makes new filters from AI prompts",
-   "summary_en": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]",
-   "pending": false,
-   "title_ru": "Instagram Effect Builder создаёт фильтры по запросу ИИ",
-   "simple": "Instagram запустил инструмент, который по описанию пользователя генерирует уникальные фильтры для Stories. Он уже доступен в США для взрослых пользователей.",
-   "term": "Prompt — текстовое описание, которое ИИ использует для создания результата.",
-   "use": [
-    "Попробуйте сформулировать короткое описание желаемого эффекта и протестировать его в Effect Builder.",
-    "Используйте полученный фильтр в своих публикациях, чтобы привлечь внимание аудитории.",
-    "Предложите друзьям или клиентам услугу создания персональных фильтров для их брендов."
-   ],
-   "money": {
-    "idea": "Создание и продажа кастомных фильтров для соцсетей",
-    "how": [
-     "Сформулируйте запрос в Effect Builder и получите фильтр.",
-     "Сохраните полученный фильтр и адаптируйте под нужды клиента.",
-     "Продайте готовый фильтр через фриланс‑платформы или напрямую клиенту."
-    ],
-    "who": "Навыки работы с Instagram, базовое понимание ИИ‑инструментов, креативность",
-    "effort": "низкий",
-    "risk": "Ограничения доступа только для пользователей из США и старше 18 лет"
-   },
-   "category": "Применение",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "fe9001b06ea620",
-   "date": "2026-11-09T18:00:00Z",
-   "addedAt": "2026-11-09T18:54:48Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-   "title_en": "Meta releases Muse Ember, a new lightweight model for agent execution",
-   "summary_en": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-   "pending": false,
-   "title_ru": "Meta представила лёгкую модель Muse Ember для выполнения задач агентами",
-   "simple": "Meta выпустила новую модель Ember, которая стоит 10 центов за миллион токенов, что делает её дешевле конкурентов. Она предназначена для работы агентов‑исполнителей.",
-   "term": "",
-   "use": [],
-   "money": null,
-   "category": "Модели",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "4065836ff3f518",
-   "date": "2026-11-09T17:24:26Z",
-   "addedAt": "2026-11-09T18:54:48Z",
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-   "title_en": "Claude Code is accidentally exposing secrets all over GitHub",
-   "summary_en": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-   "pending": false,
-   "title_ru": "Claude Code случайно раскрывает пароли и ключи на GitHub",
-   "simple": "Из‑за настройки «Не спрашивать снова» модель Claude Code начала публиковать конфиденциальные данные, такие как пароли и API‑ключи, в открытых репозиториях.",
-   "term": "",
-   "use": [
-    "Проверьте свои репозитории на наличие случайно опубликованных секретов.",
-    "Настройте инструменты сканирования кода для автоматического обнаружения утечек.",
-    "Избегайте использования автогенерации кода без последующей проверки безопасности."
-   ],
-   "money": null,
-   "category": "Безопасность",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "50d303e5bf8413",
-   "date": "2026-11-09T17:05:43Z",
-   "addedAt": "2026-11-09T18:54:48Z",
-   "source": "MIT Technology Review",
-   "sourceType": "media",
-   "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-   "title_en": "Nancy Pelosi’s replacement is ready to regulate AI",
-   "summary_en": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…",
-   "pending": false,
-   "title_ru": "Новый представитель от Калифорнии готов регулировать ИИ в США",
-   "simple": "Скотт Вайнер, бывший калифорнийский сенатор, выиграл место в Конгрессе и может влиять на федеральную политику в области искусственного интеллекта.",
-   "term": "",
-   "use": [],
-   "money": null,
-   "category": "Регулирование",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "ea1cff75717bdb",
-   "date": "2026-11-09T16:56:54Z",
-   "addedAt": "2026-11-09T18:54:48Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-   "title_en": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-   "summary_en": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
-   "pending": false,
-   "title_ru": "Anthropic покупает газовые турбины на $3,4 млрд",
-   "simple": "Компания Anthropic приобрела газовые турбины на миллиарды долларов. Сделка может вызвать сожаление о покупке, но показывает, как AI‑компании инвестируют в энергию.",
-   "term": "",
-   "use": [],
-   "money": null,
-   "category": "Железо",
    "model": "openai/gpt-oss-120b"
   }
  ]
