@@ -1,7 +1,28 @@
 {
- "updated": "2026-11-26T22:25:38Z",
+ "updated": "2026-11-27T05:08:12Z",
  "failedSources": [],
  "items": [
+  {
+   "id": "ca0dc6333c1169",
+   "date": "2026-11-27T05:00:32Z",
+   "addedAt": "2026-11-27T05:07:55Z",
+   "source": "Help Net Security",
+   "sourceType": "media",
+   "url": "https://www.helpnetsecurity.com/2026/11/27/crest-ai-threat-led-penetration-testing/",
+   "title_en": "AI raises new questions about what penetration testing proves",
+   "summary_en": "AI is becoming an established part of threat-led penetration testing (TLPT), with 81% of surveyed providers using the technology beyond experimentation, according to research from CREST. The study, AI and the Future of Threat-Led Penetration Testing: Capability, Control and Credible Assurance, draws on responses from 26 providers and insights from two industry roundtables involving cybersecurity professionals and institutional stakeholders, with a focus on financial services. AI expands threat emulation capabilities Over the next 12 months, … More → The post AI raises new questions about what penetration testing proves appeared first on Help Net Security .",
+   "pending": false,
+   "title_ru": "AI меняет подход к тестированию на проникновение",
+   "simple": "Исследование показывает, что 81% провайдеров уже используют ИИ в тестах на проникновение, а не только экспериментируют. Это расширяет возможности имитации реальных угроз, что важно для финансового сектора.",
+   "term": "Threat-Led Penetration Testing (TLPT) — метод тестирования, где имитируются реальные угрозы, а не только проверяются уязвимости.",
+   "use": [
+    "Обратите внимание на сервисы тестирования, которые уже включают ИИ, при выборе поставщика.",
+    "Изучите, как ИИ может автоматизировать часть проверок, чтобы ускорить процесс оценки безопасности."
+   ],
+   "money": null,
+   "category": "Безопасность",
+   "model": "openai/gpt-oss-120b"
+  },
   {
    "id": "e0bf93ab8a3208",
    "date": "2026-11-26T21:06:22Z",
@@ -13007,28 +13028,6 @@
    "use": [],
    "money": null,
    "category": "Железо",
-   "model": "openai/gpt-oss-120b"
-  },
-  {
-   "id": "ad058ec7fa053f",
-   "date": "2026-11-09T16:12:28Z",
-   "addedAt": "2026-11-09T18:54:48Z",
-   "source": "TechCrunch",
-   "sourceType": "media",
-   "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-   "title_en": "Medium’s new TK app brings AI assistance directly into the writing process",
-   "summary_en": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-   "pending": false,
-   "title_ru": "Medium запустил приложение с AI‑помощью для писателей",
-   "simple": "Medium представил новое приложение, где искусственный интеллект помогает писать тексты. Это ответ на растущие споры о роли AI в публикациях.",
-   "term": "Генеративный ИИ — система, создающая новый контент, например текст, на основе обученных данных.",
-   "use": [
-    "Попробуйте писать черновики в новом приложении, используя подсказки AI.",
-    "Сравните полученный текст с собственным стилем, чтобы понять, где AI полезен.",
-    "Обратите внимание на настройки конфиденциальности, если используете личные данные."
-   ],
-   "money": null,
-   "category": "Применение",
    "model": "openai/gpt-oss-120b"
   }
  ]
